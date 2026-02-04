@@ -31,45 +31,111 @@ Repeated entry---line 17551 of file references_full.bib
  : @article{zhang2025geoanalystbench
  :                                  ,
 I'm skipping whatever remains of this entry
-You've used 53 entries,
+Repeated entry---line 17743 of file references_full.bib
+ : @article{cohn2001qualitative
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17806 of file references_full.bib
+ : @article{sukhbaatar2015end
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17813 of file references_full.bib
+ : @article{graves2016hybrid
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17974 of file references_full.bib
+ : @book{goodchild2007citizens
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17991 of file references_full.bib
+ : @article{raji2021ai
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18053 of file references_full.bib
+ : @article{wang2020deep
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18063 of file references_full.bib
+ : @article{chen2020application
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18121 of file references_full.bib
+ : @article{chen2021evaluating
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18138 of file references_full.bib
+ : @article{kojima2022large
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18152 of file references_full.bib
+ : @article{cobbe2021training
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18275 of file references_full.bib
+ : @article{pomerleau1988alvinn
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18282 of file references_full.bib
+ : @article{levine2016end
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18320 of file references_full.bib
+ : @article{gao2023pal
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18334 of file references_full.bib
+ : @article{nakano2021webgpt
+ :                          ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "srivastava2022beyond"
+Warning--I didn't find a database entry for "egenhofer1991reasoning"
+Warning--I didn't find a database entry for "mirzaee2021spartqa"
+Warning--I didn't find a database entry for "muller1998qualitative"
+Warning--I didn't find a database entry for "galton2000qualitative"
+Warning--I didn't find a database entry for "cohn1997representing"
+Warning--can't use both volume and number fields in batty2013big
+Warning--empty publisher in batty2013big
+Warning--empty journal in piaget1956child
+Warning--empty journal in pomerleau1988alvinn
+You've used 165 entries,
             2118 wiz_defined-function locations,
-            740 strings with 12981 characters,
-and the built_in function-call counts, 17447 in all, are:
-= -- 1578
-> -- 1279
-< -- 0
-+ -- 512
-- -- 454
-* -- 1269
-:= -- 3214
-add.period$ -- 158
-call.type$ -- 53
-change.case$ -- 366
+            1276 strings with 30728 characters,
+and the built_in function-call counts, 55501 in all, are:
+= -- 5249
+> -- 3373
+< -- 22
++ -- 1346
+- -- 1166
+* -- 3808
+:= -- 9687
+add.period$ -- 496
+call.type$ -- 165
+change.case$ -- 1001
 chr.to.int$ -- 0
-cite$ -- 53
-duplicate$ -- 528
-empty$ -- 1045
-format.name$ -- 454
-if$ -- 3377
+cite$ -- 169
+duplicate$ -- 1975
+empty$ -- 3781
+format.name$ -- 1166
+if$ -- 11234
 int.to.chr$ -- 0
-int.to.str$ -- 53
-missing$ -- 49
-newline$ -- 267
-num.names$ -- 106
-pop$ -- 368
+int.to.str$ -- 165
+missing$ -- 171
+newline$ -- 828
+num.names$ -- 330
+pop$ -- 1039
 preamble$ -- 1
-purify$ -- 314
+purify$ -- 846
 quote$ -- 0
-skip$ -- 403
+skip$ -- 1550
 stack$ -- 0
-substring$ -- 559
-swap$ -- 53
-text.length$ -- 0
+substring$ -- 2536
+swap$ -- 376
+text.length$ -- 22
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 210
-warning$ -- 0
-while$ -- 127
-width$ -- 55
-write$ -- 542
-(There were 7 error messages)
+type$ -- 638
+warning$ -- 4
+while$ -- 470
+width$ -- 168
+write$ -- 1719
+(There were 21 error messages)

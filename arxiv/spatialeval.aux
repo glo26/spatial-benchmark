@@ -16,117 +16,314 @@
 \gdef\HyperFirstAtBeginDocument#1{#1}
 \providecommand\HyField@AuxAddToFields[1]{}
 \providecommand\HyField@AuxAddToCoFields[2]{}
-\citation{brown2020language,touvron2023llama,anil2023palm}
-\citation{bisk2020experience,zhang2024wrestling}
-\citation{harnad1990symbol,sloman1971interactions}
-\citation{marcus1998rethinking,mitchell2021can}
-\citation{davis2017commonsense,zellers2019hellaswag}
-\citation{weston2015towards,le2022logicnlg}
-\citation{balachandar2025urbanincidentpredictiongraph}
-\citation{savelsbergh2005city}
-\citation{eastman2011bim}
-\citation{jin2023stgnn}
-\citation{DeSabbata2023}
+\citation{brown2020gpt3,touvron2023llama,anil2023palm}
+\citation{chen2021evaluating,li2022competition}
+\citation{wei2022chain,yao2023tree,kojima2022large}
+\citation{hendrycks2021measuring,cobbe2021training}
+\citation{romera2024mathematical,trinh2024solving}
+\citation{liu2023agentbench,bang2023multitask,srivastava2022beyond}
+\citation{newcombe2010picture,hegarty2006spatial,uttal2013malleability}
+\citation{wolbers2010determines,ekstrom2014cellular}
+\citation{hegarty2004diagrams,tversky2005functional}
+\citation{carroll1993human,mcgee1979human}
+\citation{wai2009spatial,uttal2013malleability}
+\citation{bisk2020experience,patel2021mapping}
+\citation{forbus1984qualitative,kuipers1978modeling}
+\citation{randell1992spatial,cohn1997qualitative,egenhofer1991reasoning}
+\citation{chen2024spatialreasoning,mirzaee2021spartqa}
 \@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}{section.1}\protected@file@percent }
-\citation{brown2020language,carlini2021extracting}
-\citation{zheng2023judging,madaan2023selfrefine}
-\citation{liang2023code,park2023generative,wang2024survey}
-\citation{kuipers1978modeling,forbus1984qualitative,randell1992spatial}
-\citation{yao2023react,schick2023toolformer,shinn2023reflexion,huang2024understanding}
-\citation{weston2015towards}
-\citation{mirpuri2023spartqa}
-\citation{li2025benchmarking}
-\citation{PlanQA2025}
-\citation{liu2023llava,openai2023gpt4v,alayrac2022flamingo,li2023blip2}
-\citation{tang2023grasp}
-\citation{wang2025spatial457}
-\citation{ma20253dsrbench}
-\citation{SPARE3D2024}
-\citation{solirinai2025geobenchx}
-\citation{li2023geoai}
-\citation{emergentmind2025mapbench}
-\citation{spicylemonade2025spatialbench}
-\citation{hart1968formal}
-\citation{felicia2026perception}
-\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces The SpatialOps benchmark framework, illustrating the flow from task input to multi-faceted evaluation and final leaderboard output.}}{2}{figure.1}\protected@file@percent }
-\newlabel{fig:framework}{{1}{2}{The SpatialOps benchmark framework, illustrating the flow from task input to multi-faceted evaluation and final leaderboard output}{figure.1}{}}
-\@writefile{toc}{\contentsline {section}{\numberline {2}Related Work}{2}{section.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {3}The SpatialOps Benchmark}{3}{section.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Design Principles}{3}{subsection.3.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Benchmark Task Taxonomy}{3}{subsection.3.2}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Distribution of the 6,012 tasks in SpatialOps across the twelve categories and three difficulty levels.}}{4}{figure.2}\protected@file@percent }
-\newlabel{fig:distribution}{{2}{4}{Distribution of the 6,012 tasks in SpatialOps across the twelve categories and three difficulty levels}{figure.2}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Dataset Composition}{4}{subsection.3.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {4}Evaluation Metrics}{4}{section.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Task Completion Rate (TCR)}{4}{subsection.4.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Human-AI Latency Ratio (HLR)}{4}{subsection.4.2}\protected@file@percent }
+\citation{chen2015deepdriving,bojarski2016endtoend,pomerleau1988alvinn}
+\citation{levine2016end,kalashnikov2018scalable,zeng2018learning}
+\citation{zhang2019deep,wang2020deep}
+\citation{batty2013big,bibri2017smart}
+\citation{li2019learning,nazari2018reinforcement}
+\citation{law2019take,fu2019real}
 \citation{palantir2024maven}
 \citation{scaleai2025donovan}
 \citation{wherobots2026sedona}
 \citation{google2025earthengine}
-\citation{spicylemonade2025spatialbench}
+\citation{piaget1956child}
+\citation{shepard1971mental,vandenberg1978mental}
+\citation{lohman1979spatial,hegarty2004diagrams}
+\citation{kozhevnikov2006spatial,hegarty2002individual}
+\citation{burgess2002spatial,kravitz2011new,epstein2017cognitive}
+\citation{klatzky1998allocentric,burgess2006spatial}
+\citation{mou2004intrinsic,waller2007landmarks}
+\citation{anderson2018vln,chen2019touchdown}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces The SpatialOps benchmark framework. Tasks span twelve categories organized into three tiers of increasing complexity. Models are evaluated using a multi-faceted methodology that assesses accuracy, reasoning quality, and operational efficiency.}}{2}{figure.1}\protected@file@percent }
+\newlabel{fig:framework}{{1}{2}{The SpatialOps benchmark framework. Tasks span twelve categories organized into three tiers of increasing complexity. Models are evaluated using a multi-faceted methodology that assesses accuracy, reasoning quality, and operational efficiency}{figure.1}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Related Work}{2}{section.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Spatial Reasoning in Cognitive Science}{2}{subsection.2.1}\protected@file@percent }
+\citation{cohn2001qualitative,renz2007qualitative}
+\citation{randell1992spatial}
+\citation{frank1996qualitative,ligozat1998reasoning}
+\citation{muller1998qualitative,galton2000qualitative}
+\citation{cohn1997representing,schockaert2008fuzzy}
+\citation{chen2024spatialreasoning,mirzaee2021spartqa}
+\citation{garcez2019neural,lamb2020graph}
+\citation{davis2013ontologies,marcus2018deep}
+\citation{weston2015towards}
+\citation{sukhbaatar2015end,graves2016hybrid}
+\citation{johnson2017clevr}
+\citation{hudson2019gqa,suhr2019nlvr2}
+\citation{savva2019habitat,kolve2017ai2thor}
+\citation{mirpuri2023spartqa}
+\citation{shi2022stepgame}
+\citation{li2025benchmarking}
+\citation{PlanQA2025}
+\citation{Xu2022AFF}
+\citation{Ma_2025_ICCV}
+\citation{SPARE3D2024}
+\citation{Majumdar_2024_CVPR}
 \citation{zhang2025geoanalystbench}
+\citation{Chen_2024}
+\citation{felicia2026from}
+\citation{yao2023react,schick2023toolformer,qin2023toolllm}
+\citation{gao2023pal,chen2022program}
+\citation{lewis2020rag,nakano2021webgpt}
+\citation{ahn2022saycan,brohan2023rt2}
+\citation{chen2021evaluating,li2022competition}
+\citation{imani2023mathprompter,zhou2023solving}
+\citation{liu2023agentbench}
+\citation{zhou2023webarena}
+\citation{jimenez2024swebench}
+\citation{deng2024mind2web}
+\citation{kipf2017gcn,velickovic2018gat,hamilton2017graphsage}
+\citation{bronstein2021geometric,battaglia2018relational}
+\citation{li2018dcrnn,yu2018stgcn,wu2019graphwavenet}
+\citation{qi2017pointnet,wang2019dynamic}
+\citation{gilmer2017neural,schutt2017schnet}
+\citation{jin2023stgnn,shehzad2024graphtransformers,bai2020agcrn}
+\citation{jiang2022gnn,bai2019stg2seq}
+\citation{mao2019learning,li2020dynamic}
+\citation{chai2023graphllm,zhang2023graph}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Qualitative Spatial Reasoning}{3}{subsection.2.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}Spatial Reasoning Benchmarks}{3}{subsection.2.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4}LLM Agents and Tool Use}{3}{subsection.2.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.5}Graph Neural Networks for Spatial Data}{3}{subsection.2.5}\protected@file@percent }
+\citation{raji2021ai,liao2023rethinking}
+\citation{srivastava2022beyond,liang2022holistic}
+\citation{press2022measuring,dziri2023faith}
+\citation{northcutt2021pervasive,klie2023annotation}
+\citation{newcombe2010picture,liben2006spatial}
+\citation{clements2001geometry,battista2007development}
+\citation{deza2009encyclopedia,preparata1985computational}
+\citation{randell1992spatial,egenhofer1991reasoning}
+\citation{hart1968formal}
+\citation{dijkstra1959note}
+\citation{koenig2004lifelong,likhachev2005anytime}
+\citation{ghosh2007visibility,urrutia2000art}
+\citation{ester1996density,ankerst1999optics}
+\citation{newman2018networks,barabasi2016network}
+\citation{kumar1992algorithms,rossi2006handbook}
+\citation{hochbaum1985best,vazirani2001approximation}
+\citation{muller1998qualitative,galton2000qualitative}
+\@writefile{toc}{\contentsline {section}{\numberline {3}The SpatialOps Benchmark}{4}{section.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Design Principles}{4}{subsection.3.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Task Taxonomy}{4}{subsection.3.2}\protected@file@percent }
+\citation{goodchild2007citizens,longley2015geographic}
+\citation{zhang2019deep,wang2020deep}
+\citation{chen2020application,wang2021power}
+\citation{batty2013big,bibri2017smart,UNHabitat2025}
+\citation{law2019take,fu2019real,DeSabbata2023}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Distribution of tasks across categories and difficulty levels. Each category contains 501 tasks evenly distributed across easy, medium, and hard difficulty levels, totaling 6,012 tasks.}}{5}{figure.2}\protected@file@percent }
+\newlabel{fig:distribution}{{2}{5}{Distribution of tasks across categories and difficulty levels. Each category contains 501 tasks evenly distributed across easy, medium, and hard difficulty levels, totaling 6,012 tasks}{figure.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Dataset Composition}{5}{subsection.3.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Industry Use Case Alignment}{5}{subsection.3.4}\protected@file@percent }
+\citation{zheng2023judging}
+\citation{achiam2023gpt4}
+\citation{anthropic2024claude}
+\citation{anil2023palm}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Evaluation Methodology}{6}{section.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Multi-Faceted Metrics}{6}{subsection.4.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Evaluation Protocol}{6}{subsection.4.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5}Experiments}{6}{section.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Models Evaluated}{6}{subsection.5.1}\protected@file@percent }
+\citation{wei2022chain}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Main results on SpatialOps. ES: Efficacy Score, ACC: Accuracy, HLR: Human-AI Latency Ratio. Tier scores represent average accuracy within each tier.}}{7}{table.1}\protected@file@percent }
+\newlabel{table:main}{{1}{7}{Main results on SpatialOps. ES: Efficacy Score, ACC: Accuracy, HLR: Human-AI Latency Ratio. Tier scores represent average accuracy within each tier}{table.1}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Ablation study: Impact of prompt detail on Efficacy Score.}}{7}{table.2}\protected@file@percent }
+\newlabel{table:ablation}{{2}{7}{Ablation study: Impact of prompt detail on Efficacy Score}{table.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Main Results}{7}{subsection.5.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3}Category-Level Analysis}{7}{subsection.5.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4}Ablation Studies}{7}{subsection.5.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.5}Error Analysis}{7}{subsection.5.5}\protected@file@percent }
+\citation{battaglia2018relational,bronstein2021geometric}
+\citation{zhao2021calibrate,lu2022fantastically}
+\citation{Xu2022AFF}
+\citation{zhang2025geoanalystbench}
+\citation{zheng2023judging,wang2023large}
 \bibstyle{plain}
 \bibdata{references_full}
-\bibcite{scaleai2025donovan}{{1}{}{{}}{{}}}
-\bibcite{alayrac2022flamingo}{{2}{}{{}}{{}}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Operational Cost Savings (OCS)}{5}{subsection.4.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Efficacy Score (ES)}{5}{subsection.4.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.5}Scalability Index (SI)}{5}{subsection.4.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {5}Industrial Context and Differentiation}{5}{section.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {6}Ablation Studies}{5}{section.6}\protected@file@percent }
-\bibcite{anil2023palm}{{3}{}{{}}{{}}}
-\bibcite{balachandar2025urbanincidentpredictiongraph}{{4}{}{{}}{{}}}
-\bibcite{bisk2020experience}{{5}{}{{}}{{}}}
-\bibcite{brown2020language}{{6}{}{{}}{{}}}
-\bibcite{carlini2021extracting}{{7}{}{{}}{{}}}
-\bibcite{davis2017commonsense}{{8}{}{{}}{{}}}
-\bibcite{DeSabbata2023}{{9}{}{{}}{{}}}
-\bibcite{eastman2011bim}{{10}{}{{}}{{}}}
-\bibcite{emergentmind2025mapbench}{{11}{}{{}}{{}}}
-\bibcite{felicia2026perception}{{12}{}{{}}{{}}}
-\bibcite{forbus1984qualitative}{{13}{}{{}}{{}}}
-\bibcite{google2025earthengine}{{14}{}{{}}{{}}}
-\bibcite{harnad1990symbol}{{15}{}{{}}{{}}}
-\bibcite{hart1968formal}{{16}{}{{}}{{}}}
-\bibcite{huang2024understanding}{{17}{}{{}}{{}}}
-\bibcite{wherobots2026sedona}{{18}{}{{}}{{}}}
-\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Ablation Study: Impact of Prompt Detail on Performance}}{6}{table.1}\protected@file@percent }
-\newlabel{tab:ablation}{{1}{6}{Ablation Study: Impact of Prompt Detail on Performance}{table.1}{}}
-\bibcite{jin2023stgnn}{{19}{}{{}}{{}}}
-\bibcite{PlanQA2025}{{20}{}{{}}{{}}}
-\bibcite{kuipers1978modeling}{{21}{}{{}}{{}}}
-\bibcite{SPARE3D2024}{{22}{}{{}}{{}}}
-\bibcite{le2022logicnlg}{{23}{}{{}}{{}}}
-\bibcite{li2023blip2}{{24}{}{{}}{{}}}
-\bibcite{li2023geoai}{{25}{}{{}}{{}}}
-\bibcite{li2025benchmarking}{{26}{}{{}}{{}}}
-\bibcite{liang2023code}{{27}{}{{}}{{}}}
-\bibcite{liu2023llava}{{28}{}{{}}{{}}}
-\bibcite{ma20253dsrbench}{{29}{}{{}}{{}}}
-\bibcite{madaan2023selfrefine}{{30}{}{{}}{{}}}
-\bibcite{marcus1998rethinking}{{31}{}{{}}{{}}}
-\bibcite{mirpuri2023spartqa}{{32}{}{{}}{{}}}
-\bibcite{mitchell2021can}{{33}{}{{}}{{}}}
-\bibcite{openai2023gpt4v}{{34}{}{{}}{{}}}
-\bibcite{park2023generative}{{35}{}{{}}{{}}}
-\bibcite{randell1992spatial}{{36}{}{{}}{{}}}
-\bibcite{savelsbergh2005city}{{37}{}{{}}{{}}}
-\bibcite{schick2023toolformer}{{38}{}{{}}{{}}}
-\bibcite{shinn2023reflexion}{{39}{}{{}}{{}}}
-\bibcite{sloman1971interactions}{{40}{}{{}}{{}}}
-\bibcite{solirinai2025geobenchx}{{41}{}{{}}{{}}}
-\bibcite{spicylemonade2025spatialbench}{{42}{}{{}}{{}}}
-\bibcite{tang2023grasp}{{43}{}{{}}{{}}}
-\bibcite{palantir2024maven}{{44}{}{{}}{{}}}
-\bibcite{touvron2023llama}{{45}{}{{}}{{}}}
-\bibcite{wang2024survey}{{46}{}{{}}{{}}}
-\bibcite{wang2025spatial457}{{47}{}{{}}{{}}}
-\bibcite{weston2015towards}{{48}{}{{}}{{}}}
-\bibcite{yao2023react}{{49}{}{{}}{{}}}
-\bibcite{zellers2019hellaswag}{{50}{}{{}}{{}}}
-\bibcite{zhang2025geoanalystbench}{{51}{}{{}}{{}}}
-\bibcite{zhang2024wrestling}{{52}{}{{}}{{}}}
-\bibcite{zheng2023judging}{{53}{}{{}}{{}}}
+\bibcite{ahn2022saycan}{{1}{}{{}}{{}}}
+\bibcite{scaleai2025donovan}{{2}{}{{}}{{}}}
+\bibcite{anderson2018vln}{{3}{}{{}}{{}}}
+\bibcite{anil2023palm}{{4}{}{{}}{{}}}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Discussion}{8}{section.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.1}Implications for Spatial AI}{8}{subsection.6.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.2}Comparison with Existing Benchmarks}{8}{subsection.6.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.3}Limitations}{8}{subsection.6.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {7}Conclusion}{8}{section.7}\protected@file@percent }
+\bibcite{ankerst1999optics}{{5}{}{{}}{{}}}
+\bibcite{anthropic2024claude}{{6}{}{{}}{{}}}
+\bibcite{bai2020agcrn}{{7}{}{{}}{{}}}
+\bibcite{bai2019stg2seq}{{8}{}{{}}{{}}}
+\bibcite{bang2023multitask}{{9}{}{{}}{{}}}
+\bibcite{barabasi2016network}{{10}{}{{}}{{}}}
+\bibcite{battaglia2018relational}{{11}{}{{}}{{}}}
+\bibcite{battista2007development}{{12}{}{{}}{{}}}
+\bibcite{batty2013big}{{13}{}{{}}{{}}}
+\bibcite{bibri2017smart}{{14}{}{{}}{{}}}
+\bibcite{bisk2020experience}{{15}{}{{}}{{}}}
+\bibcite{bojarski2016endtoend}{{16}{}{{}}{{}}}
+\bibcite{brohan2023rt2}{{17}{}{{}}{{}}}
+\bibcite{bronstein2021geometric}{{18}{}{{}}{{}}}
+\bibcite{brown2020gpt3}{{19}{}{{}}{{}}}
+\bibcite{burgess2006spatial}{{20}{}{{}}{{}}}
+\bibcite{burgess2002spatial}{{21}{}{{}}{{}}}
+\bibcite{carroll1993human}{{22}{}{{}}{{}}}
+\bibcite{chai2023graphllm}{{23}{}{{}}{{}}}
+\bibcite{chen2015deepdriving}{{24}{}{{}}{{}}}
+\bibcite{chen2019touchdown}{{25}{}{{}}{{}}}
+\bibcite{chen2021evaluating}{{26}{}{{}}{{}}}
+\bibcite{Chen_2024}{{27}{}{{}}{{}}}
+\bibcite{chen2022program}{{28}{}{{}}{{}}}
+\bibcite{chen2020application}{{29}{}{{}}{{}}}
+\bibcite{chen2024spatialreasoning}{{30}{}{{}}{{}}}
+\bibcite{clements2001geometry}{{31}{}{{}}{{}}}
+\bibcite{cobbe2021training}{{32}{}{{}}{{}}}
+\bibcite{cohn1997qualitative}{{33}{}{{}}{{}}}
+\bibcite{cohn2001qualitative}{{34}{}{{}}{{}}}
+\bibcite{davis2013ontologies}{{35}{}{{}}{{}}}
+\bibcite{DeSabbata2023}{{36}{}{{}}{{}}}
+\bibcite{deng2024mind2web}{{37}{}{{}}{{}}}
+\bibcite{deza2009encyclopedia}{{38}{}{{}}{{}}}
+\bibcite{dijkstra1959note}{{39}{}{{}}{{}}}
+\bibcite{dziri2023faith}{{40}{}{{}}{{}}}
+\bibcite{ekstrom2014cellular}{{41}{}{{}}{{}}}
+\bibcite{epstein2017cognitive}{{42}{}{{}}{{}}}
+\bibcite{ester1996density}{{43}{}{{}}{{}}}
+\bibcite{felicia2026from}{{44}{}{{}}{{}}}
+\bibcite{forbus1984qualitative}{{45}{}{{}}{{}}}
+\bibcite{frank1996qualitative}{{46}{}{{}}{{}}}
+\bibcite{fu2019real}{{47}{}{{}}{{}}}
+\bibcite{gao2023pal}{{48}{}{{}}{{}}}
+\bibcite{garcez2019neural}{{49}{}{{}}{{}}}
+\bibcite{ghosh2007visibility}{{50}{}{{}}{{}}}
+\bibcite{gilmer2017neural}{{51}{}{{}}{{}}}
+\bibcite{goodchild2007citizens}{{52}{}{{}}{{}}}
+\bibcite{google2025earthengine}{{53}{}{{}}{{}}}
+\bibcite{graves2016hybrid}{{54}{}{{}}{{}}}
+\bibcite{hamilton2017graphsage}{{55}{}{{}}{{}}}
+\bibcite{hart1968formal}{{56}{}{{}}{{}}}
+\bibcite{hegarty2004diagrams}{{57}{}{{}}{{}}}
+\bibcite{hegarty2006spatial}{{58}{}{{}}{{}}}
+\bibcite{hegarty2002individual}{{59}{}{{}}{{}}}
+\bibcite{hendrycks2021measuring}{{60}{}{{}}{{}}}
+\bibcite{hochbaum1985best}{{61}{}{{}}{{}}}
+\bibcite{hudson2019gqa}{{62}{}{{}}{{}}}
+\bibcite{imani2023mathprompter}{{63}{}{{}}{{}}}
+\bibcite{wherobots2026sedona}{{64}{}{{}}{{}}}
+\bibcite{jiang2022gnn}{{65}{}{{}}{{}}}
+\bibcite{jimenez2024swebench}{{66}{}{{}}{{}}}
+\bibcite{jin2023stgnn}{{67}{}{{}}{{}}}
+\bibcite{johnson2017clevr}{{68}{}{{}}{{}}}
+\bibcite{kalashnikov2018scalable}{{69}{}{{}}{{}}}
+\bibcite{PlanQA2025}{{70}{}{{}}{{}}}
+\bibcite{kipf2017gcn}{{71}{}{{}}{{}}}
+\bibcite{klatzky1998allocentric}{{72}{}{{}}{{}}}
+\bibcite{klie2023annotation}{{73}{}{{}}{{}}}
+\bibcite{koenig2004lifelong}{{74}{}{{}}{{}}}
+\bibcite{kojima2022large}{{75}{}{{}}{{}}}
+\bibcite{kolve2017ai2thor}{{76}{}{{}}{{}}}
+\bibcite{kozhevnikov2006spatial}{{77}{}{{}}{{}}}
+\bibcite{kravitz2011new}{{78}{}{{}}{{}}}
+\bibcite{kuipers1978modeling}{{79}{}{{}}{{}}}
+\bibcite{kumar1992algorithms}{{80}{}{{}}{{}}}
+\bibcite{SPARE3D2024}{{81}{}{{}}{{}}}
+\bibcite{lamb2020graph}{{82}{}{{}}{{}}}
+\bibcite{law2019take}{{83}{}{{}}{{}}}
+\bibcite{levine2016end}{{84}{}{{}}{{}}}
+\bibcite{lewis2020rag}{{85}{}{{}}{{}}}
+\bibcite{li2019learning}{{86}{}{{}}{{}}}
+\bibcite{li2020dynamic}{{87}{}{{}}{{}}}
+\bibcite{li2025benchmarking}{{88}{}{{}}{{}}}
+\bibcite{li2018dcrnn}{{89}{}{{}}{{}}}
+\bibcite{li2022competition}{{90}{}{{}}{{}}}
+\bibcite{liang2022holistic}{{91}{}{{}}{{}}}
+\bibcite{liao2023rethinking}{{92}{}{{}}{{}}}
+\bibcite{liben2006spatial}{{93}{}{{}}{{}}}
+\bibcite{ligozat1998reasoning}{{94}{}{{}}{{}}}
+\bibcite{likhachev2005anytime}{{95}{}{{}}{{}}}
+\bibcite{liu2023agentbench}{{96}{}{{}}{{}}}
+\bibcite{lohman1979spatial}{{97}{}{{}}{{}}}
+\bibcite{longley2015geographic}{{98}{}{{}}{{}}}
+\bibcite{lu2022fantastically}{{99}{}{{}}{{}}}
+\bibcite{Ma_2025_ICCV}{{100}{}{{}}{{}}}
+\bibcite{Majumdar_2024_CVPR}{{101}{}{{}}{{}}}
+\bibcite{mao2019learning}{{102}{}{{}}{{}}}
+\bibcite{marcus2018deep}{{103}{}{{}}{{}}}
+\bibcite{mcgee1979human}{{104}{}{{}}{{}}}
+\bibcite{mirpuri2023spartqa}{{105}{}{{}}{{}}}
+\bibcite{mou2004intrinsic}{{106}{}{{}}{{}}}
+\bibcite{nakano2021webgpt}{{107}{}{{}}{{}}}
+\bibcite{nazari2018reinforcement}{{108}{}{{}}{{}}}
+\bibcite{newcombe2010picture}{{109}{}{{}}{{}}}
+\bibcite{newman2018networks}{{110}{}{{}}{{}}}
+\bibcite{northcutt2021pervasive}{{111}{}{{}}{{}}}
+\bibcite{achiam2023gpt4}{{112}{}{{}}{{}}}
+\bibcite{patel2021mapping}{{113}{}{{}}{{}}}
+\bibcite{piaget1956child}{{114}{}{{}}{{}}}
+\bibcite{pomerleau1988alvinn}{{115}{}{{}}{{}}}
+\bibcite{preparata1985computational}{{116}{}{{}}{{}}}
+\bibcite{press2022measuring}{{117}{}{{}}{{}}}
+\bibcite{qi2017pointnet}{{118}{}{{}}{{}}}
+\bibcite{qin2023toolllm}{{119}{}{{}}{{}}}
+\bibcite{raji2021ai}{{120}{}{{}}{{}}}
+\bibcite{randell1992spatial}{{121}{}{{}}{{}}}
+\bibcite{renz2007qualitative}{{122}{}{{}}{{}}}
+\bibcite{romera2024mathematical}{{123}{}{{}}{{}}}
+\bibcite{rossi2006handbook}{{124}{}{{}}{{}}}
+\bibcite{savva2019habitat}{{125}{}{{}}{{}}}
+\bibcite{schick2023toolformer}{{126}{}{{}}{{}}}
+\bibcite{schockaert2008fuzzy}{{127}{}{{}}{{}}}
+\bibcite{schutt2017schnet}{{128}{}{{}}{{}}}
+\bibcite{shehzad2024graphtransformers}{{129}{}{{}}{{}}}
+\bibcite{shepard1971mental}{{130}{}{{}}{{}}}
+\bibcite{shi2022stepgame}{{131}{}{{}}{{}}}
+\bibcite{suhr2019nlvr2}{{132}{}{{}}{{}}}
+\bibcite{sukhbaatar2015end}{{133}{}{{}}{{}}}
+\bibcite{palantir2024maven}{{134}{}{{}}{{}}}
+\bibcite{touvron2023llama}{{135}{}{{}}{{}}}
+\bibcite{trinh2024solving}{{136}{}{{}}{{}}}
+\bibcite{tversky2005functional}{{137}{}{{}}{{}}}
+\bibcite{UNHabitat2025}{{138}{}{{}}{{}}}
+\bibcite{urrutia2000art}{{139}{}{{}}{{}}}
+\bibcite{uttal2013malleability}{{140}{}{{}}{{}}}
+\bibcite{vandenberg1978mental}{{141}{}{{}}{{}}}
+\bibcite{vazirani2001approximation}{{142}{}{{}}{{}}}
+\bibcite{velickovic2018gat}{{143}{}{{}}{{}}}
+\bibcite{wai2009spatial}{{144}{}{{}}{{}}}
+\bibcite{waller2007landmarks}{{145}{}{{}}{{}}}
+\bibcite{wang2021power}{{146}{}{{}}{{}}}
+\bibcite{wang2023large}{{147}{}{{}}{{}}}
+\bibcite{wang2020deep}{{148}{}{{}}{{}}}
+\bibcite{wang2019dynamic}{{149}{}{{}}{{}}}
+\bibcite{wei2022chain}{{150}{}{{}}{{}}}
+\bibcite{weston2015towards}{{151}{}{{}}{{}}}
+\bibcite{wolbers2010determines}{{152}{}{{}}{{}}}
+\bibcite{wu2019graphwavenet}{{153}{}{{}}{{}}}
+\bibcite{Xu2022AFF}{{154}{}{{}}{{}}}
+\bibcite{yao2023tree}{{155}{}{{}}{{}}}
+\bibcite{yao2023react}{{156}{}{{}}{{}}}
+\bibcite{yu2018stgcn}{{157}{}{{}}{{}}}
+\bibcite{zeng2018learning}{{158}{}{{}}{{}}}
+\bibcite{zhang2019deep}{{159}{}{{}}{{}}}
+\bibcite{zhang2025geoanalystbench}{{160}{}{{}}{{}}}
+\bibcite{zhang2023graph}{{161}{}{{}}{{}}}
+\bibcite{zhao2021calibrate}{{162}{}{{}}{{}}}
+\bibcite{zheng2023judging}{{163}{}{{}}{{}}}
+\bibcite{zhou2023solving}{{164}{}{{}}{{}}}
+\bibcite{zhou2023webarena}{{165}{}{{}}{{}}}
 \providecommand\NAT@force@numbers{}\NAT@force@numbers
-\gdef \@abspage@last{8}
+\gdef \@abspage@last{16}
