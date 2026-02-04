@@ -1,0 +1,1171 @@
+[
+  {
+    "task_id": "TSR_medium_0001",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,2) with velocity (2,2). Object B starts at (9,4) with velocity (-1,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0002",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,5) with velocity (1,0). Object B starts at (9,9) with velocity (-2,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0003",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,0) with velocity (3,0). Object B starts at (10,9) with velocity (-1,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0004",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,5) with velocity (1,2). Object B starts at (12,10) with velocity (-1,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TSR_medium_0005",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,4) with velocity (1,0). Object B starts at (13,7) with velocity (-2,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0006",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,0) with velocity (3,0). Object B starts at (9,7) with velocity (0,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0007",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,0) with velocity (2,1). Object B starts at (11,9) with velocity (0,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0008",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,1) with velocity (1,0). Object B starts at (11,4) with velocity (0,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0009",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,5) with velocity (2,1). Object B starts at (13,5) with velocity (-2,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0010",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,4) with velocity (2,1). Object B starts at (10,10) with velocity (-2,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0011",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,0) with velocity (1,2). Object B starts at (10,3) with velocity (0,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0012",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,0) with velocity (2,2). Object B starts at (14,3) with velocity (-1,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0013",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,0) with velocity (3,1). Object B starts at (12,6) with velocity (-2,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0014",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,3) with velocity (3,0). Object B starts at (8,6) with velocity (-2,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0015",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,5) with velocity (1,1). Object B starts at (11,3) with velocity (-3,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0016",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,5) with velocity (1,2). Object B starts at (8,6) with velocity (-3,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TSR_medium_0017",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,4) with velocity (1,2). Object B starts at (8,7) with velocity (-3,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TSR_medium_0018",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,5) with velocity (1,1). Object B starts at (12,4) with velocity (-1,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TSR_medium_0019",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,1) with velocity (3,2). Object B starts at (8,6) with velocity (-3,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0020",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,1) with velocity (3,1). Object B starts at (14,9) with velocity (-3,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0021",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,3) with velocity (1,2). Object B starts at (8,4) with velocity (-2,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0022",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,5) with velocity (2,2). Object B starts at (9,8) with velocity (-1,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0023",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,2) with velocity (2,0). Object B starts at (13,6) with velocity (-3,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0024",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,2) with velocity (3,2). Object B starts at (11,6) with velocity (-3,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0025",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,3) with velocity (1,2). Object B starts at (15,7) with velocity (-2,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0026",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,4) with velocity (1,2). Object B starts at (12,5) with velocity (0,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0027",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,3) with velocity (2,2). Object B starts at (13,3) with velocity (-3,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0028",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,3) with velocity (2,2). Object B starts at (9,10) with velocity (0,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TSR_medium_0029",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,5) with velocity (3,2). Object B starts at (11,9) with velocity (-2,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TSR_medium_0030",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,4) with velocity (3,2). Object B starts at (13,3) with velocity (-3,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0031",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,3) with velocity (3,0). Object B starts at (15,9) with velocity (-2,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0032",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,1) with velocity (2,1). Object B starts at (14,10) with velocity (-3,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0033",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,5) with velocity (1,1). Object B starts at (14,4) with velocity (0,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0034",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,1) with velocity (3,2). Object B starts at (8,10) with velocity (-1,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0035",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,1) with velocity (2,2). Object B starts at (9,5) with velocity (-1,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TSR_medium_0036",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,3) with velocity (2,1). Object B starts at (10,9) with velocity (-1,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0037",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,3) with velocity (2,0). Object B starts at (11,8) with velocity (-3,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0038",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,0) with velocity (3,1). Object B starts at (9,10) with velocity (-3,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0039",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (2,3) with velocity (3,2). Object B starts at (11,4) with velocity (-2,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0040",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (2,3) with velocity (2,0). Object B starts at (15,4) with velocity (-3,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0041",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,3) with velocity (1,0). Object B starts at (13,3) with velocity (-3,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0042",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,1) with velocity (2,1). Object B starts at (10,10) with velocity (0,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0043",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,3) with velocity (1,2). Object B starts at (11,3) with velocity (-2,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0044",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,0) with velocity (1,0). Object B starts at (10,8) with velocity (-3,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0045",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,4) with velocity (2,2). Object B starts at (8,10) with velocity (-1,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0046",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,0) with velocity (2,2). Object B starts at (13,5) with velocity (-2,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0047",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,1) with velocity (2,2). Object B starts at (11,4) with velocity (-3,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TSR_medium_0048",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,0) with velocity (1,1). Object B starts at (11,3) with velocity (-2,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TSR_medium_0049",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,3) with velocity (3,2). Object B starts at (14,5) with velocity (-1,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0050",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,3) with velocity (2,0). Object B starts at (15,7) with velocity (-3,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0051",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (2,3) with velocity (3,0). Object B starts at (12,7) with velocity (0,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0052",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,2) with velocity (2,2). Object B starts at (15,7) with velocity (-3,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0053",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,4) with velocity (2,0). Object B starts at (13,7) with velocity (-1,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0054",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,2) with velocity (2,2). Object B starts at (9,7) with velocity (0,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TSR_medium_0055",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,4) with velocity (3,2). Object B starts at (14,8) with velocity (-2,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0056",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,2) with velocity (3,0). Object B starts at (12,6) with velocity (-1,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0057",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,3) with velocity (3,0). Object B starts at (14,10) with velocity (-2,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0058",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,2) with velocity (3,1). Object B starts at (11,5) with velocity (-3,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0059",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,3) with velocity (2,2). Object B starts at (15,3) with velocity (-1,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0060",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,5) with velocity (2,2). Object B starts at (11,7) with velocity (-1,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0061",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,3) with velocity (3,2). Object B starts at (13,3) with velocity (-1,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0062",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,2) with velocity (2,0). Object B starts at (13,3) with velocity (-2,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0063",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (2,3) with velocity (2,0). Object B starts at (8,3) with velocity (0,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0064",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (2,1) with velocity (3,0). Object B starts at (8,10) with velocity (0,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0065",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,3) with velocity (1,2). Object B starts at (13,7) with velocity (-1,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TSR_medium_0066",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,5) with velocity (1,0). Object B starts at (8,4) with velocity (0,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0067",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (2,4) with velocity (2,0). Object B starts at (13,3) with velocity (-2,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0068",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,5) with velocity (1,1). Object B starts at (13,3) with velocity (-2,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0069",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,2) with velocity (1,1). Object B starts at (11,4) with velocity (-2,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0070",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,2) with velocity (3,2). Object B starts at (11,6) with velocity (0,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0071",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (2,1) with velocity (1,2). Object B starts at (9,4) with velocity (-2,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0072",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,2) with velocity (3,0). Object B starts at (12,5) with velocity (0,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0073",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,3) with velocity (2,0). Object B starts at (14,9) with velocity (-2,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0074",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (2,0) with velocity (3,0). Object B starts at (13,10) with velocity (-2,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0075",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,4) with velocity (3,2). Object B starts at (13,8) with velocity (-1,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0076",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,2) with velocity (3,1). Object B starts at (8,4) with velocity (-2,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0077",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,0) with velocity (2,2). Object B starts at (12,8) with velocity (-1,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TSR_medium_0078",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,1) with velocity (3,1). Object B starts at (8,9) with velocity (-2,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0079",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,4) with velocity (1,1). Object B starts at (15,6) with velocity (-2,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0080",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (2,3) with velocity (1,0). Object B starts at (9,8) with velocity (0,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0081",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,5) with velocity (3,2). Object B starts at (10,9) with velocity (-1,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0082",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,3) with velocity (1,2). Object B starts at (12,4) with velocity (0,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0083",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,0) with velocity (3,2). Object B starts at (8,9) with velocity (-2,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0084",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,3) with velocity (1,0). Object B starts at (11,8) with velocity (-3,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0085",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,3) with velocity (1,1). Object B starts at (13,3) with velocity (-1,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TSR_medium_0086",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,4) with velocity (3,0). Object B starts at (10,9) with velocity (0,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0087",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,0) with velocity (1,0). Object B starts at (12,6) with velocity (-3,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0088",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,2) with velocity (1,2). Object B starts at (12,5) with velocity (-3,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0089",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (2,4) with velocity (1,1). Object B starts at (12,8) with velocity (-3,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0090",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,4) with velocity (1,2). Object B starts at (11,4) with velocity (-2,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0091",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,3) with velocity (2,1). Object B starts at (15,9) with velocity (0,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0092",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,4) with velocity (1,0). Object B starts at (13,7) with velocity (-3,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0093",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (2,5) with velocity (2,0). Object B starts at (9,6) with velocity (-1,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0094",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,4) with velocity (2,0). Object B starts at (9,3) with velocity (-2,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0095",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,3) with velocity (2,0). Object B starts at (9,8) with velocity (-3,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0096",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,5) with velocity (3,0). Object B starts at (15,5) with velocity (0,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TSR_medium_0097",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,3) with velocity (1,0). Object B starts at (9,9) with velocity (-2,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0098",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,0) with velocity (3,0). Object B starts at (15,6) with velocity (-2,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0099",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,4) with velocity (3,0). Object B starts at (14,4) with velocity (-1,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0100",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,5) with velocity (2,1). Object B starts at (15,4) with velocity (-3,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0101",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,4) with velocity (3,2). Object B starts at (15,10) with velocity (-3,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0102",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,2) with velocity (2,2). Object B starts at (9,8) with velocity (-2,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0103",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (2,2) with velocity (2,0). Object B starts at (8,5) with velocity (-3,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0104",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,3) with velocity (3,2). Object B starts at (11,10) with velocity (-3,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0105",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,2) with velocity (3,1). Object B starts at (8,5) with velocity (-1,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0106",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,3) with velocity (2,0). Object B starts at (11,3) with velocity (-1,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0107",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,5) with velocity (1,1). Object B starts at (14,10) with velocity (-1,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TSR_medium_0108",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,0) with velocity (3,2). Object B starts at (10,6) with velocity (0,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0109",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,0) with velocity (1,0). Object B starts at (11,5) with velocity (0,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0110",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,0) with velocity (2,0). Object B starts at (11,6) with velocity (-1,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0111",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,0) with velocity (3,1). Object B starts at (10,5) with velocity (-3,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0112",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,4) with velocity (3,2). Object B starts at (10,8) with velocity (-2,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0113",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,4) with velocity (3,0). Object B starts at (9,9) with velocity (-3,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0114",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,3) with velocity (1,1). Object B starts at (8,6) with velocity (-3,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0115",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,3) with velocity (1,2). Object B starts at (14,3) with velocity (0,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0116",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,4) with velocity (3,1). Object B starts at (15,9) with velocity (0,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0117",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,0) with velocity (1,1). Object B starts at (10,4) with velocity (-1,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0118",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,0) with velocity (1,1). Object B starts at (8,10) with velocity (-3,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0119",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,2) with velocity (3,1). Object B starts at (8,8) with velocity (-3,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0120",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,3) with velocity (1,2). Object B starts at (13,4) with velocity (-3,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0121",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,4) with velocity (2,2). Object B starts at (12,8) with velocity (-1,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0122",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,4) with velocity (2,0). Object B starts at (14,8) with velocity (-1,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0123",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,4) with velocity (1,1). Object B starts at (14,10) with velocity (-3,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0124",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,3) with velocity (3,2). Object B starts at (9,9) with velocity (-2,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0125",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,4) with velocity (2,1). Object B starts at (9,5) with velocity (0,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0126",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,4) with velocity (1,0). Object B starts at (13,8) with velocity (0,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0127",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,0) with velocity (1,2). Object B starts at (15,7) with velocity (-3,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0128",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,1) with velocity (1,2). Object B starts at (12,9) with velocity (-3,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0129",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (2,3) with velocity (2,0). Object B starts at (15,9) with velocity (-2,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0130",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,0) with velocity (2,2). Object B starts at (9,4) with velocity (0,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0131",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,5) with velocity (2,0). Object B starts at (9,8) with velocity (-2,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0132",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,1) with velocity (1,2). Object B starts at (14,9) with velocity (-2,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0133",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (2,3) with velocity (1,1). Object B starts at (14,8) with velocity (0,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0134",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,3) with velocity (3,2). Object B starts at (15,3) with velocity (-2,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0135",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,4) with velocity (1,0). Object B starts at (8,7) with velocity (-2,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0136",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,4) with velocity (3,0). Object B starts at (14,6) with velocity (-3,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0137",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,1) with velocity (3,0). Object B starts at (9,5) with velocity (0,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0138",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,2) with velocity (3,0). Object B starts at (12,4) with velocity (-3,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0139",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,3) with velocity (3,2). Object B starts at (10,4) with velocity (-3,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0140",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,1) with velocity (1,2). Object B starts at (10,7) with velocity (0,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0141",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,1) with velocity (1,0). Object B starts at (9,10) with velocity (0,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0142",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,3) with velocity (2,2). Object B starts at (15,7) with velocity (0,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0143",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,4) with velocity (2,2). Object B starts at (8,8) with velocity (-2,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TSR_medium_0144",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,3) with velocity (1,0). Object B starts at (12,9) with velocity (-1,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0145",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (2,4) with velocity (3,0). Object B starts at (9,3) with velocity (0,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0146",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,1) with velocity (3,2). Object B starts at (13,9) with velocity (-2,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0147",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,1) with velocity (1,0). Object B starts at (15,8) with velocity (-1,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0148",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,5) with velocity (2,0). Object B starts at (14,7) with velocity (0,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0149",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,4) with velocity (3,0). Object B starts at (9,6) with velocity (-3,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0150",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,1) with velocity (3,0). Object B starts at (9,6) with velocity (-3,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0151",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,3) with velocity (2,1). Object B starts at (11,5) with velocity (-3,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TSR_medium_0152",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,5) with velocity (1,1). Object B starts at (9,6) with velocity (-3,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TSR_medium_0153",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,4) with velocity (2,1). Object B starts at (8,3) with velocity (-1,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0154",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,0) with velocity (1,1). Object B starts at (10,8) with velocity (-1,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0155",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,2) with velocity (3,0). Object B starts at (13,9) with velocity (-2,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0156",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (4,4) with velocity (3,0). Object B starts at (10,10) with velocity (-1,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0157",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,4) with velocity (3,0). Object B starts at (10,8) with velocity (-1,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0158",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,2) with velocity (1,2). Object B starts at (10,8) with velocity (-3,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0159",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,2) with velocity (2,1). Object B starts at (10,4) with velocity (-2,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0160",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (1,3) with velocity (1,0). Object B starts at (14,6) with velocity (-1,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0161",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (2,0) with velocity (1,2). Object B starts at (12,8) with velocity (-2,-1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0162",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (2,3) with velocity (1,0). Object B starts at (11,3) with velocity (0,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0163",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (3,4) with velocity (3,2). Object B starts at (13,3) with velocity (0,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0164",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,2) with velocity (2,2). Object B starts at (15,5) with velocity (-1,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TSR_medium_0165",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,4) with velocity (3,2). Object B starts at (10,4) with velocity (0,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0166",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (5,1) with velocity (2,2). Object B starts at (9,9) with velocity (0,1). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TSR_medium_0167",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "medium",
+    "prompt": "Object A starts at (0,0) with velocity (1,0). Object B starts at (15,6) with velocity (0,0). Will they come within 1 unit of each other within 10 seconds? Answer Yes or No.",
+    "ground_truth": "No"
+  }
+]

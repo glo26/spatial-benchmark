@@ -1,0 +1,1171 @@
+[
+  {
+    "task_id": "TR_medium_0001",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (5,8) and (7,12); R2 has corners (1,5) and (4,7); R3 has corners (3,6) and (8,9). Which regions contain the point (11, 5)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0002",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (5,6) and (10,10); R2 has corners (1,5) and (5,7). Which regions contain the point (16, 6)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0003",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (3,2) and (6,6); R2 has corners (6,5) and (10,9); R3 has corners (2,6) and (5,8); R4 has corners (3,5) and (7,10). Which regions contain the point (13, 10)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0004",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (2,4) and (5,7); R2 has corners (4,2) and (9,7). Which regions contain the point (2, 3)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0005",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (1,8) and (5,12); R2 has corners (6,3) and (11,7). Which regions contain the point (5, 9)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "R1"
+  },
+  {
+    "task_id": "TR_medium_0006",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (2,4) and (5,7); R2 has corners (4,5) and (7,8). Which regions contain the point (4, 2)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0007",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (2,2) and (4,7); R2 has corners (7,1) and (10,3); R3 has corners (1,1) and (6,3). Which regions contain the point (8, 1)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "R2"
+  },
+  {
+    "task_id": "TR_medium_0008",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (5,1) and (7,3); R2 has corners (4,4) and (7,8). Which regions contain the point (0, 2)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0009",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (5,6) and (9,9); R2 has corners (4,2) and (6,4). Which regions contain the point (16, 6)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0010",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (4,5) and (7,7); R2 has corners (2,4) and (7,8); R3 has corners (3,8) and (5,11); R4 has corners (6,7) and (11,10). Which regions contain the point (16, 7)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0011",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (2,6) and (4,11); R2 has corners (2,3) and (7,7); R3 has corners (5,1) and (7,5). Which regions contain the point (15, 3)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0012",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (5,8) and (9,13); R2 has corners (4,7) and (8,12); R3 has corners (4,2) and (9,6). Which regions contain the point (5, 0)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0013",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (8,2) and (13,7); R2 has corners (2,2) and (5,7); R3 has corners (7,2) and (10,4); R4 has corners (6,4) and (10,7). Which regions contain the point (19, 12)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0014",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (4,7) and (9,11); R2 has corners (5,7) and (9,12). Which regions contain the point (19, 12)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0015",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (5,3) and (10,5); R2 has corners (2,5) and (7,10); R3 has corners (4,3) and (6,5). Which regions contain the point (1, 2)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0016",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (1,3) and (6,7); R2 has corners (3,5) and (5,7); R3 has corners (8,8) and (11,12). Which regions contain the point (15, 15)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0017",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (5,6) and (7,8); R2 has corners (7,2) and (12,7); R3 has corners (6,7) and (11,12); R4 has corners (1,1) and (4,5). Which regions contain the point (5, 15)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0018",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (3,5) and (8,10); R2 has corners (2,8) and (7,13); R3 has corners (3,1) and (8,5). Which regions contain the point (15, 18)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0019",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,5) and (10,7); R2 has corners (1,1) and (4,5); R3 has corners (6,1) and (10,6). Which regions contain the point (3, 13)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0020",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,7) and (10,9); R2 has corners (4,4) and (7,8); R3 has corners (2,2) and (6,4). Which regions contain the point (10, 5)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0021",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,1) and (11,6); R2 has corners (7,5) and (9,10). Which regions contain the point (18, 0)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0022",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (7,7) and (11,9); R2 has corners (8,2) and (11,6); R3 has corners (8,6) and (11,10). Which regions contain the point (11, 13)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0023",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (8,2) and (11,6); R2 has corners (5,1) and (9,6). Which regions contain the point (7, 19)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0024",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (2,2) and (6,6); R2 has corners (2,8) and (7,11); R3 has corners (6,2) and (10,6); R4 has corners (7,6) and (10,11). Which regions contain the point (12, 8)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0025",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (8,3) and (10,6); R2 has corners (8,4) and (13,8); R3 has corners (7,1) and (10,5); R4 has corners (8,3) and (11,6). Which regions contain the point (9, 13)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0026",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,2) and (9,7); R2 has corners (5,5) and (8,9); R3 has corners (4,7) and (7,9). Which regions contain the point (4, 6)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0027",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (4,5) and (9,10); R2 has corners (7,7) and (9,10). Which regions contain the point (5, 8)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "R1"
+  },
+  {
+    "task_id": "TR_medium_0028",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (1,5) and (5,8); R2 has corners (1,8) and (3,10). Which regions contain the point (2, 10)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "R2"
+  },
+  {
+    "task_id": "TR_medium_0029",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (5,2) and (10,6); R2 has corners (2,7) and (5,10); R3 has corners (2,2) and (6,7); R4 has corners (2,4) and (4,8). Which regions contain the point (10, 18)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0030",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (7,4) and (12,7); R2 has corners (3,2) and (6,5); R3 has corners (5,8) and (10,12); R4 has corners (1,8) and (5,10). Which regions contain the point (10, 17)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0031",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (8,4) and (12,7); R2 has corners (6,8) and (10,12); R3 has corners (1,1) and (3,4). Which regions contain the point (8, 17)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0032",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (5,6) and (7,9); R2 has corners (8,7) and (10,12); R3 has corners (5,5) and (7,8). Which regions contain the point (9, 6)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0033",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (8,6) and (13,8); R2 has corners (5,2) and (10,7). Which regions contain the point (13, 10)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0034",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (7,2) and (10,6); R2 has corners (2,6) and (7,10); R3 has corners (8,1) and (10,4); R4 has corners (8,3) and (10,8). Which regions contain the point (6, 20)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0035",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,2) and (8,5); R2 has corners (4,3) and (9,7); R3 has corners (8,8) and (11,12). Which regions contain the point (5, 18)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0036",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (5,4) and (7,9); R2 has corners (6,3) and (11,8); R3 has corners (4,1) and (6,4). Which regions contain the point (2, 14)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0037",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (5,3) and (7,8); R2 has corners (7,5) and (10,7). Which regions contain the point (11, 5)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0038",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (2,1) and (7,6); R2 has corners (8,2) and (11,5); R3 has corners (4,5) and (8,10); R4 has corners (7,3) and (12,6). Which regions contain the point (19, 6)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0039",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (4,7) and (7,12); R2 has corners (3,1) and (7,5); R3 has corners (4,8) and (7,12). Which regions contain the point (18, 20)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0040",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (2,1) and (7,4); R2 has corners (6,7) and (9,12); R3 has corners (7,5) and (9,7). Which regions contain the point (17, 1)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0041",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,4) and (11,8); R2 has corners (1,1) and (5,6). Which regions contain the point (9, 12)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0042",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,3) and (8,6); R2 has corners (5,3) and (10,7); R3 has corners (8,3) and (10,7); R4 has corners (7,3) and (11,5). Which regions contain the point (10, 1)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0043",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (8,5) and (12,10); R2 has corners (5,5) and (9,9). Which regions contain the point (13, 5)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0044",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (8,3) and (13,5); R2 has corners (4,3) and (6,6); R3 has corners (3,1) and (8,5). Which regions contain the point (5, 14)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0045",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (2,8) and (4,13); R2 has corners (6,8) and (11,13); R3 has corners (2,3) and (4,7). Which regions contain the point (2, 6)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "R3"
+  },
+  {
+    "task_id": "TR_medium_0046",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (3,3) and (7,6); R2 has corners (1,3) and (6,5); R3 has corners (4,8) and (6,12). Which regions contain the point (0, 9)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0047",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (2,7) and (6,9); R2 has corners (6,3) and (8,5); R3 has corners (8,8) and (13,12); R4 has corners (1,6) and (3,11). Which regions contain the point (10, 18)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0048",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (4,1) and (8,5); R2 has corners (1,2) and (6,4). Which regions contain the point (12, 8)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0049",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (4,7) and (6,9); R2 has corners (4,3) and (9,8). Which regions contain the point (9, 20)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0050",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (3,2) and (7,7); R2 has corners (7,5) and (10,9); R3 has corners (2,6) and (5,11); R4 has corners (8,7) and (13,11). Which regions contain the point (18, 19)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0051",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (2,7) and (6,10); R2 has corners (7,7) and (9,9); R3 has corners (6,8) and (9,11). Which regions contain the point (15, 16)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0052",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (2,5) and (7,10); R2 has corners (2,8) and (6,11); R3 has corners (3,5) and (6,10); R4 has corners (5,1) and (7,3). Which regions contain the point (16, 3)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0053",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (7,7) and (9,12); R2 has corners (5,6) and (9,8); R3 has corners (1,2) and (6,5); R4 has corners (3,7) and (5,9). Which regions contain the point (13, 9)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0054",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (8,8) and (12,12); R2 has corners (3,4) and (6,6); R3 has corners (5,2) and (10,4). Which regions contain the point (0, 12)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0055",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (1,3) and (6,8); R2 has corners (7,8) and (11,12). Which regions contain the point (12, 9)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0056",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (3,3) and (5,6); R2 has corners (2,1) and (5,3). Which regions contain the point (6, 15)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0057",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (3,4) and (8,7); R2 has corners (2,5) and (7,8); R3 has corners (8,7) and (10,9); R4 has corners (3,3) and (8,8). Which regions contain the point (15, 0)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0058",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (4,4) and (8,9); R2 has corners (1,6) and (3,8); R3 has corners (7,7) and (12,11). Which regions contain the point (1, 15)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0059",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (8,8) and (11,10); R2 has corners (1,7) and (5,9); R3 has corners (5,7) and (10,9). Which regions contain the point (15, 19)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0060",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,8) and (11,10); R2 has corners (3,5) and (6,10); R3 has corners (6,8) and (9,11); R4 has corners (6,8) and (9,12). Which regions contain the point (12, 13)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0061",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,8) and (9,11); R2 has corners (5,2) and (10,5); R3 has corners (3,4) and (6,9); R4 has corners (2,7) and (7,11). Which regions contain the point (7, 6)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0062",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (1,1) and (5,5); R2 has corners (6,3) and (9,5); R3 has corners (2,6) and (7,8); R4 has corners (4,2) and (7,7). Which regions contain the point (8, 10)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0063",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (1,5) and (4,7); R2 has corners (1,8) and (6,10); R3 has corners (2,2) and (4,4). Which regions contain the point (5, 20)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0064",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (4,6) and (7,10); R2 has corners (8,8) and (10,11). Which regions contain the point (20, 11)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0065",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (3,2) and (6,7); R2 has corners (7,1) and (10,6); R3 has corners (6,5) and (9,7). Which regions contain the point (8, 11)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0066",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (7,6) and (10,9); R2 has corners (7,4) and (10,9); R3 has corners (7,7) and (12,11); R4 has corners (1,8) and (4,10). Which regions contain the point (16, 2)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0067",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,6) and (11,9); R2 has corners (7,1) and (12,3). Which regions contain the point (20, 4)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0068",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (1,5) and (6,10); R2 has corners (5,6) and (9,8); R3 has corners (5,3) and (10,8); R4 has corners (4,8) and (8,13). Which regions contain the point (6, 9)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "R1, R4"
+  },
+  {
+    "task_id": "TR_medium_0069",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (1,6) and (6,9); R2 has corners (5,4) and (7,8). Which regions contain the point (16, 10)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0070",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (3,1) and (5,5); R2 has corners (4,5) and (9,7); R3 has corners (1,6) and (5,10); R4 has corners (2,1) and (4,6). Which regions contain the point (9, 18)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0071",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (1,8) and (5,11); R2 has corners (4,6) and (8,10); R3 has corners (3,7) and (6,9); R4 has corners (6,4) and (10,9). Which regions contain the point (3, 4)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0072",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (7,7) and (9,9); R2 has corners (1,7) and (4,12); R3 has corners (4,8) and (6,12); R4 has corners (7,7) and (11,12). Which regions contain the point (20, 13)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0073",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (8,7) and (11,10); R2 has corners (3,8) and (8,11); R3 has corners (2,4) and (7,9). Which regions contain the point (1, 5)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0074",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,2) and (11,4); R2 has corners (2,6) and (6,8); R3 has corners (3,2) and (7,6); R4 has corners (6,5) and (10,10). Which regions contain the point (0, 4)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0075",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (7,1) and (11,5); R2 has corners (4,3) and (9,5). Which regions contain the point (3, 17)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0076",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (2,1) and (7,6); R2 has corners (5,8) and (9,13); R3 has corners (8,3) and (11,8). Which regions contain the point (14, 14)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0077",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,2) and (11,7); R2 has corners (4,7) and (8,9). Which regions contain the point (14, 8)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0078",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (2,3) and (4,7); R2 has corners (2,2) and (5,4); R3 has corners (4,8) and (6,10); R4 has corners (3,1) and (7,4). Which regions contain the point (7, 18)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0079",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (2,6) and (7,8); R2 has corners (8,1) and (12,6); R3 has corners (3,7) and (5,11). Which regions contain the point (12, 8)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0080",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (2,2) and (5,6); R2 has corners (3,3) and (7,5). Which regions contain the point (4, 9)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0081",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (3,1) and (7,4); R2 has corners (1,1) and (5,6); R3 has corners (2,6) and (5,11). Which regions contain the point (10, 8)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0082",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (2,1) and (5,4); R2 has corners (4,8) and (9,10); R3 has corners (5,1) and (9,6). Which regions contain the point (17, 13)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0083",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (8,1) and (13,4); R2 has corners (1,5) and (3,8). Which regions contain the point (17, 20)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0084",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (5,7) and (10,9); R2 has corners (4,3) and (8,6). Which regions contain the point (7, 17)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0085",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (8,1) and (10,6); R2 has corners (5,3) and (7,5); R3 has corners (8,5) and (12,10). Which regions contain the point (11, 20)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0086",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (5,1) and (8,3); R2 has corners (5,2) and (10,4). Which regions contain the point (4, 17)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0087",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (7,4) and (11,8); R2 has corners (5,8) and (9,11); R3 has corners (6,6) and (9,11). Which regions contain the point (19, 10)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0088",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (3,1) and (8,3); R2 has corners (1,3) and (6,8). Which regions contain the point (12, 17)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0089",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (2,1) and (7,3); R2 has corners (6,7) and (10,12). Which regions contain the point (5, 0)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0090",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (8,6) and (11,11); R2 has corners (1,4) and (3,8). Which regions contain the point (11, 6)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "R1"
+  },
+  {
+    "task_id": "TR_medium_0091",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (5,4) and (8,9); R2 has corners (6,1) and (10,6). Which regions contain the point (19, 6)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0092",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (4,7) and (6,11); R2 has corners (8,3) and (11,6). Which regions contain the point (2, 18)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0093",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (2,3) and (6,6); R2 has corners (5,4) and (7,8). Which regions contain the point (17, 14)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0094",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (7,1) and (11,6); R2 has corners (7,5) and (9,10). Which regions contain the point (15, 11)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0095",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (1,4) and (3,8); R2 has corners (7,8) and (11,10); R3 has corners (7,4) and (11,6); R4 has corners (1,4) and (6,6). Which regions contain the point (7, 6)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "R3"
+  },
+  {
+    "task_id": "TR_medium_0096",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,5) and (8,7); R2 has corners (1,8) and (6,10). Which regions contain the point (18, 20)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0097",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (5,4) and (7,9); R2 has corners (4,6) and (6,10); R3 has corners (4,2) and (9,4). Which regions contain the point (20, 14)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0098",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (2,2) and (4,4); R2 has corners (7,6) and (9,9); R3 has corners (1,8) and (3,12); R4 has corners (7,2) and (9,4). Which regions contain the point (17, 1)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0099",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (7,7) and (9,12); R2 has corners (4,1) and (9,6); R3 has corners (8,7) and (10,11). Which regions contain the point (20, 0)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0100",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,4) and (8,6); R2 has corners (1,2) and (4,5); R3 has corners (5,6) and (10,11). Which regions contain the point (19, 14)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0101",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (4,3) and (6,5); R2 has corners (3,5) and (8,9). Which regions contain the point (9, 18)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0102",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (3,3) and (8,7); R2 has corners (6,5) and (10,7); R3 has corners (3,1) and (6,3); R4 has corners (7,6) and (10,9). Which regions contain the point (20, 6)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0103",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,4) and (11,9); R2 has corners (6,6) and (10,11). Which regions contain the point (10, 5)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "R1"
+  },
+  {
+    "task_id": "TR_medium_0104",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (8,1) and (13,4); R2 has corners (1,4) and (4,9). Which regions contain the point (19, 6)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0105",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (8,6) and (13,9); R2 has corners (7,3) and (9,7). Which regions contain the point (0, 2)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0106",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (1,2) and (4,6); R2 has corners (8,4) and (12,6); R3 has corners (1,4) and (4,8). Which regions contain the point (5, 7)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0107",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (3,6) and (6,9); R2 has corners (4,1) and (7,5); R3 has corners (2,1) and (5,6). Which regions contain the point (20, 3)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0108",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (4,5) and (9,8); R2 has corners (6,6) and (9,11); R3 has corners (2,2) and (5,5). Which regions contain the point (6, 6)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "R1, R2"
+  },
+  {
+    "task_id": "TR_medium_0109",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (7,6) and (11,11); R2 has corners (4,1) and (7,5); R3 has corners (3,6) and (6,8); R4 has corners (5,3) and (10,6). Which regions contain the point (2, 15)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0110",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (2,3) and (7,7); R2 has corners (8,8) and (11,12); R3 has corners (6,8) and (11,13); R4 has corners (5,7) and (7,10). Which regions contain the point (7, 6)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "R1"
+  },
+  {
+    "task_id": "TR_medium_0111",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (4,7) and (7,11); R2 has corners (7,7) and (10,11); R3 has corners (5,2) and (8,4). Which regions contain the point (9, 14)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0112",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,4) and (8,9); R2 has corners (6,7) and (11,12); R3 has corners (7,7) and (11,12); R4 has corners (6,5) and (11,7). Which regions contain the point (5, 14)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0113",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (5,2) and (9,4); R2 has corners (5,2) and (9,5). Which regions contain the point (3, 3)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0114",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,1) and (9,5); R2 has corners (4,6) and (8,10). Which regions contain the point (8, 6)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "R2"
+  },
+  {
+    "task_id": "TR_medium_0115",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (3,5) and (5,9); R2 has corners (5,6) and (10,11); R3 has corners (1,8) and (4,13); R4 has corners (4,4) and (7,9). Which regions contain the point (7, 16)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0116",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (8,8) and (12,10); R2 has corners (6,4) and (11,9); R3 has corners (4,8) and (9,10); R4 has corners (6,3) and (9,7). Which regions contain the point (0, 15)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0117",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,6) and (9,11); R2 has corners (7,7) and (11,11); R3 has corners (1,1) and (4,4); R4 has corners (6,7) and (11,10). Which regions contain the point (12, 2)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0118",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (7,4) and (12,6); R2 has corners (6,8) and (10,10); R3 has corners (3,2) and (6,4); R4 has corners (8,1) and (11,4). Which regions contain the point (2, 12)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0119",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (4,4) and (8,6); R2 has corners (8,1) and (12,3); R3 has corners (3,6) and (8,11). Which regions contain the point (5, 3)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0120",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (7,8) and (9,13); R2 has corners (4,3) and (7,7). Which regions contain the point (13, 15)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0121",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (5,4) and (10,8); R2 has corners (4,1) and (7,6). Which regions contain the point (2, 12)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0122",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (4,6) and (9,11); R2 has corners (8,1) and (10,5); R3 has corners (8,6) and (12,11); R4 has corners (3,7) and (6,10). Which regions contain the point (19, 13)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0123",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (7,3) and (9,8); R2 has corners (1,4) and (4,8); R3 has corners (5,2) and (8,7). Which regions contain the point (13, 17)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0124",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,2) and (8,6); R2 has corners (7,8) and (10,12). Which regions contain the point (6, 16)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0125",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (8,1) and (10,6); R2 has corners (7,6) and (12,9). Which regions contain the point (12, 1)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0126",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (5,2) and (8,6); R2 has corners (8,8) and (13,10). Which regions contain the point (2, 17)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0127",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (4,8) and (7,13); R2 has corners (5,3) and (8,5); R3 has corners (2,3) and (6,5); R4 has corners (7,3) and (9,5). Which regions contain the point (8, 4)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "R2, R4"
+  },
+  {
+    "task_id": "TR_medium_0128",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,3) and (9,5); R2 has corners (4,8) and (6,10); R3 has corners (7,5) and (12,7). Which regions contain the point (19, 0)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0129",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (7,4) and (10,8); R2 has corners (4,4) and (6,6). Which regions contain the point (13, 0)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0130",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,4) and (8,7); R2 has corners (2,3) and (5,5). Which regions contain the point (13, 16)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0131",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,6) and (9,9); R2 has corners (7,7) and (9,10). Which regions contain the point (6, 3)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0132",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,3) and (8,8); R2 has corners (6,1) and (11,4); R3 has corners (8,4) and (10,8). Which regions contain the point (20, 19)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0133",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (1,2) and (4,7); R2 has corners (5,8) and (7,11); R3 has corners (5,2) and (9,7). Which regions contain the point (4, 10)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0134",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,8) and (8,12); R2 has corners (1,8) and (6,11). Which regions contain the point (16, 18)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0135",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (1,4) and (3,6); R2 has corners (5,4) and (10,7); R3 has corners (2,1) and (5,5); R4 has corners (8,5) and (11,8). Which regions contain the point (12, 6)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0136",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (1,4) and (6,8); R2 has corners (3,5) and (7,7); R3 has corners (7,5) and (9,8); R4 has corners (6,6) and (9,9). Which regions contain the point (17, 1)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0137",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (4,4) and (9,8); R2 has corners (3,8) and (5,10); R3 has corners (8,2) and (11,4); R4 has corners (3,4) and (6,6). Which regions contain the point (5, 18)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0138",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (4,4) and (6,9); R2 has corners (8,5) and (11,8); R3 has corners (4,7) and (7,10); R4 has corners (5,5) and (10,8). Which regions contain the point (8, 15)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0139",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,7) and (11,10); R2 has corners (8,8) and (13,13). Which regions contain the point (4, 15)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0140",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (7,7) and (9,11); R2 has corners (3,3) and (7,8). Which regions contain the point (14, 9)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0141",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (5,7) and (10,9); R2 has corners (6,3) and (11,6); R3 has corners (3,4) and (5,6). Which regions contain the point (16, 11)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0142",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (7,7) and (12,11); R2 has corners (7,8) and (11,10); R3 has corners (7,1) and (9,6). Which regions contain the point (18, 5)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0143",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (7,5) and (11,10); R2 has corners (6,1) and (11,6). Which regions contain the point (7, 7)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "R1"
+  },
+  {
+    "task_id": "TR_medium_0144",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (1,6) and (3,9); R2 has corners (5,8) and (8,12); R3 has corners (4,3) and (6,5). Which regions contain the point (2, 20)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0145",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (7,7) and (9,10); R2 has corners (7,3) and (12,7); R3 has corners (5,7) and (9,12); R4 has corners (2,2) and (6,5). Which regions contain the point (8, 6)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "R2"
+  },
+  {
+    "task_id": "TR_medium_0146",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (7,5) and (9,8); R2 has corners (8,1) and (10,3); R3 has corners (7,7) and (11,12); R4 has corners (3,3) and (7,6). Which regions contain the point (4, 6)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "R4"
+  },
+  {
+    "task_id": "TR_medium_0147",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (3,2) and (8,5); R2 has corners (3,4) and (5,7); R3 has corners (4,5) and (9,10). Which regions contain the point (20, 19)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0148",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (3,2) and (7,4); R2 has corners (7,2) and (11,4). Which regions contain the point (10, 0)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0149",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (4,8) and (9,10); R2 has corners (1,1) and (5,3); R3 has corners (1,2) and (4,4); R4 has corners (7,5) and (12,10). Which regions contain the point (10, 19)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0150",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (6,6) and (10,10); R2 has corners (4,6) and (9,11); R3 has corners (1,6) and (5,8). Which regions contain the point (0, 14)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0151",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (7,3) and (9,5); R2 has corners (5,4) and (9,9); R3 has corners (8,7) and (11,9); R4 has corners (6,1) and (10,3). Which regions contain the point (10, 14)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0152",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (8,7) and (10,11); R2 has corners (7,8) and (9,13). Which regions contain the point (9, 19)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0153",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (3,1) and (6,6); R2 has corners (2,5) and (7,8). Which regions contain the point (14, 3)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0154",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (4,4) and (7,7); R2 has corners (2,2) and (7,4); R3 has corners (3,6) and (8,10). Which regions contain the point (7, 8)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "R3"
+  },
+  {
+    "task_id": "TR_medium_0155",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (8,2) and (11,7); R2 has corners (2,6) and (5,8); R3 has corners (6,7) and (11,12); R4 has corners (4,4) and (8,6). Which regions contain the point (9, 2)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "R1"
+  },
+  {
+    "task_id": "TR_medium_0156",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (2,6) and (5,8); R2 has corners (6,3) and (10,8). Which regions contain the point (18, 0)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0157",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (1,4) and (6,9); R2 has corners (6,6) and (9,9); R3 has corners (2,7) and (4,12). Which regions contain the point (10, 4)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0158",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (4,8) and (9,11); R2 has corners (5,3) and (7,7); R3 has corners (5,2) and (9,7). Which regions contain the point (20, 6)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0159",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (5,7) and (7,11); R2 has corners (3,4) and (6,6); R3 has corners (3,8) and (8,12). Which regions contain the point (5, 0)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0160",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (7,6) and (12,11); R2 has corners (6,7) and (11,9); R3 has corners (5,5) and (8,10); R4 has corners (2,3) and (6,5). Which regions contain the point (9, 14)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0161",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (3,3) and (8,8); R2 has corners (5,3) and (8,6); R3 has corners (4,1) and (8,3); R4 has corners (3,7) and (8,10). Which regions contain the point (1, 3)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0162",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (8,3) and (10,5); R2 has corners (6,7) and (9,12); R3 has corners (4,1) and (6,4). Which regions contain the point (12, 15)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0163",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (3,7) and (5,12); R2 has corners (7,5) and (12,9); R3 has corners (1,2) and (3,4). Which regions contain the point (3, 15)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0164",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (4,1) and (9,5); R2 has corners (2,3) and (7,8); R3 has corners (7,5) and (10,7); R4 has corners (6,2) and (9,7). Which regions contain the point (0, 12)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0165",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (8,2) and (10,5); R2 has corners (2,3) and (5,5); R3 has corners (8,6) and (10,8); R4 has corners (3,4) and (6,6). Which regions contain the point (17, 8)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0166",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (2,2) and (6,6); R2 has corners (3,7) and (5,10). Which regions contain the point (9, 1)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  },
+  {
+    "task_id": "TR_medium_0167",
+    "category": "topological_reasoning",
+    "difficulty": "medium",
+    "prompt": "Given regions: R1 has corners (5,8) and (8,13); R2 has corners (6,6) and (9,8); R3 has corners (1,4) and (3,7); R4 has corners (3,5) and (6,8). Which regions contain the point (19, 17)? Answer with region labels separated by commas, or 'None' if no region contains it.",
+    "ground_truth": "None"
+  }
+]

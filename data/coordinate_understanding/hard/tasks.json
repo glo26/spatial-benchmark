@@ -1,2377 +1,1171 @@
 [
   {
-    "id": "CU-H-001",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (31, 4) and (77, 54). Is the point (87, 6) inside this region?",
-    "polygon": {
-      "x1": 31,
-      "y1": 4,
-      "x2": 77,
-      "y2": 54
-    },
-    "test_point": {
-      "x": 87,
-      "y": 6
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-002",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (9, 9) and (55, 38). Is the point (10, 31) inside this region?",
-    "polygon": {
-      "x1": 9,
-      "y1": 9,
-      "x2": 55,
-      "y2": 38
-    },
-    "test_point": {
-      "x": 10,
-      "y": 31
-    },
-    "answer": true,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-003",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (7, 35) and (43, 83). Is the point (76, 79) inside this region?",
-    "polygon": {
-      "x1": 7,
-      "y1": 35,
-      "x2": 43,
-      "y2": 83
-    },
-    "test_point": {
-      "x": 76,
-      "y": 79
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-004",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (14, 49) and (57, 83). Is the point (57, 56) inside this region?",
-    "polygon": {
-      "x1": 14,
-      "y1": 49,
-      "x2": 57,
-      "y2": 83
-    },
-    "test_point": {
-      "x": 57,
-      "y": 56
-    },
-    "answer": true,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-005",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (19, 37) and (56, 66). Is the point (72, 79) inside this region?",
-    "polygon": {
-      "x1": 19,
-      "y1": 37,
-      "x2": 56,
-      "y2": 66
-    },
-    "test_point": {
-      "x": 72,
-      "y": 79
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-006",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (3, 39) and (19, 62). Is the point (80, 27) inside this region?",
-    "polygon": {
-      "x1": 3,
-      "y1": 39,
-      "x2": 19,
-      "y2": 62
-    },
-    "test_point": {
-      "x": 80,
-      "y": 27
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-007",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (16, 42) and (31, 62). Is the point (30, 22) inside this region?",
-    "polygon": {
-      "x1": 16,
-      "y1": 42,
-      "x2": 31,
-      "y2": 62
-    },
-    "test_point": {
-      "x": 30,
-      "y": 22
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-008",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (35, 4) and (55, 14). Is the point (52, 57) inside this region?",
-    "polygon": {
-      "x1": 35,
-      "y1": 4,
-      "x2": 55,
-      "y2": 14
-    },
-    "test_point": {
-      "x": 52,
-      "y": 57
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-009",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (44, 38) and (84, 66). Is the point (4, 29) inside this region?",
-    "polygon": {
-      "x1": 44,
-      "y1": 38,
-      "x2": 84,
-      "y2": 66
-    },
-    "test_point": {
-      "x": 4,
-      "y": 29
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-010",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (18, 45) and (46, 84). Is the point (9, 87) inside this region?",
-    "polygon": {
-      "x1": 18,
-      "y1": 45,
-      "x2": 46,
-      "y2": 84
-    },
-    "test_point": {
-      "x": 9,
-      "y": 87
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-011",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (14, 16) and (64, 63). Is the point (84, 25) inside this region?",
-    "polygon": {
-      "x1": 14,
-      "y1": 16,
-      "x2": 64,
-      "y2": 63
-    },
-    "test_point": {
-      "x": 84,
-      "y": 25
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-012",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (27, 7) and (71, 31). Is the point (82, 19) inside this region?",
-    "polygon": {
-      "x1": 27,
-      "y1": 7,
-      "x2": 71,
-      "y2": 31
-    },
-    "test_point": {
-      "x": 82,
-      "y": 19
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-013",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (17, 9) and (31, 22). Is the point (21, 39) inside this region?",
-    "polygon": {
-      "x1": 17,
-      "y1": 9,
-      "x2": 31,
-      "y2": 22
-    },
-    "test_point": {
-      "x": 21,
-      "y": 39
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-014",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (38, 47) and (84, 75). Is the point (56, 15) inside this region?",
-    "polygon": {
-      "x1": 38,
-      "y1": 47,
-      "x2": 84,
-      "y2": 75
-    },
-    "test_point": {
-      "x": 56,
-      "y": 15
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-015",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (29, 44) and (58, 79). Is the point (34, 64) inside this region?",
-    "polygon": {
-      "x1": 29,
-      "y1": 44,
-      "x2": 58,
-      "y2": 79
-    },
-    "test_point": {
-      "x": 34,
-      "y": 64
-    },
-    "answer": true,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-016",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (34, 31) and (72, 46). Is the point (76, 5) inside this region?",
-    "polygon": {
-      "x1": 34,
-      "y1": 31,
-      "x2": 72,
-      "y2": 46
-    },
-    "test_point": {
-      "x": 76,
-      "y": 5
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-017",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (27, 47) and (57, 95). Is the point (32, 3) inside this region?",
-    "polygon": {
-      "x1": 27,
-      "y1": 47,
-      "x2": 57,
-      "y2": 95
-    },
-    "test_point": {
-      "x": 32,
-      "y": 3
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-018",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (5, 14) and (51, 61). Is the point (2, 97) inside this region?",
-    "polygon": {
-      "x1": 5,
-      "y1": 14,
-      "x2": 51,
-      "y2": 61
-    },
-    "test_point": {
-      "x": 2,
-      "y": 97
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-019",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (43, 17) and (89, 29). Is the point (97, 96) inside this region?",
-    "polygon": {
-      "x1": 43,
-      "y1": 17,
-      "x2": 89,
-      "y2": 29
-    },
-    "test_point": {
-      "x": 97,
-      "y": 96
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-020",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (11, 30) and (54, 68). Is the point (35, 23) inside this region?",
-    "polygon": {
-      "x1": 11,
-      "y1": 30,
-      "x2": 54,
-      "y2": 68
-    },
-    "test_point": {
-      "x": 35,
-      "y": 23
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-021",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (37, 27) and (87, 68). Is the point (11, 60) inside this region?",
-    "polygon": {
-      "x1": 37,
-      "y1": 27,
-      "x2": 87,
-      "y2": 68
-    },
-    "test_point": {
-      "x": 11,
-      "y": 60
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-022",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (22, 26) and (53, 56). Is the point (85, 13) inside this region?",
-    "polygon": {
-      "x1": 22,
-      "y1": 26,
-      "x2": 53,
-      "y2": 56
-    },
-    "test_point": {
-      "x": 85,
-      "y": 13
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-023",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (10, 21) and (46, 62). Is the point (36, 84) inside this region?",
-    "polygon": {
-      "x1": 10,
-      "y1": 21,
-      "x2": 46,
-      "y2": 62
-    },
-    "test_point": {
-      "x": 36,
-      "y": 84
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-024",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (25, 48) and (70, 60). Is the point (58, 11) inside this region?",
-    "polygon": {
-      "x1": 25,
-      "y1": 48,
-      "x2": 70,
-      "y2": 60
-    },
-    "test_point": {
-      "x": 58,
-      "y": 11
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-025",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (20, 16) and (50, 33). Is the point (98, 51) inside this region?",
-    "polygon": {
-      "x1": 20,
-      "y1": 16,
-      "x2": 50,
-      "y2": 33
-    },
-    "test_point": {
-      "x": 98,
-      "y": 51
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-026",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (32, 0) and (76, 39). Is the point (52, 6) inside this region?",
-    "polygon": {
-      "x1": 32,
-      "y1": 0,
-      "x2": 76,
-      "y2": 39
-    },
-    "test_point": {
-      "x": 52,
-      "y": 6
-    },
-    "answer": true,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-027",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (12, 33) and (45, 82). Is the point (96, 63) inside this region?",
-    "polygon": {
-      "x1": 12,
-      "y1": 33,
-      "x2": 45,
-      "y2": 82
-    },
-    "test_point": {
-      "x": 96,
-      "y": 63
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-028",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (40, 28) and (53, 51). Is the point (34, 70) inside this region?",
-    "polygon": {
-      "x1": 40,
-      "y1": 28,
-      "x2": 53,
-      "y2": 51
-    },
-    "test_point": {
-      "x": 34,
-      "y": 70
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-029",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (8, 18) and (46, 59). Is the point (15, 3) inside this region?",
-    "polygon": {
-      "x1": 8,
-      "y1": 18,
-      "x2": 46,
-      "y2": 59
-    },
-    "test_point": {
-      "x": 15,
-      "y": 3
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-030",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (40, 38) and (65, 58). Is the point (39, 70) inside this region?",
-    "polygon": {
-      "x1": 40,
-      "y1": 38,
-      "x2": 65,
-      "y2": 58
-    },
-    "test_point": {
-      "x": 39,
-      "y": 70
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-031",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (0, 35) and (36, 50). Is the point (28, 14) inside this region?",
-    "polygon": {
-      "x1": 0,
-      "y1": 35,
-      "x2": 36,
-      "y2": 50
-    },
-    "test_point": {
-      "x": 28,
-      "y": 14
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-032",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (29, 7) and (48, 48). Is the point (91, 37) inside this region?",
-    "polygon": {
-      "x1": 29,
-      "y1": 7,
-      "x2": 48,
-      "y2": 48
-    },
-    "test_point": {
-      "x": 91,
-      "y": 37
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-033",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (32, 45) and (59, 81). Is the point (61, 60) inside this region?",
-    "polygon": {
-      "x1": 32,
-      "y1": 45,
-      "x2": 59,
-      "y2": 81
-    },
-    "test_point": {
-      "x": 61,
-      "y": 60
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-034",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (15, 29) and (60, 48). Is the point (49, 24) inside this region?",
-    "polygon": {
-      "x1": 15,
-      "y1": 29,
-      "x2": 60,
-      "y2": 48
-    },
-    "test_point": {
-      "x": 49,
-      "y": 24
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-035",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (38, 32) and (56, 46). Is the point (35, 98) inside this region?",
-    "polygon": {
-      "x1": 38,
-      "y1": 32,
-      "x2": 56,
-      "y2": 46
-    },
-    "test_point": {
-      "x": 35,
-      "y": 98
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-036",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (50, 26) and (81, 68). Is the point (34, 0) inside this region?",
-    "polygon": {
-      "x1": 50,
-      "y1": 26,
-      "x2": 81,
-      "y2": 68
-    },
-    "test_point": {
-      "x": 34,
-      "y": 0
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-037",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (18, 46) and (47, 93). Is the point (74, 84) inside this region?",
-    "polygon": {
-      "x1": 18,
-      "y1": 46,
-      "x2": 47,
-      "y2": 93
-    },
-    "test_point": {
-      "x": 74,
-      "y": 84
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-038",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (31, 9) and (69, 53). Is the point (61, 44) inside this region?",
-    "polygon": {
-      "x1": 31,
-      "y1": 9,
-      "x2": 69,
-      "y2": 53
-    },
-    "test_point": {
-      "x": 61,
-      "y": 44
-    },
-    "answer": true,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-039",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (21, 35) and (65, 69). Is the point (58, 41) inside this region?",
-    "polygon": {
-      "x1": 21,
-      "y1": 35,
-      "x2": 65,
-      "y2": 69
-    },
-    "test_point": {
-      "x": 58,
-      "y": 41
-    },
-    "answer": true,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-040",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (12, 44) and (37, 90). Is the point (49, 29) inside this region?",
-    "polygon": {
-      "x1": 12,
-      "y1": 44,
-      "x2": 37,
-      "y2": 90
-    },
-    "test_point": {
-      "x": 49,
-      "y": 29
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-041",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (49, 26) and (61, 56). Is the point (95, 60) inside this region?",
-    "polygon": {
-      "x1": 49,
-      "y1": 26,
-      "x2": 61,
-      "y2": 56
-    },
-    "test_point": {
-      "x": 95,
-      "y": 60
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-042",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (45, 24) and (79, 43). Is the point (63, 4) inside this region?",
-    "polygon": {
-      "x1": 45,
-      "y1": 24,
-      "x2": 79,
-      "y2": 43
-    },
-    "test_point": {
-      "x": 63,
-      "y": 4
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-043",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (8, 32) and (55, 63). Is the point (12, 56) inside this region?",
-    "polygon": {
-      "x1": 8,
-      "y1": 32,
-      "x2": 55,
-      "y2": 63
-    },
-    "test_point": {
-      "x": 12,
-      "y": 56
-    },
-    "answer": true,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-044",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (6, 33) and (45, 43). Is the point (92, 18) inside this region?",
-    "polygon": {
-      "x1": 6,
-      "y1": 33,
-      "x2": 45,
-      "y2": 43
-    },
-    "test_point": {
-      "x": 92,
-      "y": 18
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-045",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (26, 41) and (45, 55). Is the point (60, 100) inside this region?",
-    "polygon": {
-      "x1": 26,
-      "y1": 41,
-      "x2": 45,
-      "y2": 55
-    },
-    "test_point": {
-      "x": 60,
-      "y": 100
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-046",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (16, 21) and (65, 56). Is the point (83, 10) inside this region?",
-    "polygon": {
-      "x1": 16,
-      "y1": 21,
-      "x2": 65,
-      "y2": 56
-    },
-    "test_point": {
-      "x": 83,
-      "y": 10
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-047",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (21, 43) and (65, 77). Is the point (40, 80) inside this region?",
-    "polygon": {
-      "x1": 21,
-      "y1": 43,
-      "x2": 65,
-      "y2": 77
-    },
-    "test_point": {
-      "x": 40,
-      "y": 80
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-048",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (45, 48) and (86, 92). Is the point (4, 79) inside this region?",
-    "polygon": {
-      "x1": 45,
-      "y1": 48,
-      "x2": 86,
-      "y2": 92
-    },
-    "test_point": {
-      "x": 4,
-      "y": 79
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-049",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (4, 15) and (54, 43). Is the point (29, 95) inside this region?",
-    "polygon": {
-      "x1": 4,
-      "y1": 15,
-      "x2": 54,
-      "y2": 43
-    },
-    "test_point": {
-      "x": 29,
-      "y": 95
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-050",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (5, 27) and (21, 77). Is the point (90, 12) inside this region?",
-    "polygon": {
-      "x1": 5,
-      "y1": 27,
-      "x2": 21,
-      "y2": 77
-    },
-    "test_point": {
-      "x": 90,
-      "y": 12
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-051",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (28, 10) and (57, 21). Is the point (5, 41) inside this region?",
-    "polygon": {
-      "x1": 28,
-      "y1": 10,
-      "x2": 57,
-      "y2": 21
-    },
-    "test_point": {
-      "x": 5,
-      "y": 41
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-052",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (50, 3) and (78, 35). Is the point (47, 55) inside this region?",
-    "polygon": {
-      "x1": 50,
-      "y1": 3,
-      "x2": 78,
-      "y2": 35
-    },
-    "test_point": {
-      "x": 47,
-      "y": 55
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-053",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (9, 15) and (52, 51). Is the point (72, 87) inside this region?",
-    "polygon": {
-      "x1": 9,
-      "y1": 15,
-      "x2": 52,
-      "y2": 51
-    },
-    "test_point": {
-      "x": 72,
-      "y": 87
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-054",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (50, 11) and (70, 32). Is the point (10, 78) inside this region?",
-    "polygon": {
-      "x1": 50,
-      "y1": 11,
-      "x2": 70,
-      "y2": 32
-    },
-    "test_point": {
-      "x": 10,
-      "y": 78
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-055",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (24, 39) and (49, 80). Is the point (74, 18) inside this region?",
-    "polygon": {
-      "x1": 24,
-      "y1": 39,
-      "x2": 49,
-      "y2": 80
-    },
-    "test_point": {
-      "x": 74,
-      "y": 18
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-056",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (14, 29) and (64, 55). Is the point (58, 32) inside this region?",
-    "polygon": {
-      "x1": 14,
-      "y1": 29,
-      "x2": 64,
-      "y2": 55
-    },
-    "test_point": {
-      "x": 58,
-      "y": 32
-    },
-    "answer": true,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-057",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (42, 0) and (81, 28). Is the point (86, 69) inside this region?",
-    "polygon": {
-      "x1": 42,
-      "y1": 0,
-      "x2": 81,
-      "y2": 28
-    },
-    "test_point": {
-      "x": 86,
-      "y": 69
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-058",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (10, 4) and (48, 36). Is the point (75, 38) inside this region?",
-    "polygon": {
-      "x1": 10,
-      "y1": 4,
-      "x2": 48,
-      "y2": 36
-    },
-    "test_point": {
-      "x": 75,
-      "y": 38
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-059",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (40, 27) and (66, 66). Is the point (38, 25) inside this region?",
-    "polygon": {
-      "x1": 40,
-      "y1": 27,
-      "x2": 66,
-      "y2": 66
-    },
-    "test_point": {
-      "x": 38,
-      "y": 25
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-060",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (24, 30) and (40, 55). Is the point (48, 73) inside this region?",
-    "polygon": {
-      "x1": 24,
-      "y1": 30,
-      "x2": 40,
-      "y2": 55
-    },
-    "test_point": {
-      "x": 48,
-      "y": 73
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-061",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (22, 36) and (50, 64). Is the point (2, 84) inside this region?",
-    "polygon": {
-      "x1": 22,
-      "y1": 36,
-      "x2": 50,
-      "y2": 64
-    },
-    "test_point": {
-      "x": 2,
-      "y": 84
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-062",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (25, 17) and (35, 63). Is the point (87, 99) inside this region?",
-    "polygon": {
-      "x1": 25,
-      "y1": 17,
-      "x2": 35,
-      "y2": 63
-    },
-    "test_point": {
-      "x": 87,
-      "y": 99
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-063",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (47, 3) and (95, 44). Is the point (36, 99) inside this region?",
-    "polygon": {
-      "x1": 47,
-      "y1": 3,
-      "x2": 95,
-      "y2": 44
-    },
-    "test_point": {
-      "x": 36,
-      "y": 99
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-064",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (14, 38) and (46, 62). Is the point (81, 24) inside this region?",
-    "polygon": {
-      "x1": 14,
-      "y1": 38,
-      "x2": 46,
-      "y2": 62
-    },
-    "test_point": {
-      "x": 81,
-      "y": 24
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-065",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (39, 16) and (57, 66). Is the point (12, 80) inside this region?",
-    "polygon": {
-      "x1": 39,
-      "y1": 16,
-      "x2": 57,
-      "y2": 66
-    },
-    "test_point": {
-      "x": 12,
-      "y": 80
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-066",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (41, 2) and (70, 40). Is the point (4, 74) inside this region?",
-    "polygon": {
-      "x1": 41,
-      "y1": 2,
-      "x2": 70,
-      "y2": 40
-    },
-    "test_point": {
-      "x": 4,
-      "y": 74
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-067",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (23, 46) and (41, 61). Is the point (37, 41) inside this region?",
-    "polygon": {
-      "x1": 23,
-      "y1": 46,
-      "x2": 41,
-      "y2": 61
-    },
-    "test_point": {
-      "x": 37,
-      "y": 41
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-068",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (47, 26) and (68, 48). Is the point (16, 100) inside this region?",
-    "polygon": {
-      "x1": 47,
-      "y1": 26,
-      "x2": 68,
-      "y2": 48
-    },
-    "test_point": {
-      "x": 16,
-      "y": 100
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-069",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (34, 23) and (77, 65). Is the point (34, 21) inside this region?",
-    "polygon": {
-      "x1": 34,
-      "y1": 23,
-      "x2": 77,
-      "y2": 65
-    },
-    "test_point": {
-      "x": 34,
-      "y": 21
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-070",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (16, 30) and (44, 61). Is the point (14, 59) inside this region?",
-    "polygon": {
-      "x1": 16,
-      "y1": 30,
-      "x2": 44,
-      "y2": 61
-    },
-    "test_point": {
-      "x": 14,
-      "y": 59
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-071",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (4, 9) and (28, 44). Is the point (71, 46) inside this region?",
-    "polygon": {
-      "x1": 4,
-      "y1": 9,
-      "x2": 28,
-      "y2": 44
-    },
-    "test_point": {
-      "x": 71,
-      "y": 46
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-072",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (5, 50) and (40, 60). Is the point (33, 68) inside this region?",
-    "polygon": {
-      "x1": 5,
-      "y1": 50,
-      "x2": 40,
-      "y2": 60
-    },
-    "test_point": {
-      "x": 33,
-      "y": 68
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-073",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (7, 29) and (40, 55). Is the point (74, 48) inside this region?",
-    "polygon": {
-      "x1": 7,
-      "y1": 29,
-      "x2": 40,
-      "y2": 55
-    },
-    "test_point": {
-      "x": 74,
-      "y": 48
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-074",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (40, 23) and (56, 47). Is the point (60, 3) inside this region?",
-    "polygon": {
-      "x1": 40,
-      "y1": 23,
-      "x2": 56,
-      "y2": 47
-    },
-    "test_point": {
-      "x": 60,
-      "y": 3
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-075",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (39, 35) and (69, 84). Is the point (28, 82) inside this region?",
-    "polygon": {
-      "x1": 39,
-      "y1": 35,
-      "x2": 69,
-      "y2": 84
-    },
-    "test_point": {
-      "x": 28,
-      "y": 82
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-076",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (4, 40) and (43, 69). Is the point (83, 52) inside this region?",
-    "polygon": {
-      "x1": 4,
-      "y1": 40,
-      "x2": 43,
-      "y2": 69
-    },
-    "test_point": {
-      "x": 83,
-      "y": 52
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-077",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (7, 8) and (19, 20). Is the point (38, 63) inside this region?",
-    "polygon": {
-      "x1": 7,
-      "y1": 8,
-      "x2": 19,
-      "y2": 20
-    },
-    "test_point": {
-      "x": 38,
-      "y": 63
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-078",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (7, 6) and (32, 50). Is the point (17, 49) inside this region?",
-    "polygon": {
-      "x1": 7,
-      "y1": 6,
-      "x2": 32,
-      "y2": 50
-    },
-    "test_point": {
-      "x": 17,
-      "y": 49
-    },
-    "answer": true,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-079",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (29, 23) and (73, 59). Is the point (75, 95) inside this region?",
-    "polygon": {
-      "x1": 29,
-      "y1": 23,
-      "x2": 73,
-      "y2": 59
-    },
-    "test_point": {
-      "x": 75,
-      "y": 95
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-080",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (46, 9) and (82, 25). Is the point (62, 78) inside this region?",
-    "polygon": {
-      "x1": 46,
-      "y1": 9,
-      "x2": 82,
-      "y2": 25
-    },
-    "test_point": {
-      "x": 62,
-      "y": 78
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-081",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (26, 17) and (38, 50). Is the point (27, 56) inside this region?",
-    "polygon": {
-      "x1": 26,
-      "y1": 17,
-      "x2": 38,
-      "y2": 50
-    },
-    "test_point": {
-      "x": 27,
-      "y": 56
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-082",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (28, 15) and (61, 31). Is the point (87, 47) inside this region?",
-    "polygon": {
-      "x1": 28,
-      "y1": 15,
-      "x2": 61,
-      "y2": 31
-    },
-    "test_point": {
-      "x": 87,
-      "y": 47
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-083",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (34, 41) and (66, 54). Is the point (50, 35) inside this region?",
-    "polygon": {
-      "x1": 34,
-      "y1": 41,
-      "x2": 66,
-      "y2": 54
-    },
-    "test_point": {
-      "x": 50,
-      "y": 35
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-084",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (12, 7) and (51, 22). Is the point (84, 27) inside this region?",
-    "polygon": {
-      "x1": 12,
-      "y1": 7,
-      "x2": 51,
-      "y2": 22
-    },
-    "test_point": {
-      "x": 84,
-      "y": 27
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-085",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (41, 40) and (89, 51). Is the point (6, 100) inside this region?",
-    "polygon": {
-      "x1": 41,
-      "y1": 40,
-      "x2": 89,
-      "y2": 51
-    },
-    "test_point": {
-      "x": 6,
-      "y": 100
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-086",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (21, 15) and (39, 61). Is the point (26, 8) inside this region?",
-    "polygon": {
-      "x1": 21,
-      "y1": 15,
-      "x2": 39,
-      "y2": 61
-    },
-    "test_point": {
-      "x": 26,
-      "y": 8
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-087",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (48, 35) and (71, 82). Is the point (27, 29) inside this region?",
-    "polygon": {
-      "x1": 48,
-      "y1": 35,
-      "x2": 71,
-      "y2": 82
-    },
-    "test_point": {
-      "x": 27,
-      "y": 29
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-088",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (21, 49) and (40, 97). Is the point (0, 35) inside this region?",
-    "polygon": {
-      "x1": 21,
-      "y1": 49,
-      "x2": 40,
-      "y2": 97
-    },
-    "test_point": {
-      "x": 0,
-      "y": 35
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-089",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (9, 8) and (53, 34). Is the point (22, 14) inside this region?",
-    "polygon": {
-      "x1": 9,
-      "y1": 8,
-      "x2": 53,
-      "y2": 34
-    },
-    "test_point": {
-      "x": 22,
-      "y": 14
-    },
-    "answer": true,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-090",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (42, 1) and (60, 11). Is the point (45, 100) inside this region?",
-    "polygon": {
-      "x1": 42,
-      "y1": 1,
-      "x2": 60,
-      "y2": 11
-    },
-    "test_point": {
-      "x": 45,
-      "y": 100
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-091",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (15, 37) and (45, 48). Is the point (22, 33) inside this region?",
-    "polygon": {
-      "x1": 15,
-      "y1": 37,
-      "x2": 45,
-      "y2": 48
-    },
-    "test_point": {
-      "x": 22,
-      "y": 33
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-092",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (3, 8) and (39, 51). Is the point (14, 95) inside this region?",
-    "polygon": {
-      "x1": 3,
-      "y1": 8,
-      "x2": 39,
-      "y2": 51
-    },
-    "test_point": {
-      "x": 14,
-      "y": 95
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-093",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (4, 30) and (42, 63). Is the point (65, 75) inside this region?",
-    "polygon": {
-      "x1": 4,
-      "y1": 30,
-      "x2": 42,
-      "y2": 63
-    },
-    "test_point": {
-      "x": 65,
-      "y": 75
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-094",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (6, 28) and (48, 52). Is the point (78, 5) inside this region?",
-    "polygon": {
-      "x1": 6,
-      "y1": 28,
-      "x2": 48,
-      "y2": 52
-    },
-    "test_point": {
-      "x": 78,
-      "y": 5
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-095",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (46, 50) and (89, 79). Is the point (58, 82) inside this region?",
-    "polygon": {
-      "x1": 46,
-      "y1": 50,
-      "x2": 89,
-      "y2": 79
-    },
-    "test_point": {
-      "x": 58,
-      "y": 82
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-096",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (1, 3) and (41, 38). Is the point (54, 87) inside this region?",
-    "polygon": {
-      "x1": 1,
-      "y1": 3,
-      "x2": 41,
-      "y2": 38
-    },
-    "test_point": {
-      "x": 54,
-      "y": 87
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-097",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (6, 31) and (44, 45). Is the point (10, 41) inside this region?",
-    "polygon": {
-      "x1": 6,
-      "y1": 31,
-      "x2": 44,
-      "y2": 45
-    },
-    "test_point": {
-      "x": 10,
-      "y": 41
-    },
-    "answer": true,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-098",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (38, 9) and (52, 27). Is the point (35, 79) inside this region?",
-    "polygon": {
-      "x1": 38,
-      "y1": 9,
-      "x2": 52,
-      "y2": 27
-    },
-    "test_point": {
-      "x": 35,
-      "y": 79
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-099",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (40, 37) and (85, 67). Is the point (48, 76) inside this region?",
-    "polygon": {
-      "x1": 40,
-      "y1": 37,
-      "x2": 85,
-      "y2": 67
-    },
-    "test_point": {
-      "x": 48,
-      "y": 76
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-100",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (33, 18) and (72, 60). Is the point (77, 55) inside this region?",
-    "polygon": {
-      "x1": 33,
-      "y1": 18,
-      "x2": 72,
-      "y2": 60
-    },
-    "test_point": {
-      "x": 77,
-      "y": 55
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-101",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (6, 50) and (23, 95). Is the point (92, 27) inside this region?",
-    "polygon": {
-      "x1": 6,
-      "y1": 50,
-      "x2": 23,
-      "y2": 95
-    },
-    "test_point": {
-      "x": 92,
-      "y": 27
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-102",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (27, 28) and (51, 64). Is the point (43, 58) inside this region?",
-    "polygon": {
-      "x1": 27,
-      "y1": 28,
-      "x2": 51,
-      "y2": 64
-    },
-    "test_point": {
-      "x": 43,
-      "y": 58
-    },
-    "answer": true,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-103",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (25, 26) and (41, 56). Is the point (54, 40) inside this region?",
-    "polygon": {
-      "x1": 25,
-      "y1": 26,
-      "x2": 41,
-      "y2": 56
-    },
-    "test_point": {
-      "x": 54,
-      "y": 40
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-104",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (42, 16) and (75, 35). Is the point (87, 60) inside this region?",
-    "polygon": {
-      "x1": 42,
-      "y1": 16,
-      "x2": 75,
-      "y2": 35
-    },
-    "test_point": {
-      "x": 87,
-      "y": 60
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-105",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (4, 5) and (19, 20). Is the point (55, 12) inside this region?",
-    "polygon": {
-      "x1": 4,
-      "y1": 5,
-      "x2": 19,
-      "y2": 20
-    },
-    "test_point": {
-      "x": 55,
-      "y": 12
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-106",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (47, 47) and (80, 65). Is the point (71, 7) inside this region?",
-    "polygon": {
-      "x1": 47,
-      "y1": 47,
-      "x2": 80,
-      "y2": 65
-    },
-    "test_point": {
-      "x": 71,
-      "y": 7
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-107",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (37, 35) and (82, 66). Is the point (85, 15) inside this region?",
-    "polygon": {
-      "x1": 37,
-      "y1": 35,
-      "x2": 82,
-      "y2": 66
-    },
-    "test_point": {
-      "x": 85,
-      "y": 15
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-108",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (26, 22) and (63, 35). Is the point (36, 76) inside this region?",
-    "polygon": {
-      "x1": 26,
-      "y1": 22,
-      "x2": 63,
-      "y2": 35
-    },
-    "test_point": {
-      "x": 36,
-      "y": 76
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-109",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (19, 22) and (35, 68). Is the point (64, 27) inside this region?",
-    "polygon": {
-      "x1": 19,
-      "y1": 22,
-      "x2": 35,
-      "y2": 68
-    },
-    "test_point": {
-      "x": 64,
-      "y": 27
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-110",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (9, 42) and (49, 66). Is the point (13, 44) inside this region?",
-    "polygon": {
-      "x1": 9,
-      "y1": 42,
-      "x2": 49,
-      "y2": 66
-    },
-    "test_point": {
-      "x": 13,
-      "y": 44
-    },
-    "answer": true,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-111",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (35, 23) and (52, 50). Is the point (73, 28) inside this region?",
-    "polygon": {
-      "x1": 35,
-      "y1": 23,
-      "x2": 52,
-      "y2": 50
-    },
-    "test_point": {
-      "x": 73,
-      "y": 28
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-112",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (27, 35) and (76, 84). Is the point (86, 82) inside this region?",
-    "polygon": {
-      "x1": 27,
-      "y1": 35,
-      "x2": 76,
-      "y2": 84
-    },
-    "test_point": {
-      "x": 86,
-      "y": 82
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-113",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (35, 1) and (83, 28). Is the point (3, 23) inside this region?",
-    "polygon": {
-      "x1": 35,
-      "y1": 1,
-      "x2": 83,
-      "y2": 28
-    },
-    "test_point": {
-      "x": 3,
-      "y": 23
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-114",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (17, 44) and (46, 75). Is the point (44, 0) inside this region?",
-    "polygon": {
-      "x1": 17,
-      "y1": 44,
-      "x2": 46,
-      "y2": 75
-    },
-    "test_point": {
-      "x": 44,
-      "y": 0
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-115",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (11, 9) and (57, 44). Is the point (8, 18) inside this region?",
-    "polygon": {
-      "x1": 11,
-      "y1": 9,
-      "x2": 57,
-      "y2": 44
-    },
-    "test_point": {
-      "x": 8,
-      "y": 18
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-116",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (47, 40) and (58, 55). Is the point (95, 67) inside this region?",
-    "polygon": {
-      "x1": 47,
-      "y1": 40,
-      "x2": 58,
-      "y2": 55
-    },
-    "test_point": {
-      "x": 95,
-      "y": 67
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-117",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (13, 24) and (49, 63). Is the point (43, 20) inside this region?",
-    "polygon": {
-      "x1": 13,
-      "y1": 24,
-      "x2": 49,
-      "y2": 63
-    },
-    "test_point": {
-      "x": 43,
-      "y": 20
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-118",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (23, 19) and (53, 65). Is the point (76, 10) inside this region?",
-    "polygon": {
-      "x1": 23,
-      "y1": 19,
-      "x2": 53,
-      "y2": 65
-    },
-    "test_point": {
-      "x": 76,
-      "y": 10
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-119",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (3, 9) and (23, 58). Is the point (6, 86) inside this region?",
-    "polygon": {
-      "x1": 3,
-      "y1": 9,
-      "x2": 23,
-      "y2": 58
-    },
-    "test_point": {
-      "x": 6,
-      "y": 86
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-120",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (5, 17) and (43, 54). Is the point (62, 77) inside this region?",
-    "polygon": {
-      "x1": 5,
-      "y1": 17,
-      "x2": 43,
-      "y2": 54
-    },
-    "test_point": {
-      "x": 62,
-      "y": 77
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-121",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (28, 26) and (55, 49). Is the point (96, 65) inside this region?",
-    "polygon": {
-      "x1": 28,
-      "y1": 26,
-      "x2": 55,
-      "y2": 49
-    },
-    "test_point": {
-      "x": 96,
-      "y": 65
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-122",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (7, 22) and (44, 39). Is the point (36, 86) inside this region?",
-    "polygon": {
-      "x1": 7,
-      "y1": 22,
-      "x2": 44,
-      "y2": 39
-    },
-    "test_point": {
-      "x": 36,
-      "y": 86
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-123",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (43, 37) and (84, 80). Is the point (85, 39) inside this region?",
-    "polygon": {
-      "x1": 43,
-      "y1": 37,
-      "x2": 84,
-      "y2": 80
-    },
-    "test_point": {
-      "x": 85,
-      "y": 39
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-124",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (2, 14) and (37, 62). Is the point (7, 0) inside this region?",
-    "polygon": {
-      "x1": 2,
-      "y1": 14,
-      "x2": 37,
-      "y2": 62
-    },
-    "test_point": {
-      "x": 7,
-      "y": 0
-    },
-    "answer": false,
-    "reasoning_steps": 5
-  },
-  {
-    "id": "CU-H-125",
-    "category": "coordinate_understanding",
-    "difficulty": "hard",
-    "task_type": "polygon_containment",
-    "question": "A rectangular region is defined by corners (13, 19) and (36, 37). Is the point (97, 32) inside this region?",
-    "polygon": {
-      "x1": 13,
-      "y1": 19,
-      "x2": 36,
-      "y2": 37
-    },
-    "test_point": {
-      "x": 97,
-      "y": 32
-    },
-    "answer": false,
-    "reasoning_steps": 5
+    "task_id": "CU_hard_0001",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (6, 5) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-6, -5)"
+  },
+  {
+    "task_id": "CU_hard_0002",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 7) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(7, -2)"
+  },
+  {
+    "task_id": "CU_hard_0003",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (1, 9) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-1, -9)"
+  },
+  {
+    "task_id": "CU_hard_0004",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (7, 1) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-1, 7)"
+  },
+  {
+    "task_id": "CU_hard_0005",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (9, 6) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(6, -9)"
+  },
+  {
+    "task_id": "CU_hard_0006",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (8, 8) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-8, 8)"
+  },
+  {
+    "task_id": "CU_hard_0007",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (4, 5) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(5, -4)"
+  },
+  {
+    "task_id": "CU_hard_0008",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (3, 5) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-3, -5)"
+  },
+  {
+    "task_id": "CU_hard_0009",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (8, 2) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-2, 8)"
+  },
+  {
+    "task_id": "CU_hard_0010",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (10, 4) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(4, -10)"
+  },
+  {
+    "task_id": "CU_hard_0011",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (3, 5) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(5, -3)"
+  },
+  {
+    "task_id": "CU_hard_0012",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (1, 9) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-1, -9)"
+  },
+  {
+    "task_id": "CU_hard_0013",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 4) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-4, 2)"
+  },
+  {
+    "task_id": "CU_hard_0014",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (8, 2) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(2, -8)"
+  },
+  {
+    "task_id": "CU_hard_0015",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (3, 8) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(8, -3)"
+  },
+  {
+    "task_id": "CU_hard_0016",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (5, 9) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(9, -5)"
+  },
+  {
+    "task_id": "CU_hard_0017",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (5, 7) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-5, -7)"
+  },
+  {
+    "task_id": "CU_hard_0018",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (8, 4) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-8, -4)"
+  },
+  {
+    "task_id": "CU_hard_0019",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (9, 3) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-9, -3)"
+  },
+  {
+    "task_id": "CU_hard_0020",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (4, 10) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(10, -4)"
+  },
+  {
+    "task_id": "CU_hard_0021",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (3, 2) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-3, -2)"
+  },
+  {
+    "task_id": "CU_hard_0022",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (7, 6) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(6, -7)"
+  },
+  {
+    "task_id": "CU_hard_0023",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (5, 1) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-5, -1)"
+  },
+  {
+    "task_id": "CU_hard_0024",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (5, 10) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(10, -5)"
+  },
+  {
+    "task_id": "CU_hard_0025",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (8, 3) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-8, -3)"
+  },
+  {
+    "task_id": "CU_hard_0026",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (9, 8) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-9, -8)"
+  },
+  {
+    "task_id": "CU_hard_0027",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (6, 9) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(9, -6)"
+  },
+  {
+    "task_id": "CU_hard_0028",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (7, 8) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-7, -8)"
+  },
+  {
+    "task_id": "CU_hard_0029",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (4, 4) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(4, -4)"
+  },
+  {
+    "task_id": "CU_hard_0030",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (7, 4) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-7, -4)"
+  },
+  {
+    "task_id": "CU_hard_0031",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (1, 6) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(6, -1)"
+  },
+  {
+    "task_id": "CU_hard_0032",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (8, 7) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-8, -7)"
+  },
+  {
+    "task_id": "CU_hard_0033",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (3, 8) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-8, 3)"
+  },
+  {
+    "task_id": "CU_hard_0034",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (3, 9) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(9, -3)"
+  },
+  {
+    "task_id": "CU_hard_0035",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (6, 2) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-6, -2)"
+  },
+  {
+    "task_id": "CU_hard_0036",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 9) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-2, -9)"
+  },
+  {
+    "task_id": "CU_hard_0037",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (1, 3) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-1, -3)"
+  },
+  {
+    "task_id": "CU_hard_0038",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (3, 2) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-3, -2)"
+  },
+  {
+    "task_id": "CU_hard_0039",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (5, 6) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(6, -5)"
+  },
+  {
+    "task_id": "CU_hard_0040",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (7, 2) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-7, -2)"
+  },
+  {
+    "task_id": "CU_hard_0041",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (9, 7) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-9, -7)"
+  },
+  {
+    "task_id": "CU_hard_0042",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (8, 9) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-9, 8)"
+  },
+  {
+    "task_id": "CU_hard_0043",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (10, 2) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-2, 10)"
+  },
+  {
+    "task_id": "CU_hard_0044",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (5, 4) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(4, -5)"
+  },
+  {
+    "task_id": "CU_hard_0045",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 7) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-7, 2)"
+  },
+  {
+    "task_id": "CU_hard_0046",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 8) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-8, 2)"
+  },
+  {
+    "task_id": "CU_hard_0047",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (5, 1) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-1, 5)"
+  },
+  {
+    "task_id": "CU_hard_0048",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (6, 1) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-6, -1)"
+  },
+  {
+    "task_id": "CU_hard_0049",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (6, 6) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-6, -6)"
+  },
+  {
+    "task_id": "CU_hard_0050",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (3, 4) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(4, -3)"
+  },
+  {
+    "task_id": "CU_hard_0051",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (7, 10) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(10, -7)"
+  },
+  {
+    "task_id": "CU_hard_0052",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (3, 3) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-3, 3)"
+  },
+  {
+    "task_id": "CU_hard_0053",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 10) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-2, -10)"
+  },
+  {
+    "task_id": "CU_hard_0054",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (10, 4) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-10, -4)"
+  },
+  {
+    "task_id": "CU_hard_0055",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (10, 3) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-3, 10)"
+  },
+  {
+    "task_id": "CU_hard_0056",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (8, 5) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-8, -5)"
+  },
+  {
+    "task_id": "CU_hard_0057",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (5, 1) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-5, -1)"
+  },
+  {
+    "task_id": "CU_hard_0058",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (5, 9) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-9, 5)"
+  },
+  {
+    "task_id": "CU_hard_0059",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 8) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-2, -8)"
+  },
+  {
+    "task_id": "CU_hard_0060",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (10, 5) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(5, -10)"
+  },
+  {
+    "task_id": "CU_hard_0061",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (7, 5) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-7, -5)"
+  },
+  {
+    "task_id": "CU_hard_0062",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (5, 4) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-5, -4)"
+  },
+  {
+    "task_id": "CU_hard_0063",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (8, 2) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-2, 8)"
+  },
+  {
+    "task_id": "CU_hard_0064",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (7, 10) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-7, -10)"
+  },
+  {
+    "task_id": "CU_hard_0065",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (10, 5) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(5, -10)"
+  },
+  {
+    "task_id": "CU_hard_0066",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (5, 1) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(1, -5)"
+  },
+  {
+    "task_id": "CU_hard_0067",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (7, 5) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-5, 7)"
+  },
+  {
+    "task_id": "CU_hard_0068",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (10, 1) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(1, -10)"
+  },
+  {
+    "task_id": "CU_hard_0069",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (8, 5) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-5, 8)"
+  },
+  {
+    "task_id": "CU_hard_0070",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (10, 6) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-6, 10)"
+  },
+  {
+    "task_id": "CU_hard_0071",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (4, 10) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-4, -10)"
+  },
+  {
+    "task_id": "CU_hard_0072",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (3, 2) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(2, -3)"
+  },
+  {
+    "task_id": "CU_hard_0073",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (1, 5) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-1, -5)"
+  },
+  {
+    "task_id": "CU_hard_0074",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (1, 10) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-1, -10)"
+  },
+  {
+    "task_id": "CU_hard_0075",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (3, 2) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-3, -2)"
+  },
+  {
+    "task_id": "CU_hard_0076",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (6, 7) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-7, 6)"
+  },
+  {
+    "task_id": "CU_hard_0077",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (4, 3) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(3, -4)"
+  },
+  {
+    "task_id": "CU_hard_0078",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (6, 9) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(9, -6)"
+  },
+  {
+    "task_id": "CU_hard_0079",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (5, 3) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-5, -3)"
+  },
+  {
+    "task_id": "CU_hard_0080",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (8, 5) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(5, -8)"
+  },
+  {
+    "task_id": "CU_hard_0081",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (6, 2) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-6, -2)"
+  },
+  {
+    "task_id": "CU_hard_0082",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 3) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-3, 2)"
+  },
+  {
+    "task_id": "CU_hard_0083",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (7, 9) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-7, -9)"
+  },
+  {
+    "task_id": "CU_hard_0084",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 7) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-7, 2)"
+  },
+  {
+    "task_id": "CU_hard_0085",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (5, 9) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-9, 5)"
+  },
+  {
+    "task_id": "CU_hard_0086",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (8, 6) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(6, -8)"
+  },
+  {
+    "task_id": "CU_hard_0087",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (5, 10) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-5, -10)"
+  },
+  {
+    "task_id": "CU_hard_0088",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (6, 2) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(2, -6)"
+  },
+  {
+    "task_id": "CU_hard_0089",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (4, 8) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-8, 4)"
+  },
+  {
+    "task_id": "CU_hard_0090",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (10, 9) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-10, -9)"
+  },
+  {
+    "task_id": "CU_hard_0091",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (10, 4) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(4, -10)"
+  },
+  {
+    "task_id": "CU_hard_0092",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 8) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(8, -2)"
+  },
+  {
+    "task_id": "CU_hard_0093",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (5, 7) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-7, 5)"
+  },
+  {
+    "task_id": "CU_hard_0094",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (3, 1) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-1, 3)"
+  },
+  {
+    "task_id": "CU_hard_0095",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (5, 8) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-8, 5)"
+  },
+  {
+    "task_id": "CU_hard_0096",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 4) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(4, -2)"
+  },
+  {
+    "task_id": "CU_hard_0097",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (3, 7) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-3, -7)"
+  },
+  {
+    "task_id": "CU_hard_0098",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (6, 9) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-6, -9)"
+  },
+  {
+    "task_id": "CU_hard_0099",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (10, 3) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-10, -3)"
+  },
+  {
+    "task_id": "CU_hard_0100",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 8) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(8, -2)"
+  },
+  {
+    "task_id": "CU_hard_0101",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (7, 5) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-5, 7)"
+  },
+  {
+    "task_id": "CU_hard_0102",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (6, 4) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-6, -4)"
+  },
+  {
+    "task_id": "CU_hard_0103",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (8, 4) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-8, -4)"
+  },
+  {
+    "task_id": "CU_hard_0104",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 6) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(6, -2)"
+  },
+  {
+    "task_id": "CU_hard_0105",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (6, 1) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-6, -1)"
+  },
+  {
+    "task_id": "CU_hard_0106",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (5, 4) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-4, 5)"
+  },
+  {
+    "task_id": "CU_hard_0107",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (8, 2) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(2, -8)"
+  },
+  {
+    "task_id": "CU_hard_0108",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (4, 10) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-10, 4)"
+  },
+  {
+    "task_id": "CU_hard_0109",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (1, 6) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-6, 1)"
+  },
+  {
+    "task_id": "CU_hard_0110",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (3, 10) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-10, 3)"
+  },
+  {
+    "task_id": "CU_hard_0111",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 9) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-9, 2)"
+  },
+  {
+    "task_id": "CU_hard_0112",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (10, 4) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-4, 10)"
+  },
+  {
+    "task_id": "CU_hard_0113",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (6, 3) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(3, -6)"
+  },
+  {
+    "task_id": "CU_hard_0114",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (1, 5) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-5, 1)"
+  },
+  {
+    "task_id": "CU_hard_0115",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (3, 9) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-3, -9)"
+  },
+  {
+    "task_id": "CU_hard_0116",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (3, 2) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(2, -3)"
+  },
+  {
+    "task_id": "CU_hard_0117",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (1, 3) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-3, 1)"
+  },
+  {
+    "task_id": "CU_hard_0118",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (6, 4) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(4, -6)"
+  },
+  {
+    "task_id": "CU_hard_0119",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (6, 1) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-1, 6)"
+  },
+  {
+    "task_id": "CU_hard_0120",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (5, 1) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-1, 5)"
+  },
+  {
+    "task_id": "CU_hard_0121",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (7, 9) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-9, 7)"
+  },
+  {
+    "task_id": "CU_hard_0122",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 8) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-2, -8)"
+  },
+  {
+    "task_id": "CU_hard_0123",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (6, 9) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(9, -6)"
+  },
+  {
+    "task_id": "CU_hard_0124",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 8) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(8, -2)"
+  },
+  {
+    "task_id": "CU_hard_0125",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (4, 10) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-10, 4)"
+  },
+  {
+    "task_id": "CU_hard_0126",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (9, 5) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-9, -5)"
+  },
+  {
+    "task_id": "CU_hard_0127",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (1, 1) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-1, -1)"
+  },
+  {
+    "task_id": "CU_hard_0128",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (7, 7) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(7, -7)"
+  },
+  {
+    "task_id": "CU_hard_0129",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 8) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(8, -2)"
+  },
+  {
+    "task_id": "CU_hard_0130",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (8, 2) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-2, 8)"
+  },
+  {
+    "task_id": "CU_hard_0131",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (6, 10) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-10, 6)"
+  },
+  {
+    "task_id": "CU_hard_0132",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 3) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-2, -3)"
+  },
+  {
+    "task_id": "CU_hard_0133",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (10, 10) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(10, -10)"
+  },
+  {
+    "task_id": "CU_hard_0134",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (6, 7) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(7, -6)"
+  },
+  {
+    "task_id": "CU_hard_0135",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (9, 5) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-9, -5)"
+  },
+  {
+    "task_id": "CU_hard_0136",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (9, 10) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-9, -10)"
+  },
+  {
+    "task_id": "CU_hard_0137",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 2) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(2, -2)"
+  },
+  {
+    "task_id": "CU_hard_0138",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (9, 4) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-9, -4)"
+  },
+  {
+    "task_id": "CU_hard_0139",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (8, 4) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-8, -4)"
+  },
+  {
+    "task_id": "CU_hard_0140",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (6, 8) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-6, -8)"
+  },
+  {
+    "task_id": "CU_hard_0141",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (7, 2) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-7, -2)"
+  },
+  {
+    "task_id": "CU_hard_0142",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (7, 6) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(6, -7)"
+  },
+  {
+    "task_id": "CU_hard_0143",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (5, 6) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-6, 5)"
+  },
+  {
+    "task_id": "CU_hard_0144",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (8, 2) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-2, 8)"
+  },
+  {
+    "task_id": "CU_hard_0145",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 2) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-2, -2)"
+  },
+  {
+    "task_id": "CU_hard_0146",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 6) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-6, 2)"
+  },
+  {
+    "task_id": "CU_hard_0147",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (9, 1) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(1, -9)"
+  },
+  {
+    "task_id": "CU_hard_0148",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (9, 9) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-9, -9)"
+  },
+  {
+    "task_id": "CU_hard_0149",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 7) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-2, -7)"
+  },
+  {
+    "task_id": "CU_hard_0150",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (7, 1) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-7, -1)"
+  },
+  {
+    "task_id": "CU_hard_0151",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (10, 5) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-10, -5)"
+  },
+  {
+    "task_id": "CU_hard_0152",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 10) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(10, -2)"
+  },
+  {
+    "task_id": "CU_hard_0153",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (4, 3) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(3, -4)"
+  },
+  {
+    "task_id": "CU_hard_0154",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (8, 4) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-4, 8)"
+  },
+  {
+    "task_id": "CU_hard_0155",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (6, 9) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-6, -9)"
+  },
+  {
+    "task_id": "CU_hard_0156",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (2, 5) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(5, -2)"
+  },
+  {
+    "task_id": "CU_hard_0157",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (4, 7) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(7, -4)"
+  },
+  {
+    "task_id": "CU_hard_0158",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (10, 10) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(10, -10)"
+  },
+  {
+    "task_id": "CU_hard_0159",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (9, 1) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(1, -9)"
+  },
+  {
+    "task_id": "CU_hard_0160",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (5, 1) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-1, 5)"
+  },
+  {
+    "task_id": "CU_hard_0161",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (5, 5) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-5, -5)"
+  },
+  {
+    "task_id": "CU_hard_0162",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (6, 1) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-1, 6)"
+  },
+  {
+    "task_id": "CU_hard_0163",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (3, 10) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(10, -3)"
+  },
+  {
+    "task_id": "CU_hard_0164",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (7, 2) is rotated 90 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-2, 7)"
+  },
+  {
+    "task_id": "CU_hard_0165",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (1, 2) is rotated 270 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(2, -1)"
+  },
+  {
+    "task_id": "CU_hard_0166",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (9, 4) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-9, -4)"
+  },
+  {
+    "task_id": "CU_hard_0167",
+    "category": "coordinate_understanding",
+    "difficulty": "hard",
+    "prompt": "A point at (7, 8) is rotated 180 degrees counter-clockwise around the origin. What are its new coordinates? Answer in the format (x, y).",
+    "ground_truth": "(-7, -8)"
   }
 ]

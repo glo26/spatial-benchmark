@@ -1,0 +1,1171 @@
+[
+  {
+    "task_id": "RE_medium_0001",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (5, 2). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0002",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (16, 10). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0003",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (4, 15). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0004",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (6, 9). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0005",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (2, 2). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0006",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (9, 12). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0007",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (2, 6). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0008",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (7, 2). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0009",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (10, 20). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0010",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (11, 11). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0011",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (6, 1). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0012",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (2, 10). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0013",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (7, 1). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0014",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (6, 1). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0015",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (9, 9). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0016",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (0, 14). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0017",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (14, 17). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0018",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (2, 3). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0019",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (1, 19). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0020",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (13, 11). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0021",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (19, 17). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0022",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (9, 10). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0023",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (10, 14). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0024",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (13, 13). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0025",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (7, 9). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0026",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (10, 9). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0027",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (3, 17). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0028",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (5, 19). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0029",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (18, 3). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0030",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (4, 13). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0031",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (19, 19). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0032",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (8, 10). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0033",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (4, 1). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0034",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (13, 9). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0035",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (2, 19). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0036",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (3, 0). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0037",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (13, 3). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0038",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (12, 20). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0039",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (12, 19). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0040",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (2, 0). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0041",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (1, 16). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0042",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (20, 4). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0043",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (5, 8). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0044",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (4, 3). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0045",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (12, 17). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0046",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (4, 13). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0047",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (16, 4). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0048",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (4, 2). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0049",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (20, 15). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0050",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (11, 20). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0051",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (12, 5). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0052",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (20, 12). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0053",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (19, 18). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0054",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (12, 4). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0055",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (0, 16). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0056",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (6, 20). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0057",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (8, 15). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0058",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (18, 2). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0059",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (0, 0). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0060",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (11, 18). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0061",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (7, 4). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0062",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (20, 20). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0063",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (20, 11). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0064",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (15, 4). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0065",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (4, 17). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0066",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (20, 14). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0067",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (1, 6). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0068",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (5, 4). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0069",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (0, 1). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0070",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (20, 14). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0071",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (8, 17). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0072",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (10, 19). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0073",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (15, 4). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0074",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (8, 6). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0075",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (17, 14). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0076",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (3, 4). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0077",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (19, 11). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0078",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (2, 9). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0079",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (10, 5). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0080",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (1, 10). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0081",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (16, 20). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0082",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (0, 4). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0083",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (20, 16). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0084",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (12, 0). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0085",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (12, 1). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0086",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (9, 17). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0087",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (0, 5). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0088",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (5, 8). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0089",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (0, 13). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0090",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (11, 9). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0091",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (15, 8). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0092",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (14, 12). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0093",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (19, 10). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0094",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (1, 18). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0095",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (0, 8). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0096",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (2, 20). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0097",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (16, 18). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0098",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (16, 10). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0099",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (13, 12). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0100",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (8, 6). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0101",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (1, 3). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0102",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (12, 10). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0103",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (20, 11). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0104",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (13, 4). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0105",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (7, 16). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0106",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (17, 15). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0107",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (16, 16). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0108",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (16, 14). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0109",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (12, 11). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0110",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (13, 19). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0111",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (19, 7). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0112",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (2, 6). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0113",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (12, 1). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0114",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (13, 20). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0115",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (4, 4). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0116",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (18, 0). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0117",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (2, 3). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0118",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (6, 17). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0119",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (12, 0). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0120",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (8, 15). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0121",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (18, 8). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0122",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (14, 2). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0123",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (18, 19). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0124",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (0, 6). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0125",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (16, 0). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0126",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (6, 10). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0127",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (3, 8). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0128",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (16, 18). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0129",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (10, 7). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0130",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (17, 5). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0131",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (18, 9). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0132",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (9, 2). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0133",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (18, 3). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0134",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (8, 14). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0135",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (18, 1). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0136",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (11, 7). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0137",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (9, 14). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0138",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (4, 17). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0139",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (7, 18). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0140",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (11, 2). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0141",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (13, 15). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0142",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (6, 20). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0143",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (1, 18). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0144",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (10, 7). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0145",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (4, 12). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0146",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (15, 0). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0147",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (17, 8). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0148",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (16, 16). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0149",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (12, 20). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0150",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (16, 13). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0151",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (10, 12). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0152",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (4, 18). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0153",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (5, 11). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0154",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (17, 5). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0155",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (5, 16). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0156",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (5, 17). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0157",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (0, 3). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0158",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (16, 6). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0159",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (4, 7). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_medium_0160",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (11, 6). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0161",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (1, 13). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0162",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (16, 16). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0163",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (10, 13). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0164",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (17, 9). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0165",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (13, 15). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0166",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (13, 20). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_medium_0167",
+    "category": "real_estate_geospatial",
+    "difficulty": "medium",
+    "prompt": "A property is at (15, 16). The nearest school is at (5, 5). Is the property within 5 units of the school? Answer Yes or No.",
+    "ground_truth": "No"
+  }
+]

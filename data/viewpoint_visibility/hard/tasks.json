@@ -1,0 +1,1171 @@
+[
+  {
+    "task_id": "VVA_hard_0001",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (5,8) and (8,11); Obstacle 2: corners (12,9) and (15,13). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0002",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (11,3) and (15,6); Obstacle 2: corners (2,11) and (6,13); Obstacle 3: corners (8,7) and (12,10). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0003",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (2,3) and (5,7); Obstacle 2: corners (3,3) and (7,7). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0004",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (3,10) and (6,12); Obstacle 2: corners (5,8) and (9,11); Obstacle 3: corners (7,2) and (11,4). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0005",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (5,4) and (9,6); Obstacle 2: corners (5,11) and (9,15); Obstacle 3: corners (4,3) and (6,6). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0006",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (7,7) and (10,9); Obstacle 2: corners (3,6) and (5,10); Obstacle 3: corners (6,4) and (10,8). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0007",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (2,7) and (6,9); Obstacle 2: corners (7,5) and (10,8); Obstacle 3: corners (8,8) and (12,10). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0008",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (3,4) and (6,6); Obstacle 2: corners (2,5) and (4,9). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0009",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (7,8) and (10,12); Obstacle 2: corners (3,2) and (6,4). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0010",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (3,7) and (7,9); Obstacle 2: corners (3,4) and (5,7); Obstacle 3: corners (7,7) and (9,10). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0011",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (8,11) and (10,14); Obstacle 2: corners (12,9) and (15,13). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0012",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (11,5) and (15,8); Obstacle 2: corners (6,2) and (8,4). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0013",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,2) and (14,5); Obstacle 2: corners (5,7) and (8,9); Obstacle 3: corners (9,12) and (13,16). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0014",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (8,2) and (10,4); Obstacle 2: corners (12,7) and (16,11). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0015",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (2,3) and (6,6); Obstacle 2: corners (9,2) and (13,4). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0016",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (11,11) and (15,13); Obstacle 2: corners (6,6) and (10,8); Obstacle 3: corners (2,9) and (5,13). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0017",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (8,11) and (12,15); Obstacle 2: corners (11,12) and (14,16). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0018",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (12,6) and (16,10); Obstacle 2: corners (11,11) and (15,15); Obstacle 3: corners (12,12) and (15,14). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0019",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (4,10) and (7,14); Obstacle 2: corners (8,12) and (12,14); Obstacle 3: corners (4,7) and (8,9). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0020",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (2,10) and (5,14); Obstacle 2: corners (11,5) and (13,7); Obstacle 3: corners (3,4) and (5,7). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0021",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (8,8) and (12,12); Obstacle 2: corners (2,8) and (6,12). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0022",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,9) and (12,12); Obstacle 2: corners (12,3) and (15,6). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0023",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (12,9) and (14,13); Obstacle 2: corners (5,6) and (9,10). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0024",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,11) and (12,14); Obstacle 2: corners (12,12) and (16,15). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0025",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,4) and (14,8); Obstacle 2: corners (2,6) and (4,9). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0026",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (12,3) and (14,7); Obstacle 2: corners (11,11) and (14,14); Obstacle 3: corners (2,10) and (4,13). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0027",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,12) and (12,15); Obstacle 2: corners (12,6) and (14,10); Obstacle 3: corners (8,11) and (11,14). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0028",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (12,3) and (14,5); Obstacle 2: corners (10,9) and (13,11); Obstacle 3: corners (12,12) and (14,14). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0029",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (11,7) and (13,10); Obstacle 2: corners (5,6) and (8,10); Obstacle 3: corners (4,5) and (8,8). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0030",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (12,2) and (14,4); Obstacle 2: corners (9,5) and (11,7); Obstacle 3: corners (12,10) and (15,14). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0031",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (8,3) and (10,5); Obstacle 2: corners (8,10) and (10,12); Obstacle 3: corners (3,12) and (5,16). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0032",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (2,2) and (4,5); Obstacle 2: corners (10,2) and (14,6); Obstacle 3: corners (6,3) and (9,7). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0033",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (7,2) and (10,5); Obstacle 2: corners (4,12) and (8,14). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0034",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (12,8) and (16,10); Obstacle 2: corners (2,7) and (4,11); Obstacle 3: corners (6,6) and (8,9). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0035",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (9,11) and (12,14); Obstacle 2: corners (4,2) and (8,5); Obstacle 3: corners (4,8) and (7,12). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0036",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (11,4) and (14,6); Obstacle 2: corners (10,3) and (14,6). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0037",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (8,2) and (10,6); Obstacle 2: corners (11,3) and (14,5); Obstacle 3: corners (8,10) and (12,14). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0038",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (3,5) and (5,7); Obstacle 2: corners (9,5) and (11,7); Obstacle 3: corners (7,7) and (11,9). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0039",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (7,8) and (9,11); Obstacle 2: corners (10,3) and (13,5). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0040",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (4,12) and (6,14); Obstacle 2: corners (11,4) and (13,7). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0041",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (5,8) and (7,12); Obstacle 2: corners (12,7) and (14,10). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0042",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,11) and (13,14); Obstacle 2: corners (3,5) and (5,8); Obstacle 3: corners (3,12) and (7,15). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0043",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (6,11) and (8,15); Obstacle 2: corners (4,11) and (7,13); Obstacle 3: corners (4,8) and (7,12). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0044",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (3,8) and (6,11); Obstacle 2: corners (2,5) and (5,7). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0045",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (3,8) and (6,12); Obstacle 2: corners (3,4) and (6,8); Obstacle 3: corners (9,12) and (13,14). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0046",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (3,2) and (5,6); Obstacle 2: corners (3,9) and (7,13). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0047",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (3,12) and (5,15); Obstacle 2: corners (10,8) and (12,12). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0048",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (9,12) and (13,15); Obstacle 2: corners (5,8) and (7,12); Obstacle 3: corners (5,3) and (9,5). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0049",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (8,2) and (11,4); Obstacle 2: corners (11,9) and (15,11); Obstacle 3: corners (9,11) and (13,15). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0050",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (8,12) and (10,15); Obstacle 2: corners (9,2) and (12,5); Obstacle 3: corners (5,8) and (9,10). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0051",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (7,2) and (10,6); Obstacle 2: corners (4,3) and (8,5). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0052",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (5,12) and (8,15); Obstacle 2: corners (12,4) and (14,7). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0053",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (2,7) and (6,10); Obstacle 2: corners (3,12) and (6,15); Obstacle 3: corners (11,4) and (15,6). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0054",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (3,11) and (5,14); Obstacle 2: corners (11,8) and (14,12). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0055",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,11) and (14,15); Obstacle 2: corners (6,5) and (9,9). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0056",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,2) and (12,4); Obstacle 2: corners (2,7) and (4,11); Obstacle 3: corners (5,12) and (9,15). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0057",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,6) and (14,8); Obstacle 2: corners (6,11) and (9,15); Obstacle 3: corners (11,10) and (15,14). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0058",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (12,3) and (15,6); Obstacle 2: corners (9,12) and (13,16). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0059",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (2,12) and (5,14); Obstacle 2: corners (7,4) and (9,8); Obstacle 3: corners (8,9) and (11,12). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0060",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,12) and (12,14); Obstacle 2: corners (11,9) and (14,12). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0061",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (11,3) and (15,7); Obstacle 2: corners (12,9) and (15,13). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0062",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (8,10) and (10,14); Obstacle 2: corners (11,8) and (15,11); Obstacle 3: corners (4,4) and (7,8). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0063",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (9,2) and (13,6); Obstacle 2: corners (7,12) and (11,14). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0064",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (12,4) and (16,8); Obstacle 2: corners (5,7) and (7,11); Obstacle 3: corners (6,2) and (10,5). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0065",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (8,11) and (11,15); Obstacle 2: corners (9,11) and (11,13); Obstacle 3: corners (12,3) and (14,6). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0066",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (7,7) and (10,10); Obstacle 2: corners (4,10) and (7,13). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0067",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (5,4) and (8,8); Obstacle 2: corners (6,4) and (10,6); Obstacle 3: corners (12,4) and (16,8). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0068",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (8,5) and (10,9); Obstacle 2: corners (11,3) and (14,6); Obstacle 3: corners (4,6) and (6,10). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0069",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (4,10) and (7,14); Obstacle 2: corners (9,4) and (12,7); Obstacle 3: corners (4,11) and (6,14). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0070",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (5,7) and (9,11); Obstacle 2: corners (12,7) and (14,9). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0071",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,8) and (13,11); Obstacle 2: corners (2,12) and (5,16). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0072",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (8,10) and (11,12); Obstacle 2: corners (11,7) and (14,11); Obstacle 3: corners (6,6) and (8,8). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0073",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (6,12) and (10,14); Obstacle 2: corners (12,10) and (16,12). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0074",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (9,11) and (12,13); Obstacle 2: corners (2,5) and (6,9). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0075",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (11,5) and (14,7); Obstacle 2: corners (3,7) and (5,10); Obstacle 3: corners (6,3) and (9,6). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0076",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (3,7) and (6,9); Obstacle 2: corners (3,5) and (7,7); Obstacle 3: corners (7,11) and (9,14). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0077",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,3) and (12,6); Obstacle 2: corners (9,7) and (11,9); Obstacle 3: corners (11,6) and (13,10). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0078",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (6,3) and (8,6); Obstacle 2: corners (4,9) and (7,13). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0079",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (11,10) and (14,14); Obstacle 2: corners (2,11) and (6,13). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0080",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (2,6) and (5,8); Obstacle 2: corners (5,10) and (9,14); Obstacle 3: corners (7,8) and (9,10). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0081",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,8) and (13,10); Obstacle 2: corners (7,11) and (11,14); Obstacle 3: corners (9,10) and (12,13). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0082",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (4,4) and (7,8); Obstacle 2: corners (7,10) and (10,14); Obstacle 3: corners (12,6) and (16,10). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0083",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (11,8) and (14,11); Obstacle 2: corners (11,6) and (13,10); Obstacle 3: corners (4,6) and (8,8). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0084",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (8,7) and (10,9); Obstacle 2: corners (2,2) and (4,4). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0085",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (7,12) and (9,16); Obstacle 2: corners (12,5) and (14,7); Obstacle 3: corners (4,12) and (6,15). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0086",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (3,5) and (5,8); Obstacle 2: corners (7,9) and (9,13); Obstacle 3: corners (5,12) and (9,15). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0087",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (12,3) and (15,6); Obstacle 2: corners (6,10) and (10,14). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0088",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (8,11) and (12,15); Obstacle 2: corners (9,4) and (12,8); Obstacle 3: corners (5,8) and (8,12). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0089",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (6,12) and (9,14); Obstacle 2: corners (2,4) and (5,8); Obstacle 3: corners (4,7) and (7,9). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0090",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,5) and (12,9); Obstacle 2: corners (10,3) and (14,5). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0091",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (3,4) and (5,8); Obstacle 2: corners (4,12) and (6,16). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0092",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (11,3) and (13,6); Obstacle 2: corners (2,3) and (6,5); Obstacle 3: corners (8,6) and (11,8). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0093",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,9) and (13,11); Obstacle 2: corners (10,4) and (13,7). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0094",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (12,9) and (14,11); Obstacle 2: corners (7,9) and (10,12). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0095",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (7,10) and (11,13); Obstacle 2: corners (9,4) and (12,6); Obstacle 3: corners (11,2) and (14,4). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0096",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,12) and (14,15); Obstacle 2: corners (8,12) and (12,14). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0097",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (8,2) and (12,4); Obstacle 2: corners (9,3) and (13,6). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0098",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (3,9) and (7,11); Obstacle 2: corners (5,9) and (9,13). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0099",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (11,12) and (15,14); Obstacle 2: corners (2,7) and (4,9). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0100",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (11,11) and (15,13); Obstacle 2: corners (8,4) and (10,8). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0101",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (7,12) and (11,14); Obstacle 2: corners (12,6) and (14,10); Obstacle 3: corners (10,4) and (12,6). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0102",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (12,7) and (16,9); Obstacle 2: corners (11,10) and (13,13); Obstacle 3: corners (10,6) and (13,9). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0103",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (9,12) and (12,16); Obstacle 2: corners (9,5) and (11,8). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0104",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (5,2) and (9,5); Obstacle 2: corners (6,6) and (10,9); Obstacle 3: corners (11,3) and (13,6). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0105",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (2,4) and (6,6); Obstacle 2: corners (9,3) and (11,5); Obstacle 3: corners (7,5) and (11,9). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0106",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,9) and (14,11); Obstacle 2: corners (5,9) and (9,12); Obstacle 3: corners (4,11) and (8,15). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0107",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (4,4) and (6,8); Obstacle 2: corners (3,4) and (6,7). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0108",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,5) and (12,7); Obstacle 2: corners (2,6) and (6,9). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0109",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,10) and (14,14); Obstacle 2: corners (9,7) and (13,9); Obstacle 3: corners (7,12) and (11,15). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0110",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (5,12) and (9,15); Obstacle 2: corners (2,2) and (4,4). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0111",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (6,5) and (9,9); Obstacle 2: corners (3,11) and (7,14); Obstacle 3: corners (3,9) and (5,12). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0112",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (5,11) and (7,13); Obstacle 2: corners (4,12) and (8,14). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0113",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (12,2) and (14,5); Obstacle 2: corners (5,9) and (8,13); Obstacle 3: corners (10,5) and (12,9). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0114",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (2,11) and (5,14); Obstacle 2: corners (3,5) and (7,9). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0115",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (3,11) and (5,13); Obstacle 2: corners (8,2) and (12,4); Obstacle 3: corners (4,3) and (6,5). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0116",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (12,9) and (15,12); Obstacle 2: corners (12,4) and (14,6). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0117",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (3,3) and (6,6); Obstacle 2: corners (3,4) and (5,6). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0118",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (11,2) and (14,4); Obstacle 2: corners (7,12) and (11,16). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0119",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (5,5) and (9,9); Obstacle 2: corners (5,2) and (8,6); Obstacle 3: corners (5,8) and (8,11). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0120",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,2) and (14,4); Obstacle 2: corners (9,12) and (13,15). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0121",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (4,6) and (6,8); Obstacle 2: corners (3,6) and (5,10). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0122",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (12,10) and (14,13); Obstacle 2: corners (2,11) and (6,14); Obstacle 3: corners (4,4) and (8,7). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0123",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (4,2) and (8,4); Obstacle 2: corners (7,7) and (11,10); Obstacle 3: corners (3,12) and (5,14). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0124",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (4,11) and (7,13); Obstacle 2: corners (3,5) and (6,7); Obstacle 3: corners (4,6) and (6,9). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0125",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,7) and (14,10); Obstacle 2: corners (8,6) and (10,8); Obstacle 3: corners (2,6) and (4,10). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0126",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (2,4) and (5,6); Obstacle 2: corners (8,3) and (11,7). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0127",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (9,5) and (13,8); Obstacle 2: corners (6,2) and (8,6). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0128",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (9,3) and (12,6); Obstacle 2: corners (11,2) and (14,4). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0129",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (4,6) and (8,10); Obstacle 2: corners (3,7) and (6,10). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0130",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (12,12) and (16,14); Obstacle 2: corners (5,6) and (7,8). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0131",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (3,2) and (7,5); Obstacle 2: corners (8,9) and (12,13). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0132",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (7,8) and (10,12); Obstacle 2: corners (3,7) and (6,11); Obstacle 3: corners (12,7) and (15,10). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0133",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (4,5) and (7,8); Obstacle 2: corners (3,4) and (6,7); Obstacle 3: corners (8,2) and (10,4). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0134",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (3,10) and (5,12); Obstacle 2: corners (5,2) and (9,5). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0135",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (3,9) and (6,12); Obstacle 2: corners (3,9) and (5,12). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0136",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,2) and (14,4); Obstacle 2: corners (12,7) and (15,9). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0137",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (11,2) and (15,4); Obstacle 2: corners (7,2) and (10,4). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0138",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,2) and (13,5); Obstacle 2: corners (3,5) and (5,8). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0139",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (7,3) and (9,6); Obstacle 2: corners (7,10) and (10,13). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0140",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (5,8) and (7,10); Obstacle 2: corners (5,2) and (7,6); Obstacle 3: corners (8,4) and (11,8). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0141",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (9,8) and (13,11); Obstacle 2: corners (11,6) and (14,8); Obstacle 3: corners (5,3) and (9,5). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0142",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (5,12) and (7,16); Obstacle 2: corners (8,4) and (11,7); Obstacle 3: corners (8,8) and (11,10). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0143",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (7,11) and (9,15); Obstacle 2: corners (5,4) and (9,7). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0144",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (2,2) and (5,5); Obstacle 2: corners (8,8) and (10,11). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0145",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (12,11) and (14,13); Obstacle 2: corners (3,2) and (6,6); Obstacle 3: corners (9,12) and (12,14). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0146",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (2,2) and (6,6); Obstacle 2: corners (6,11) and (8,15); Obstacle 3: corners (10,3) and (14,7). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0147",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (11,2) and (14,4); Obstacle 2: corners (12,3) and (15,5); Obstacle 3: corners (2,6) and (6,10). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0148",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (11,6) and (15,10); Obstacle 2: corners (9,8) and (13,12). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0149",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (12,5) and (16,7); Obstacle 2: corners (5,9) and (9,12); Obstacle 3: corners (12,3) and (15,6). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0150",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (3,8) and (6,10); Obstacle 2: corners (4,5) and (7,8); Obstacle 3: corners (2,9) and (5,13). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0151",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (5,5) and (7,8); Obstacle 2: corners (8,4) and (10,8); Obstacle 3: corners (10,12) and (14,16). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0152",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (11,11) and (13,15); Obstacle 2: corners (9,2) and (11,6); Obstacle 3: corners (6,4) and (9,8). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0153",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (2,5) and (5,7); Obstacle 2: corners (10,9) and (14,11). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0154",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (3,8) and (5,10); Obstacle 2: corners (12,12) and (16,14). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0155",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (3,10) and (5,12); Obstacle 2: corners (7,12) and (11,16); Obstacle 3: corners (11,10) and (15,14). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0156",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (4,3) and (6,6); Obstacle 2: corners (2,10) and (6,14); Obstacle 3: corners (11,6) and (15,10). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0157",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (3,10) and (6,13); Obstacle 2: corners (6,10) and (8,12). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0158",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (9,7) and (13,11); Obstacle 2: corners (5,11) and (8,15). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0159",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (9,2) and (13,4); Obstacle 2: corners (2,2) and (5,6); Obstacle 3: corners (2,8) and (5,11). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0160",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (12,3) and (14,5); Obstacle 2: corners (8,11) and (10,14); Obstacle 3: corners (11,8) and (13,12). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0161",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (4,10) and (7,14); Obstacle 2: corners (11,6) and (13,10). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0162",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (10,10) and (12,13); Obstacle 2: corners (8,11) and (12,14); Obstacle 3: corners (12,12) and (14,15). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0163",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (11,7) and (13,11); Obstacle 2: corners (3,6) and (5,10). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_hard_0164",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (3,7) and (6,9); Obstacle 2: corners (9,10) and (13,12); Obstacle 3: corners (4,9) and (7,13). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0165",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (7,8) and (10,10); Obstacle 2: corners (9,11) and (13,15). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0166",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (4,6) and (8,8); Obstacle 2: corners (11,8) and (15,12); Obstacle 3: corners (6,11) and (9,14). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_hard_0167",
+    "category": "viewpoint_visibility",
+    "difficulty": "hard",
+    "prompt": "An observer is at (0, 0) and a target is at (15, 15). Obstacle 1: corners (6,11) and (9,13); Obstacle 2: corners (6,9) and (10,12). Can the observer see the target (direct line of sight)? Answer Yes or No.",
+    "ground_truth": "No"
+  }
+]

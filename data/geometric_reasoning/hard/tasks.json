@@ -1,3877 +1,1171 @@
 [
   {
-    "id": "GR-H-001",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(79.0, 50.0), (58.96, 77.58), (26.54, 67.05), (26.54, 32.95), (58.96, 22.42)] using the shoelace formula.",
-    "vertices": [
-      [
-        79.0,
-        50.0
-      ],
-      [
-        58.96,
-        77.58
-      ],
-      [
-        26.54,
-        67.05
-      ],
-      [
-        26.54,
-        32.95
-      ],
-      [
-        58.96,
-        22.42
-      ]
-    ],
-    "answer": 1999.61,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-002",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(87.0, 50.0), (61.43, 85.19), (20.07, 71.75), (20.07, 28.25), (61.43, 14.81)] using the shoelace formula.",
-    "vertices": [
-      [
-        87.0,
-        50.0
-      ],
-      [
-        61.43,
-        85.19
-      ],
-      [
-        20.07,
-        71.75
-      ],
-      [
-        20.07,
-        28.25
-      ],
-      [
-        61.43,
-        14.81
-      ]
-    ],
-    "answer": 3254.85,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-003",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(79.0, 50.0), (58.96, 77.58), (26.54, 67.05), (26.54, 32.95), (58.96, 22.42)] using the shoelace formula.",
-    "vertices": [
-      [
-        79.0,
-        50.0
-      ],
-      [
-        58.96,
-        77.58
-      ],
-      [
-        26.54,
-        67.05
-      ],
-      [
-        26.54,
-        32.95
-      ],
-      [
-        58.96,
-        22.42
-      ]
-    ],
-    "answer": 1999.61,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-004",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(80.0, 50.0), (59.27, 78.53), (25.73, 67.63), (25.73, 32.37), (59.27, 21.47)] using the shoelace formula.",
-    "vertices": [
-      [
-        80.0,
-        50.0
-      ],
-      [
-        59.27,
-        78.53
-      ],
-      [
-        25.73,
-        67.63
-      ],
-      [
-        25.73,
-        32.37
-      ],
-      [
-        59.27,
-        21.47
-      ]
-    ],
-    "answer": 2139.63,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-005",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(77.0, 50.0), (58.34, 75.68), (28.16, 65.87), (28.16, 34.13), (58.34, 24.32)] using the shoelace formula.",
-    "vertices": [
-      [
-        77.0,
-        50.0
-      ],
-      [
-        58.34,
-        75.68
-      ],
-      [
-        28.16,
-        65.87
-      ],
-      [
-        28.16,
-        34.13
-      ],
-      [
-        58.34,
-        24.32
-      ]
-    ],
-    "answer": 1733.17,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-006",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(88.0, 50.0), (61.74, 86.14), (19.26, 72.34), (19.26, 27.66), (61.74, 13.86)] using the shoelace formula.",
-    "vertices": [
-      [
-        88.0,
-        50.0
-      ],
-      [
-        61.74,
-        86.14
-      ],
-      [
-        19.26,
-        72.34
-      ],
-      [
-        19.26,
-        27.66
-      ],
-      [
-        61.74,
-        13.86
-      ]
-    ],
-    "answer": 3433.27,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-007",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(86.0, 50.0), (61.12, 84.24), (20.88, 71.16), (20.88, 28.84), (61.12, 15.76)] using the shoelace formula.",
-    "vertices": [
-      [
-        86.0,
-        50.0
-      ],
-      [
-        61.12,
-        84.24
-      ],
-      [
-        20.88,
-        71.16
-      ],
-      [
-        20.88,
-        28.84
-      ],
-      [
-        61.12,
-        15.76
-      ]
-    ],
-    "answer": 3081.19,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-008",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(83.0, 50.0), (60.2, 81.38), (23.3, 69.4), (23.3, 30.6), (60.2, 18.62)] using the shoelace formula.",
-    "vertices": [
-      [
-        83.0,
-        50.0
-      ],
-      [
-        60.2,
-        81.38
-      ],
-      [
-        23.3,
-        69.4
-      ],
-      [
-        23.3,
-        30.6
-      ],
-      [
-        60.2,
-        18.62
-      ]
-    ],
-    "answer": 2589.25,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-009",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(74.0, 50.0), (57.42, 72.83), (30.58, 64.11), (30.58, 35.89), (57.42, 27.17)] using the shoelace formula.",
-    "vertices": [
-      [
-        74.0,
-        50.0
-      ],
-      [
-        57.42,
-        72.83
-      ],
-      [
-        30.58,
-        64.11
-      ],
-      [
-        30.58,
-        35.89
-      ],
-      [
-        57.42,
-        27.17
-      ]
-    ],
-    "answer": 1369.99,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-010",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(87.0, 50.0), (61.43, 85.19), (20.07, 71.75), (20.07, 28.25), (61.43, 14.81)] using the shoelace formula.",
-    "vertices": [
-      [
-        87.0,
-        50.0
-      ],
-      [
-        61.43,
-        85.19
-      ],
-      [
-        20.07,
-        71.75
-      ],
-      [
-        20.07,
-        28.25
-      ],
-      [
-        61.43,
-        14.81
-      ]
-    ],
-    "answer": 3254.85,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-011",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(88.0, 50.0), (61.74, 86.14), (19.26, 72.34), (19.26, 27.66), (61.74, 13.86)] using the shoelace formula.",
-    "vertices": [
-      [
-        88.0,
-        50.0
-      ],
-      [
-        61.74,
-        86.14
-      ],
-      [
-        19.26,
-        72.34
-      ],
-      [
-        19.26,
-        27.66
-      ],
-      [
-        61.74,
-        13.86
-      ]
-    ],
-    "answer": 3433.27,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-012",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(80.0, 50.0), (59.27, 78.53), (25.73, 67.63), (25.73, 32.37), (59.27, 21.47)] using the shoelace formula.",
-    "vertices": [
-      [
-        80.0,
-        50.0
-      ],
-      [
-        59.27,
-        78.53
-      ],
-      [
-        25.73,
-        67.63
-      ],
-      [
-        25.73,
-        32.37
-      ],
-      [
-        59.27,
-        21.47
-      ]
-    ],
-    "answer": 2139.63,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-013",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(70.0, 50.0), (56.18, 69.02), (33.82, 61.76), (33.82, 38.24), (56.18, 30.98)] using the shoelace formula.",
-    "vertices": [
-      [
-        70.0,
-        50.0
-      ],
-      [
-        56.18,
-        69.02
-      ],
-      [
-        33.82,
-        61.76
-      ],
-      [
-        33.82,
-        38.24
-      ],
-      [
-        56.18,
-        30.98
-      ]
-    ],
-    "answer": 951.1,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-014",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(89.0, 50.0), (62.05, 87.09), (18.45, 72.92), (18.45, 27.08), (62.05, 12.91)] using the shoelace formula.",
-    "vertices": [
-      [
-        89.0,
-        50.0
-      ],
-      [
-        62.05,
-        87.09
-      ],
-      [
-        18.45,
-        72.92
-      ],
-      [
-        18.45,
-        27.08
-      ],
-      [
-        62.05,
-        12.91
-      ]
-    ],
-    "answer": 3616.01,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-015",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(71.0, 50.0), (56.49, 69.97), (33.01, 62.34), (33.01, 37.66), (56.49, 30.03)] using the shoelace formula.",
-    "vertices": [
-      [
-        71.0,
-        50.0
-      ],
-      [
-        56.49,
-        69.97
-      ],
-      [
-        33.01,
-        62.34
-      ],
-      [
-        33.01,
-        37.66
-      ],
-      [
-        56.49,
-        30.03
-      ]
-    ],
-    "answer": 1048.4,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-016",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(81.0, 50.0), (59.58, 79.48), (24.92, 68.22), (24.92, 31.78), (59.58, 20.52)] using the shoelace formula.",
-    "vertices": [
-      [
-        81.0,
-        50.0
-      ],
-      [
-        59.58,
-        79.48
-      ],
-      [
-        24.92,
-        68.22
-      ],
-      [
-        24.92,
-        31.78
-      ],
-      [
-        59.58,
-        20.52
-      ]
-    ],
-    "answer": 2284.74,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-017",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(88.0, 50.0), (61.74, 86.14), (19.26, 72.34), (19.26, 27.66), (61.74, 13.86)] using the shoelace formula.",
-    "vertices": [
-      [
-        88.0,
-        50.0
-      ],
-      [
-        61.74,
-        86.14
-      ],
-      [
-        19.26,
-        72.34
-      ],
-      [
-        19.26,
-        27.66
-      ],
-      [
-        61.74,
-        13.86
-      ]
-    ],
-    "answer": 3433.27,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-018",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(73.0, 50.0), (57.11, 71.87), (31.39, 63.52), (31.39, 36.48), (57.11, 28.13)] using the shoelace formula.",
-    "vertices": [
-      [
-        73.0,
-        50.0
-      ],
-      [
-        57.11,
-        71.87
-      ],
-      [
-        31.39,
-        63.52
-      ],
-      [
-        31.39,
-        36.48
-      ],
-      [
-        57.11,
-        28.13
-      ]
-    ],
-    "answer": 1257.75,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-019",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(72.0, 50.0), (56.8, 70.92), (32.2, 62.93), (32.2, 37.07), (56.8, 29.08)] using the shoelace formula.",
-    "vertices": [
-      [
-        72.0,
-        50.0
-      ],
-      [
-        56.8,
-        70.92
-      ],
-      [
-        32.2,
-        62.93
-      ],
-      [
-        32.2,
-        37.07
-      ],
-      [
-        56.8,
-        29.08
-      ]
-    ],
-    "answer": 1150.69,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-020",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(89.0, 50.0), (62.05, 87.09), (18.45, 72.92), (18.45, 27.08), (62.05, 12.91)] using the shoelace formula.",
-    "vertices": [
-      [
-        89.0,
-        50.0
-      ],
-      [
-        62.05,
-        87.09
-      ],
-      [
-        18.45,
-        72.92
-      ],
-      [
-        18.45,
-        27.08
-      ],
-      [
-        62.05,
-        12.91
-      ]
-    ],
-    "answer": 3616.01,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-021",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(72.0, 50.0), (56.8, 70.92), (32.2, 62.93), (32.2, 37.07), (56.8, 29.08)] using the shoelace formula.",
-    "vertices": [
-      [
-        72.0,
-        50.0
-      ],
-      [
-        56.8,
-        70.92
-      ],
-      [
-        32.2,
-        62.93
-      ],
-      [
-        32.2,
-        37.07
-      ],
-      [
-        56.8,
-        29.08
-      ]
-    ],
-    "answer": 1150.69,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-022",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(86.0, 50.0), (61.12, 84.24), (20.88, 71.16), (20.88, 28.84), (61.12, 15.76)] using the shoelace formula.",
-    "vertices": [
-      [
-        86.0,
-        50.0
-      ],
-      [
-        61.12,
-        84.24
-      ],
-      [
-        20.88,
-        71.16
-      ],
-      [
-        20.88,
-        28.84
-      ],
-      [
-        61.12,
-        15.76
-      ]
-    ],
-    "answer": 3081.19,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-023",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(83.0, 50.0), (60.2, 81.38), (23.3, 69.4), (23.3, 30.6), (60.2, 18.62)] using the shoelace formula.",
-    "vertices": [
-      [
-        83.0,
-        50.0
-      ],
-      [
-        60.2,
-        81.38
-      ],
-      [
-        23.3,
-        69.4
-      ],
-      [
-        23.3,
-        30.6
-      ],
-      [
-        60.2,
-        18.62
-      ]
-    ],
-    "answer": 2589.25,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-024",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
-    "vertices": [
-      [
-        75.0,
-        50.0
-      ],
-      [
-        57.73,
-        73.78
-      ],
-      [
-        29.77,
-        64.69
-      ],
-      [
-        29.77,
-        35.31
-      ],
-      [
-        57.73,
-        26.22
-      ]
-    ],
-    "answer": 1486.3,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-025",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(76.0, 50.0), (58.03, 74.73), (28.97, 65.28), (28.97, 34.72), (58.03, 25.27)] using the shoelace formula.",
-    "vertices": [
-      [
-        76.0,
-        50.0
-      ],
-      [
-        58.03,
-        74.73
-      ],
-      [
-        28.97,
-        65.28
-      ],
-      [
-        28.97,
-        34.72
-      ],
-      [
-        58.03,
-        25.27
-      ]
-    ],
-    "answer": 1607.09,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-026",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(77.0, 50.0), (58.34, 75.68), (28.16, 65.87), (28.16, 34.13), (58.34, 24.32)] using the shoelace formula.",
-    "vertices": [
-      [
-        77.0,
-        50.0
-      ],
-      [
-        58.34,
-        75.68
-      ],
-      [
-        28.16,
-        65.87
-      ],
-      [
-        28.16,
-        34.13
-      ],
-      [
-        58.34,
-        24.32
-      ]
-    ],
-    "answer": 1733.17,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-027",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(89.0, 50.0), (62.05, 87.09), (18.45, 72.92), (18.45, 27.08), (62.05, 12.91)] using the shoelace formula.",
-    "vertices": [
-      [
-        89.0,
-        50.0
-      ],
-      [
-        62.05,
-        87.09
-      ],
-      [
-        18.45,
-        72.92
-      ],
-      [
-        18.45,
-        27.08
-      ],
-      [
-        62.05,
-        12.91
-      ]
-    ],
-    "answer": 3616.01,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-028",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
-    "vertices": [
-      [
-        75.0,
-        50.0
-      ],
-      [
-        57.73,
-        73.78
-      ],
-      [
-        29.77,
-        64.69
-      ],
-      [
-        29.77,
-        35.31
-      ],
-      [
-        57.73,
-        26.22
-      ]
-    ],
-    "answer": 1486.3,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-029",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
-    "vertices": [
-      [
-        75.0,
-        50.0
-      ],
-      [
-        57.73,
-        73.78
-      ],
-      [
-        29.77,
-        64.69
-      ],
-      [
-        29.77,
-        35.31
-      ],
-      [
-        57.73,
-        26.22
-      ]
-    ],
-    "answer": 1486.3,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-030",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(70.0, 50.0), (56.18, 69.02), (33.82, 61.76), (33.82, 38.24), (56.18, 30.98)] using the shoelace formula.",
-    "vertices": [
-      [
-        70.0,
-        50.0
-      ],
-      [
-        56.18,
-        69.02
-      ],
-      [
-        33.82,
-        61.76
-      ],
-      [
-        33.82,
-        38.24
-      ],
-      [
-        56.18,
-        30.98
-      ]
-    ],
-    "answer": 951.1,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-031",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(90.0, 50.0), (62.36, 88.04), (17.64, 73.51), (17.64, 26.49), (62.36, 11.96)] using the shoelace formula.",
-    "vertices": [
-      [
-        90.0,
-        50.0
-      ],
-      [
-        62.36,
-        88.04
-      ],
-      [
-        17.64,
-        73.51
-      ],
-      [
-        17.64,
-        26.49
-      ],
-      [
-        62.36,
-        11.96
-      ]
-    ],
-    "answer": 3803.94,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-032",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(85.0, 50.0), (60.82, 83.29), (21.68, 70.57), (21.68, 29.43), (60.82, 16.71)] using the shoelace formula.",
-    "vertices": [
-      [
-        85.0,
-        50.0
-      ],
-      [
-        60.82,
-        83.29
-      ],
-      [
-        21.68,
-        70.57
-      ],
-      [
-        21.68,
-        29.43
-      ],
-      [
-        60.82,
-        16.71
-      ]
-    ],
-    "answer": 2913.03,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-033",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(73.0, 50.0), (57.11, 71.87), (31.39, 63.52), (31.39, 36.48), (57.11, 28.13)] using the shoelace formula.",
-    "vertices": [
-      [
-        73.0,
-        50.0
-      ],
-      [
-        57.11,
-        71.87
-      ],
-      [
-        31.39,
-        63.52
-      ],
-      [
-        31.39,
-        36.48
-      ],
-      [
-        57.11,
-        28.13
-      ]
-    ],
-    "answer": 1257.75,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-034",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(80.0, 50.0), (59.27, 78.53), (25.73, 67.63), (25.73, 32.37), (59.27, 21.47)] using the shoelace formula.",
-    "vertices": [
-      [
-        80.0,
-        50.0
-      ],
-      [
-        59.27,
-        78.53
-      ],
-      [
-        25.73,
-        67.63
-      ],
-      [
-        25.73,
-        32.37
-      ],
-      [
-        59.27,
-        21.47
-      ]
-    ],
-    "answer": 2139.63,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-035",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(72.0, 50.0), (56.8, 70.92), (32.2, 62.93), (32.2, 37.07), (56.8, 29.08)] using the shoelace formula.",
-    "vertices": [
-      [
-        72.0,
-        50.0
-      ],
-      [
-        56.8,
-        70.92
-      ],
-      [
-        32.2,
-        62.93
-      ],
-      [
-        32.2,
-        37.07
-      ],
-      [
-        56.8,
-        29.08
-      ]
-    ],
-    "answer": 1150.69,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-036",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(73.0, 50.0), (57.11, 71.87), (31.39, 63.52), (31.39, 36.48), (57.11, 28.13)] using the shoelace formula.",
-    "vertices": [
-      [
-        73.0,
-        50.0
-      ],
-      [
-        57.11,
-        71.87
-      ],
-      [
-        31.39,
-        63.52
-      ],
-      [
-        31.39,
-        36.48
-      ],
-      [
-        57.11,
-        28.13
-      ]
-    ],
-    "answer": 1257.75,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-037",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(82.0, 50.0), (59.89, 80.43), (24.11, 68.81), (24.11, 31.19), (59.89, 19.57)] using the shoelace formula.",
-    "vertices": [
-      [
-        82.0,
-        50.0
-      ],
-      [
-        59.89,
-        80.43
-      ],
-      [
-        24.11,
-        68.81
-      ],
-      [
-        24.11,
-        31.19
-      ],
-      [
-        59.89,
-        19.57
-      ]
-    ],
-    "answer": 2434.61,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-038",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(88.0, 50.0), (61.74, 86.14), (19.26, 72.34), (19.26, 27.66), (61.74, 13.86)] using the shoelace formula.",
-    "vertices": [
-      [
-        88.0,
-        50.0
-      ],
-      [
-        61.74,
-        86.14
-      ],
-      [
-        19.26,
-        72.34
-      ],
-      [
-        19.26,
-        27.66
-      ],
-      [
-        61.74,
-        13.86
-      ]
-    ],
-    "answer": 3433.27,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-039",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(82.0, 50.0), (59.89, 80.43), (24.11, 68.81), (24.11, 31.19), (59.89, 19.57)] using the shoelace formula.",
-    "vertices": [
-      [
-        82.0,
-        50.0
-      ],
-      [
-        59.89,
-        80.43
-      ],
-      [
-        24.11,
-        68.81
-      ],
-      [
-        24.11,
-        31.19
-      ],
-      [
-        59.89,
-        19.57
-      ]
-    ],
-    "answer": 2434.61,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-040",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(83.0, 50.0), (60.2, 81.38), (23.3, 69.4), (23.3, 30.6), (60.2, 18.62)] using the shoelace formula.",
-    "vertices": [
-      [
-        83.0,
-        50.0
-      ],
-      [
-        60.2,
-        81.38
-      ],
-      [
-        23.3,
-        69.4
-      ],
-      [
-        23.3,
-        30.6
-      ],
-      [
-        60.2,
-        18.62
-      ]
-    ],
-    "answer": 2589.25,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-041",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(82.0, 50.0), (59.89, 80.43), (24.11, 68.81), (24.11, 31.19), (59.89, 19.57)] using the shoelace formula.",
-    "vertices": [
-      [
-        82.0,
-        50.0
-      ],
-      [
-        59.89,
-        80.43
-      ],
-      [
-        24.11,
-        68.81
-      ],
-      [
-        24.11,
-        31.19
-      ],
-      [
-        59.89,
-        19.57
-      ]
-    ],
-    "answer": 2434.61,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-042",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(85.0, 50.0), (60.82, 83.29), (21.68, 70.57), (21.68, 29.43), (60.82, 16.71)] using the shoelace formula.",
-    "vertices": [
-      [
-        85.0,
-        50.0
-      ],
-      [
-        60.82,
-        83.29
-      ],
-      [
-        21.68,
-        70.57
-      ],
-      [
-        21.68,
-        29.43
-      ],
-      [
-        60.82,
-        16.71
-      ]
-    ],
-    "answer": 2913.03,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-043",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(74.0, 50.0), (57.42, 72.83), (30.58, 64.11), (30.58, 35.89), (57.42, 27.17)] using the shoelace formula.",
-    "vertices": [
-      [
-        74.0,
-        50.0
-      ],
-      [
-        57.42,
-        72.83
-      ],
-      [
-        30.58,
-        64.11
-      ],
-      [
-        30.58,
-        35.89
-      ],
-      [
-        57.42,
-        27.17
-      ]
-    ],
-    "answer": 1369.99,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-044",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(80.0, 50.0), (59.27, 78.53), (25.73, 67.63), (25.73, 32.37), (59.27, 21.47)] using the shoelace formula.",
-    "vertices": [
-      [
-        80.0,
-        50.0
-      ],
-      [
-        59.27,
-        78.53
-      ],
-      [
-        25.73,
-        67.63
-      ],
-      [
-        25.73,
-        32.37
-      ],
-      [
-        59.27,
-        21.47
-      ]
-    ],
-    "answer": 2139.63,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-045",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
-    "vertices": [
-      [
-        75.0,
-        50.0
-      ],
-      [
-        57.73,
-        73.78
-      ],
-      [
-        29.77,
-        64.69
-      ],
-      [
-        29.77,
-        35.31
-      ],
-      [
-        57.73,
-        26.22
-      ]
-    ],
-    "answer": 1486.3,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-046",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(73.0, 50.0), (57.11, 71.87), (31.39, 63.52), (31.39, 36.48), (57.11, 28.13)] using the shoelace formula.",
-    "vertices": [
-      [
-        73.0,
-        50.0
-      ],
-      [
-        57.11,
-        71.87
-      ],
-      [
-        31.39,
-        63.52
-      ],
-      [
-        31.39,
-        36.48
-      ],
-      [
-        57.11,
-        28.13
-      ]
-    ],
-    "answer": 1257.75,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-047",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(79.0, 50.0), (58.96, 77.58), (26.54, 67.05), (26.54, 32.95), (58.96, 22.42)] using the shoelace formula.",
-    "vertices": [
-      [
-        79.0,
-        50.0
-      ],
-      [
-        58.96,
-        77.58
-      ],
-      [
-        26.54,
-        67.05
-      ],
-      [
-        26.54,
-        32.95
-      ],
-      [
-        58.96,
-        22.42
-      ]
-    ],
-    "answer": 1999.61,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-048",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(81.0, 50.0), (59.58, 79.48), (24.92, 68.22), (24.92, 31.78), (59.58, 20.52)] using the shoelace formula.",
-    "vertices": [
-      [
-        81.0,
-        50.0
-      ],
-      [
-        59.58,
-        79.48
-      ],
-      [
-        24.92,
-        68.22
-      ],
-      [
-        24.92,
-        31.78
-      ],
-      [
-        59.58,
-        20.52
-      ]
-    ],
-    "answer": 2284.74,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-049",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
-    "vertices": [
-      [
-        75.0,
-        50.0
-      ],
-      [
-        57.73,
-        73.78
-      ],
-      [
-        29.77,
-        64.69
-      ],
-      [
-        29.77,
-        35.31
-      ],
-      [
-        57.73,
-        26.22
-      ]
-    ],
-    "answer": 1486.3,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-050",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(83.0, 50.0), (60.2, 81.38), (23.3, 69.4), (23.3, 30.6), (60.2, 18.62)] using the shoelace formula.",
-    "vertices": [
-      [
-        83.0,
-        50.0
-      ],
-      [
-        60.2,
-        81.38
-      ],
-      [
-        23.3,
-        69.4
-      ],
-      [
-        23.3,
-        30.6
-      ],
-      [
-        60.2,
-        18.62
-      ]
-    ],
-    "answer": 2589.25,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-051",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(78.0, 50.0), (58.65, 76.63), (27.35, 66.46), (27.35, 33.54), (58.65, 23.37)] using the shoelace formula.",
-    "vertices": [
-      [
-        78.0,
-        50.0
-      ],
-      [
-        58.65,
-        76.63
-      ],
-      [
-        27.35,
-        66.46
-      ],
-      [
-        27.35,
-        33.54
-      ],
-      [
-        58.65,
-        23.37
-      ]
-    ],
-    "answer": 1864.01,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-052",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(85.0, 50.0), (60.82, 83.29), (21.68, 70.57), (21.68, 29.43), (60.82, 16.71)] using the shoelace formula.",
-    "vertices": [
-      [
-        85.0,
-        50.0
-      ],
-      [
-        60.82,
-        83.29
-      ],
-      [
-        21.68,
-        70.57
-      ],
-      [
-        21.68,
-        29.43
-      ],
-      [
-        60.82,
-        16.71
-      ]
-    ],
-    "answer": 2913.03,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-053",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(72.0, 50.0), (56.8, 70.92), (32.2, 62.93), (32.2, 37.07), (56.8, 29.08)] using the shoelace formula.",
-    "vertices": [
-      [
-        72.0,
-        50.0
-      ],
-      [
-        56.8,
-        70.92
-      ],
-      [
-        32.2,
-        62.93
-      ],
-      [
-        32.2,
-        37.07
-      ],
-      [
-        56.8,
-        29.08
-      ]
-    ],
-    "answer": 1150.69,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-054",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
-    "vertices": [
-      [
-        75.0,
-        50.0
-      ],
-      [
-        57.73,
-        73.78
-      ],
-      [
-        29.77,
-        64.69
-      ],
-      [
-        29.77,
-        35.31
-      ],
-      [
-        57.73,
-        26.22
-      ]
-    ],
-    "answer": 1486.3,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-055",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(78.0, 50.0), (58.65, 76.63), (27.35, 66.46), (27.35, 33.54), (58.65, 23.37)] using the shoelace formula.",
-    "vertices": [
-      [
-        78.0,
-        50.0
-      ],
-      [
-        58.65,
-        76.63
-      ],
-      [
-        27.35,
-        66.46
-      ],
-      [
-        27.35,
-        33.54
-      ],
-      [
-        58.65,
-        23.37
-      ]
-    ],
-    "answer": 1864.01,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-056",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(82.0, 50.0), (59.89, 80.43), (24.11, 68.81), (24.11, 31.19), (59.89, 19.57)] using the shoelace formula.",
-    "vertices": [
-      [
-        82.0,
-        50.0
-      ],
-      [
-        59.89,
-        80.43
-      ],
-      [
-        24.11,
-        68.81
-      ],
-      [
-        24.11,
-        31.19
-      ],
-      [
-        59.89,
-        19.57
-      ]
-    ],
-    "answer": 2434.61,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-057",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(76.0, 50.0), (58.03, 74.73), (28.97, 65.28), (28.97, 34.72), (58.03, 25.27)] using the shoelace formula.",
-    "vertices": [
-      [
-        76.0,
-        50.0
-      ],
-      [
-        58.03,
-        74.73
-      ],
-      [
-        28.97,
-        65.28
-      ],
-      [
-        28.97,
-        34.72
-      ],
-      [
-        58.03,
-        25.27
-      ]
-    ],
-    "answer": 1607.09,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-058",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(77.0, 50.0), (58.34, 75.68), (28.16, 65.87), (28.16, 34.13), (58.34, 24.32)] using the shoelace formula.",
-    "vertices": [
-      [
-        77.0,
-        50.0
-      ],
-      [
-        58.34,
-        75.68
-      ],
-      [
-        28.16,
-        65.87
-      ],
-      [
-        28.16,
-        34.13
-      ],
-      [
-        58.34,
-        24.32
-      ]
-    ],
-    "answer": 1733.17,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-059",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(81.0, 50.0), (59.58, 79.48), (24.92, 68.22), (24.92, 31.78), (59.58, 20.52)] using the shoelace formula.",
-    "vertices": [
-      [
-        81.0,
-        50.0
-      ],
-      [
-        59.58,
-        79.48
-      ],
-      [
-        24.92,
-        68.22
-      ],
-      [
-        24.92,
-        31.78
-      ],
-      [
-        59.58,
-        20.52
-      ]
-    ],
-    "answer": 2284.74,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-060",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(90.0, 50.0), (62.36, 88.04), (17.64, 73.51), (17.64, 26.49), (62.36, 11.96)] using the shoelace formula.",
-    "vertices": [
-      [
-        90.0,
-        50.0
-      ],
-      [
-        62.36,
-        88.04
-      ],
-      [
-        17.64,
-        73.51
-      ],
-      [
-        17.64,
-        26.49
-      ],
-      [
-        62.36,
-        11.96
-      ]
-    ],
-    "answer": 3803.94,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-061",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(90.0, 50.0), (62.36, 88.04), (17.64, 73.51), (17.64, 26.49), (62.36, 11.96)] using the shoelace formula.",
-    "vertices": [
-      [
-        90.0,
-        50.0
-      ],
-      [
-        62.36,
-        88.04
-      ],
-      [
-        17.64,
-        73.51
-      ],
-      [
-        17.64,
-        26.49
-      ],
-      [
-        62.36,
-        11.96
-      ]
-    ],
-    "answer": 3803.94,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-062",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(72.0, 50.0), (56.8, 70.92), (32.2, 62.93), (32.2, 37.07), (56.8, 29.08)] using the shoelace formula.",
-    "vertices": [
-      [
-        72.0,
-        50.0
-      ],
-      [
-        56.8,
-        70.92
-      ],
-      [
-        32.2,
-        62.93
-      ],
-      [
-        32.2,
-        37.07
-      ],
-      [
-        56.8,
-        29.08
-      ]
-    ],
-    "answer": 1150.69,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-063",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(80.0, 50.0), (59.27, 78.53), (25.73, 67.63), (25.73, 32.37), (59.27, 21.47)] using the shoelace formula.",
-    "vertices": [
-      [
-        80.0,
-        50.0
-      ],
-      [
-        59.27,
-        78.53
-      ],
-      [
-        25.73,
-        67.63
-      ],
-      [
-        25.73,
-        32.37
-      ],
-      [
-        59.27,
-        21.47
-      ]
-    ],
-    "answer": 2139.63,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-064",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(84.0, 50.0), (60.51, 82.34), (22.49, 69.98), (22.49, 30.02), (60.51, 17.66)] using the shoelace formula.",
-    "vertices": [
-      [
-        84.0,
-        50.0
-      ],
-      [
-        60.51,
-        82.34
-      ],
-      [
-        22.49,
-        69.98
-      ],
-      [
-        22.49,
-        30.02
-      ],
-      [
-        60.51,
-        17.66
-      ]
-    ],
-    "answer": 2748.87,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-065",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(73.0, 50.0), (57.11, 71.87), (31.39, 63.52), (31.39, 36.48), (57.11, 28.13)] using the shoelace formula.",
-    "vertices": [
-      [
-        73.0,
-        50.0
-      ],
-      [
-        57.11,
-        71.87
-      ],
-      [
-        31.39,
-        63.52
-      ],
-      [
-        31.39,
-        36.48
-      ],
-      [
-        57.11,
-        28.13
-      ]
-    ],
-    "answer": 1257.75,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-066",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(86.0, 50.0), (61.12, 84.24), (20.88, 71.16), (20.88, 28.84), (61.12, 15.76)] using the shoelace formula.",
-    "vertices": [
-      [
-        86.0,
-        50.0
-      ],
-      [
-        61.12,
-        84.24
-      ],
-      [
-        20.88,
-        71.16
-      ],
-      [
-        20.88,
-        28.84
-      ],
-      [
-        61.12,
-        15.76
-      ]
-    ],
-    "answer": 3081.19,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-067",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(78.0, 50.0), (58.65, 76.63), (27.35, 66.46), (27.35, 33.54), (58.65, 23.37)] using the shoelace formula.",
-    "vertices": [
-      [
-        78.0,
-        50.0
-      ],
-      [
-        58.65,
-        76.63
-      ],
-      [
-        27.35,
-        66.46
-      ],
-      [
-        27.35,
-        33.54
-      ],
-      [
-        58.65,
-        23.37
-      ]
-    ],
-    "answer": 1864.01,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-068",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(70.0, 50.0), (56.18, 69.02), (33.82, 61.76), (33.82, 38.24), (56.18, 30.98)] using the shoelace formula.",
-    "vertices": [
-      [
-        70.0,
-        50.0
-      ],
-      [
-        56.18,
-        69.02
-      ],
-      [
-        33.82,
-        61.76
-      ],
-      [
-        33.82,
-        38.24
-      ],
-      [
-        56.18,
-        30.98
-      ]
-    ],
-    "answer": 951.1,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-069",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(89.0, 50.0), (62.05, 87.09), (18.45, 72.92), (18.45, 27.08), (62.05, 12.91)] using the shoelace formula.",
-    "vertices": [
-      [
-        89.0,
-        50.0
-      ],
-      [
-        62.05,
-        87.09
-      ],
-      [
-        18.45,
-        72.92
-      ],
-      [
-        18.45,
-        27.08
-      ],
-      [
-        62.05,
-        12.91
-      ]
-    ],
-    "answer": 3616.01,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-070",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(71.0, 50.0), (56.49, 69.97), (33.01, 62.34), (33.01, 37.66), (56.49, 30.03)] using the shoelace formula.",
-    "vertices": [
-      [
-        71.0,
-        50.0
-      ],
-      [
-        56.49,
-        69.97
-      ],
-      [
-        33.01,
-        62.34
-      ],
-      [
-        33.01,
-        37.66
-      ],
-      [
-        56.49,
-        30.03
-      ]
-    ],
-    "answer": 1048.4,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-071",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(87.0, 50.0), (61.43, 85.19), (20.07, 71.75), (20.07, 28.25), (61.43, 14.81)] using the shoelace formula.",
-    "vertices": [
-      [
-        87.0,
-        50.0
-      ],
-      [
-        61.43,
-        85.19
-      ],
-      [
-        20.07,
-        71.75
-      ],
-      [
-        20.07,
-        28.25
-      ],
-      [
-        61.43,
-        14.81
-      ]
-    ],
-    "answer": 3254.85,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-072",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(71.0, 50.0), (56.49, 69.97), (33.01, 62.34), (33.01, 37.66), (56.49, 30.03)] using the shoelace formula.",
-    "vertices": [
-      [
-        71.0,
-        50.0
-      ],
-      [
-        56.49,
-        69.97
-      ],
-      [
-        33.01,
-        62.34
-      ],
-      [
-        33.01,
-        37.66
-      ],
-      [
-        56.49,
-        30.03
-      ]
-    ],
-    "answer": 1048.4,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-073",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(81.0, 50.0), (59.58, 79.48), (24.92, 68.22), (24.92, 31.78), (59.58, 20.52)] using the shoelace formula.",
-    "vertices": [
-      [
-        81.0,
-        50.0
-      ],
-      [
-        59.58,
-        79.48
-      ],
-      [
-        24.92,
-        68.22
-      ],
-      [
-        24.92,
-        31.78
-      ],
-      [
-        59.58,
-        20.52
-      ]
-    ],
-    "answer": 2284.74,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-074",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(73.0, 50.0), (57.11, 71.87), (31.39, 63.52), (31.39, 36.48), (57.11, 28.13)] using the shoelace formula.",
-    "vertices": [
-      [
-        73.0,
-        50.0
-      ],
-      [
-        57.11,
-        71.87
-      ],
-      [
-        31.39,
-        63.52
-      ],
-      [
-        31.39,
-        36.48
-      ],
-      [
-        57.11,
-        28.13
-      ]
-    ],
-    "answer": 1257.75,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-075",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
-    "vertices": [
-      [
-        75.0,
-        50.0
-      ],
-      [
-        57.73,
-        73.78
-      ],
-      [
-        29.77,
-        64.69
-      ],
-      [
-        29.77,
-        35.31
-      ],
-      [
-        57.73,
-        26.22
-      ]
-    ],
-    "answer": 1486.3,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-076",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(70.0, 50.0), (56.18, 69.02), (33.82, 61.76), (33.82, 38.24), (56.18, 30.98)] using the shoelace formula.",
-    "vertices": [
-      [
-        70.0,
-        50.0
-      ],
-      [
-        56.18,
-        69.02
-      ],
-      [
-        33.82,
-        61.76
-      ],
-      [
-        33.82,
-        38.24
-      ],
-      [
-        56.18,
-        30.98
-      ]
-    ],
-    "answer": 951.1,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-077",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(86.0, 50.0), (61.12, 84.24), (20.88, 71.16), (20.88, 28.84), (61.12, 15.76)] using the shoelace formula.",
-    "vertices": [
-      [
-        86.0,
-        50.0
-      ],
-      [
-        61.12,
-        84.24
-      ],
-      [
-        20.88,
-        71.16
-      ],
-      [
-        20.88,
-        28.84
-      ],
-      [
-        61.12,
-        15.76
-      ]
-    ],
-    "answer": 3081.19,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-078",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(70.0, 50.0), (56.18, 69.02), (33.82, 61.76), (33.82, 38.24), (56.18, 30.98)] using the shoelace formula.",
-    "vertices": [
-      [
-        70.0,
-        50.0
-      ],
-      [
-        56.18,
-        69.02
-      ],
-      [
-        33.82,
-        61.76
-      ],
-      [
-        33.82,
-        38.24
-      ],
-      [
-        56.18,
-        30.98
-      ]
-    ],
-    "answer": 951.1,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-079",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(70.0, 50.0), (56.18, 69.02), (33.82, 61.76), (33.82, 38.24), (56.18, 30.98)] using the shoelace formula.",
-    "vertices": [
-      [
-        70.0,
-        50.0
-      ],
-      [
-        56.18,
-        69.02
-      ],
-      [
-        33.82,
-        61.76
-      ],
-      [
-        33.82,
-        38.24
-      ],
-      [
-        56.18,
-        30.98
-      ]
-    ],
-    "answer": 951.1,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-080",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(80.0, 50.0), (59.27, 78.53), (25.73, 67.63), (25.73, 32.37), (59.27, 21.47)] using the shoelace formula.",
-    "vertices": [
-      [
-        80.0,
-        50.0
-      ],
-      [
-        59.27,
-        78.53
-      ],
-      [
-        25.73,
-        67.63
-      ],
-      [
-        25.73,
-        32.37
-      ],
-      [
-        59.27,
-        21.47
-      ]
-    ],
-    "answer": 2139.63,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-081",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(82.0, 50.0), (59.89, 80.43), (24.11, 68.81), (24.11, 31.19), (59.89, 19.57)] using the shoelace formula.",
-    "vertices": [
-      [
-        82.0,
-        50.0
-      ],
-      [
-        59.89,
-        80.43
-      ],
-      [
-        24.11,
-        68.81
-      ],
-      [
-        24.11,
-        31.19
-      ],
-      [
-        59.89,
-        19.57
-      ]
-    ],
-    "answer": 2434.61,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-082",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(79.0, 50.0), (58.96, 77.58), (26.54, 67.05), (26.54, 32.95), (58.96, 22.42)] using the shoelace formula.",
-    "vertices": [
-      [
-        79.0,
-        50.0
-      ],
-      [
-        58.96,
-        77.58
-      ],
-      [
-        26.54,
-        67.05
-      ],
-      [
-        26.54,
-        32.95
-      ],
-      [
-        58.96,
-        22.42
-      ]
-    ],
-    "answer": 1999.61,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-083",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(70.0, 50.0), (56.18, 69.02), (33.82, 61.76), (33.82, 38.24), (56.18, 30.98)] using the shoelace formula.",
-    "vertices": [
-      [
-        70.0,
-        50.0
-      ],
-      [
-        56.18,
-        69.02
-      ],
-      [
-        33.82,
-        61.76
-      ],
-      [
-        33.82,
-        38.24
-      ],
-      [
-        56.18,
-        30.98
-      ]
-    ],
-    "answer": 951.1,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-084",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(88.0, 50.0), (61.74, 86.14), (19.26, 72.34), (19.26, 27.66), (61.74, 13.86)] using the shoelace formula.",
-    "vertices": [
-      [
-        88.0,
-        50.0
-      ],
-      [
-        61.74,
-        86.14
-      ],
-      [
-        19.26,
-        72.34
-      ],
-      [
-        19.26,
-        27.66
-      ],
-      [
-        61.74,
-        13.86
-      ]
-    ],
-    "answer": 3433.27,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-085",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(88.0, 50.0), (61.74, 86.14), (19.26, 72.34), (19.26, 27.66), (61.74, 13.86)] using the shoelace formula.",
-    "vertices": [
-      [
-        88.0,
-        50.0
-      ],
-      [
-        61.74,
-        86.14
-      ],
-      [
-        19.26,
-        72.34
-      ],
-      [
-        19.26,
-        27.66
-      ],
-      [
-        61.74,
-        13.86
-      ]
-    ],
-    "answer": 3433.27,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-086",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(81.0, 50.0), (59.58, 79.48), (24.92, 68.22), (24.92, 31.78), (59.58, 20.52)] using the shoelace formula.",
-    "vertices": [
-      [
-        81.0,
-        50.0
-      ],
-      [
-        59.58,
-        79.48
-      ],
-      [
-        24.92,
-        68.22
-      ],
-      [
-        24.92,
-        31.78
-      ],
-      [
-        59.58,
-        20.52
-      ]
-    ],
-    "answer": 2284.74,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-087",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(72.0, 50.0), (56.8, 70.92), (32.2, 62.93), (32.2, 37.07), (56.8, 29.08)] using the shoelace formula.",
-    "vertices": [
-      [
-        72.0,
-        50.0
-      ],
-      [
-        56.8,
-        70.92
-      ],
-      [
-        32.2,
-        62.93
-      ],
-      [
-        32.2,
-        37.07
-      ],
-      [
-        56.8,
-        29.08
-      ]
-    ],
-    "answer": 1150.69,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-088",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
-    "vertices": [
-      [
-        75.0,
-        50.0
-      ],
-      [
-        57.73,
-        73.78
-      ],
-      [
-        29.77,
-        64.69
-      ],
-      [
-        29.77,
-        35.31
-      ],
-      [
-        57.73,
-        26.22
-      ]
-    ],
-    "answer": 1486.3,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-089",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(76.0, 50.0), (58.03, 74.73), (28.97, 65.28), (28.97, 34.72), (58.03, 25.27)] using the shoelace formula.",
-    "vertices": [
-      [
-        76.0,
-        50.0
-      ],
-      [
-        58.03,
-        74.73
-      ],
-      [
-        28.97,
-        65.28
-      ],
-      [
-        28.97,
-        34.72
-      ],
-      [
-        58.03,
-        25.27
-      ]
-    ],
-    "answer": 1607.09,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-090",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(90.0, 50.0), (62.36, 88.04), (17.64, 73.51), (17.64, 26.49), (62.36, 11.96)] using the shoelace formula.",
-    "vertices": [
-      [
-        90.0,
-        50.0
-      ],
-      [
-        62.36,
-        88.04
-      ],
-      [
-        17.64,
-        73.51
-      ],
-      [
-        17.64,
-        26.49
-      ],
-      [
-        62.36,
-        11.96
-      ]
-    ],
-    "answer": 3803.94,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-091",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(89.0, 50.0), (62.05, 87.09), (18.45, 72.92), (18.45, 27.08), (62.05, 12.91)] using the shoelace formula.",
-    "vertices": [
-      [
-        89.0,
-        50.0
-      ],
-      [
-        62.05,
-        87.09
-      ],
-      [
-        18.45,
-        72.92
-      ],
-      [
-        18.45,
-        27.08
-      ],
-      [
-        62.05,
-        12.91
-      ]
-    ],
-    "answer": 3616.01,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-092",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(85.0, 50.0), (60.82, 83.29), (21.68, 70.57), (21.68, 29.43), (60.82, 16.71)] using the shoelace formula.",
-    "vertices": [
-      [
-        85.0,
-        50.0
-      ],
-      [
-        60.82,
-        83.29
-      ],
-      [
-        21.68,
-        70.57
-      ],
-      [
-        21.68,
-        29.43
-      ],
-      [
-        60.82,
-        16.71
-      ]
-    ],
-    "answer": 2913.03,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-093",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
-    "vertices": [
-      [
-        75.0,
-        50.0
-      ],
-      [
-        57.73,
-        73.78
-      ],
-      [
-        29.77,
-        64.69
-      ],
-      [
-        29.77,
-        35.31
-      ],
-      [
-        57.73,
-        26.22
-      ]
-    ],
-    "answer": 1486.3,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-094",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(87.0, 50.0), (61.43, 85.19), (20.07, 71.75), (20.07, 28.25), (61.43, 14.81)] using the shoelace formula.",
-    "vertices": [
-      [
-        87.0,
-        50.0
-      ],
-      [
-        61.43,
-        85.19
-      ],
-      [
-        20.07,
-        71.75
-      ],
-      [
-        20.07,
-        28.25
-      ],
-      [
-        61.43,
-        14.81
-      ]
-    ],
-    "answer": 3254.85,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-095",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(76.0, 50.0), (58.03, 74.73), (28.97, 65.28), (28.97, 34.72), (58.03, 25.27)] using the shoelace formula.",
-    "vertices": [
-      [
-        76.0,
-        50.0
-      ],
-      [
-        58.03,
-        74.73
-      ],
-      [
-        28.97,
-        65.28
-      ],
-      [
-        28.97,
-        34.72
-      ],
-      [
-        58.03,
-        25.27
-      ]
-    ],
-    "answer": 1607.09,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-096",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(81.0, 50.0), (59.58, 79.48), (24.92, 68.22), (24.92, 31.78), (59.58, 20.52)] using the shoelace formula.",
-    "vertices": [
-      [
-        81.0,
-        50.0
-      ],
-      [
-        59.58,
-        79.48
-      ],
-      [
-        24.92,
-        68.22
-      ],
-      [
-        24.92,
-        31.78
-      ],
-      [
-        59.58,
-        20.52
-      ]
-    ],
-    "answer": 2284.74,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-097",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(73.0, 50.0), (57.11, 71.87), (31.39, 63.52), (31.39, 36.48), (57.11, 28.13)] using the shoelace formula.",
-    "vertices": [
-      [
-        73.0,
-        50.0
-      ],
-      [
-        57.11,
-        71.87
-      ],
-      [
-        31.39,
-        63.52
-      ],
-      [
-        31.39,
-        36.48
-      ],
-      [
-        57.11,
-        28.13
-      ]
-    ],
-    "answer": 1257.75,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-098",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(74.0, 50.0), (57.42, 72.83), (30.58, 64.11), (30.58, 35.89), (57.42, 27.17)] using the shoelace formula.",
-    "vertices": [
-      [
-        74.0,
-        50.0
-      ],
-      [
-        57.42,
-        72.83
-      ],
-      [
-        30.58,
-        64.11
-      ],
-      [
-        30.58,
-        35.89
-      ],
-      [
-        57.42,
-        27.17
-      ]
-    ],
-    "answer": 1369.99,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-099",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(89.0, 50.0), (62.05, 87.09), (18.45, 72.92), (18.45, 27.08), (62.05, 12.91)] using the shoelace formula.",
-    "vertices": [
-      [
-        89.0,
-        50.0
-      ],
-      [
-        62.05,
-        87.09
-      ],
-      [
-        18.45,
-        72.92
-      ],
-      [
-        18.45,
-        27.08
-      ],
-      [
-        62.05,
-        12.91
-      ]
-    ],
-    "answer": 3616.01,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-100",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(81.0, 50.0), (59.58, 79.48), (24.92, 68.22), (24.92, 31.78), (59.58, 20.52)] using the shoelace formula.",
-    "vertices": [
-      [
-        81.0,
-        50.0
-      ],
-      [
-        59.58,
-        79.48
-      ],
-      [
-        24.92,
-        68.22
-      ],
-      [
-        24.92,
-        31.78
-      ],
-      [
-        59.58,
-        20.52
-      ]
-    ],
-    "answer": 2284.74,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-101",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(88.0, 50.0), (61.74, 86.14), (19.26, 72.34), (19.26, 27.66), (61.74, 13.86)] using the shoelace formula.",
-    "vertices": [
-      [
-        88.0,
-        50.0
-      ],
-      [
-        61.74,
-        86.14
-      ],
-      [
-        19.26,
-        72.34
-      ],
-      [
-        19.26,
-        27.66
-      ],
-      [
-        61.74,
-        13.86
-      ]
-    ],
-    "answer": 3433.27,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-102",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
-    "vertices": [
-      [
-        75.0,
-        50.0
-      ],
-      [
-        57.73,
-        73.78
-      ],
-      [
-        29.77,
-        64.69
-      ],
-      [
-        29.77,
-        35.31
-      ],
-      [
-        57.73,
-        26.22
-      ]
-    ],
-    "answer": 1486.3,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-103",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(84.0, 50.0), (60.51, 82.34), (22.49, 69.98), (22.49, 30.02), (60.51, 17.66)] using the shoelace formula.",
-    "vertices": [
-      [
-        84.0,
-        50.0
-      ],
-      [
-        60.51,
-        82.34
-      ],
-      [
-        22.49,
-        69.98
-      ],
-      [
-        22.49,
-        30.02
-      ],
-      [
-        60.51,
-        17.66
-      ]
-    ],
-    "answer": 2748.87,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-104",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
-    "vertices": [
-      [
-        75.0,
-        50.0
-      ],
-      [
-        57.73,
-        73.78
-      ],
-      [
-        29.77,
-        64.69
-      ],
-      [
-        29.77,
-        35.31
-      ],
-      [
-        57.73,
-        26.22
-      ]
-    ],
-    "answer": 1486.3,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-105",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(86.0, 50.0), (61.12, 84.24), (20.88, 71.16), (20.88, 28.84), (61.12, 15.76)] using the shoelace formula.",
-    "vertices": [
-      [
-        86.0,
-        50.0
-      ],
-      [
-        61.12,
-        84.24
-      ],
-      [
-        20.88,
-        71.16
-      ],
-      [
-        20.88,
-        28.84
-      ],
-      [
-        61.12,
-        15.76
-      ]
-    ],
-    "answer": 3081.19,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-106",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(74.0, 50.0), (57.42, 72.83), (30.58, 64.11), (30.58, 35.89), (57.42, 27.17)] using the shoelace formula.",
-    "vertices": [
-      [
-        74.0,
-        50.0
-      ],
-      [
-        57.42,
-        72.83
-      ],
-      [
-        30.58,
-        64.11
-      ],
-      [
-        30.58,
-        35.89
-      ],
-      [
-        57.42,
-        27.17
-      ]
-    ],
-    "answer": 1369.99,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-107",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(84.0, 50.0), (60.51, 82.34), (22.49, 69.98), (22.49, 30.02), (60.51, 17.66)] using the shoelace formula.",
-    "vertices": [
-      [
-        84.0,
-        50.0
-      ],
-      [
-        60.51,
-        82.34
-      ],
-      [
-        22.49,
-        69.98
-      ],
-      [
-        22.49,
-        30.02
-      ],
-      [
-        60.51,
-        17.66
-      ]
-    ],
-    "answer": 2748.87,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-108",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(70.0, 50.0), (56.18, 69.02), (33.82, 61.76), (33.82, 38.24), (56.18, 30.98)] using the shoelace formula.",
-    "vertices": [
-      [
-        70.0,
-        50.0
-      ],
-      [
-        56.18,
-        69.02
-      ],
-      [
-        33.82,
-        61.76
-      ],
-      [
-        33.82,
-        38.24
-      ],
-      [
-        56.18,
-        30.98
-      ]
-    ],
-    "answer": 951.1,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-109",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(89.0, 50.0), (62.05, 87.09), (18.45, 72.92), (18.45, 27.08), (62.05, 12.91)] using the shoelace formula.",
-    "vertices": [
-      [
-        89.0,
-        50.0
-      ],
-      [
-        62.05,
-        87.09
-      ],
-      [
-        18.45,
-        72.92
-      ],
-      [
-        18.45,
-        27.08
-      ],
-      [
-        62.05,
-        12.91
-      ]
-    ],
-    "answer": 3616.01,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-110",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(71.0, 50.0), (56.49, 69.97), (33.01, 62.34), (33.01, 37.66), (56.49, 30.03)] using the shoelace formula.",
-    "vertices": [
-      [
-        71.0,
-        50.0
-      ],
-      [
-        56.49,
-        69.97
-      ],
-      [
-        33.01,
-        62.34
-      ],
-      [
-        33.01,
-        37.66
-      ],
-      [
-        56.49,
-        30.03
-      ]
-    ],
-    "answer": 1048.4,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-111",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(87.0, 50.0), (61.43, 85.19), (20.07, 71.75), (20.07, 28.25), (61.43, 14.81)] using the shoelace formula.",
-    "vertices": [
-      [
-        87.0,
-        50.0
-      ],
-      [
-        61.43,
-        85.19
-      ],
-      [
-        20.07,
-        71.75
-      ],
-      [
-        20.07,
-        28.25
-      ],
-      [
-        61.43,
-        14.81
-      ]
-    ],
-    "answer": 3254.85,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-112",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(73.0, 50.0), (57.11, 71.87), (31.39, 63.52), (31.39, 36.48), (57.11, 28.13)] using the shoelace formula.",
-    "vertices": [
-      [
-        73.0,
-        50.0
-      ],
-      [
-        57.11,
-        71.87
-      ],
-      [
-        31.39,
-        63.52
-      ],
-      [
-        31.39,
-        36.48
-      ],
-      [
-        57.11,
-        28.13
-      ]
-    ],
-    "answer": 1257.75,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-113",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(79.0, 50.0), (58.96, 77.58), (26.54, 67.05), (26.54, 32.95), (58.96, 22.42)] using the shoelace formula.",
-    "vertices": [
-      [
-        79.0,
-        50.0
-      ],
-      [
-        58.96,
-        77.58
-      ],
-      [
-        26.54,
-        67.05
-      ],
-      [
-        26.54,
-        32.95
-      ],
-      [
-        58.96,
-        22.42
-      ]
-    ],
-    "answer": 1999.61,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-114",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(79.0, 50.0), (58.96, 77.58), (26.54, 67.05), (26.54, 32.95), (58.96, 22.42)] using the shoelace formula.",
-    "vertices": [
-      [
-        79.0,
-        50.0
-      ],
-      [
-        58.96,
-        77.58
-      ],
-      [
-        26.54,
-        67.05
-      ],
-      [
-        26.54,
-        32.95
-      ],
-      [
-        58.96,
-        22.42
-      ]
-    ],
-    "answer": 1999.61,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-115",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(73.0, 50.0), (57.11, 71.87), (31.39, 63.52), (31.39, 36.48), (57.11, 28.13)] using the shoelace formula.",
-    "vertices": [
-      [
-        73.0,
-        50.0
-      ],
-      [
-        57.11,
-        71.87
-      ],
-      [
-        31.39,
-        63.52
-      ],
-      [
-        31.39,
-        36.48
-      ],
-      [
-        57.11,
-        28.13
-      ]
-    ],
-    "answer": 1257.75,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-116",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(81.0, 50.0), (59.58, 79.48), (24.92, 68.22), (24.92, 31.78), (59.58, 20.52)] using the shoelace formula.",
-    "vertices": [
-      [
-        81.0,
-        50.0
-      ],
-      [
-        59.58,
-        79.48
-      ],
-      [
-        24.92,
-        68.22
-      ],
-      [
-        24.92,
-        31.78
-      ],
-      [
-        59.58,
-        20.52
-      ]
-    ],
-    "answer": 2284.74,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-117",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
-    "vertices": [
-      [
-        75.0,
-        50.0
-      ],
-      [
-        57.73,
-        73.78
-      ],
-      [
-        29.77,
-        64.69
-      ],
-      [
-        29.77,
-        35.31
-      ],
-      [
-        57.73,
-        26.22
-      ]
-    ],
-    "answer": 1486.3,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-118",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(88.0, 50.0), (61.74, 86.14), (19.26, 72.34), (19.26, 27.66), (61.74, 13.86)] using the shoelace formula.",
-    "vertices": [
-      [
-        88.0,
-        50.0
-      ],
-      [
-        61.74,
-        86.14
-      ],
-      [
-        19.26,
-        72.34
-      ],
-      [
-        19.26,
-        27.66
-      ],
-      [
-        61.74,
-        13.86
-      ]
-    ],
-    "answer": 3433.27,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-119",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(86.0, 50.0), (61.12, 84.24), (20.88, 71.16), (20.88, 28.84), (61.12, 15.76)] using the shoelace formula.",
-    "vertices": [
-      [
-        86.0,
-        50.0
-      ],
-      [
-        61.12,
-        84.24
-      ],
-      [
-        20.88,
-        71.16
-      ],
-      [
-        20.88,
-        28.84
-      ],
-      [
-        61.12,
-        15.76
-      ]
-    ],
-    "answer": 3081.19,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-120",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
-    "vertices": [
-      [
-        75.0,
-        50.0
-      ],
-      [
-        57.73,
-        73.78
-      ],
-      [
-        29.77,
-        64.69
-      ],
-      [
-        29.77,
-        35.31
-      ],
-      [
-        57.73,
-        26.22
-      ]
-    ],
-    "answer": 1486.3,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-121",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(73.0, 50.0), (57.11, 71.87), (31.39, 63.52), (31.39, 36.48), (57.11, 28.13)] using the shoelace formula.",
-    "vertices": [
-      [
-        73.0,
-        50.0
-      ],
-      [
-        57.11,
-        71.87
-      ],
-      [
-        31.39,
-        63.52
-      ],
-      [
-        31.39,
-        36.48
-      ],
-      [
-        57.11,
-        28.13
-      ]
-    ],
-    "answer": 1257.75,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-122",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(85.0, 50.0), (60.82, 83.29), (21.68, 70.57), (21.68, 29.43), (60.82, 16.71)] using the shoelace formula.",
-    "vertices": [
-      [
-        85.0,
-        50.0
-      ],
-      [
-        60.82,
-        83.29
-      ],
-      [
-        21.68,
-        70.57
-      ],
-      [
-        21.68,
-        29.43
-      ],
-      [
-        60.82,
-        16.71
-      ]
-    ],
-    "answer": 2913.03,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-123",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(76.0, 50.0), (58.03, 74.73), (28.97, 65.28), (28.97, 34.72), (58.03, 25.27)] using the shoelace formula.",
-    "vertices": [
-      [
-        76.0,
-        50.0
-      ],
-      [
-        58.03,
-        74.73
-      ],
-      [
-        28.97,
-        65.28
-      ],
-      [
-        28.97,
-        34.72
-      ],
-      [
-        58.03,
-        25.27
-      ]
-    ],
-    "answer": 1607.09,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-124",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(89.0, 50.0), (62.05, 87.09), (18.45, 72.92), (18.45, 27.08), (62.05, 12.91)] using the shoelace formula.",
-    "vertices": [
-      [
-        89.0,
-        50.0
-      ],
-      [
-        62.05,
-        87.09
-      ],
-      [
-        18.45,
-        72.92
-      ],
-      [
-        18.45,
-        27.08
-      ],
-      [
-        62.05,
-        12.91
-      ]
-    ],
-    "answer": 3616.01,
-    "reasoning_steps": 8
-  },
-  {
-    "id": "GR-H-125",
-    "category": "geometric_reasoning",
-    "difficulty": "hard",
-    "task_type": "polygon_area",
-    "question": "Calculate the area of a polygon with vertices at [(74.0, 50.0), (57.42, 72.83), (30.58, 64.11), (30.58, 35.89), (57.42, 27.17)] using the shoelace formula.",
-    "vertices": [
-      [
-        74.0,
-        50.0
-      ],
-      [
-        57.42,
-        72.83
-      ],
-      [
-        30.58,
-        64.11
-      ],
-      [
-        30.58,
-        35.89
-      ],
-      [
-        57.42,
-        27.17
-      ]
-    ],
-    "answer": 1369.99,
-    "reasoning_steps": 8
+    "task_id": "GR_hard_0001",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (3, 8), (9, 8), and (3, 6). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 6.0
+  },
+  {
+    "task_id": "GR_hard_0002",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (4, 10), (0, 3), and (7, 6). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 18.5
+  },
+  {
+    "task_id": "GR_hard_0003",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (1, 3), (7, 10), and (9, 1). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 34.0
+  },
+  {
+    "task_id": "GR_hard_0004",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (8, 0), (5, 5), and (2, 6). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 6.0
+  },
+  {
+    "task_id": "GR_hard_0005",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (9, 6), (5, 8), and (10, 2). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 7.0
+  },
+  {
+    "task_id": "GR_hard_0006",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (7, 1), (0, 9), and (1, 0). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 27.5
+  },
+  {
+    "task_id": "GR_hard_0007",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (4, 3), (0, 0), and (6, 8). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 7.0
+  },
+  {
+    "task_id": "GR_hard_0008",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (4, 10), (8, 6), and (6, 6). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 4.0
+  },
+  {
+    "task_id": "GR_hard_0009",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (1, 10), (8, 8), and (9, 2). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 20.0
+  },
+  {
+    "task_id": "GR_hard_0010",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (4, 1), (4, 1), and (8, 3). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 0.0
+  },
+  {
+    "task_id": "GR_hard_0011",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (2, 8), (5, 6), and (9, 10). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 10.0
+  },
+  {
+    "task_id": "GR_hard_0012",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (10, 10), (10, 1), and (4, 6). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 27.0
+  },
+  {
+    "task_id": "GR_hard_0013",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (3, 0), (3, 1), and (6, 1). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 1.5
+  },
+  {
+    "task_id": "GR_hard_0014",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (7, 9), (9, 0), and (4, 10). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 12.5
+  },
+  {
+    "task_id": "GR_hard_0015",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (10, 2), (1, 0), and (2, 0). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 1.0
+  },
+  {
+    "task_id": "GR_hard_0016",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (2, 7), (5, 8), and (8, 4). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 7.5
+  },
+  {
+    "task_id": "GR_hard_0017",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (2, 5), (2, 4), and (1, 0). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 0.5
+  },
+  {
+    "task_id": "GR_hard_0018",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (5, 6), (4, 8), and (1, 4). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 5.0
+  },
+  {
+    "task_id": "GR_hard_0019",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (9, 10), (1, 7), and (7, 8). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 5.0
+  },
+  {
+    "task_id": "GR_hard_0020",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (5, 0), (7, 9), and (2, 5). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 18.5
+  },
+  {
+    "task_id": "GR_hard_0021",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (2, 4), (1, 9), and (10, 1). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 18.5
+  },
+  {
+    "task_id": "GR_hard_0022",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (3, 8), (0, 0), and (0, 3). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 4.5
+  },
+  {
+    "task_id": "GR_hard_0023",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (0, 7), (5, 6), and (2, 2). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 11.5
+  },
+  {
+    "task_id": "GR_hard_0024",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (0, 8), (10, 6), and (3, 5). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 12.0
+  },
+  {
+    "task_id": "GR_hard_0025",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (3, 6), (5, 4), and (1, 9). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 1.0
+  },
+  {
+    "task_id": "GR_hard_0026",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (5, 1), (8, 10), and (0, 2). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 24.0
+  },
+  {
+    "task_id": "GR_hard_0027",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (3, 8), (0, 6), and (1, 7). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 0.5
+  },
+  {
+    "task_id": "GR_hard_0028",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (4, 4), (5, 1), and (8, 7). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 7.5
+  },
+  {
+    "task_id": "GR_hard_0029",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (0, 5), (3, 4), and (9, 4). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 3.0
+  },
+  {
+    "task_id": "GR_hard_0030",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (9, 3), (7, 5), and (9, 7). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 4.0
+  },
+  {
+    "task_id": "GR_hard_0031",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (3, 8), (3, 2), and (0, 6). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 9.0
+  },
+  {
+    "task_id": "GR_hard_0032",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (0, 3), (8, 5), and (10, 0). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 22.0
+  },
+  {
+    "task_id": "GR_hard_0033",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (5, 0), (10, 6), and (4, 1). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 5.5
+  },
+  {
+    "task_id": "GR_hard_0034",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (3, 8), (3, 6), and (7, 0). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 4.0
+  },
+  {
+    "task_id": "GR_hard_0035",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (2, 4), (1, 0), and (3, 8). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 0.0
+  },
+  {
+    "task_id": "GR_hard_0036",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (6, 5), (7, 1), and (9, 1). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 4.0
+  },
+  {
+    "task_id": "GR_hard_0037",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (8, 2), (10, 6), and (1, 9). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 21.0
+  },
+  {
+    "task_id": "GR_hard_0038",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (9, 0), (6, 10), and (2, 3). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 30.5
+  },
+  {
+    "task_id": "GR_hard_0039",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (4, 4), (5, 6), and (5, 5). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 0.5
+  },
+  {
+    "task_id": "GR_hard_0040",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (7, 4), (3, 1), and (3, 2). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 2.0
+  },
+  {
+    "task_id": "GR_hard_0041",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (9, 1), (2, 1), and (2, 7). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 21.0
+  },
+  {
+    "task_id": "GR_hard_0042",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (7, 5), (6, 1), and (8, 5). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 2.0
+  },
+  {
+    "task_id": "GR_hard_0043",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (3, 7), (4, 7), and (4, 1). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 3.0
+  },
+  {
+    "task_id": "GR_hard_0044",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (1, 2), (10, 4), and (9, 0). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 17.0
+  },
+  {
+    "task_id": "GR_hard_0045",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (3, 5), (2, 1), and (3, 5). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 0.0
+  },
+  {
+    "task_id": "GR_hard_0046",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (6, 8), (0, 10), and (4, 4). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 14.0
+  },
+  {
+    "task_id": "GR_hard_0047",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (2, 0), (6, 7), and (8, 8). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 5.0
+  },
+  {
+    "task_id": "GR_hard_0048",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (3, 1), (7, 1), and (2, 1). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 0.0
+  },
+  {
+    "task_id": "GR_hard_0049",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (0, 0), (3, 2), and (3, 6). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 6.0
+  },
+  {
+    "task_id": "GR_hard_0050",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (5, 10), (10, 10), and (1, 9). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 2.5
+  },
+  {
+    "task_id": "GR_hard_0051",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (9, 4), (1, 0), and (1, 3). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 12.0
+  },
+  {
+    "task_id": "GR_hard_0052",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (10, 7), (2, 1), and (5, 1). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 9.0
+  },
+  {
+    "task_id": "GR_hard_0053",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (0, 7), (0, 2), and (9, 6). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 22.5
+  },
+  {
+    "task_id": "GR_hard_0054",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (6, 7), (0, 6), and (10, 6). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 5.0
+  },
+  {
+    "task_id": "GR_hard_0055",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (2, 5), (3, 2), and (4, 4). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 2.5
+  },
+  {
+    "task_id": "GR_hard_0056",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (7, 2), (0, 9), and (9, 9). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 31.5
+  },
+  {
+    "task_id": "GR_hard_0057",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (3, 10), (4, 7), and (6, 8). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 3.5
+  },
+  {
+    "task_id": "GR_hard_0058",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (7, 0), (1, 4), and (6, 2). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 4.0
+  },
+  {
+    "task_id": "GR_hard_0059",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (6, 3), (10, 8), and (3, 10). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 21.5
+  },
+  {
+    "task_id": "GR_hard_0060",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (8, 0), (6, 5), and (7, 8). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 5.5
+  },
+  {
+    "task_id": "GR_hard_0061",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (7, 5), (9, 8), and (5, 6). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 4.0
+  },
+  {
+    "task_id": "GR_hard_0062",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (4, 2), (0, 5), and (9, 3). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 9.5
+  },
+  {
+    "task_id": "GR_hard_0063",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (0, 4), (0, 7), and (8, 5). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 12.0
+  },
+  {
+    "task_id": "GR_hard_0064",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (9, 3), (2, 1), and (3, 10). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 30.5
+  },
+  {
+    "task_id": "GR_hard_0065",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (3, 4), (8, 0), and (3, 9). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 12.5
+  },
+  {
+    "task_id": "GR_hard_0066",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (6, 5), (2, 2), and (3, 9). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 12.5
+  },
+  {
+    "task_id": "GR_hard_0067",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (5, 5), (9, 0), and (5, 9). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 8.0
+  },
+  {
+    "task_id": "GR_hard_0068",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (9, 2), (9, 3), and (7, 8). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 1.0
+  },
+  {
+    "task_id": "GR_hard_0069",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (4, 2), (7, 0), and (1, 0). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 6.0
+  },
+  {
+    "task_id": "GR_hard_0070",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (3, 9), (3, 0), and (8, 7). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 22.5
+  },
+  {
+    "task_id": "GR_hard_0071",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (0, 5), (9, 3), and (2, 5). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 2.0
+  },
+  {
+    "task_id": "GR_hard_0072",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (2, 5), (0, 0), and (2, 9). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 4.0
+  },
+  {
+    "task_id": "GR_hard_0073",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (2, 1), (8, 5), and (1, 5). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 14.0
+  },
+  {
+    "task_id": "GR_hard_0074",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (10, 6), (9, 1), and (5, 4). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 11.5
+  },
+  {
+    "task_id": "GR_hard_0075",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (5, 2), (2, 6), and (10, 7). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 17.5
+  },
+  {
+    "task_id": "GR_hard_0076",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (10, 5), (2, 8), and (9, 5). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 1.5
+  },
+  {
+    "task_id": "GR_hard_0077",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (3, 10), (9, 2), and (6, 4). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 6.0
+  },
+  {
+    "task_id": "GR_hard_0078",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (4, 2), (2, 0), and (9, 6). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 1.0
+  },
+  {
+    "task_id": "GR_hard_0079",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (9, 0), (2, 9), and (5, 9). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 13.5
+  },
+  {
+    "task_id": "GR_hard_0080",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (3, 10), (9, 1), and (7, 2). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 6.0
+  },
+  {
+    "task_id": "GR_hard_0081",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (5, 1), (3, 5), and (5, 2). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 1.0
+  },
+  {
+    "task_id": "GR_hard_0082",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (10, 1), (10, 10), and (5, 7). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 22.5
+  },
+  {
+    "task_id": "GR_hard_0083",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (0, 4), (3, 3), and (1, 5). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 2.0
+  },
+  {
+    "task_id": "GR_hard_0084",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (4, 1), (0, 0), and (6, 7). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 11.0
+  },
+  {
+    "task_id": "GR_hard_0085",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (6, 2), (6, 7), and (6, 5). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 0.0
+  },
+  {
+    "task_id": "GR_hard_0086",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (8, 6), (1, 7), and (9, 10). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 14.5
+  },
+  {
+    "task_id": "GR_hard_0087",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (10, 3), (2, 7), and (1, 0). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 30.0
+  },
+  {
+    "task_id": "GR_hard_0088",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (4, 0), (5, 4), and (1, 1). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 6.5
+  },
+  {
+    "task_id": "GR_hard_0089",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (5, 2), (6, 2), and (1, 8). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 3.0
+  },
+  {
+    "task_id": "GR_hard_0090",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (1, 5), (9, 9), and (7, 0). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 32.0
+  },
+  {
+    "task_id": "GR_hard_0091",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (6, 10), (2, 9), and (6, 2). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 16.0
+  },
+  {
+    "task_id": "GR_hard_0092",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (0, 1), (5, 3), and (3, 6). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 9.5
+  },
+  {
+    "task_id": "GR_hard_0093",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (8, 8), (4, 10), and (4, 4). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 12.0
+  },
+  {
+    "task_id": "GR_hard_0094",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (3, 1), (0, 6), and (9, 8). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 25.5
+  },
+  {
+    "task_id": "GR_hard_0095",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (7, 2), (0, 5), and (0, 6). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 3.5
+  },
+  {
+    "task_id": "GR_hard_0096",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (1, 4), (10, 10), and (9, 7). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 10.5
+  },
+  {
+    "task_id": "GR_hard_0097",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (3, 1), (0, 3), and (2, 10). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 12.5
+  },
+  {
+    "task_id": "GR_hard_0098",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (4, 1), (7, 1), and (4, 6). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 7.5
+  },
+  {
+    "task_id": "GR_hard_0099",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (7, 7), (10, 4), and (1, 10). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 4.5
+  },
+  {
+    "task_id": "GR_hard_0100",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (8, 6), (2, 5), and (6, 5). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 2.0
+  },
+  {
+    "task_id": "GR_hard_0101",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (2, 7), (0, 4), and (7, 7). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 7.5
+  },
+  {
+    "task_id": "GR_hard_0102",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (4, 3), (4, 9), and (0, 2). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 12.0
+  },
+  {
+    "task_id": "GR_hard_0103",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (10, 1), (1, 10), and (5, 8). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 9.0
+  },
+  {
+    "task_id": "GR_hard_0104",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (6, 9), (3, 8), and (0, 6). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 1.5
+  },
+  {
+    "task_id": "GR_hard_0105",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (8, 6), (8, 10), and (7, 9). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 2.0
+  },
+  {
+    "task_id": "GR_hard_0106",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (3, 7), (4, 1), and (6, 0). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 5.5
+  },
+  {
+    "task_id": "GR_hard_0107",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (8, 9), (8, 9), and (10, 9). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 0.0
+  },
+  {
+    "task_id": "GR_hard_0108",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (2, 1), (7, 2), and (2, 3). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 5.0
+  },
+  {
+    "task_id": "GR_hard_0109",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (3, 2), (0, 6), and (1, 10). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 8.0
+  },
+  {
+    "task_id": "GR_hard_0110",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (6, 3), (10, 2), and (9, 4). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 3.5
+  },
+  {
+    "task_id": "GR_hard_0111",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (5, 1), (1, 6), and (8, 6). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 17.5
+  },
+  {
+    "task_id": "GR_hard_0112",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (8, 5), (4, 8), and (7, 0). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 11.5
+  },
+  {
+    "task_id": "GR_hard_0113",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (9, 9), (8, 6), and (1, 6). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 10.5
+  },
+  {
+    "task_id": "GR_hard_0114",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (2, 2), (9, 9), and (9, 1). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 28.0
+  },
+  {
+    "task_id": "GR_hard_0115",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (1, 9), (1, 4), and (8, 5). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 17.5
+  },
+  {
+    "task_id": "GR_hard_0116",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (6, 4), (6, 10), and (7, 9). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 3.0
+  },
+  {
+    "task_id": "GR_hard_0117",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (9, 7), (0, 2), and (4, 6). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 8.0
+  },
+  {
+    "task_id": "GR_hard_0118",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (2, 9), (9, 10), and (6, 0). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 33.5
+  },
+  {
+    "task_id": "GR_hard_0119",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (6, 5), (3, 0), and (7, 4). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 4.0
+  },
+  {
+    "task_id": "GR_hard_0120",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (5, 0), (5, 4), and (4, 4). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 2.0
+  },
+  {
+    "task_id": "GR_hard_0121",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (7, 10), (1, 3), and (2, 4). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 0.5
+  },
+  {
+    "task_id": "GR_hard_0122",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (7, 5), (4, 6), and (9, 10). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 8.5
+  },
+  {
+    "task_id": "GR_hard_0123",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (1, 3), (7, 3), and (6, 7). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 12.0
+  },
+  {
+    "task_id": "GR_hard_0124",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (8, 5), (0, 8), and (2, 1). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 25.0
+  },
+  {
+    "task_id": "GR_hard_0125",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (4, 8), (6, 2), and (8, 9). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 13.0
+  },
+  {
+    "task_id": "GR_hard_0126",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (0, 2), (3, 3), and (0, 3). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 1.5
+  },
+  {
+    "task_id": "GR_hard_0127",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (0, 7), (0, 5), and (3, 4). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 3.0
+  },
+  {
+    "task_id": "GR_hard_0128",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (5, 7), (8, 6), and (10, 1). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 6.5
+  },
+  {
+    "task_id": "GR_hard_0129",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (10, 0), (3, 5), and (7, 9). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 24.0
+  },
+  {
+    "task_id": "GR_hard_0130",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (7, 2), (7, 9), and (8, 5). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 3.5
+  },
+  {
+    "task_id": "GR_hard_0131",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (5, 2), (4, 1), and (4, 0). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 0.5
+  },
+  {
+    "task_id": "GR_hard_0132",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (6, 0), (2, 9), and (3, 3). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 7.5
+  },
+  {
+    "task_id": "GR_hard_0133",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (10, 3), (10, 3), and (4, 10). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 0.0
+  },
+  {
+    "task_id": "GR_hard_0134",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (6, 8), (0, 10), and (0, 7). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 9.0
+  },
+  {
+    "task_id": "GR_hard_0135",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (2, 10), (2, 9), and (0, 3). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 1.0
+  },
+  {
+    "task_id": "GR_hard_0136",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (4, 9), (4, 10), and (4, 6). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 0.0
+  },
+  {
+    "task_id": "GR_hard_0137",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (6, 5), (7, 4), and (3, 7). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 0.5
+  },
+  {
+    "task_id": "GR_hard_0138",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (4, 10), (8, 9), and (6, 9). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 1.0
+  },
+  {
+    "task_id": "GR_hard_0139",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (1, 0), (8, 10), and (5, 8). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 8.0
+  },
+  {
+    "task_id": "GR_hard_0140",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (10, 9), (9, 4), and (4, 10). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 15.5
+  },
+  {
+    "task_id": "GR_hard_0141",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (1, 7), (1, 5), and (4, 10). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 3.0
+  },
+  {
+    "task_id": "GR_hard_0142",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (5, 4), (4, 10), and (10, 4). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 15.0
+  },
+  {
+    "task_id": "GR_hard_0143",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (3, 2), (8, 3), and (0, 9). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 19.0
+  },
+  {
+    "task_id": "GR_hard_0144",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (6, 10), (5, 10), and (2, 0). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 5.0
+  },
+  {
+    "task_id": "GR_hard_0145",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (10, 7), (4, 4), and (6, 6). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 3.0
+  },
+  {
+    "task_id": "GR_hard_0146",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (6, 0), (9, 9), and (3, 5). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 21.0
+  },
+  {
+    "task_id": "GR_hard_0147",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (3, 10), (8, 10), and (7, 10). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 0.0
+  },
+  {
+    "task_id": "GR_hard_0148",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (5, 8), (4, 2), and (10, 8). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 15.0
+  },
+  {
+    "task_id": "GR_hard_0149",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (2, 4), (1, 7), and (2, 4). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 0.0
+  },
+  {
+    "task_id": "GR_hard_0150",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (8, 2), (10, 5), and (10, 1). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 4.0
+  },
+  {
+    "task_id": "GR_hard_0151",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (3, 5), (3, 4), and (6, 5). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 1.5
+  },
+  {
+    "task_id": "GR_hard_0152",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (5, 4), (9, 4), and (7, 1). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 6.0
+  },
+  {
+    "task_id": "GR_hard_0153",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (7, 0), (10, 9), and (9, 9). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 4.5
+  },
+  {
+    "task_id": "GR_hard_0154",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (1, 7), (3, 8), and (1, 10). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 3.0
+  },
+  {
+    "task_id": "GR_hard_0155",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (6, 8), (4, 6), and (0, 2). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 0.0
+  },
+  {
+    "task_id": "GR_hard_0156",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (2, 3), (5, 6), and (9, 7). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 4.5
+  },
+  {
+    "task_id": "GR_hard_0157",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (2, 5), (2, 1), and (7, 5). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 10.0
+  },
+  {
+    "task_id": "GR_hard_0158",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (10, 2), (5, 10), and (0, 0). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 45.0
+  },
+  {
+    "task_id": "GR_hard_0159",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (7, 4), (3, 2), and (9, 2). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 6.0
+  },
+  {
+    "task_id": "GR_hard_0160",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (7, 1), (2, 9), and (6, 10). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 18.5
+  },
+  {
+    "task_id": "GR_hard_0161",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (6, 6), (6, 7), and (6, 0). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 0.0
+  },
+  {
+    "task_id": "GR_hard_0162",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (0, 8), (3, 5), and (0, 5). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 4.5
+  },
+  {
+    "task_id": "GR_hard_0163",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (8, 3), (0, 10), and (0, 10). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 0.0
+  },
+  {
+    "task_id": "GR_hard_0164",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (3, 3), (5, 4), and (2, 1). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 1.5
+  },
+  {
+    "task_id": "GR_hard_0165",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (6, 8), (9, 4), and (2, 1). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 18.5
+  },
+  {
+    "task_id": "GR_hard_0166",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (0, 4), (4, 7), and (8, 9). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 2.0
+  },
+  {
+    "task_id": "GR_hard_0167",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "prompt": "A triangle has vertices at (8, 5), (6, 10), and (2, 5). What is its area? Give your answer as a number (decimal if needed).",
+    "ground_truth": 15.0
   }
 ]

@@ -1,2627 +1,1171 @@
 [
   {
-    "id": "GR-M-001",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (3, 5) and (8, 8). Rectangle B has corners (7, 5) and (15, 13). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 3,
-      "y1": 5,
-      "x2": 8,
-      "y2": 8
-    },
-    "rectangle_b": {
-      "x1": 7,
-      "y1": 5,
-      "x2": 15,
-      "y2": 13
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-002",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (4, 1) and (8, 4). Rectangle B has corners (3, 3) and (8, 10). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 4,
-      "y1": 1,
-      "x2": 8,
-      "y2": 4
-    },
-    "rectangle_b": {
-      "x1": 3,
-      "y1": 3,
-      "x2": 8,
-      "y2": 10
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-003",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (2, 2) and (9, 8). Rectangle B has corners (1, 10) and (6, 17). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 2,
-      "y1": 2,
-      "x2": 9,
-      "y2": 8
-    },
-    "rectangle_b": {
-      "x1": 1,
-      "y1": 10,
-      "x2": 6,
-      "y2": 17
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-004",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 4) and (9, 8). Rectangle B has corners (5, 2) and (9, 8). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 4,
-      "x2": 9,
-      "y2": 8
-    },
-    "rectangle_b": {
-      "x1": 5,
-      "y1": 2,
-      "x2": 9,
-      "y2": 8
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-005",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 1) and (8, 9). Rectangle B has corners (2, 5) and (9, 11). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 1,
-      "x2": 8,
-      "y2": 9
-    },
-    "rectangle_b": {
-      "x1": 2,
-      "y1": 5,
-      "x2": 9,
-      "y2": 11
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-006",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 4) and (11, 12). Rectangle B has corners (4, 3) and (9, 9). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 4,
-      "x2": 11,
-      "y2": 12
-    },
-    "rectangle_b": {
-      "x1": 4,
-      "y1": 3,
-      "x2": 9,
-      "y2": 9
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-007",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (2, 2) and (6, 7). Rectangle B has corners (5, 5) and (13, 10). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 2,
-      "y1": 2,
-      "x2": 6,
-      "y2": 7
-    },
-    "rectangle_b": {
-      "x1": 5,
-      "y1": 5,
-      "x2": 13,
-      "y2": 10
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-008",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (3, 2) and (9, 9). Rectangle B has corners (6, 6) and (9, 12). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 3,
-      "y1": 2,
-      "x2": 9,
-      "y2": 9
-    },
-    "rectangle_b": {
-      "x1": 6,
-      "y1": 6,
-      "x2": 9,
-      "y2": 12
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-009",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (0, 3) and (5, 11). Rectangle B has corners (2, 7) and (7, 10). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 0,
-      "y1": 3,
-      "x2": 5,
-      "y2": 11
-    },
-    "rectangle_b": {
-      "x1": 2,
-      "y1": 7,
-      "x2": 7,
-      "y2": 10
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-010",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 1) and (9, 9). Rectangle B has corners (4, 4) and (9, 7). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 1,
-      "x2": 9,
-      "y2": 9
-    },
-    "rectangle_b": {
-      "x1": 4,
-      "y1": 4,
-      "x2": 9,
-      "y2": 7
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-011",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (2, 3) and (8, 8). Rectangle B has corners (8, 8) and (16, 12). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 2,
-      "y1": 3,
-      "x2": 8,
-      "y2": 8
-    },
-    "rectangle_b": {
-      "x1": 8,
-      "y1": 8,
-      "x2": 16,
-      "y2": 12
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-012",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 4) and (8, 10). Rectangle B has corners (4, 1) and (7, 5). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 4,
-      "x2": 8,
-      "y2": 10
-    },
-    "rectangle_b": {
-      "x1": 4,
-      "y1": 1,
-      "x2": 7,
-      "y2": 5
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-013",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 2) and (9, 8). Rectangle B has corners (9, 7) and (12, 15). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 2,
-      "x2": 9,
-      "y2": 8
-    },
-    "rectangle_b": {
-      "x1": 9,
-      "y1": 7,
-      "x2": 12,
-      "y2": 15
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-014",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (3, 5) and (11, 11). Rectangle B has corners (3, 4) and (10, 11). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 3,
-      "y1": 5,
-      "x2": 11,
-      "y2": 11
-    },
-    "rectangle_b": {
-      "x1": 3,
-      "y1": 4,
-      "x2": 10,
-      "y2": 11
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-015",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (3, 0) and (6, 3). Rectangle B has corners (10, 5) and (15, 12). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 3,
-      "y1": 0,
-      "x2": 6,
-      "y2": 3
-    },
-    "rectangle_b": {
-      "x1": 10,
-      "y1": 5,
-      "x2": 15,
-      "y2": 12
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-016",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (2, 3) and (7, 6). Rectangle B has corners (7, 2) and (15, 5). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 2,
-      "y1": 3,
-      "x2": 7,
-      "y2": 6
-    },
-    "rectangle_b": {
-      "x1": 7,
-      "y1": 2,
-      "x2": 15,
-      "y2": 5
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-017",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (2, 5) and (8, 9). Rectangle B has corners (2, 9) and (7, 16). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 2,
-      "y1": 5,
-      "x2": 8,
-      "y2": 9
-    },
-    "rectangle_b": {
-      "x1": 2,
-      "y1": 9,
-      "x2": 7,
-      "y2": 16
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-018",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 4) and (4, 10). Rectangle B has corners (3, 5) and (10, 12). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 4,
-      "x2": 4,
-      "y2": 10
-    },
-    "rectangle_b": {
-      "x1": 3,
-      "y1": 5,
-      "x2": 10,
-      "y2": 12
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-019",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 2) and (12, 9). Rectangle B has corners (4, 0) and (8, 3). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 2,
-      "x2": 12,
-      "y2": 9
-    },
-    "rectangle_b": {
-      "x1": 4,
-      "y1": 0,
-      "x2": 8,
-      "y2": 3
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-020",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 5) and (13, 10). Rectangle B has corners (5, 7) and (13, 11). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 5,
-      "x2": 13,
-      "y2": 10
-    },
-    "rectangle_b": {
-      "x1": 5,
-      "y1": 7,
-      "x2": 13,
-      "y2": 11
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-021",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 2) and (7, 6). Rectangle B has corners (7, 5) and (12, 9). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 2,
-      "x2": 7,
-      "y2": 6
-    },
-    "rectangle_b": {
-      "x1": 7,
-      "y1": 5,
-      "x2": 12,
-      "y2": 9
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-022",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 5) and (10, 10). Rectangle B has corners (9, 0) and (13, 3). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 5,
-      "x2": 10,
-      "y2": 10
-    },
-    "rectangle_b": {
-      "x1": 9,
-      "y1": 0,
-      "x2": 13,
-      "y2": 3
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-023",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 3) and (11, 9). Rectangle B has corners (7, 0) and (14, 3). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 3,
-      "x2": 11,
-      "y2": 9
-    },
-    "rectangle_b": {
-      "x1": 7,
-      "y1": 0,
-      "x2": 14,
-      "y2": 3
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-024",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (4, 2) and (7, 9). Rectangle B has corners (6, 0) and (13, 5). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 4,
-      "y1": 2,
-      "x2": 7,
-      "y2": 9
-    },
-    "rectangle_b": {
-      "x1": 6,
-      "y1": 0,
-      "x2": 13,
-      "y2": 5
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-025",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (4, 3) and (9, 10). Rectangle B has corners (5, 10) and (8, 18). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 4,
-      "y1": 3,
-      "x2": 9,
-      "y2": 10
-    },
-    "rectangle_b": {
-      "x1": 5,
-      "y1": 10,
-      "x2": 8,
-      "y2": 18
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-026",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (0, 4) and (3, 11). Rectangle B has corners (1, 8) and (5, 15). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 0,
-      "y1": 4,
-      "x2": 3,
-      "y2": 11
-    },
-    "rectangle_b": {
-      "x1": 1,
-      "y1": 8,
-      "x2": 5,
-      "y2": 15
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-027",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (0, 4) and (6, 11). Rectangle B has corners (10, 3) and (13, 11). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 0,
-      "y1": 4,
-      "x2": 6,
-      "y2": 11
-    },
-    "rectangle_b": {
-      "x1": 10,
-      "y1": 3,
-      "x2": 13,
-      "y2": 11
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-028",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (3, 2) and (9, 8). Rectangle B has corners (2, 10) and (7, 13). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 3,
-      "y1": 2,
-      "x2": 9,
-      "y2": 8
-    },
-    "rectangle_b": {
-      "x1": 2,
-      "y1": 10,
-      "x2": 7,
-      "y2": 13
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-029",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 5) and (8, 10). Rectangle B has corners (7, 8) and (15, 16). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 5,
-      "x2": 8,
-      "y2": 10
-    },
-    "rectangle_b": {
-      "x1": 7,
-      "y1": 8,
-      "x2": 15,
-      "y2": 16
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-030",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (3, 0) and (9, 7). Rectangle B has corners (4, 0) and (11, 6). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 3,
-      "y1": 0,
-      "x2": 9,
-      "y2": 7
-    },
-    "rectangle_b": {
-      "x1": 4,
-      "y1": 0,
-      "x2": 11,
-      "y2": 6
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-031",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (0, 0) and (4, 5). Rectangle B has corners (6, 2) and (11, 6). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 0,
-      "y1": 0,
-      "x2": 4,
-      "y2": 5
-    },
-    "rectangle_b": {
-      "x1": 6,
-      "y1": 2,
-      "x2": 11,
-      "y2": 6
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-032",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (4, 5) and (9, 12). Rectangle B has corners (7, 10) and (15, 14). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 4,
-      "y1": 5,
-      "x2": 9,
-      "y2": 12
-    },
-    "rectangle_b": {
-      "x1": 7,
-      "y1": 10,
-      "x2": 15,
-      "y2": 14
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-033",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (4, 2) and (12, 9). Rectangle B has corners (2, 3) and (6, 7). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 4,
-      "y1": 2,
-      "x2": 12,
-      "y2": 9
-    },
-    "rectangle_b": {
-      "x1": 2,
-      "y1": 3,
-      "x2": 6,
-      "y2": 7
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-034",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (2, 1) and (5, 4). Rectangle B has corners (8, 9) and (11, 13). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 2,
-      "y1": 1,
-      "x2": 5,
-      "y2": 4
-    },
-    "rectangle_b": {
-      "x1": 8,
-      "y1": 9,
-      "x2": 11,
-      "y2": 13
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-035",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (4, 2) and (7, 7). Rectangle B has corners (5, 3) and (13, 7). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 4,
-      "y1": 2,
-      "x2": 7,
-      "y2": 7
-    },
-    "rectangle_b": {
-      "x1": 5,
-      "y1": 3,
-      "x2": 13,
-      "y2": 7
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-036",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 2) and (5, 8). Rectangle B has corners (4, 3) and (8, 8). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 2,
-      "x2": 5,
-      "y2": 8
-    },
-    "rectangle_b": {
-      "x1": 4,
-      "y1": 3,
-      "x2": 8,
-      "y2": 8
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-037",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (0, 1) and (6, 4). Rectangle B has corners (6, 0) and (12, 8). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 0,
-      "y1": 1,
-      "x2": 6,
-      "y2": 4
-    },
-    "rectangle_b": {
-      "x1": 6,
-      "y1": 0,
-      "x2": 12,
-      "y2": 8
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-038",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 1) and (11, 4). Rectangle B has corners (7, 7) and (13, 11). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 1,
-      "x2": 11,
-      "y2": 4
-    },
-    "rectangle_b": {
-      "x1": 7,
-      "y1": 7,
-      "x2": 13,
-      "y2": 11
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-039",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 3) and (8, 6). Rectangle B has corners (1, 2) and (8, 9). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 3,
-      "x2": 8,
-      "y2": 6
-    },
-    "rectangle_b": {
-      "x1": 1,
-      "y1": 2,
-      "x2": 8,
-      "y2": 9
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-040",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 4) and (8, 8). Rectangle B has corners (3, 1) and (9, 9). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 4,
-      "x2": 8,
-      "y2": 8
-    },
-    "rectangle_b": {
-      "x1": 3,
-      "y1": 1,
-      "x2": 9,
-      "y2": 9
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-041",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (4, 2) and (12, 7). Rectangle B has corners (6, 3) and (10, 6). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 4,
-      "y1": 2,
-      "x2": 12,
-      "y2": 7
-    },
-    "rectangle_b": {
-      "x1": 6,
-      "y1": 3,
-      "x2": 10,
-      "y2": 6
-    },
-    "answer": "inside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-042",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (4, 2) and (10, 7). Rectangle B has corners (8, 1) and (14, 4). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 4,
-      "y1": 2,
-      "x2": 10,
-      "y2": 7
-    },
-    "rectangle_b": {
-      "x1": 8,
-      "y1": 1,
-      "x2": 14,
-      "y2": 4
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-043",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (0, 3) and (6, 9). Rectangle B has corners (1, 5) and (6, 10). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 0,
-      "y1": 3,
-      "x2": 6,
-      "y2": 9
-    },
-    "rectangle_b": {
-      "x1": 1,
-      "y1": 5,
-      "x2": 6,
-      "y2": 10
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-044",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (0, 3) and (8, 8). Rectangle B has corners (3, 1) and (11, 9). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 0,
-      "y1": 3,
-      "x2": 8,
-      "y2": 8
-    },
-    "rectangle_b": {
-      "x1": 3,
-      "y1": 1,
-      "x2": 11,
-      "y2": 9
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-045",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (3, 3) and (6, 8). Rectangle B has corners (10, 5) and (13, 9). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 3,
-      "y1": 3,
-      "x2": 6,
-      "y2": 8
-    },
-    "rectangle_b": {
-      "x1": 10,
-      "y1": 5,
-      "x2": 13,
-      "y2": 9
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-046",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 1) and (8, 4). Rectangle B has corners (2, 8) and (6, 12). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 1,
-      "x2": 8,
-      "y2": 4
-    },
-    "rectangle_b": {
-      "x1": 2,
-      "y1": 8,
-      "x2": 6,
-      "y2": 12
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-047",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 3) and (8, 6). Rectangle B has corners (9, 3) and (17, 11). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 3,
-      "x2": 8,
-      "y2": 6
-    },
-    "rectangle_b": {
-      "x1": 9,
-      "y1": 3,
-      "x2": 17,
-      "y2": 11
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-048",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (2, 2) and (9, 8). Rectangle B has corners (2, 6) and (6, 10). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 2,
-      "y1": 2,
-      "x2": 9,
-      "y2": 8
-    },
-    "rectangle_b": {
-      "x1": 2,
-      "y1": 6,
-      "x2": 6,
-      "y2": 10
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-049",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (4, 1) and (12, 9). Rectangle B has corners (2, 5) and (5, 9). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 4,
-      "y1": 1,
-      "x2": 12,
-      "y2": 9
-    },
-    "rectangle_b": {
-      "x1": 2,
-      "y1": 5,
-      "x2": 5,
-      "y2": 9
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-050",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (0, 3) and (4, 8). Rectangle B has corners (6, 10) and (11, 15). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 0,
-      "y1": 3,
-      "x2": 4,
-      "y2": 8
-    },
-    "rectangle_b": {
-      "x1": 6,
-      "y1": 10,
-      "x2": 11,
-      "y2": 15
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-051",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (4, 2) and (7, 5). Rectangle B has corners (5, 0) and (11, 3). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 4,
-      "y1": 2,
-      "x2": 7,
-      "y2": 5
-    },
-    "rectangle_b": {
-      "x1": 5,
-      "y1": 0,
-      "x2": 11,
-      "y2": 3
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-052",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 1) and (11, 4). Rectangle B has corners (8, 6) and (15, 14). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 1,
-      "x2": 11,
-      "y2": 4
-    },
-    "rectangle_b": {
-      "x1": 8,
-      "y1": 6,
-      "x2": 15,
-      "y2": 14
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-053",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (4, 1) and (8, 4). Rectangle B has corners (0, 5) and (4, 8). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 4,
-      "y1": 1,
-      "x2": 8,
-      "y2": 4
-    },
-    "rectangle_b": {
-      "x1": 0,
-      "y1": 5,
-      "x2": 4,
-      "y2": 8
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-054",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (3, 0) and (6, 6). Rectangle B has corners (7, 6) and (14, 12). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 3,
-      "y1": 0,
-      "x2": 6,
-      "y2": 6
-    },
-    "rectangle_b": {
-      "x1": 7,
-      "y1": 6,
-      "x2": 14,
-      "y2": 12
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-055",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 4) and (9, 7). Rectangle B has corners (4, 7) and (10, 12). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 4,
-      "x2": 9,
-      "y2": 7
-    },
-    "rectangle_b": {
-      "x1": 4,
-      "y1": 7,
-      "x2": 10,
-      "y2": 12
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-056",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 2) and (9, 9). Rectangle B has corners (5, 9) and (13, 17). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 2,
-      "x2": 9,
-      "y2": 9
-    },
-    "rectangle_b": {
-      "x1": 5,
-      "y1": 9,
-      "x2": 13,
-      "y2": 17
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-057",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (0, 3) and (6, 11). Rectangle B has corners (9, 3) and (13, 7). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 0,
-      "y1": 3,
-      "x2": 6,
-      "y2": 11
-    },
-    "rectangle_b": {
-      "x1": 9,
-      "y1": 3,
-      "x2": 13,
-      "y2": 7
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-058",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (4, 1) and (8, 5). Rectangle B has corners (10, 1) and (18, 4). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 4,
-      "y1": 1,
-      "x2": 8,
-      "y2": 5
-    },
-    "rectangle_b": {
-      "x1": 10,
-      "y1": 1,
-      "x2": 18,
-      "y2": 4
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-059",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 3) and (10, 10). Rectangle B has corners (1, 3) and (5, 8). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 3,
-      "x2": 10,
-      "y2": 10
-    },
-    "rectangle_b": {
-      "x1": 1,
-      "y1": 3,
-      "x2": 5,
-      "y2": 8
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-060",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 5) and (9, 10). Rectangle B has corners (5, 7) and (13, 14). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 5,
-      "x2": 9,
-      "y2": 10
-    },
-    "rectangle_b": {
-      "x1": 5,
-      "y1": 7,
-      "x2": 13,
-      "y2": 14
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-061",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (4, 4) and (11, 9). Rectangle B has corners (2, 5) and (8, 10). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 4,
-      "y1": 4,
-      "x2": 11,
-      "y2": 9
-    },
-    "rectangle_b": {
-      "x1": 2,
-      "y1": 5,
-      "x2": 8,
-      "y2": 10
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-062",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 1) and (12, 9). Rectangle B has corners (0, 6) and (8, 9). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 1,
-      "x2": 12,
-      "y2": 9
-    },
-    "rectangle_b": {
-      "x1": 0,
-      "y1": 6,
-      "x2": 8,
-      "y2": 9
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-063",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 1) and (4, 5). Rectangle B has corners (10, 0) and (14, 4). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 1,
-      "x2": 4,
-      "y2": 5
-    },
-    "rectangle_b": {
-      "x1": 10,
-      "y1": 0,
-      "x2": 14,
-      "y2": 4
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-064",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (3, 2) and (6, 9). Rectangle B has corners (7, 7) and (12, 11). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 3,
-      "y1": 2,
-      "x2": 6,
-      "y2": 9
-    },
-    "rectangle_b": {
-      "x1": 7,
-      "y1": 7,
-      "x2": 12,
-      "y2": 11
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-065",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 4) and (11, 10). Rectangle B has corners (3, 7) and (10, 12). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 4,
-      "x2": 11,
-      "y2": 10
-    },
-    "rectangle_b": {
-      "x1": 3,
-      "y1": 7,
-      "x2": 10,
-      "y2": 12
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-066",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (4, 3) and (7, 11). Rectangle B has corners (4, 10) and (11, 15). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 4,
-      "y1": 3,
-      "x2": 7,
-      "y2": 11
-    },
-    "rectangle_b": {
-      "x1": 4,
-      "y1": 10,
-      "x2": 11,
-      "y2": 15
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-067",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (2, 1) and (7, 6). Rectangle B has corners (7, 8) and (13, 16). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 2,
-      "y1": 1,
-      "x2": 7,
-      "y2": 6
-    },
-    "rectangle_b": {
-      "x1": 7,
-      "y1": 8,
-      "x2": 13,
-      "y2": 16
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-068",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (0, 5) and (5, 12). Rectangle B has corners (4, 1) and (9, 7). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 0,
-      "y1": 5,
-      "x2": 5,
-      "y2": 12
-    },
-    "rectangle_b": {
-      "x1": 4,
-      "y1": 1,
-      "x2": 9,
-      "y2": 7
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-069",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 0) and (12, 4). Rectangle B has corners (1, 3) and (7, 6). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 0,
-      "x2": 12,
-      "y2": 4
-    },
-    "rectangle_b": {
-      "x1": 1,
-      "y1": 3,
-      "x2": 7,
-      "y2": 6
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-070",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (0, 4) and (8, 9). Rectangle B has corners (2, 5) and (7, 11). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 0,
-      "y1": 4,
-      "x2": 8,
-      "y2": 9
-    },
-    "rectangle_b": {
-      "x1": 2,
-      "y1": 5,
-      "x2": 7,
-      "y2": 11
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-071",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (3, 4) and (6, 11). Rectangle B has corners (2, 6) and (9, 10). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 3,
-      "y1": 4,
-      "x2": 6,
-      "y2": 11
-    },
-    "rectangle_b": {
-      "x1": 2,
-      "y1": 6,
-      "x2": 9,
-      "y2": 10
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-072",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 5) and (5, 8). Rectangle B has corners (3, 5) and (10, 12). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 5,
-      "x2": 5,
-      "y2": 8
-    },
-    "rectangle_b": {
-      "x1": 3,
-      "y1": 5,
-      "x2": 10,
-      "y2": 12
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-073",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 4) and (8, 11). Rectangle B has corners (0, 8) and (5, 15). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 4,
-      "x2": 8,
-      "y2": 11
-    },
-    "rectangle_b": {
-      "x1": 0,
-      "y1": 8,
-      "x2": 5,
-      "y2": 15
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-074",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 5) and (8, 9). Rectangle B has corners (5, 2) and (8, 10). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 5,
-      "x2": 8,
-      "y2": 9
-    },
-    "rectangle_b": {
-      "x1": 5,
-      "y1": 2,
-      "x2": 8,
-      "y2": 10
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-075",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 5) and (9, 12). Rectangle B has corners (3, 2) and (10, 9). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 5,
-      "x2": 9,
-      "y2": 12
-    },
-    "rectangle_b": {
-      "x1": 3,
-      "y1": 2,
-      "x2": 10,
-      "y2": 9
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-076",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (3, 1) and (8, 4). Rectangle B has corners (6, 4) and (12, 11). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 3,
-      "y1": 1,
-      "x2": 8,
-      "y2": 4
-    },
-    "rectangle_b": {
-      "x1": 6,
-      "y1": 4,
-      "x2": 12,
-      "y2": 11
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-077",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (3, 3) and (9, 8). Rectangle B has corners (2, 4) and (5, 7). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 3,
-      "y1": 3,
-      "x2": 9,
-      "y2": 8
-    },
-    "rectangle_b": {
-      "x1": 2,
-      "y1": 4,
-      "x2": 5,
-      "y2": 7
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-078",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (2, 5) and (9, 13). Rectangle B has corners (4, 3) and (12, 10). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 2,
-      "y1": 5,
-      "x2": 9,
-      "y2": 13
-    },
-    "rectangle_b": {
-      "x1": 4,
-      "y1": 3,
-      "x2": 12,
-      "y2": 10
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-079",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (4, 0) and (7, 6). Rectangle B has corners (2, 2) and (8, 6). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 4,
-      "y1": 0,
-      "x2": 7,
-      "y2": 6
-    },
-    "rectangle_b": {
-      "x1": 2,
-      "y1": 2,
-      "x2": 8,
-      "y2": 6
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-080",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 3) and (5, 11). Rectangle B has corners (6, 6) and (13, 10). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 3,
-      "x2": 5,
-      "y2": 11
-    },
-    "rectangle_b": {
-      "x1": 6,
-      "y1": 6,
-      "x2": 13,
-      "y2": 10
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-081",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 2) and (4, 6). Rectangle B has corners (4, 2) and (10, 5). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 2,
-      "x2": 4,
-      "y2": 6
-    },
-    "rectangle_b": {
-      "x1": 4,
-      "y1": 2,
-      "x2": 10,
-      "y2": 5
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-082",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 5) and (12, 13). Rectangle B has corners (2, 3) and (8, 7). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 5,
-      "x2": 12,
-      "y2": 13
-    },
-    "rectangle_b": {
-      "x1": 2,
-      "y1": 3,
-      "x2": 8,
-      "y2": 7
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-083",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 2) and (10, 5). Rectangle B has corners (10, 1) and (17, 6). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 2,
-      "x2": 10,
-      "y2": 5
-    },
-    "rectangle_b": {
-      "x1": 10,
-      "y1": 1,
-      "x2": 17,
-      "y2": 6
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-084",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (4, 0) and (12, 7). Rectangle B has corners (7, 3) and (15, 9). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 4,
-      "y1": 0,
-      "x2": 12,
-      "y2": 7
-    },
-    "rectangle_b": {
-      "x1": 7,
-      "y1": 3,
-      "x2": 15,
-      "y2": 9
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-085",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (2, 0) and (9, 8). Rectangle B has corners (9, 7) and (13, 10). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 2,
-      "y1": 0,
-      "x2": 9,
-      "y2": 8
-    },
-    "rectangle_b": {
-      "x1": 9,
-      "y1": 7,
-      "x2": 13,
-      "y2": 10
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-086",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 2) and (10, 5). Rectangle B has corners (6, 4) and (9, 12). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 2,
-      "x2": 10,
-      "y2": 5
-    },
-    "rectangle_b": {
-      "x1": 6,
-      "y1": 4,
-      "x2": 9,
-      "y2": 12
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-087",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (3, 3) and (10, 7). Rectangle B has corners (7, 4) and (11, 11). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 3,
-      "y1": 3,
-      "x2": 10,
-      "y2": 7
-    },
-    "rectangle_b": {
-      "x1": 7,
-      "y1": 4,
-      "x2": 11,
-      "y2": 11
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-088",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (0, 0) and (8, 7). Rectangle B has corners (9, 5) and (13, 13). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 0,
-      "y1": 0,
-      "x2": 8,
-      "y2": 7
-    },
-    "rectangle_b": {
-      "x1": 9,
-      "y1": 5,
-      "x2": 13,
-      "y2": 13
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-089",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (3, 5) and (9, 11). Rectangle B has corners (0, 10) and (3, 15). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 3,
-      "y1": 5,
-      "x2": 9,
-      "y2": 11
-    },
-    "rectangle_b": {
-      "x1": 0,
-      "y1": 10,
-      "x2": 3,
-      "y2": 15
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-090",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 5) and (10, 10). Rectangle B has corners (10, 8) and (15, 14). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 5,
-      "x2": 10,
-      "y2": 10
-    },
-    "rectangle_b": {
-      "x1": 10,
-      "y1": 8,
-      "x2": 15,
-      "y2": 14
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-091",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 2) and (10, 5). Rectangle B has corners (0, 1) and (8, 7). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 2,
-      "x2": 10,
-      "y2": 5
-    },
-    "rectangle_b": {
-      "x1": 0,
-      "y1": 1,
-      "x2": 8,
-      "y2": 7
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-092",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 4) and (7, 8). Rectangle B has corners (9, 6) and (17, 11). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 4,
-      "x2": 7,
-      "y2": 8
-    },
-    "rectangle_b": {
-      "x1": 9,
-      "y1": 6,
-      "x2": 17,
-      "y2": 11
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-093",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (0, 5) and (6, 12). Rectangle B has corners (9, 9) and (15, 16). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 0,
-      "y1": 5,
-      "x2": 6,
-      "y2": 12
-    },
-    "rectangle_b": {
-      "x1": 9,
-      "y1": 9,
-      "x2": 15,
-      "y2": 16
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-094",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (4, 5) and (10, 8). Rectangle B has corners (9, 1) and (16, 9). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 4,
-      "y1": 5,
-      "x2": 10,
-      "y2": 8
-    },
-    "rectangle_b": {
-      "x1": 9,
-      "y1": 1,
-      "x2": 16,
-      "y2": 9
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-095",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (0, 4) and (3, 7). Rectangle B has corners (3, 5) and (10, 13). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 0,
-      "y1": 4,
-      "x2": 3,
-      "y2": 7
-    },
-    "rectangle_b": {
-      "x1": 3,
-      "y1": 5,
-      "x2": 10,
-      "y2": 13
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-096",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 4) and (11, 10). Rectangle B has corners (0, 5) and (8, 11). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 4,
-      "x2": 11,
-      "y2": 10
-    },
-    "rectangle_b": {
-      "x1": 0,
-      "y1": 5,
-      "x2": 8,
-      "y2": 11
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-097",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (3, 4) and (10, 7). Rectangle B has corners (6, 10) and (14, 16). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 3,
-      "y1": 4,
-      "x2": 10,
-      "y2": 7
-    },
-    "rectangle_b": {
-      "x1": 6,
-      "y1": 10,
-      "x2": 14,
-      "y2": 16
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-098",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 0) and (9, 7). Rectangle B has corners (2, 0) and (10, 5). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 0,
-      "x2": 9,
-      "y2": 7
-    },
-    "rectangle_b": {
-      "x1": 2,
-      "y1": 0,
-      "x2": 10,
-      "y2": 5
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-099",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (0, 2) and (6, 5). Rectangle B has corners (7, 4) and (12, 12). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 0,
-      "y1": 2,
-      "x2": 6,
-      "y2": 5
-    },
-    "rectangle_b": {
-      "x1": 7,
-      "y1": 4,
-      "x2": 12,
-      "y2": 12
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-100",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (2, 2) and (6, 7). Rectangle B has corners (7, 0) and (12, 6). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 2,
-      "y1": 2,
-      "x2": 6,
-      "y2": 7
-    },
-    "rectangle_b": {
-      "x1": 7,
-      "y1": 0,
-      "x2": 12,
-      "y2": 6
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-101",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 5) and (10, 9). Rectangle B has corners (3, 8) and (10, 16). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 5,
-      "x2": 10,
-      "y2": 9
-    },
-    "rectangle_b": {
-      "x1": 3,
-      "y1": 8,
-      "x2": 10,
-      "y2": 16
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-102",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (2, 5) and (8, 10). Rectangle B has corners (2, 7) and (5, 12). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 2,
-      "y1": 5,
-      "x2": 8,
-      "y2": 10
-    },
-    "rectangle_b": {
-      "x1": 2,
-      "y1": 7,
-      "x2": 5,
-      "y2": 12
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-103",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (2, 4) and (9, 12). Rectangle B has corners (3, 5) and (8, 8). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 2,
-      "y1": 4,
-      "x2": 9,
-      "y2": 12
-    },
-    "rectangle_b": {
-      "x1": 3,
-      "y1": 5,
-      "x2": 8,
-      "y2": 8
-    },
-    "answer": "inside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-104",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 0) and (13, 6). Rectangle B has corners (5, 9) and (11, 17). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 0,
-      "x2": 13,
-      "y2": 6
-    },
-    "rectangle_b": {
-      "x1": 5,
-      "y1": 9,
-      "x2": 11,
-      "y2": 17
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-105",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 3) and (5, 8). Rectangle B has corners (7, 5) and (12, 11). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 3,
-      "x2": 5,
-      "y2": 8
-    },
-    "rectangle_b": {
-      "x1": 7,
-      "y1": 5,
-      "x2": 12,
-      "y2": 11
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-106",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (2, 1) and (6, 6). Rectangle B has corners (0, 1) and (4, 8). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 2,
-      "y1": 1,
-      "x2": 6,
-      "y2": 6
-    },
-    "rectangle_b": {
-      "x1": 0,
-      "y1": 1,
-      "x2": 4,
-      "y2": 8
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-107",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (2, 4) and (10, 12). Rectangle B has corners (8, 4) and (15, 11). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 2,
-      "y1": 4,
-      "x2": 10,
-      "y2": 12
-    },
-    "rectangle_b": {
-      "x1": 8,
-      "y1": 4,
-      "x2": 15,
-      "y2": 11
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-108",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 3) and (8, 11). Rectangle B has corners (1, 3) and (4, 6). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 3,
-      "x2": 8,
-      "y2": 11
-    },
-    "rectangle_b": {
-      "x1": 1,
-      "y1": 3,
-      "x2": 4,
-      "y2": 6
-    },
-    "answer": "inside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-109",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 4) and (13, 10). Rectangle B has corners (4, 2) and (12, 7). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 4,
-      "x2": 13,
-      "y2": 10
-    },
-    "rectangle_b": {
-      "x1": 4,
-      "y1": 2,
-      "x2": 12,
-      "y2": 7
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-110",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (4, 2) and (10, 6). Rectangle B has corners (6, 1) and (14, 6). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 4,
-      "y1": 2,
-      "x2": 10,
-      "y2": 6
-    },
-    "rectangle_b": {
-      "x1": 6,
-      "y1": 1,
-      "x2": 14,
-      "y2": 6
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-111",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (4, 4) and (7, 9). Rectangle B has corners (3, 7) and (6, 11). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 4,
-      "y1": 4,
-      "x2": 7,
-      "y2": 9
-    },
-    "rectangle_b": {
-      "x1": 3,
-      "y1": 7,
-      "x2": 6,
-      "y2": 11
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-112",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (4, 1) and (12, 6). Rectangle B has corners (0, 7) and (4, 15). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 4,
-      "y1": 1,
-      "x2": 12,
-      "y2": 6
-    },
-    "rectangle_b": {
-      "x1": 0,
-      "y1": 7,
-      "x2": 4,
-      "y2": 15
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-113",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 1) and (5, 7). Rectangle B has corners (10, 3) and (14, 6). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 1,
-      "x2": 5,
-      "y2": 7
-    },
-    "rectangle_b": {
-      "x1": 10,
-      "y1": 3,
-      "x2": 14,
-      "y2": 6
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-114",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (2, 1) and (5, 8). Rectangle B has corners (7, 7) and (13, 14). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 2,
-      "y1": 1,
-      "x2": 5,
-      "y2": 8
-    },
-    "rectangle_b": {
-      "x1": 7,
-      "y1": 7,
-      "x2": 13,
-      "y2": 14
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-115",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (4, 4) and (8, 10). Rectangle B has corners (2, 8) and (9, 14). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 4,
-      "y1": 4,
-      "x2": 8,
-      "y2": 10
-    },
-    "rectangle_b": {
-      "x1": 2,
-      "y1": 8,
-      "x2": 9,
-      "y2": 14
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-116",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 4) and (11, 12). Rectangle B has corners (4, 5) and (9, 11). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 4,
-      "x2": 11,
-      "y2": 12
-    },
-    "rectangle_b": {
-      "x1": 4,
-      "y1": 5,
-      "x2": 9,
-      "y2": 11
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-117",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (2, 2) and (6, 7). Rectangle B has corners (8, 5) and (11, 13). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 2,
-      "y1": 2,
-      "x2": 6,
-      "y2": 7
-    },
-    "rectangle_b": {
-      "x1": 8,
-      "y1": 5,
-      "x2": 11,
-      "y2": 13
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-118",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (1, 2) and (9, 6). Rectangle B has corners (8, 9) and (12, 12). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 1,
-      "y1": 2,
-      "x2": 9,
-      "y2": 6
-    },
-    "rectangle_b": {
-      "x1": 8,
-      "y1": 9,
-      "x2": 12,
-      "y2": 12
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-119",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (4, 5) and (10, 12). Rectangle B has corners (5, 1) and (12, 5). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 4,
-      "y1": 5,
-      "x2": 10,
-      "y2": 12
-    },
-    "rectangle_b": {
-      "x1": 5,
-      "y1": 1,
-      "x2": 12,
-      "y2": 5
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-120",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (5, 2) and (13, 10). Rectangle B has corners (10, 8) and (14, 14). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 5,
-      "y1": 2,
-      "x2": 13,
-      "y2": 10
-    },
-    "rectangle_b": {
-      "x1": 10,
-      "y1": 8,
-      "x2": 14,
-      "y2": 14
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-121",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (2, 4) and (5, 10). Rectangle B has corners (9, 7) and (15, 14). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 2,
-      "y1": 4,
-      "x2": 5,
-      "y2": 10
-    },
-    "rectangle_b": {
-      "x1": 9,
-      "y1": 7,
-      "x2": 15,
-      "y2": 14
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-122",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (3, 0) and (7, 3). Rectangle B has corners (8, 7) and (15, 15). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 3,
-      "y1": 0,
-      "x2": 7,
-      "y2": 3
-    },
-    "rectangle_b": {
-      "x1": 8,
-      "y1": 7,
-      "x2": 15,
-      "y2": 15
-    },
-    "answer": "outside",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-123",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (0, 2) and (6, 10). Rectangle B has corners (2, 1) and (10, 6). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 0,
-      "y1": 2,
-      "x2": 6,
-      "y2": 10
-    },
-    "rectangle_b": {
-      "x1": 2,
-      "y1": 1,
-      "x2": 10,
-      "y2": 6
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-124",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (0, 5) and (5, 12). Rectangle B has corners (4, 0) and (12, 7). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 0,
-      "y1": 5,
-      "x2": 5,
-      "y2": 12
-    },
-    "rectangle_b": {
-      "x1": 4,
-      "y1": 0,
-      "x2": 12,
-      "y2": 7
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
-  },
-  {
-    "id": "GR-M-125",
-    "category": "geometric_reasoning",
-    "difficulty": "medium",
-    "task_type": "spatial_relationship",
-    "question": "Rectangle A has corners (3, 3) and (11, 7). Rectangle B has corners (6, 3) and (14, 9). What is the spatial relationship between A and B?",
-    "rectangle_a": {
-      "x1": 3,
-      "y1": 3,
-      "x2": 11,
-      "y2": 7
-    },
-    "rectangle_b": {
-      "x1": 6,
-      "y1": 3,
-      "x2": 14,
-      "y2": 9
-    },
-    "answer": "overlapping",
-    "reasoning_steps": 5
+    "task_id": "GR_medium_0001",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 4) and (6, 9). Rectangle B has corners at (7, 13) and (14, 17). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0002",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 0) and (8, 6). Rectangle B has corners at (7, 5) and (9, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0003",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 2) and (7, 6). Rectangle B has corners at (6, 3) and (14, 13). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0004",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 1) and (7, 6). Rectangle B has corners at (11, 7) and (15, 13). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0005",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 1) and (6, 8). Rectangle B has corners at (11, 12) and (16, 17). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0006",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 0) and (7, 8). Rectangle B has corners at (2, 5) and (11, 9). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0007",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 3) and (9, 9). Rectangle B has corners at (13, 12) and (16, 18). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0008",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 3) and (8, 10). Rectangle B has corners at (5, 8) and (14, 10). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0009",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 4) and (7, 10). Rectangle B has corners at (3, 4) and (12, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0010",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 2) and (9, 10). Rectangle B has corners at (11, 14) and (17, 19). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0011",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 5) and (8, 10). Rectangle B has corners at (11, 11) and (14, 19). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0012",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 4) and (7, 6). Rectangle B has corners at (6, 5) and (7, 8). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0013",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 1) and (8, 8). Rectangle B has corners at (0, 5) and (10, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0014",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 2) and (9, 6). Rectangle B has corners at (14, 9) and (18, 14). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0015",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 2) and (7, 6). Rectangle B has corners at (5, 5) and (15, 12). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0016",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 0) and (8, 8). Rectangle B has corners at (10, 13) and (16, 17). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0017",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (1, 0) and (7, 6). Rectangle B has corners at (6, 3) and (8, 11). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0018",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 2) and (6, 10). Rectangle B has corners at (9, 12) and (13, 18). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0019",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 1) and (6, 7). Rectangle B has corners at (8, 11) and (12, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0020",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 4) and (8, 9). Rectangle B has corners at (13, 11) and (18, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0021",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 2) and (9, 9). Rectangle B has corners at (13, 14) and (15, 16). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0022",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 5) and (6, 9). Rectangle B has corners at (4, 6) and (14, 14). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0023",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 1) and (7, 9). Rectangle B has corners at (8, 10) and (17, 16). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0024",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 1) and (7, 8). Rectangle B has corners at (9, 11) and (17, 16). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0025",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 2) and (7, 10). Rectangle B has corners at (5, 6) and (15, 10). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0026",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 5) and (7, 10). Rectangle B has corners at (9, 12) and (17, 20). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0027",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 4) and (6, 6). Rectangle B has corners at (4, 4) and (15, 12). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0028",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 5) and (6, 9). Rectangle B has corners at (11, 12) and (14, 18). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0029",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (1, 5) and (9, 8). Rectangle B has corners at (1, 5) and (12, 14). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0030",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 3) and (7, 8). Rectangle B has corners at (10, 11) and (15, 17). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0031",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (1, 2) and (10, 10). Rectangle B has corners at (4, 9) and (10, 12). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0032",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 1) and (7, 6). Rectangle B has corners at (6, 5) and (13, 9). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0033",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (1, 2) and (10, 8). Rectangle B has corners at (3, 5) and (14, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0034",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 2) and (9, 6). Rectangle B has corners at (6, 5) and (10, 9). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0035",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 2) and (6, 6). Rectangle B has corners at (5, 4) and (14, 6). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0036",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 3) and (7, 8). Rectangle B has corners at (11, 11) and (13, 17). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0037",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 4) and (10, 7). Rectangle B has corners at (4, 4) and (13, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0038",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 4) and (8, 10). Rectangle B has corners at (9, 12) and (14, 19). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0039",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 2) and (10, 8). Rectangle B has corners at (12, 13) and (20, 17). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0040",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 0) and (6, 6). Rectangle B has corners at (5, 3) and (14, 13). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0041",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (1, 4) and (10, 7). Rectangle B has corners at (6, 4) and (13, 11). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0042",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 2) and (10, 10). Rectangle B has corners at (15, 13) and (19, 16). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0043",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 2) and (6, 9). Rectangle B has corners at (7, 14) and (15, 17). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0044",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 4) and (10, 7). Rectangle B has corners at (15, 11) and (17, 17). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0045",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 5) and (10, 9). Rectangle B has corners at (6, 5) and (14, 14). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0046",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 1) and (6, 9). Rectangle B has corners at (1, 7) and (9, 12). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0047",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 4) and (9, 6). Rectangle B has corners at (14, 8) and (19, 14). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0048",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 3) and (10, 9). Rectangle B has corners at (6, 6) and (14, 11). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0049",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 2) and (8, 10). Rectangle B has corners at (5, 6) and (12, 11). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0050",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 2) and (7, 9). Rectangle B has corners at (4, 6) and (11, 11). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0051",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 4) and (10, 9). Rectangle B has corners at (14, 12) and (17, 17). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0052",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 2) and (6, 8). Rectangle B has corners at (9, 12) and (13, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0053",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 2) and (10, 8). Rectangle B has corners at (8, 7) and (14, 11). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0054",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (1, 0) and (10, 7). Rectangle B has corners at (11, 8) and (19, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0055",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 3) and (6, 7). Rectangle B has corners at (5, 6) and (13, 14). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0056",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 1) and (8, 8). Rectangle B has corners at (5, 7) and (9, 11). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0057",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 5) and (6, 7). Rectangle B has corners at (4, 5) and (12, 14). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0058",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (1, 5) and (8, 6). Rectangle B has corners at (5, 5) and (13, 10). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0059",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 5) and (10, 10). Rectangle B has corners at (4, 9) and (13, 12). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0060",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (1, 0) and (8, 7). Rectangle B has corners at (11, 9) and (14, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0061",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 4) and (7, 7). Rectangle B has corners at (11, 11) and (17, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0062",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 3) and (6, 7). Rectangle B has corners at (10, 10) and (13, 13). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0063",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 3) and (7, 9). Rectangle B has corners at (10, 12) and (17, 19). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0064",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 2) and (8, 7). Rectangle B has corners at (1, 5) and (12, 9). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0065",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 5) and (10, 8). Rectangle B has corners at (13, 11) and (20, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0066",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (1, 1) and (9, 7). Rectangle B has corners at (6, 4) and (14, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0067",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 4) and (7, 7). Rectangle B has corners at (12, 8) and (17, 16). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0068",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 5) and (8, 6). Rectangle B has corners at (9, 7) and (18, 16). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0069",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (1, 4) and (10, 7). Rectangle B has corners at (9, 5) and (10, 10). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0070",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 4) and (9, 6). Rectangle B has corners at (13, 7) and (18, 13). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0071",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 3) and (9, 10). Rectangle B has corners at (7, 8) and (15, 12). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0072",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 0) and (9, 8). Rectangle B has corners at (11, 13) and (15, 14). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0073",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 2) and (6, 10). Rectangle B has corners at (7, 14) and (12, 18). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0074",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 1) and (7, 9). Rectangle B has corners at (6, 8) and (13, 12). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0075",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 5) and (10, 7). Rectangle B has corners at (13, 8) and (17, 17). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0076",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 4) and (7, 7). Rectangle B has corners at (8, 10) and (16, 17). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0077",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 4) and (9, 7). Rectangle B has corners at (5, 4) and (11, 10). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0078",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 0) and (6, 9). Rectangle B has corners at (7, 11) and (13, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0079",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 4) and (6, 9). Rectangle B has corners at (7, 11) and (12, 18). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0080",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 1) and (10, 7). Rectangle B has corners at (11, 9) and (20, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0081",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (1, 5) and (10, 8). Rectangle B has corners at (13, 10) and (18, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0082",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 4) and (7, 9). Rectangle B has corners at (5, 8) and (9, 14). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0083",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 3) and (10, 9). Rectangle B has corners at (7, 8) and (15, 12). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0084",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 2) and (9, 9). Rectangle B has corners at (7, 3) and (15, 13). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0085",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 1) and (7, 8). Rectangle B has corners at (9, 12) and (13, 18). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0086",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 3) and (10, 10). Rectangle B has corners at (4, 5) and (11, 12). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0087",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 0) and (9, 8). Rectangle B has corners at (6, 0) and (11, 14). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0088",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 4) and (10, 6). Rectangle B has corners at (12, 11) and (20, 13). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0089",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 1) and (8, 8). Rectangle B has corners at (9, 10) and (15, 14). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0090",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 3) and (7, 10). Rectangle B has corners at (11, 12) and (17, 18). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0091",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 3) and (9, 10). Rectangle B has corners at (12, 13) and (17, 20). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0092",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 3) and (6, 9). Rectangle B has corners at (9, 11) and (14, 17). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0093",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 0) and (10, 7). Rectangle B has corners at (11, 10) and (20, 17). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0094",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 5) and (9, 8). Rectangle B has corners at (6, 5) and (12, 11). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0095",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 4) and (8, 8). Rectangle B has corners at (12, 12) and (17, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0096",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 2) and (7, 7). Rectangle B has corners at (11, 9) and (17, 13). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0097",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 0) and (6, 6). Rectangle B has corners at (10, 8) and (13, 12). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0098",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 1) and (6, 7). Rectangle B has corners at (9, 8) and (16, 17). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0099",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 5) and (9, 6). Rectangle B has corners at (7, 5) and (9, 6). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0100",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 5) and (8, 10). Rectangle B has corners at (9, 15) and (17, 17). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0101",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 0) and (10, 7). Rectangle B has corners at (9, 4) and (12, 12). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0102",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 3) and (6, 8). Rectangle B has corners at (10, 13) and (13, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0103",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 5) and (6, 6). Rectangle B has corners at (5, 5) and (14, 13). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0104",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 5) and (6, 7). Rectangle B has corners at (3, 6) and (15, 8). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0105",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 0) and (7, 7). Rectangle B has corners at (12, 11) and (15, 13). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0106",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 5) and (8, 10). Rectangle B has corners at (9, 12) and (16, 16). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0107",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (1, 4) and (7, 9). Rectangle B has corners at (10, 11) and (17, 16). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0108",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 3) and (10, 8). Rectangle B has corners at (9, 4) and (15, 9). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0109",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 5) and (8, 6). Rectangle B has corners at (5, 5) and (13, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0110",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 4) and (9, 8). Rectangle B has corners at (6, 7) and (12, 11). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0111",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 4) and (9, 9). Rectangle B has corners at (6, 7) and (9, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0112",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 2) and (7, 6). Rectangle B has corners at (4, 5) and (9, 12). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0113",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 2) and (6, 6). Rectangle B has corners at (4, 5) and (11, 10). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0114",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 1) and (6, 7). Rectangle B has corners at (4, 5) and (14, 13). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0115",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 0) and (6, 8). Rectangle B has corners at (11, 13) and (14, 17). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0116",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 2) and (9, 9). Rectangle B has corners at (14, 11) and (19, 19). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0117",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (1, 5) and (9, 7). Rectangle B has corners at (5, 6) and (12, 9). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0118",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 1) and (9, 8). Rectangle B has corners at (7, 7) and (9, 13). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0119",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 1) and (9, 10). Rectangle B has corners at (13, 11) and (16, 18). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0120",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 3) and (8, 10). Rectangle B has corners at (5, 6) and (13, 13). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0121",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 4) and (7, 8). Rectangle B has corners at (5, 7) and (12, 10). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0122",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 2) and (8, 9). Rectangle B has corners at (10, 12) and (17, 17). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0123",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 2) and (6, 10). Rectangle B has corners at (5, 4) and (14, 10). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0124",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 3) and (7, 9). Rectangle B has corners at (8, 13) and (16, 16). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0125",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 2) and (7, 8). Rectangle B has corners at (11, 12) and (13, 17). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0126",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 3) and (10, 9). Rectangle B has corners at (14, 14) and (16, 17). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0127",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 4) and (10, 6). Rectangle B has corners at (6, 5) and (11, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0128",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 4) and (9, 8). Rectangle B has corners at (13, 9) and (15, 14). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0129",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 1) and (10, 10). Rectangle B has corners at (15, 12) and (19, 18). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0130",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 3) and (10, 10). Rectangle B has corners at (3, 6) and (10, 12). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0131",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 0) and (6, 7). Rectangle B has corners at (4, 3) and (9, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0132",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 2) and (9, 6). Rectangle B has corners at (8, 5) and (11, 7). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0133",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 0) and (6, 6). Rectangle B has corners at (7, 8) and (13, 16). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0134",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (1, 4) and (7, 8). Rectangle B has corners at (11, 10) and (16, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0135",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (1, 5) and (9, 9). Rectangle B has corners at (4, 8) and (13, 12). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0136",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 0) and (7, 7). Rectangle B has corners at (3, 4) and (8, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0137",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (1, 2) and (8, 7). Rectangle B has corners at (3, 5) and (13, 13). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0138",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 3) and (10, 6). Rectangle B has corners at (7, 5) and (11, 10). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0139",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 4) and (6, 7). Rectangle B has corners at (4, 5) and (7, 9). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0140",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 5) and (7, 10). Rectangle B has corners at (6, 6) and (13, 13). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0141",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (1, 3) and (10, 7). Rectangle B has corners at (14, 10) and (17, 14). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0142",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 3) and (10, 6). Rectangle B has corners at (11, 10) and (17, 13). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0143",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 4) and (10, 9). Rectangle B has corners at (6, 7) and (15, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0144",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 3) and (7, 6). Rectangle B has corners at (9, 9) and (13, 14). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0145",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (1, 4) and (8, 7). Rectangle B has corners at (13, 11) and (18, 17). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0146",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 4) and (6, 8). Rectangle B has corners at (9, 13) and (12, 17). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0147",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 1) and (9, 6). Rectangle B has corners at (11, 9) and (15, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0148",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 2) and (6, 9). Rectangle B has corners at (7, 11) and (13, 19). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0149",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 2) and (10, 9). Rectangle B has corners at (6, 8) and (11, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0150",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (1, 0) and (10, 8). Rectangle B has corners at (15, 13) and (17, 16). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0151",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 2) and (8, 10). Rectangle B has corners at (7, 3) and (10, 13). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0152",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 2) and (7, 7). Rectangle B has corners at (5, 4) and (10, 13). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0153",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 1) and (10, 8). Rectangle B has corners at (14, 12) and (16, 14). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0154",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 4) and (8, 8). Rectangle B has corners at (6, 6) and (8, 9). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0155",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 3) and (8, 6). Rectangle B has corners at (12, 8) and (17, 13). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0156",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 2) and (8, 8). Rectangle B has corners at (7, 3) and (15, 13). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0157",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 0) and (6, 6). Rectangle B has corners at (10, 7) and (12, 13). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0158",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 3) and (6, 9). Rectangle B has corners at (5, 4) and (10, 10). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0159",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 0) and (8, 8). Rectangle B has corners at (7, 2) and (8, 14). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0160",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 2) and (7, 9). Rectangle B has corners at (8, 10) and (14, 18). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0161",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 1) and (10, 7). Rectangle B has corners at (14, 8) and (16, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0162",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (0, 3) and (7, 9). Rectangle B has corners at (3, 3) and (8, 9). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0163",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (2, 2) and (8, 7). Rectangle B has corners at (3, 3) and (9, 15). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0164",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 0) and (10, 7). Rectangle B has corners at (9, 1) and (15, 9). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0165",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (3, 4) and (9, 7). Rectangle B has corners at (3, 4) and (15, 8). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "GR_medium_0166",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (4, 5) and (9, 8). Rectangle B has corners at (12, 10) and (16, 16). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "GR_medium_0167",
+    "category": "geometric_reasoning",
+    "difficulty": "medium",
+    "prompt": "Rectangle A has corners at (5, 0) and (7, 10). Rectangle B has corners at (12, 13) and (13, 18). Do these rectangles overlap? Answer Yes or No.",
+    "ground_truth": "No"
   }
 ]

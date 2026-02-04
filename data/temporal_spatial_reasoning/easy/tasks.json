@@ -1,0 +1,1171 @@
+[
+  {
+    "task_id": "TSR_easy_0001",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 4) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(12, 12)"
+  },
+  {
+    "task_id": "TSR_easy_0002",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 1) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(15, 3)"
+  },
+  {
+    "task_id": "TSR_easy_0003",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 5) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 10)"
+  },
+  {
+    "task_id": "TSR_easy_0004",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 1) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(1, 1)"
+  },
+  {
+    "task_id": "TSR_easy_0005",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 1) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(12, 4)"
+  },
+  {
+    "task_id": "TSR_easy_0006",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 2) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(12, 8)"
+  },
+  {
+    "task_id": "TSR_easy_0007",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 3) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(8, 6)"
+  },
+  {
+    "task_id": "TSR_easy_0008",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 4) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(8, 8)"
+  },
+  {
+    "task_id": "TSR_easy_0009",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 1) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(6, 2)"
+  },
+  {
+    "task_id": "TSR_easy_0010",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 2) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(12, 6)"
+  },
+  {
+    "task_id": "TSR_easy_0011",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 3) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(6, 6)"
+  },
+  {
+    "task_id": "TSR_easy_0012",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 4) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(6, 12)"
+  },
+  {
+    "task_id": "TSR_easy_0013",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 3) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(16, 12)"
+  },
+  {
+    "task_id": "TSR_easy_0014",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 4) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(20, 16)"
+  },
+  {
+    "task_id": "TSR_easy_0015",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 5) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(12, 20)"
+  },
+  {
+    "task_id": "TSR_easy_0016",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 3) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(25, 15)"
+  },
+  {
+    "task_id": "TSR_easy_0017",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 2) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(8, 4)"
+  },
+  {
+    "task_id": "TSR_easy_0018",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 5) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(9, 15)"
+  },
+  {
+    "task_id": "TSR_easy_0019",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 1) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(3, 1)"
+  },
+  {
+    "task_id": "TSR_easy_0020",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 4) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(6, 8)"
+  },
+  {
+    "task_id": "TSR_easy_0021",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 1) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(12, 4)"
+  },
+  {
+    "task_id": "TSR_easy_0022",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 2) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(25, 10)"
+  },
+  {
+    "task_id": "TSR_easy_0023",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 3) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(16, 12)"
+  },
+  {
+    "task_id": "TSR_easy_0024",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 3) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(5, 3)"
+  },
+  {
+    "task_id": "TSR_easy_0025",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 1) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(8, 4)"
+  },
+  {
+    "task_id": "TSR_easy_0026",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 4) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(8, 16)"
+  },
+  {
+    "task_id": "TSR_easy_0027",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 2) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(20, 10)"
+  },
+  {
+    "task_id": "TSR_easy_0028",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 3) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(2, 3)"
+  },
+  {
+    "task_id": "TSR_easy_0029",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 4) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(25, 20)"
+  },
+  {
+    "task_id": "TSR_easy_0030",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 3) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(6, 9)"
+  },
+  {
+    "task_id": "TSR_easy_0031",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 1) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 2)"
+  },
+  {
+    "task_id": "TSR_easy_0032",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 1) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(15, 3)"
+  },
+  {
+    "task_id": "TSR_easy_0033",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 3) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 3)"
+  },
+  {
+    "task_id": "TSR_easy_0034",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 2) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 4)"
+  },
+  {
+    "task_id": "TSR_easy_0035",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 4) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(12, 16)"
+  },
+  {
+    "task_id": "TSR_easy_0036",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 1) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(15, 3)"
+  },
+  {
+    "task_id": "TSR_easy_0037",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 4) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(15, 20)"
+  },
+  {
+    "task_id": "TSR_easy_0038",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 2) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(12, 6)"
+  },
+  {
+    "task_id": "TSR_easy_0039",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 5) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(3, 15)"
+  },
+  {
+    "task_id": "TSR_easy_0040",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 4) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(1, 4)"
+  },
+  {
+    "task_id": "TSR_easy_0041",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 2) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(10, 10)"
+  },
+  {
+    "task_id": "TSR_easy_0042",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 2) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(5, 2)"
+  },
+  {
+    "task_id": "TSR_easy_0043",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 4) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(15, 20)"
+  },
+  {
+    "task_id": "TSR_easy_0044",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 2) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 4)"
+  },
+  {
+    "task_id": "TSR_easy_0045",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 2) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 2)"
+  },
+  {
+    "task_id": "TSR_easy_0046",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 3) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(15, 9)"
+  },
+  {
+    "task_id": "TSR_easy_0047",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 4) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 16)"
+  },
+  {
+    "task_id": "TSR_easy_0048",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 4) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 4)"
+  },
+  {
+    "task_id": "TSR_easy_0049",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 2) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(16, 8)"
+  },
+  {
+    "task_id": "TSR_easy_0050",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 2) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(10, 10)"
+  },
+  {
+    "task_id": "TSR_easy_0051",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 2) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 2)"
+  },
+  {
+    "task_id": "TSR_easy_0052",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 1) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(2, 2)"
+  },
+  {
+    "task_id": "TSR_easy_0053",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 1) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(2, 1)"
+  },
+  {
+    "task_id": "TSR_easy_0054",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 3) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(25, 15)"
+  },
+  {
+    "task_id": "TSR_easy_0055",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 2) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(12, 8)"
+  },
+  {
+    "task_id": "TSR_easy_0056",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 5) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(6, 10)"
+  },
+  {
+    "task_id": "TSR_easy_0057",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 2) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(8, 8)"
+  },
+  {
+    "task_id": "TSR_easy_0058",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 5) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(16, 20)"
+  },
+  {
+    "task_id": "TSR_easy_0059",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 5) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(2, 10)"
+  },
+  {
+    "task_id": "TSR_easy_0060",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 5) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(20, 20)"
+  },
+  {
+    "task_id": "TSR_easy_0061",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 1) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(8, 2)"
+  },
+  {
+    "task_id": "TSR_easy_0062",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 1) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(12, 3)"
+  },
+  {
+    "task_id": "TSR_easy_0063",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 5) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(9, 15)"
+  },
+  {
+    "task_id": "TSR_easy_0064",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 5) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(8, 10)"
+  },
+  {
+    "task_id": "TSR_easy_0065",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 5) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(3, 15)"
+  },
+  {
+    "task_id": "TSR_easy_0066",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 3) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(20, 15)"
+  },
+  {
+    "task_id": "TSR_easy_0067",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 1) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(2, 2)"
+  },
+  {
+    "task_id": "TSR_easy_0068",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 3) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(10, 15)"
+  },
+  {
+    "task_id": "TSR_easy_0069",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 1) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(15, 5)"
+  },
+  {
+    "task_id": "TSR_easy_0070",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 3) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(2, 3)"
+  },
+  {
+    "task_id": "TSR_easy_0071",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 1) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(1, 1)"
+  },
+  {
+    "task_id": "TSR_easy_0072",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 3) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(12, 12)"
+  },
+  {
+    "task_id": "TSR_easy_0073",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 4) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(3, 12)"
+  },
+  {
+    "task_id": "TSR_easy_0074",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 1) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(25, 5)"
+  },
+  {
+    "task_id": "TSR_easy_0075",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 2) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(5, 10)"
+  },
+  {
+    "task_id": "TSR_easy_0076",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 5) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(5, 5)"
+  },
+  {
+    "task_id": "TSR_easy_0077",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 3) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(3, 3)"
+  },
+  {
+    "task_id": "TSR_easy_0078",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 3) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(1, 3)"
+  },
+  {
+    "task_id": "TSR_easy_0079",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 2) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(3, 2)"
+  },
+  {
+    "task_id": "TSR_easy_0080",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 4) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(12, 16)"
+  },
+  {
+    "task_id": "TSR_easy_0081",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 3) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(5, 3)"
+  },
+  {
+    "task_id": "TSR_easy_0082",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 3) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 6)"
+  },
+  {
+    "task_id": "TSR_easy_0083",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 1) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(15, 3)"
+  },
+  {
+    "task_id": "TSR_easy_0084",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 2) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(20, 8)"
+  },
+  {
+    "task_id": "TSR_easy_0085",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 4) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(9, 12)"
+  },
+  {
+    "task_id": "TSR_easy_0086",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 5) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(3, 5)"
+  },
+  {
+    "task_id": "TSR_easy_0087",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 1) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(10, 5)"
+  },
+  {
+    "task_id": "TSR_easy_0088",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 1) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 4)"
+  },
+  {
+    "task_id": "TSR_easy_0089",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 3) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(20, 12)"
+  },
+  {
+    "task_id": "TSR_easy_0090",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 4) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(3, 4)"
+  },
+  {
+    "task_id": "TSR_easy_0091",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 4) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(20, 20)"
+  },
+  {
+    "task_id": "TSR_easy_0092",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 1) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(3, 1)"
+  },
+  {
+    "task_id": "TSR_easy_0093",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 1) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(10, 2)"
+  },
+  {
+    "task_id": "TSR_easy_0094",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 1) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(16, 4)"
+  },
+  {
+    "task_id": "TSR_easy_0095",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 5) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(25, 25)"
+  },
+  {
+    "task_id": "TSR_easy_0096",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 4) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(2, 4)"
+  },
+  {
+    "task_id": "TSR_easy_0097",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 1) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 1)"
+  },
+  {
+    "task_id": "TSR_easy_0098",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 5) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(12, 20)"
+  },
+  {
+    "task_id": "TSR_easy_0099",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 5) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(16, 20)"
+  },
+  {
+    "task_id": "TSR_easy_0100",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 1) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(5, 5)"
+  },
+  {
+    "task_id": "TSR_easy_0101",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 4) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(20, 16)"
+  },
+  {
+    "task_id": "TSR_easy_0102",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 3) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(20, 15)"
+  },
+  {
+    "task_id": "TSR_easy_0103",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 2) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(10, 4)"
+  },
+  {
+    "task_id": "TSR_easy_0104",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 4) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(2, 4)"
+  },
+  {
+    "task_id": "TSR_easy_0105",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 1) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(12, 3)"
+  },
+  {
+    "task_id": "TSR_easy_0106",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 3) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(5, 15)"
+  },
+  {
+    "task_id": "TSR_easy_0107",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 3) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 6)"
+  },
+  {
+    "task_id": "TSR_easy_0108",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 3) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(15, 15)"
+  },
+  {
+    "task_id": "TSR_easy_0109",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 5) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(3, 15)"
+  },
+  {
+    "task_id": "TSR_easy_0110",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 3) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(16, 12)"
+  },
+  {
+    "task_id": "TSR_easy_0111",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 5) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(6, 15)"
+  },
+  {
+    "task_id": "TSR_easy_0112",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 3) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 6)"
+  },
+  {
+    "task_id": "TSR_easy_0113",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 5) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(10, 25)"
+  },
+  {
+    "task_id": "TSR_easy_0114",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 2) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(15, 6)"
+  },
+  {
+    "task_id": "TSR_easy_0115",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 4) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(8, 16)"
+  },
+  {
+    "task_id": "TSR_easy_0116",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 1) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(8, 4)"
+  },
+  {
+    "task_id": "TSR_easy_0117",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 3) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(20, 15)"
+  },
+  {
+    "task_id": "TSR_easy_0118",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 1) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(3, 3)"
+  },
+  {
+    "task_id": "TSR_easy_0119",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 3) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(20, 12)"
+  },
+  {
+    "task_id": "TSR_easy_0120",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 5) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(16, 20)"
+  },
+  {
+    "task_id": "TSR_easy_0121",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 2) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(5, 2)"
+  },
+  {
+    "task_id": "TSR_easy_0122",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 1) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 2)"
+  },
+  {
+    "task_id": "TSR_easy_0123",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 3) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(10, 6)"
+  },
+  {
+    "task_id": "TSR_easy_0124",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 4) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 8)"
+  },
+  {
+    "task_id": "TSR_easy_0125",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 4) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(16, 16)"
+  },
+  {
+    "task_id": "TSR_easy_0126",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 5) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(10, 10)"
+  },
+  {
+    "task_id": "TSR_easy_0127",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 3) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(3, 3)"
+  },
+  {
+    "task_id": "TSR_easy_0128",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 1) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(6, 2)"
+  },
+  {
+    "task_id": "TSR_easy_0129",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 2) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(15, 10)"
+  },
+  {
+    "task_id": "TSR_easy_0130",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 3) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(12, 12)"
+  },
+  {
+    "task_id": "TSR_easy_0131",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 2) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(1, 2)"
+  },
+  {
+    "task_id": "TSR_easy_0132",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 4) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(10, 8)"
+  },
+  {
+    "task_id": "TSR_easy_0133",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 5) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(5, 25)"
+  },
+  {
+    "task_id": "TSR_easy_0134",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 2) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 2)"
+  },
+  {
+    "task_id": "TSR_easy_0135",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 2) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(20, 10)"
+  },
+  {
+    "task_id": "TSR_easy_0136",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 4) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(8, 16)"
+  },
+  {
+    "task_id": "TSR_easy_0137",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 4) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 4)"
+  },
+  {
+    "task_id": "TSR_easy_0138",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 5) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(3, 15)"
+  },
+  {
+    "task_id": "TSR_easy_0139",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 3) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 6)"
+  },
+  {
+    "task_id": "TSR_easy_0140",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 5) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(16, 20)"
+  },
+  {
+    "task_id": "TSR_easy_0141",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 1) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(10, 5)"
+  },
+  {
+    "task_id": "TSR_easy_0142",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 1) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 4)"
+  },
+  {
+    "task_id": "TSR_easy_0143",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 2) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(1, 2)"
+  },
+  {
+    "task_id": "TSR_easy_0144",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 2) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(3, 6)"
+  },
+  {
+    "task_id": "TSR_easy_0145",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 2) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(6, 6)"
+  },
+  {
+    "task_id": "TSR_easy_0146",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 4) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(6, 8)"
+  },
+  {
+    "task_id": "TSR_easy_0147",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 3) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 12)"
+  },
+  {
+    "task_id": "TSR_easy_0148",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 4) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 4)"
+  },
+  {
+    "task_id": "TSR_easy_0149",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 4) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(5, 4)"
+  },
+  {
+    "task_id": "TSR_easy_0150",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 5) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(20, 20)"
+  },
+  {
+    "task_id": "TSR_easy_0151",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 4) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(3, 12)"
+  },
+  {
+    "task_id": "TSR_easy_0152",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 4) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(15, 12)"
+  },
+  {
+    "task_id": "TSR_easy_0153",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 4) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(16, 16)"
+  },
+  {
+    "task_id": "TSR_easy_0154",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (4, 3) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 3)"
+  },
+  {
+    "task_id": "TSR_easy_0155",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 5) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(20, 20)"
+  },
+  {
+    "task_id": "TSR_easy_0156",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (5, 2) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(10, 4)"
+  },
+  {
+    "task_id": "TSR_easy_0157",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 3) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(3, 3)"
+  },
+  {
+    "task_id": "TSR_easy_0158",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 5) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(3, 15)"
+  },
+  {
+    "task_id": "TSR_easy_0159",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 2) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(6, 6)"
+  },
+  {
+    "task_id": "TSR_easy_0160",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 4) units per second. Where will it be after 3 seconds? Answer in format (x, y).",
+    "ground_truth": "(6, 12)"
+  },
+  {
+    "task_id": "TSR_easy_0161",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 4) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(10, 20)"
+  },
+  {
+    "task_id": "TSR_easy_0162",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 2) units per second. Where will it be after 2 seconds? Answer in format (x, y).",
+    "ground_truth": "(4, 4)"
+  },
+  {
+    "task_id": "TSR_easy_0163",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 5) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(1, 5)"
+  },
+  {
+    "task_id": "TSR_easy_0164",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 2) units per second. Where will it be after 5 seconds? Answer in format (x, y).",
+    "ground_truth": "(15, 10)"
+  },
+  {
+    "task_id": "TSR_easy_0165",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (1, 4) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(1, 4)"
+  },
+  {
+    "task_id": "TSR_easy_0166",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (3, 3) units per second. Where will it be after 4 seconds? Answer in format (x, y).",
+    "ground_truth": "(12, 12)"
+  },
+  {
+    "task_id": "TSR_easy_0167",
+    "category": "temporal_spatial_reasoning",
+    "difficulty": "easy",
+    "prompt": "An object starts at (0, 0) and moves with velocity (2, 4) units per second. Where will it be after 1 seconds? Answer in format (x, y).",
+    "ground_truth": "(2, 4)"
+  }
+]

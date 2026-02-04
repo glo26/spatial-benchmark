@@ -1,0 +1,1171 @@
+[
+  {
+    "task_id": "RE_hard_0001",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (5, 14) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0002",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (11, 9) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0003",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (10, 13) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0004",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (8, 12) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0005",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (9, 9) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0006",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (14, 10) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0007",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (14, 12) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0008",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (10, 7) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0009",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (6, 8) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0010",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (10, 15) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0011",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (8, 6) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0012",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (12, 10) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0013",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (10, 15) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0014",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (10, 14) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0015",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (15, 7) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0016",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (13, 14) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0017",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (12, 9) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0018",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (13, 12) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0019",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (9, 6) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0020",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (15, 6) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0021",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (15, 9) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0022",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (13, 11) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0023",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (15, 7) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0024",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (11, 12) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0025",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (10, 6) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0026",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (15, 6) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0027",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (14, 14) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0028",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (12, 11) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0029",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (9, 10) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0030",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (8, 9) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0031",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (14, 11) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0032",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (10, 10) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0033",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (6, 10) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0034",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (15, 11) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0035",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (9, 6) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0036",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (14, 11) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0037",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (12, 13) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0038",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (14, 11) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0039",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (8, 5) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0040",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (5, 14) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0041",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (8, 10) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0042",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (13, 7) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0043",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (5, 6) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0044",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (11, 8) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0045",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (5, 6) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0046",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (10, 14) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0047",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (12, 15) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0048",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (15, 7) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0049",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (7, 9) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0050",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (7, 7) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0051",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (13, 9) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0052",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (13, 8) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0053",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (9, 15) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0054",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (14, 7) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0055",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (12, 11) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0056",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (11, 13) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0057",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (5, 14) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0058",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (15, 13) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0059",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (9, 11) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0060",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (15, 5) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0061",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (6, 15) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0062",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (13, 5) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0063",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (9, 5) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0064",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (8, 8) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0065",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (9, 13) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0066",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (5, 6) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0067",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (10, 8) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0068",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (12, 8) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0069",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (10, 13) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0070",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (11, 11) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0071",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (12, 6) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0072",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (10, 10) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0073",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (9, 9) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0074",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (11, 5) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0075",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (10, 8) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0076",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (14, 7) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0077",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (11, 5) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0078",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (14, 11) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0079",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (12, 9) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0080",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (11, 15) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0081",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (7, 12) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0082",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (7, 5) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0083",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (15, 10) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0084",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (8, 11) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0085",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (9, 14) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0086",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (14, 6) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0087",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (6, 14) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0088",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (7, 13) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0089",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (10, 11) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0090",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (12, 15) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0091",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (15, 7) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0092",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (13, 10) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0093",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (5, 7) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0094",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (6, 10) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0095",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (10, 15) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0096",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (15, 8) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0097",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (13, 8) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0098",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (5, 15) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0099",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (12, 12) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0100",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (10, 10) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0101",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (13, 7) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0102",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (6, 7) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0103",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (11, 7) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0104",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (11, 9) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0105",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (8, 14) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0106",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (10, 11) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0107",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (12, 15) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0108",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (13, 9) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0109",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (9, 11) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0110",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (5, 12) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0111",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (13, 14) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0112",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (5, 12) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0113",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (10, 6) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0114",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (15, 14) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0115",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (14, 6) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0116",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (14, 13) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0117",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (6, 12) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0118",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (12, 10) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0119",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (10, 6) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0120",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (7, 14) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0121",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (15, 9) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0122",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (9, 6) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0123",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (9, 14) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0124",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (7, 10) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0125",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (8, 15) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0126",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (6, 11) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0127",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (9, 14) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0128",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (13, 7) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0129",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (13, 15) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0130",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (8, 13) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0131",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (15, 10) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0132",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (15, 14) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0133",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (12, 9) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0134",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (12, 12) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0135",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (11, 10) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0136",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (11, 10) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0137",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (14, 5) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0138",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (12, 5) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0139",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (10, 10) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0140",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (9, 14) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0141",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (9, 15) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0142",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (8, 15) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0143",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (9, 8) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0144",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (11, 13) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0145",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (12, 15) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0146",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (12, 6) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0147",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (10, 11) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0148",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (14, 7) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0149",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (7, 5) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0150",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (14, 9) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0151",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (14, 5) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0152",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (12, 11) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0153",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (8, 9) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0154",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (6, 10) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0155",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (8, 10) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0156",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (14, 12) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0157",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (12, 6) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0158",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (5, 15) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0159",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (5, 6) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RE_hard_0160",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (6, 10) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0161",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (15, 9) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0162",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (12, 12) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0163",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (8, 9) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0164",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (14, 9) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0165",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (8, 15) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0166",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (6, 15) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RE_hard_0167",
+    "category": "real_estate_geospatial",
+    "difficulty": "hard",
+    "prompt": "A property at (9, 13) is being evaluated. Requirements: (1) Must be within 5 units of the school at (8, 8). (2) Must NOT be within 2 units of the highway (y = 10 to y = 12). Does this property meet both requirements? Answer Yes or No.",
+    "ground_truth": "No"
+  }
+]

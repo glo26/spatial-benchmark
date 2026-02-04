@@ -1,1694 +1,1171 @@
 [
   {
-    "id": "GR-E-001",
+    "task_id": "GR_easy_0001",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 5?",
-    "parameters": {
-      "radius": 5
-    },
-    "answer": 78.54,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 7 units and a height of 13 units. What is its area in square units?",
+    "ground_truth": 91
   },
   {
-    "id": "GR-E-002",
+    "task_id": "GR_easy_0002",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 20?",
-    "parameters": {
-      "side": 20
-    },
-    "answer": 400,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 11 units and a height of 12 units. What is its area in square units?",
+    "ground_truth": 132
   },
   {
-    "id": "GR-E-003",
+    "task_id": "GR_easy_0003",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 19 and height 14?",
-    "parameters": {
-      "width": 19,
-      "height": 14
-    },
-    "answer": 266,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 20 units and a height of 4 units. What is its area in square units?",
+    "ground_truth": 80
   },
   {
-    "id": "GR-E-004",
+    "task_id": "GR_easy_0004",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 1 and height 10?",
-    "parameters": {
-      "base": 1,
-      "height": 10
-    },
-    "answer": 5.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 3 units and a height of 6 units. What is its area in square units?",
+    "ground_truth": 18
   },
   {
-    "id": "GR-E-005",
+    "task_id": "GR_easy_0005",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 8 and height 13?",
-    "parameters": {
-      "base": 8,
-      "height": 13
-    },
-    "answer": 52.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 7 units and a height of 3 units. What is its area in square units?",
+    "ground_truth": 21
   },
   {
-    "id": "GR-E-006",
+    "task_id": "GR_easy_0006",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 13?",
-    "parameters": {
-      "side": 13
-    },
-    "answer": 169,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 4 units and a height of 10 units. What is its area in square units?",
+    "ground_truth": 40
   },
   {
-    "id": "GR-E-007",
+    "task_id": "GR_easy_0007",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 4?",
-    "parameters": {
-      "radius": 4
-    },
-    "answer": 50.27,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 16 units and a height of 15 units. What is its area in square units?",
+    "ground_truth": 240
   },
   {
-    "id": "GR-E-008",
+    "task_id": "GR_easy_0008",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 7 and height 7?",
-    "parameters": {
-      "base": 7,
-      "height": 7
-    },
-    "answer": 24.5,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 17 units and a height of 16 units. What is its area in square units?",
+    "ground_truth": 272
   },
   {
-    "id": "GR-E-009",
+    "task_id": "GR_easy_0009",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 19?",
-    "parameters": {
-      "radius": 19
-    },
-    "answer": 1134.11,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 15 units and a height of 10 units. What is its area in square units?",
+    "ground_truth": 150
   },
   {
-    "id": "GR-E-010",
+    "task_id": "GR_easy_0010",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 6 and height 6?",
-    "parameters": {
-      "width": 6,
-      "height": 6
-    },
-    "answer": 36,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 8 units and a height of 18 units. What is its area in square units?",
+    "ground_truth": 144
   },
   {
-    "id": "GR-E-011",
+    "task_id": "GR_easy_0011",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 18 and height 14?",
-    "parameters": {
-      "base": 18,
-      "height": 14
-    },
-    "answer": 126.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 5 units and a height of 13 units. What is its area in square units?",
+    "ground_truth": 65
   },
   {
-    "id": "GR-E-012",
+    "task_id": "GR_easy_0012",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 7 and height 14?",
-    "parameters": {
-      "width": 7,
-      "height": 14
-    },
-    "answer": 98,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 15 units and a height of 5 units. What is its area in square units?",
+    "ground_truth": 75
   },
   {
-    "id": "GR-E-013",
+    "task_id": "GR_easy_0013",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 11 and height 12?",
-    "parameters": {
-      "width": 11,
-      "height": 12
-    },
-    "answer": 132,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 11 units and a height of 20 units. What is its area in square units?",
+    "ground_truth": 220
   },
   {
-    "id": "GR-E-014",
+    "task_id": "GR_easy_0014",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 11?",
-    "parameters": {
-      "radius": 11
-    },
-    "answer": 380.13,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 17 units and a height of 18 units. What is its area in square units?",
+    "ground_truth": 306
   },
   {
-    "id": "GR-E-015",
+    "task_id": "GR_easy_0015",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 8 and height 13?",
-    "parameters": {
-      "base": 8,
-      "height": 13
-    },
-    "answer": 52.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 11 units and a height of 3 units. What is its area in square units?",
+    "ground_truth": 33
   },
   {
-    "id": "GR-E-016",
+    "task_id": "GR_easy_0016",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 15 and height 10?",
-    "parameters": {
-      "base": 15,
-      "height": 10
-    },
-    "answer": 75.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 9 units and a height of 14 units. What is its area in square units?",
+    "ground_truth": 126
   },
   {
-    "id": "GR-E-017",
+    "task_id": "GR_easy_0017",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 6 and height 6?",
-    "parameters": {
-      "base": 6,
-      "height": 6
-    },
-    "answer": 18.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 3 units and a height of 2 units. What is its area in square units?",
+    "ground_truth": 6
   },
   {
-    "id": "GR-E-018",
+    "task_id": "GR_easy_0018",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 10 and height 1?",
-    "parameters": {
-      "base": 10,
-      "height": 1
-    },
-    "answer": 5.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 8 units and a height of 11 units. What is its area in square units?",
+    "ground_truth": 88
   },
   {
-    "id": "GR-E-019",
+    "task_id": "GR_easy_0019",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 15 and height 6?",
-    "parameters": {
-      "width": 15,
-      "height": 6
-    },
-    "answer": 90,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 8 units and a height of 6 units. What is its area in square units?",
+    "ground_truth": 48
   },
   {
-    "id": "GR-E-020",
+    "task_id": "GR_easy_0020",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 13?",
-    "parameters": {
-      "radius": 13
-    },
-    "answer": 530.93,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 10 units and a height of 11 units. What is its area in square units?",
+    "ground_truth": 110
   },
   {
-    "id": "GR-E-021",
+    "task_id": "GR_easy_0021",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 14 and height 14?",
-    "parameters": {
-      "base": 14,
-      "height": 14
-    },
-    "answer": 98.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 12 units and a height of 5 units. What is its area in square units?",
+    "ground_truth": 60
   },
   {
-    "id": "GR-E-022",
+    "task_id": "GR_easy_0022",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 1?",
-    "parameters": {
-      "side": 1
-    },
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 2 units and a height of 17 units. What is its area in square units?",
+    "ground_truth": 34
   },
   {
-    "id": "GR-E-023",
+    "task_id": "GR_easy_0023",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 5?",
-    "parameters": {
-      "side": 5
-    },
-    "answer": 25,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 15 units and a height of 7 units. What is its area in square units?",
+    "ground_truth": 105
   },
   {
-    "id": "GR-E-024",
+    "task_id": "GR_easy_0024",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 20?",
-    "parameters": {
-      "radius": 20
-    },
-    "answer": 1256.64,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 6 units and a height of 14 units. What is its area in square units?",
+    "ground_truth": 84
   },
   {
-    "id": "GR-E-025",
+    "task_id": "GR_easy_0025",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 1 and height 11?",
-    "parameters": {
-      "base": 1,
-      "height": 11
-    },
-    "answer": 5.5,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 19 units and a height of 9 units. What is its area in square units?",
+    "ground_truth": 171
   },
   {
-    "id": "GR-E-026",
+    "task_id": "GR_easy_0026",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 6?",
-    "parameters": {
-      "side": 6
-    },
-    "answer": 36,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 18 units and a height of 19 units. What is its area in square units?",
+    "ground_truth": 342
   },
   {
-    "id": "GR-E-027",
+    "task_id": "GR_easy_0027",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 3 and height 12?",
-    "parameters": {
-      "base": 3,
-      "height": 12
-    },
-    "answer": 18.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 13 units and a height of 4 units. What is its area in square units?",
+    "ground_truth": 52
   },
   {
-    "id": "GR-E-028",
+    "task_id": "GR_easy_0028",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 20?",
-    "parameters": {
-      "radius": 20
-    },
-    "answer": 1256.64,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 14 units and a height of 3 units. What is its area in square units?",
+    "ground_truth": 42
   },
   {
-    "id": "GR-E-029",
+    "task_id": "GR_easy_0029",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 18 and height 17?",
-    "parameters": {
-      "base": 18,
-      "height": 17
-    },
-    "answer": 153.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 15 units and a height of 2 units. What is its area in square units?",
+    "ground_truth": 30
   },
   {
-    "id": "GR-E-030",
+    "task_id": "GR_easy_0030",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 6?",
-    "parameters": {
-      "side": 6
-    },
-    "answer": 36,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 16 units and a height of 4 units. What is its area in square units?",
+    "ground_truth": 64
   },
   {
-    "id": "GR-E-031",
+    "task_id": "GR_easy_0031",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 12 and height 8?",
-    "parameters": {
-      "base": 12,
-      "height": 8
-    },
-    "answer": 48.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 12 units and a height of 20 units. What is its area in square units?",
+    "ground_truth": 240
   },
   {
-    "id": "GR-E-032",
+    "task_id": "GR_easy_0032",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 16?",
-    "parameters": {
-      "side": 16
-    },
-    "answer": 256,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 15 units and a height of 20 units. What is its area in square units?",
+    "ground_truth": 300
   },
   {
-    "id": "GR-E-033",
+    "task_id": "GR_easy_0033",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 11?",
-    "parameters": {
-      "side": 11
-    },
-    "answer": 121,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 14 units and a height of 15 units. What is its area in square units?",
+    "ground_truth": 210
   },
   {
-    "id": "GR-E-034",
+    "task_id": "GR_easy_0034",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 10?",
-    "parameters": {
-      "side": 10
-    },
-    "answer": 100,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 11 units and a height of 5 units. What is its area in square units?",
+    "ground_truth": 55
   },
   {
-    "id": "GR-E-035",
+    "task_id": "GR_easy_0035",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 1?",
-    "parameters": {
-      "radius": 1
-    },
-    "answer": 3.14,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 14 units and a height of 2 units. What is its area in square units?",
+    "ground_truth": 28
   },
   {
-    "id": "GR-E-036",
+    "task_id": "GR_easy_0036",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 19?",
-    "parameters": {
-      "side": 19
-    },
-    "answer": 361,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 12 units and a height of 7 units. What is its area in square units?",
+    "ground_truth": 84
   },
   {
-    "id": "GR-E-037",
+    "task_id": "GR_easy_0037",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 15 and height 8?",
-    "parameters": {
-      "base": 15,
-      "height": 8
-    },
-    "answer": 60.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 16 units and a height of 13 units. What is its area in square units?",
+    "ground_truth": 208
   },
   {
-    "id": "GR-E-038",
+    "task_id": "GR_easy_0038",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 8 and height 6?",
-    "parameters": {
-      "base": 8,
-      "height": 6
-    },
-    "answer": 24.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 4 units and a height of 15 units. What is its area in square units?",
+    "ground_truth": 60
   },
   {
-    "id": "GR-E-039",
+    "task_id": "GR_easy_0039",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 17 and height 4?",
-    "parameters": {
-      "base": 17,
-      "height": 4
-    },
-    "answer": 34.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 5 units and a height of 9 units. What is its area in square units?",
+    "ground_truth": 45
   },
   {
-    "id": "GR-E-040",
+    "task_id": "GR_easy_0040",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 6 and height 8?",
-    "parameters": {
-      "width": 6,
-      "height": 8
-    },
-    "answer": 48,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 15 units and a height of 20 units. What is its area in square units?",
+    "ground_truth": 300
   },
   {
-    "id": "GR-E-041",
+    "task_id": "GR_easy_0041",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 3 and height 1?",
-    "parameters": {
-      "base": 3,
-      "height": 1
-    },
-    "answer": 1.5,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 14 units and a height of 18 units. What is its area in square units?",
+    "ground_truth": 252
   },
   {
-    "id": "GR-E-042",
+    "task_id": "GR_easy_0042",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 14?",
-    "parameters": {
-      "radius": 14
-    },
-    "answer": 615.75,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 4 units and a height of 14 units. What is its area in square units?",
+    "ground_truth": 56
   },
   {
-    "id": "GR-E-043",
+    "task_id": "GR_easy_0043",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 13 and height 3?",
-    "parameters": {
-      "base": 13,
-      "height": 3
-    },
-    "answer": 19.5,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 11 units and a height of 12 units. What is its area in square units?",
+    "ground_truth": 132
   },
   {
-    "id": "GR-E-044",
+    "task_id": "GR_easy_0044",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 9 and height 18?",
-    "parameters": {
-      "base": 9,
-      "height": 18
-    },
-    "answer": 81.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 9 units and a height of 12 units. What is its area in square units?",
+    "ground_truth": 108
   },
   {
-    "id": "GR-E-045",
+    "task_id": "GR_easy_0045",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 20?",
-    "parameters": {
-      "radius": 20
-    },
-    "answer": 1256.64,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 7 units and a height of 4 units. What is its area in square units?",
+    "ground_truth": 28
   },
   {
-    "id": "GR-E-046",
+    "task_id": "GR_easy_0046",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 15?",
-    "parameters": {
-      "radius": 15
-    },
-    "answer": 706.86,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 18 units and a height of 5 units. What is its area in square units?",
+    "ground_truth": 90
   },
   {
-    "id": "GR-E-047",
+    "task_id": "GR_easy_0047",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 2 and height 10?",
-    "parameters": {
-      "base": 2,
-      "height": 10
-    },
-    "answer": 10.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 18 units and a height of 18 units. What is its area in square units?",
+    "ground_truth": 324
   },
   {
-    "id": "GR-E-048",
+    "task_id": "GR_easy_0048",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 2 and height 12?",
-    "parameters": {
-      "base": 2,
-      "height": 12
-    },
-    "answer": 12.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 8 units and a height of 13 units. What is its area in square units?",
+    "ground_truth": 104
   },
   {
-    "id": "GR-E-049",
+    "task_id": "GR_easy_0049",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 17 and height 15?",
-    "parameters": {
-      "base": 17,
-      "height": 15
-    },
-    "answer": 127.5,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 13 units and a height of 6 units. What is its area in square units?",
+    "ground_truth": 78
   },
   {
-    "id": "GR-E-050",
+    "task_id": "GR_easy_0050",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 4 and height 4?",
-    "parameters": {
-      "base": 4,
-      "height": 4
-    },
-    "answer": 8.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 9 units and a height of 5 units. What is its area in square units?",
+    "ground_truth": 45
   },
   {
-    "id": "GR-E-051",
+    "task_id": "GR_easy_0051",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 9?",
-    "parameters": {
-      "side": 9
-    },
-    "answer": 81,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 6 units and a height of 10 units. What is its area in square units?",
+    "ground_truth": 60
   },
   {
-    "id": "GR-E-052",
+    "task_id": "GR_easy_0052",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 6?",
-    "parameters": {
-      "radius": 6
-    },
-    "answer": 113.1,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 8 units and a height of 7 units. What is its area in square units?",
+    "ground_truth": 56
   },
   {
-    "id": "GR-E-053",
+    "task_id": "GR_easy_0053",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 14 and height 11?",
-    "parameters": {
-      "width": 14,
-      "height": 11
-    },
-    "answer": 154,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 6 units and a height of 4 units. What is its area in square units?",
+    "ground_truth": 24
   },
   {
-    "id": "GR-E-054",
+    "task_id": "GR_easy_0054",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 8?",
-    "parameters": {
-      "side": 8
-    },
-    "answer": 64,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 7 units and a height of 17 units. What is its area in square units?",
+    "ground_truth": 119
   },
   {
-    "id": "GR-E-055",
+    "task_id": "GR_easy_0055",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 7 and height 9?",
-    "parameters": {
-      "base": 7,
-      "height": 9
-    },
-    "answer": 31.5,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 16 units and a height of 20 units. What is its area in square units?",
+    "ground_truth": 320
   },
   {
-    "id": "GR-E-056",
+    "task_id": "GR_easy_0056",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 11?",
-    "parameters": {
-      "radius": 11
-    },
-    "answer": 380.13,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 20 units and a height of 16 units. What is its area in square units?",
+    "ground_truth": 320
   },
   {
-    "id": "GR-E-057",
+    "task_id": "GR_easy_0057",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 15?",
-    "parameters": {
-      "radius": 15
-    },
-    "answer": 706.86,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 20 units and a height of 12 units. What is its area in square units?",
+    "ground_truth": 240
   },
   {
-    "id": "GR-E-058",
+    "task_id": "GR_easy_0058",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 8 and height 9?",
-    "parameters": {
-      "base": 8,
-      "height": 9
-    },
-    "answer": 36.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 12 units and a height of 6 units. What is its area in square units?",
+    "ground_truth": 72
   },
   {
-    "id": "GR-E-059",
+    "task_id": "GR_easy_0059",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 10 and height 15?",
-    "parameters": {
-      "width": 10,
-      "height": 15
-    },
-    "answer": 150,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 16 units and a height of 4 units. What is its area in square units?",
+    "ground_truth": 64
   },
   {
-    "id": "GR-E-060",
+    "task_id": "GR_easy_0060",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 15 and height 9?",
-    "parameters": {
-      "width": 15,
-      "height": 9
-    },
-    "answer": 135,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 17 units and a height of 16 units. What is its area in square units?",
+    "ground_truth": 272
   },
   {
-    "id": "GR-E-061",
+    "task_id": "GR_easy_0061",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 20 and height 2?",
-    "parameters": {
-      "width": 20,
-      "height": 2
-    },
-    "answer": 40,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 11 units and a height of 10 units. What is its area in square units?",
+    "ground_truth": 110
   },
   {
-    "id": "GR-E-062",
+    "task_id": "GR_easy_0062",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 5?",
-    "parameters": {
-      "side": 5
-    },
-    "answer": 25,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 20 units and a height of 3 units. What is its area in square units?",
+    "ground_truth": 60
   },
   {
-    "id": "GR-E-063",
+    "task_id": "GR_easy_0063",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 1 and height 8?",
-    "parameters": {
-      "width": 1,
-      "height": 8
-    },
-    "answer": 8,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 13 units and a height of 18 units. What is its area in square units?",
+    "ground_truth": 234
   },
   {
-    "id": "GR-E-064",
+    "task_id": "GR_easy_0064",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 19 and height 12?",
-    "parameters": {
-      "width": 19,
-      "height": 12
-    },
-    "answer": 228,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 4 units and a height of 11 units. What is its area in square units?",
+    "ground_truth": 44
   },
   {
-    "id": "GR-E-065",
+    "task_id": "GR_easy_0065",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 10 and height 6?",
-    "parameters": {
-      "width": 10,
-      "height": 6
-    },
-    "answer": 60,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 16 units and a height of 16 units. What is its area in square units?",
+    "ground_truth": 256
   },
   {
-    "id": "GR-E-066",
+    "task_id": "GR_easy_0066",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 16 and height 15?",
-    "parameters": {
-      "width": 16,
-      "height": 15
-    },
-    "answer": 240,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 3 units and a height of 3 units. What is its area in square units?",
+    "ground_truth": 9
   },
   {
-    "id": "GR-E-067",
+    "task_id": "GR_easy_0067",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 5 and height 5?",
-    "parameters": {
-      "width": 5,
-      "height": 5
-    },
-    "answer": 25,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 13 units and a height of 11 units. What is its area in square units?",
+    "ground_truth": 143
   },
   {
-    "id": "GR-E-068",
+    "task_id": "GR_easy_0068",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 20?",
-    "parameters": {
-      "side": 20
-    },
-    "answer": 400,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 4 units and a height of 4 units. What is its area in square units?",
+    "ground_truth": 16
   },
   {
-    "id": "GR-E-069",
+    "task_id": "GR_easy_0069",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 13 and height 9?",
-    "parameters": {
-      "width": 13,
-      "height": 9
-    },
-    "answer": 117,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 18 units and a height of 14 units. What is its area in square units?",
+    "ground_truth": 252
   },
   {
-    "id": "GR-E-070",
+    "task_id": "GR_easy_0070",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 1?",
-    "parameters": {
-      "side": 1
-    },
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 16 units and a height of 20 units. What is its area in square units?",
+    "ground_truth": 320
   },
   {
-    "id": "GR-E-071",
+    "task_id": "GR_easy_0071",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 19?",
-    "parameters": {
-      "side": 19
-    },
-    "answer": 361,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 19 units and a height of 3 units. What is its area in square units?",
+    "ground_truth": 57
   },
   {
-    "id": "GR-E-072",
+    "task_id": "GR_easy_0072",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 5 and height 19?",
-    "parameters": {
-      "width": 5,
-      "height": 19
-    },
-    "answer": 95,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 16 units and a height of 20 units. What is its area in square units?",
+    "ground_truth": 320
   },
   {
-    "id": "GR-E-073",
+    "task_id": "GR_easy_0073",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 9?",
-    "parameters": {
-      "radius": 9
-    },
-    "answer": 254.47,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 8 units and a height of 12 units. What is its area in square units?",
+    "ground_truth": 96
   },
   {
-    "id": "GR-E-074",
+    "task_id": "GR_easy_0074",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 17 and height 17?",
-    "parameters": {
-      "width": 17,
-      "height": 17
-    },
-    "answer": 289,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 17 units and a height of 18 units. What is its area in square units?",
+    "ground_truth": 306
   },
   {
-    "id": "GR-E-075",
+    "task_id": "GR_easy_0075",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 16 and height 20?",
-    "parameters": {
-      "base": 16,
-      "height": 20
-    },
-    "answer": 160.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 6 units and a height of 3 units. What is its area in square units?",
+    "ground_truth": 18
   },
   {
-    "id": "GR-E-076",
+    "task_id": "GR_easy_0076",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 12?",
-    "parameters": {
-      "side": 12
-    },
-    "answer": 144,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 16 units and a height of 5 units. What is its area in square units?",
+    "ground_truth": 80
   },
   {
-    "id": "GR-E-077",
+    "task_id": "GR_easy_0077",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 19?",
-    "parameters": {
-      "side": 19
-    },
-    "answer": 361,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 12 units and a height of 4 units. What is its area in square units?",
+    "ground_truth": 48
   },
   {
-    "id": "GR-E-078",
+    "task_id": "GR_easy_0078",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 17 and height 12?",
-    "parameters": {
-      "width": 17,
-      "height": 12
-    },
-    "answer": 204,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 18 units and a height of 7 units. What is its area in square units?",
+    "ground_truth": 126
   },
   {
-    "id": "GR-E-079",
+    "task_id": "GR_easy_0079",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 16 and height 6?",
-    "parameters": {
-      "base": 16,
-      "height": 6
-    },
-    "answer": 48.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 3 units and a height of 9 units. What is its area in square units?",
+    "ground_truth": 27
   },
   {
-    "id": "GR-E-080",
+    "task_id": "GR_easy_0080",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 6 and height 16?",
-    "parameters": {
-      "base": 6,
-      "height": 16
-    },
-    "answer": 48.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 16 units and a height of 16 units. What is its area in square units?",
+    "ground_truth": 256
   },
   {
-    "id": "GR-E-081",
+    "task_id": "GR_easy_0081",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 1 and height 3?",
-    "parameters": {
-      "base": 1,
-      "height": 3
-    },
-    "answer": 1.5,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 18 units and a height of 18 units. What is its area in square units?",
+    "ground_truth": 324
   },
   {
-    "id": "GR-E-082",
+    "task_id": "GR_easy_0082",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 8 and height 10?",
-    "parameters": {
-      "width": 8,
-      "height": 10
-    },
-    "answer": 80,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 7 units and a height of 13 units. What is its area in square units?",
+    "ground_truth": 91
   },
   {
-    "id": "GR-E-083",
+    "task_id": "GR_easy_0083",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 8?",
-    "parameters": {
-      "side": 8
-    },
-    "answer": 64,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 13 units and a height of 11 units. What is its area in square units?",
+    "ground_truth": 143
   },
   {
-    "id": "GR-E-084",
+    "task_id": "GR_easy_0084",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 9?",
-    "parameters": {
-      "side": 9
-    },
-    "answer": 81,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 14 units and a height of 15 units. What is its area in square units?",
+    "ground_truth": 210
   },
   {
-    "id": "GR-E-085",
+    "task_id": "GR_easy_0085",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 7?",
-    "parameters": {
-      "radius": 7
-    },
-    "answer": 153.94,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 12 units and a height of 3 units. What is its area in square units?",
+    "ground_truth": 36
   },
   {
-    "id": "GR-E-086",
+    "task_id": "GR_easy_0086",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 16 and height 15?",
-    "parameters": {
-      "width": 16,
-      "height": 15
-    },
-    "answer": 240,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 12 units and a height of 4 units. What is its area in square units?",
+    "ground_truth": 48
   },
   {
-    "id": "GR-E-087",
+    "task_id": "GR_easy_0087",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 17?",
-    "parameters": {
-      "radius": 17
-    },
-    "answer": 907.92,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 12 units and a height of 5 units. What is its area in square units?",
+    "ground_truth": 60
   },
   {
-    "id": "GR-E-088",
+    "task_id": "GR_easy_0088",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 7?",
-    "parameters": {
-      "side": 7
-    },
-    "answer": 49,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 19 units and a height of 14 units. What is its area in square units?",
+    "ground_truth": 266
   },
   {
-    "id": "GR-E-089",
+    "task_id": "GR_easy_0089",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 2 and height 13?",
-    "parameters": {
-      "width": 2,
-      "height": 13
-    },
-    "answer": 26,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 11 units and a height of 10 units. What is its area in square units?",
+    "ground_truth": 110
   },
   {
-    "id": "GR-E-090",
+    "task_id": "GR_easy_0090",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 11?",
-    "parameters": {
-      "radius": 11
-    },
-    "answer": 380.13,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 6 units and a height of 12 units. What is its area in square units?",
+    "ground_truth": 72
   },
   {
-    "id": "GR-E-091",
+    "task_id": "GR_easy_0091",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 9?",
-    "parameters": {
-      "radius": 9
-    },
-    "answer": 254.47,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 4 units and a height of 20 units. What is its area in square units?",
+    "ground_truth": 80
   },
   {
-    "id": "GR-E-092",
+    "task_id": "GR_easy_0092",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 2?",
-    "parameters": {
-      "radius": 2
-    },
-    "answer": 12.57,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 6 units and a height of 13 units. What is its area in square units?",
+    "ground_truth": 78
   },
   {
-    "id": "GR-E-093",
+    "task_id": "GR_easy_0093",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 19 and height 17?",
-    "parameters": {
-      "base": 19,
-      "height": 17
-    },
-    "answer": 161.5,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 11 units and a height of 14 units. What is its area in square units?",
+    "ground_truth": 154
   },
   {
-    "id": "GR-E-094",
+    "task_id": "GR_easy_0094",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 8?",
-    "parameters": {
-      "side": 8
-    },
-    "answer": 64,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 6 units and a height of 4 units. What is its area in square units?",
+    "ground_truth": 24
   },
   {
-    "id": "GR-E-095",
+    "task_id": "GR_easy_0095",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 6 and height 8?",
-    "parameters": {
-      "width": 6,
-      "height": 8
-    },
-    "answer": 48,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 11 units and a height of 19 units. What is its area in square units?",
+    "ground_truth": 209
   },
   {
-    "id": "GR-E-096",
+    "task_id": "GR_easy_0096",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 15?",
-    "parameters": {
-      "side": 15
-    },
-    "answer": 225,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 14 units and a height of 12 units. What is its area in square units?",
+    "ground_truth": 168
   },
   {
-    "id": "GR-E-097",
+    "task_id": "GR_easy_0097",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 2?",
-    "parameters": {
-      "side": 2
-    },
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 6 units and a height of 18 units. What is its area in square units?",
+    "ground_truth": 108
   },
   {
-    "id": "GR-E-098",
+    "task_id": "GR_easy_0098",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 18 and height 9?",
-    "parameters": {
-      "width": 18,
-      "height": 9
-    },
-    "answer": 162,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 4 units and a height of 15 units. What is its area in square units?",
+    "ground_truth": 60
   },
   {
-    "id": "GR-E-099",
+    "task_id": "GR_easy_0099",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 7?",
-    "parameters": {
-      "radius": 7
-    },
-    "answer": 153.94,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 18 units and a height of 13 units. What is its area in square units?",
+    "ground_truth": 234
   },
   {
-    "id": "GR-E-100",
+    "task_id": "GR_easy_0100",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 5?",
-    "parameters": {
-      "radius": 5
-    },
-    "answer": 78.54,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 2 units and a height of 13 units. What is its area in square units?",
+    "ground_truth": 26
   },
   {
-    "id": "GR-E-101",
+    "task_id": "GR_easy_0101",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 2 and height 7?",
-    "parameters": {
-      "width": 2,
-      "height": 7
-    },
-    "answer": 14,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 11 units and a height of 7 units. What is its area in square units?",
+    "ground_truth": 77
   },
   {
-    "id": "GR-E-102",
+    "task_id": "GR_easy_0102",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 8?",
-    "parameters": {
-      "side": 8
-    },
-    "answer": 64,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 8 units and a height of 12 units. What is its area in square units?",
+    "ground_truth": 96
   },
   {
-    "id": "GR-E-103",
+    "task_id": "GR_easy_0103",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 15 and height 4?",
-    "parameters": {
-      "base": 15,
-      "height": 4
-    },
-    "answer": 30.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 17 units and a height of 8 units. What is its area in square units?",
+    "ground_truth": 136
   },
   {
-    "id": "GR-E-104",
+    "task_id": "GR_easy_0104",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 11?",
-    "parameters": {
-      "radius": 11
-    },
-    "answer": 380.13,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 9 units and a height of 6 units. What is its area in square units?",
+    "ground_truth": 54
   },
   {
-    "id": "GR-E-105",
+    "task_id": "GR_easy_0105",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 7?",
-    "parameters": {
-      "radius": 7
-    },
-    "answer": 153.94,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 6 units and a height of 4 units. What is its area in square units?",
+    "ground_truth": 24
   },
   {
-    "id": "GR-E-106",
+    "task_id": "GR_easy_0106",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 4 and height 15?",
-    "parameters": {
-      "base": 4,
-      "height": 15
-    },
-    "answer": 30.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 11 units and a height of 5 units. What is its area in square units?",
+    "ground_truth": 55
   },
   {
-    "id": "GR-E-107",
+    "task_id": "GR_easy_0107",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 16?",
-    "parameters": {
-      "radius": 16
-    },
-    "answer": 804.25,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 18 units and a height of 19 units. What is its area in square units?",
+    "ground_truth": 342
   },
   {
-    "id": "GR-E-108",
+    "task_id": "GR_easy_0108",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 4?",
-    "parameters": {
-      "side": 4
-    },
-    "answer": 16,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 18 units and a height of 3 units. What is its area in square units?",
+    "ground_truth": 54
   },
   {
-    "id": "GR-E-109",
+    "task_id": "GR_easy_0109",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 20?",
-    "parameters": {
-      "side": 20
-    },
-    "answer": 400,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 12 units and a height of 6 units. What is its area in square units?",
+    "ground_truth": 72
   },
   {
-    "id": "GR-E-110",
+    "task_id": "GR_easy_0110",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 10 and height 19?",
-    "parameters": {
-      "base": 10,
-      "height": 19
-    },
-    "answer": 95.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 14 units and a height of 6 units. What is its area in square units?",
+    "ground_truth": 84
   },
   {
-    "id": "GR-E-111",
+    "task_id": "GR_easy_0111",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 19?",
-    "parameters": {
-      "radius": 19
-    },
-    "answer": 1134.11,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 7 units and a height of 7 units. What is its area in square units?",
+    "ground_truth": 49
   },
   {
-    "id": "GR-E-112",
+    "task_id": "GR_easy_0112",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 4 and height 15?",
-    "parameters": {
-      "base": 4,
-      "height": 15
-    },
-    "answer": 30.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 7 units and a height of 16 units. What is its area in square units?",
+    "ground_truth": 112
   },
   {
-    "id": "GR-E-113",
+    "task_id": "GR_easy_0113",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 19?",
-    "parameters": {
-      "side": 19
-    },
-    "answer": 361,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 3 units and a height of 15 units. What is its area in square units?",
+    "ground_truth": 45
   },
   {
-    "id": "GR-E-114",
+    "task_id": "GR_easy_0114",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 1 and height 9?",
-    "parameters": {
-      "base": 1,
-      "height": 9
-    },
-    "answer": 4.5,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 13 units and a height of 9 units. What is its area in square units?",
+    "ground_truth": 117
   },
   {
-    "id": "GR-E-115",
+    "task_id": "GR_easy_0115",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 20 and height 9?",
-    "parameters": {
-      "base": 20,
-      "height": 9
-    },
-    "answer": 90.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 16 units and a height of 11 units. What is its area in square units?",
+    "ground_truth": 176
   },
   {
-    "id": "GR-E-116",
+    "task_id": "GR_easy_0116",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 6 and height 11?",
-    "parameters": {
-      "base": 6,
-      "height": 11
-    },
-    "answer": 33.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 16 units and a height of 9 units. What is its area in square units?",
+    "ground_truth": 144
   },
   {
-    "id": "GR-E-117",
+    "task_id": "GR_easy_0117",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 17 and height 10?",
-    "parameters": {
-      "base": 17,
-      "height": 10
-    },
-    "answer": 85.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 19 units and a height of 9 units. What is its area in square units?",
+    "ground_truth": 171
   },
   {
-    "id": "GR-E-118",
+    "task_id": "GR_easy_0118",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 9 and height 18?",
-    "parameters": {
-      "width": 9,
-      "height": 18
-    },
-    "answer": 162,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 11 units and a height of 17 units. What is its area in square units?",
+    "ground_truth": 187
   },
   {
-    "id": "GR-E-119",
+    "task_id": "GR_easy_0119",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 11?",
-    "parameters": {
-      "side": 11
-    },
-    "answer": 121,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 8 units and a height of 13 units. What is its area in square units?",
+    "ground_truth": 104
   },
   {
-    "id": "GR-E-120",
+    "task_id": "GR_easy_0120",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 18 and height 17?",
-    "parameters": {
-      "width": 18,
-      "height": 17
-    },
-    "answer": 306,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 20 units and a height of 16 units. What is its area in square units?",
+    "ground_truth": 320
   },
   {
-    "id": "GR-E-121",
+    "task_id": "GR_easy_0121",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "rectangle",
-    "question": "What is the area of a rectangle with width 15 and height 4?",
-    "parameters": {
-      "width": 15,
-      "height": 4
-    },
-    "answer": 60,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 16 units and a height of 11 units. What is its area in square units?",
+    "ground_truth": 176
   },
   {
-    "id": "GR-E-122",
+    "task_id": "GR_easy_0122",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 16?",
-    "parameters": {
-      "side": 16
-    },
-    "answer": 256,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 14 units and a height of 18 units. What is its area in square units?",
+    "ground_truth": 252
   },
   {
-    "id": "GR-E-123",
+    "task_id": "GR_easy_0123",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "circle",
-    "question": "What is the area of a circle with radius 11?",
-    "parameters": {
-      "radius": 11
-    },
-    "answer": 380.13,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 18 units and a height of 15 units. What is its area in square units?",
+    "ground_truth": 270
   },
   {
-    "id": "GR-E-124",
+    "task_id": "GR_easy_0124",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "triangle",
-    "question": "What is the area of a triangle with base 16 and height 6?",
-    "parameters": {
-      "base": 16,
-      "height": 6
-    },
-    "answer": 48.0,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 7 units and a height of 8 units. What is its area in square units?",
+    "ground_truth": 56
   },
   {
-    "id": "GR-E-125",
+    "task_id": "GR_easy_0125",
     "category": "geometric_reasoning",
     "difficulty": "easy",
-    "task_type": "area_calculation",
-    "shape": "square",
-    "question": "What is the area of a square with side length 3?",
-    "parameters": {
-      "side": 3
-    },
-    "answer": 9,
-    "reasoning_steps": 2
+    "prompt": "A rectangle has a width of 6 units and a height of 10 units. What is its area in square units?",
+    "ground_truth": 60
+  },
+  {
+    "task_id": "GR_easy_0126",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 3 units and a height of 17 units. What is its area in square units?",
+    "ground_truth": 51
+  },
+  {
+    "task_id": "GR_easy_0127",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 13 units and a height of 19 units. What is its area in square units?",
+    "ground_truth": 247
+  },
+  {
+    "task_id": "GR_easy_0128",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 5 units and a height of 18 units. What is its area in square units?",
+    "ground_truth": 90
+  },
+  {
+    "task_id": "GR_easy_0129",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 5 units and a height of 11 units. What is its area in square units?",
+    "ground_truth": 55
+  },
+  {
+    "task_id": "GR_easy_0130",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 4 units and a height of 7 units. What is its area in square units?",
+    "ground_truth": 28
+  },
+  {
+    "task_id": "GR_easy_0131",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 10 units and a height of 16 units. What is its area in square units?",
+    "ground_truth": 160
+  },
+  {
+    "task_id": "GR_easy_0132",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 18 units and a height of 6 units. What is its area in square units?",
+    "ground_truth": 108
+  },
+  {
+    "task_id": "GR_easy_0133",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 15 units and a height of 4 units. What is its area in square units?",
+    "ground_truth": 60
+  },
+  {
+    "task_id": "GR_easy_0134",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 9 units and a height of 16 units. What is its area in square units?",
+    "ground_truth": 144
+  },
+  {
+    "task_id": "GR_easy_0135",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 13 units and a height of 2 units. What is its area in square units?",
+    "ground_truth": 26
+  },
+  {
+    "task_id": "GR_easy_0136",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 15 units and a height of 3 units. What is its area in square units?",
+    "ground_truth": 45
+  },
+  {
+    "task_id": "GR_easy_0137",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 14 units and a height of 18 units. What is its area in square units?",
+    "ground_truth": 252
+  },
+  {
+    "task_id": "GR_easy_0138",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 13 units and a height of 9 units. What is its area in square units?",
+    "ground_truth": 117
+  },
+  {
+    "task_id": "GR_easy_0139",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 14 units and a height of 4 units. What is its area in square units?",
+    "ground_truth": 56
+  },
+  {
+    "task_id": "GR_easy_0140",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 13 units and a height of 9 units. What is its area in square units?",
+    "ground_truth": 117
+  },
+  {
+    "task_id": "GR_easy_0141",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 2 units and a height of 12 units. What is its area in square units?",
+    "ground_truth": 24
+  },
+  {
+    "task_id": "GR_easy_0142",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 5 units and a height of 12 units. What is its area in square units?",
+    "ground_truth": 60
+  },
+  {
+    "task_id": "GR_easy_0143",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 6 units and a height of 6 units. What is its area in square units?",
+    "ground_truth": 36
+  },
+  {
+    "task_id": "GR_easy_0144",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 3 units and a height of 11 units. What is its area in square units?",
+    "ground_truth": 33
+  },
+  {
+    "task_id": "GR_easy_0145",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 17 units and a height of 6 units. What is its area in square units?",
+    "ground_truth": 102
+  },
+  {
+    "task_id": "GR_easy_0146",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 17 units and a height of 16 units. What is its area in square units?",
+    "ground_truth": 272
+  },
+  {
+    "task_id": "GR_easy_0147",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 2 units and a height of 4 units. What is its area in square units?",
+    "ground_truth": 8
+  },
+  {
+    "task_id": "GR_easy_0148",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 2 units and a height of 10 units. What is its area in square units?",
+    "ground_truth": 20
+  },
+  {
+    "task_id": "GR_easy_0149",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 8 units and a height of 6 units. What is its area in square units?",
+    "ground_truth": 48
+  },
+  {
+    "task_id": "GR_easy_0150",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 19 units and a height of 18 units. What is its area in square units?",
+    "ground_truth": 342
+  },
+  {
+    "task_id": "GR_easy_0151",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 15 units and a height of 5 units. What is its area in square units?",
+    "ground_truth": 75
+  },
+  {
+    "task_id": "GR_easy_0152",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 11 units and a height of 9 units. What is its area in square units?",
+    "ground_truth": 99
+  },
+  {
+    "task_id": "GR_easy_0153",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 11 units and a height of 5 units. What is its area in square units?",
+    "ground_truth": 55
+  },
+  {
+    "task_id": "GR_easy_0154",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 3 units and a height of 9 units. What is its area in square units?",
+    "ground_truth": 27
+  },
+  {
+    "task_id": "GR_easy_0155",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 15 units and a height of 16 units. What is its area in square units?",
+    "ground_truth": 240
+  },
+  {
+    "task_id": "GR_easy_0156",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 4 units and a height of 5 units. What is its area in square units?",
+    "ground_truth": 20
+  },
+  {
+    "task_id": "GR_easy_0157",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 17 units and a height of 19 units. What is its area in square units?",
+    "ground_truth": 323
+  },
+  {
+    "task_id": "GR_easy_0158",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 2 units and a height of 18 units. What is its area in square units?",
+    "ground_truth": 36
+  },
+  {
+    "task_id": "GR_easy_0159",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 20 units and a height of 9 units. What is its area in square units?",
+    "ground_truth": 180
+  },
+  {
+    "task_id": "GR_easy_0160",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 6 units and a height of 11 units. What is its area in square units?",
+    "ground_truth": 66
+  },
+  {
+    "task_id": "GR_easy_0161",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 15 units and a height of 2 units. What is its area in square units?",
+    "ground_truth": 30
+  },
+  {
+    "task_id": "GR_easy_0162",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 13 units and a height of 9 units. What is its area in square units?",
+    "ground_truth": 117
+  },
+  {
+    "task_id": "GR_easy_0163",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 20 units and a height of 15 units. What is its area in square units?",
+    "ground_truth": 300
+  },
+  {
+    "task_id": "GR_easy_0164",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 7 units and a height of 4 units. What is its area in square units?",
+    "ground_truth": 28
+  },
+  {
+    "task_id": "GR_easy_0165",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 18 units and a height of 13 units. What is its area in square units?",
+    "ground_truth": 234
+  },
+  {
+    "task_id": "GR_easy_0166",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 4 units and a height of 18 units. What is its area in square units?",
+    "ground_truth": 72
+  },
+  {
+    "task_id": "GR_easy_0167",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "prompt": "A rectangle has a width of 19 units and a height of 18 units. What is its area in square units?",
+    "ground_truth": 342
   }
 ]

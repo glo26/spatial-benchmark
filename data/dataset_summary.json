@@ -1,20 +1,77 @@
 {
-  "name": "SpatialEval",
-  "version": "1.0",
-  "total_tasks": 2250,
-  "categories": [
-    "coordinate_understanding",
-    "navigation_pathfinding",
-    "real_estate",
-    "network_infrastructure",
-    "geometric_reasoning",
-    "distance_computation"
-  ],
-  "difficulty_levels": [
-    "easy",
-    "medium",
-    "hard"
-  ],
-  "tasks_per_category": 375,
-  "tasks_per_difficulty": 125
+  "categories": {
+    "coordinate_understanding": {
+      "easy": 167,
+      "medium": 167,
+      "hard": 167,
+      "total": 501
+    },
+    "geometric_reasoning": {
+      "easy": 167,
+      "medium": 167,
+      "hard": 167,
+      "total": 501
+    },
+    "distance_computation": {
+      "easy": 167,
+      "medium": 167,
+      "hard": 167,
+      "total": 501
+    },
+    "topological_reasoning": {
+      "easy": 167,
+      "medium": 167,
+      "hard": 167,
+      "total": 501
+    },
+    "navigation_pathfinding": {
+      "easy": 167,
+      "medium": 167,
+      "hard": 167,
+      "total": 501
+    },
+    "viewpoint_visibility": {
+      "easy": 167,
+      "medium": 167,
+      "hard": 167,
+      "total": 501
+    },
+    "pattern_recognition": {
+      "easy": 167,
+      "medium": 167,
+      "hard": 167,
+      "total": 501
+    },
+    "network_infrastructure": {
+      "easy": 167,
+      "medium": 167,
+      "hard": 167,
+      "total": 501
+    },
+    "constraint_based_placement": {
+      "easy": 167,
+      "medium": 167,
+      "hard": 167,
+      "total": 501
+    },
+    "resource_allocation": {
+      "easy": 167,
+      "medium": 167,
+      "hard": 167,
+      "total": 501
+    },
+    "temporal_spatial_reasoning": {
+      "easy": 167,
+      "medium": 167,
+      "hard": 167,
+      "total": 501
+    },
+    "real_estate_geospatial": {
+      "easy": 167,
+      "medium": 167,
+      "hard": 167,
+      "total": 501
+    }
+  },
+  "total_tasks": 6012
 }

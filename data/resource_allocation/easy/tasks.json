@@ -1,0 +1,1171 @@
+[
+  {
+    "task_id": "RAO_easy_0001",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (1, 5) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0002",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (3, 5) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0003",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (0, 6) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0004",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (9, 10) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0005",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (6, 10) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0006",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (2, 6) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0007",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (1, 6) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0008",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (8, 4) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0009",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (5, 5) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0010",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (2, 5) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0011",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (2, 10) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0012",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (7, 4) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0013",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (1, 0) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0014",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (2, 10) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0015",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (5, 4) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0016",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (7, 1) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0017",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (7, 9) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0018",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (8, 9) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0019",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (9, 4) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0020",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (8, 8) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0021",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (5, 6) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0022",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (6, 9) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0023",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (4, 8) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0024",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (9, 9) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0025",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (3, 0) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0026",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (0, 5) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0027",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (1, 9) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0028",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (10, 5) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0029",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (6, 7) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0030",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (5, 10) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0031",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (6, 3) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0032",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (5, 5) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0033",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (8, 4) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0034",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (2, 2) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0035",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (7, 10) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0036",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (1, 7) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0037",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (2, 6) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0038",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (6, 2) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0039",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (10, 5) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0040",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (6, 5) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0041",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (0, 4) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0042",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (6, 0) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0043",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (7, 0) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0044",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (10, 0) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0045",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (1, 4) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0046",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (10, 4) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0047",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (1, 3) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0048",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (0, 6) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0049",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (8, 10) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0050",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (6, 2) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0051",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (4, 0) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0052",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (8, 7) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0053",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (1, 0) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0054",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (0, 10) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0055",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (6, 6) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0056",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (8, 9) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0057",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (0, 10) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0058",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (4, 1) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0059",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (7, 2) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0060",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (8, 2) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0061",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (0, 7) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0062",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (6, 2) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0063",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (3, 8) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0064",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (1, 1) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0065",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (5, 10) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0066",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (2, 2) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0067",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (3, 2) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0068",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (8, 2) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0069",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (2, 2) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0070",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (8, 2) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0071",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (4, 0) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0072",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (8, 4) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0073",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (7, 5) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0074",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (2, 8) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0075",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (3, 5) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0076",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (9, 9) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0077",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (9, 4) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0078",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (0, 0) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0079",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (4, 1) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0080",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (0, 8) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0081",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (4, 7) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0082",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (9, 1) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0083",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (3, 5) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0084",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (1, 1) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0085",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (3, 5) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0086",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (10, 0) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0087",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (5, 3) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0088",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (5, 7) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0089",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (2, 2) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0090",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (10, 8) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0091",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (9, 2) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0092",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (0, 6) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0093",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (4, 1) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0094",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (10, 10) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0095",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (5, 7) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0096",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (8, 0) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0097",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (9, 7) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0098",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (8, 3) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0099",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (0, 2) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0100",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (8, 0) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0101",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (1, 0) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0102",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (4, 1) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0103",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (9, 4) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0104",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (5, 3) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0105",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (4, 1) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0106",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (9, 5) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0107",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (2, 8) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0108",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (1, 10) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0109",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (4, 4) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0110",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (7, 8) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0111",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (6, 7) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0112",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (4, 10) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0113",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (2, 8) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0114",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (0, 2) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0115",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (1, 10) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0116",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (8, 10) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0117",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (8, 9) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0118",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (3, 0) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0119",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (6, 3) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0120",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (5, 7) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0121",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (8, 10) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0122",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (0, 10) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0123",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (3, 7) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0124",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (8, 9) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0125",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (1, 10) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0126",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (2, 1) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0127",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (3, 10) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0128",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (9, 7) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0129",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (4, 3) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0130",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (6, 9) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0131",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (9, 0) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0132",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (5, 5) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0133",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (8, 5) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0134",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (5, 7) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0135",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (5, 9) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0136",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (9, 4) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0137",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (0, 8) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0138",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (4, 2) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0139",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (9, 0) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0140",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (6, 9) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0141",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (6, 9) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0142",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (10, 0) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0143",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (4, 5) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0144",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (2, 8) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0145",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (9, 8) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0146",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (6, 0) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0147",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (6, 1) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0148",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (0, 6) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0149",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (5, 6) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0150",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (7, 3) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0151",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (3, 7) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0152",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (4, 5) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0153",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (7, 0) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0154",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (1, 6) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0155",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (5, 2) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0156",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (7, 6) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0157",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (1, 3) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0158",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (6, 10) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0159",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (8, 1) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0160",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (4, 9) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0161",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (8, 0) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0162",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (2, 5) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0163",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (3, 10) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0164",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (0, 8) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "RAO_easy_0165",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (4, 3) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0166",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (7, 6) covered? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "RAO_easy_0167",
+    "category": "resource_allocation",
+    "difficulty": "easy",
+    "prompt": "A service station at (5, 5) covers all points within 3 units. Is the point (9, 9) covered? Answer Yes or No.",
+    "ground_truth": "No"
+  }
+]

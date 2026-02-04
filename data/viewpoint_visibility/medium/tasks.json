@@ -1,0 +1,1171 @@
+[
+  {
+    "task_id": "VVA_medium_0001",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0002",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0003",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0004",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0005",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0006",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0007",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0008",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0009",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0010",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0011",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0012",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0013",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0014",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0015",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0016",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0017",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0018",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0019",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0020",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0021",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0022",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0023",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0024",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0025",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0026",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0027",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0028",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0029",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0030",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0031",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0032",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0033",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0034",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0035",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0036",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0037",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0038",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0039",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0040",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0041",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0042",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0043",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0044",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0045",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0046",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0047",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0048",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0049",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0050",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0051",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0052",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0053",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0054",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0055",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0056",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0057",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0058",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0059",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0060",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0061",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0062",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0063",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0064",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0065",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0066",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0067",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0068",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0069",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0070",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0071",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0072",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0073",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0074",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0075",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0076",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0077",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0078",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0079",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0080",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0081",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0082",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0083",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0084",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0085",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0086",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0087",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0088",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0089",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0090",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0091",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0092",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0093",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0094",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0095",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0096",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0097",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0098",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0099",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0100",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0101",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0102",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0103",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0104",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0105",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0106",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0107",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0108",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0109",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0110",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0111",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0112",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0113",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0114",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0115",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0116",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0117",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0118",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0119",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0120",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0121",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0122",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0123",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0124",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0125",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0126",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0127",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0128",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0129",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0130",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0131",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0132",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0133",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0134",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0135",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0136",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0137",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0138",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0139",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0140",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0141",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0142",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0143",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0144",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0145",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0146",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0147",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0148",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0149",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0150",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0151",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0152",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0153",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0154",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0155",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0156",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0157",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0158",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0159",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0160",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0161",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0162",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0163",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0164",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0165",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (4, 4) and (6, 6). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "VVA_medium_0166",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "VVA_medium_0167",
+    "category": "viewpoint_visibility",
+    "difficulty": "medium",
+    "prompt": "An observer is at (0, 0) and a target is at (10, 10). A rectangular obstacle has corners at (8, 0) and (10, 2). Can the observer see the target? Answer Yes or No.",
+    "ground_truth": "Yes"
+  }
+]

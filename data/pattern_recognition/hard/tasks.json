@@ -1,0 +1,1171 @@
+[
+  {
+    "task_id": "PRA_hard_0001",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (0,1), (3,2), (6,3), (9,4). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0002",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (5,0), (7,3), (9,6), (11,9). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0003",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (3,5), (5,7), (7,9), (9,11). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0004",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (5,14), (5,17), (20,9), (11,6). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0005",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (8,19), (20,18), (11,0), (14,0). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0006",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (17,13), (9,0), (13,15), (11,13). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0007",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (0,5), (1,17), (0,3), (18,5). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0008",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (5,5), (2,11), (9,7), (19,1). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0009",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (4,4), (5,7), (6,10). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0010",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,2), (2,3), (3,4). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0011",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,1), (3,2), (5,3). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0012",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (2,5), (4,7), (6,9). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0013",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (5,1), (7,3), (9,5), (11,7). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0014",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,7), (12,18), (16,17), (17,9). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0015",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (6,19), (6,7), (6,5), (9,7). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0016",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,4), (3,5), (5,6). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0017",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (0,11), (18,17), (20,7), (3,4). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0018",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (8,8), (2,5), (18,1), (14,10). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0019",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (12,10), (19,19), (19,4), (1,3). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0020",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (3,3), (4,4), (5,5), (6,6). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0021",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (4,2), (6,3), (8,4). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0022",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (12,5), (19,8), (20,2), (18,6). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0023",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (10,19), (3,18), (4,5), (12,14). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0024",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,0), (3,2), (5,4). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0025",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (4,13), (8,15), (10,4), (16,20). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0026",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (8,12), (3,4), (0,19), (13,3). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0027",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,0), (2,3), (3,6), (4,9), (5,12). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0028",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (5,4), (7,6), (9,8). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0029",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,1), (4,2), (7,3). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0030",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,2), (3,3), (5,4), (7,5). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0031",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,5), (2,6), (3,7), (4,8), (5,9). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0032",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (9,7), (1,16), (14,15), (18,14). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0033",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (8,14), (19,4), (11,8), (4,4). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0034",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (16,17), (7,8), (20,10), (17,3). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0035",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (0,9), (17,15), (15,1), (13,15). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0036",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (18,6), (6,7), (5,18), (18,17). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0037",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (0,2), (3,3), (6,4). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0038",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (5,4), (8,6), (11,8), (14,10). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0039",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (4,2), (7,5), (10,8), (13,11). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0040",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (16,6), (17,5), (10,13), (15,4). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0041",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,0), (4,3), (7,6), (10,9). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0042",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,5), (4,6), (7,7), (10,8). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0043",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,5), (3,8), (5,11), (7,14). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0044",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (4,3), (5,6), (6,9). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0045",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (2,0), (3,3), (4,6). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0046",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (5,5), (7,6), (9,7), (11,8). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0047",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (4,3), (5,6), (6,9), (7,12). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0048",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (20,0), (2,5), (5,7), (8,2). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0049",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (4,1), (7,2), (10,3). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0050",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (20,13), (12,5), (14,1), (4,13). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0051",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (2,2), (3,5), (4,8), (5,11). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0052",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,0), (3,2), (5,4), (7,6), (9,8). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0053",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (5,1), (8,2), (11,3). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0054",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (2,18), (7,7), (11,6), (17,19). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0055",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,2), (3,3), (5,4). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0056",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (7,12), (0,1), (13,0), (16,4). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0057",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (5,0), (7,2), (9,4), (11,6). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0058",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (5,5), (7,6), (9,7), (11,8). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0059",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (4,12), (9,6), (16,11), (0,0). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0060",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (7,14), (5,6), (8,13), (2,14). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0061",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (4,7), (3,6), (6,13), (3,0). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0062",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (19,8), (9,2), (13,9), (4,6). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0063",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (12,11), (8,9), (3,6), (14,5). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0064",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (5,3), (8,5), (11,7), (14,9). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0065",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,13), (6,8), (19,9), (5,19). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0066",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (8,13), (2,15), (10,10), (3,16). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0067",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (0,2), (15,19), (19,18), (6,5). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0068",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,0), (2,2), (3,4), (4,6), (5,8). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0069",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (2,2), (4,3), (6,4), (8,5). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0070",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (2,2), (4,4), (6,6). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0071",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (12,18), (8,14), (18,0), (5,11). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0072",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (17,11), (7,12), (4,13), (17,18). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0073",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (5,3), (6,4), (7,5), (8,6), (9,7). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0074",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (5,2), (6,5), (7,8). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0075",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (0,19), (10,7), (16,10), (20,10). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0076",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (2,1), (3,3), (4,5), (5,7), (6,9). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0077",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (2,4), (5,5), (8,6). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0078",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (7,15), (17,2), (8,13), (1,9). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0079",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (5,5), (7,8), (9,11). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0080",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (3,4), (6,6), (9,8), (12,10). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0081",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (0,3), (3,5), (6,7). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0082",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (14,20), (11,13), (8,13), (14,4). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0083",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (12,7), (12,17), (2,11), (9,2). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0084",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (16,19), (18,1), (1,4), (14,15). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0085",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (5,18), (3,0), (16,9), (10,1). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0086",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (20,17), (12,0), (9,7), (11,13). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0087",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (13,1), (10,1), (7,7), (14,8). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0088",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (18,16), (7,6), (0,12), (15,20). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0089",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,0), (3,2), (5,4), (7,6), (9,8). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0090",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (3,17), (4,5), (5,13), (13,15). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0091",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (20,8), (2,19), (0,16), (14,16). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0092",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (13,10), (6,16), (10,19), (1,12). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0093",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,4), (3,5), (5,6), (7,7). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0094",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (5,16), (19,16), (15,12), (0,10). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0095",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (20,10), (0,20), (9,18), (4,4). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0096",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (14,1), (8,20), (17,13), (2,17). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0097",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (14,0), (13,12), (6,5), (1,2). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0098",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,4), (4,5), (7,6), (10,7). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0099",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (4,4), (5,7), (6,10), (7,13), (8,16). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0100",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (4,4), (5,6), (6,8). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0101",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (13,10), (6,7), (14,2), (14,0). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0102",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (9,19), (8,5), (12,18), (9,5). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0103",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (5,5), (8,8), (11,11), (14,14), (17,17). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0104",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (7,2), (7,10), (9,20), (19,0). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0105",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (2,4), (5,6), (8,8), (11,10). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0106",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (3,4), (4,5), (5,6), (6,7), (7,8). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0107",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (4,3), (5,4), (6,5), (7,6). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0108",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (4,4), (5,6), (6,8). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0109",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (16,8), (7,1), (4,2), (14,17). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0110",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (3,4), (4,6), (5,8), (6,10), (7,12). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0111",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (5,2), (8,3), (11,4), (14,5), (17,6). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0112",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (5,4), (8,5), (11,6). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0113",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (2,4), (5,7), (8,10). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0114",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (20,16), (2,10), (0,6), (14,1). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0115",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (0,4), (1,6), (2,8), (3,10), (4,12). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0116",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (3,0), (4,1), (5,2), (6,3), (7,4). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0117",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,16), (20,2), (14,5), (12,4). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0118",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (19,13), (17,5), (20,9), (9,16). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0119",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (0,5), (1,7), (2,9). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0120",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (18,10), (18,5), (20,20), (14,20). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0121",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (0,3), (3,4), (6,5), (9,6). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0122",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (3,19), (12,3), (5,15), (12,12). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0123",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (4,0), (7,1), (10,2). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0124",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (0,3), (1,6), (2,9). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0125",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (13,6), (8,8), (8,6), (10,19). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0126",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (5,1), (8,3), (11,5), (14,7). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0127",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (15,0), (2,5), (0,9), (4,9). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0128",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (2,1), (4,4), (6,7). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0129",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (4,7), (14,11), (7,0), (5,17). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0130",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (18,14), (12,1), (7,19), (12,20). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0131",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (0,4), (9,7), (12,10), (4,9). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0132",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (2,1), (5,3), (8,5), (11,7). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0133",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (2,17), (14,11), (8,0), (7,12). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0134",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (8,16), (17,4), (3,11), (18,14). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0135",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (7,16), (11,8), (12,13), (4,6). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0136",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (7,13), (1,12), (12,14), (19,19). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0137",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (13,9), (18,2), (4,11), (18,9). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0138",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (15,5), (4,1), (8,5), (19,16). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0139",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,3), (4,6), (7,9). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0140",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (3,3), (4,5), (5,7), (6,9), (7,11). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0141",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (5,6), (11,12), (19,18), (19,4). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0142",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (19,17), (7,6), (10,17), (15,12). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0143",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (14,15), (14,19), (5,11), (13,0). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0144",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,2), (4,3), (7,4). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0145",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (8,19), (7,3), (10,6), (19,16). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0146",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (19,2), (4,4), (12,0), (0,0). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0147",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (9,9), (1,20), (14,12), (4,19). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0148",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (2,9), (20,7), (1,9), (18,2). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0149",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (0,0), (1,3), (2,6), (3,9), (4,12). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0150",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,5), (4,7), (7,9). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0151",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (4,4), (6,7), (8,10), (10,13). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0152",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (12,9), (5,4), (9,0), (10,19). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0153",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (20,4), (1,16), (5,7), (10,7). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0154",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (3,3), (5,6), (7,9). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0155",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (8,17), (19,12), (4,18), (17,1). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0156",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (11,12), (17,4), (0,2), (15,11). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0157",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (0,3), (3,5), (6,7), (9,9). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0158",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (4,3), (7,5), (10,7), (13,9). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0159",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (5,5), (8,7), (11,9). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0160",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (2,3), (4,4), (6,5), (8,6), (10,7). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0161",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,0), (4,1), (7,2), (10,3). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0162",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (10,12), (3,0), (1,15), (15,15). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0163",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (1,0), (3,2), (5,4). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0164",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (0,4), (3,5), (6,6). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0165",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (2,4), (5,7), (8,10), (11,13), (14,16). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "PRA_hard_0166",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (18,6), (16,15), (6,6), (14,1). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "PRA_hard_0167",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "prompt": "Given the points: (5,1), (7,3), (9,5), (11,7). Are all these points collinear (lie on the same straight line)? Answer Yes or No.",
+    "ground_truth": "Yes"
+  }
+]

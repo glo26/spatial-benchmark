@@ -28,13 +28,6 @@ Zekun Li and Hanyu Ning.
   task-solving capabilities.
 \newblock {\em Transactions in GIS}, 2023.
 
-\bibitem{liu2024agentbench}
-Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu~Gu,
-  Hangliang Ding, Kaiwen Men, Kejuan Yang, et~al.
-\newblock {AgentBench}: Evaluating {LLMs} as agents.
-\newblock In {\em International Conference on Learning Representations (ICLR)},
-  2024.
-
 \bibitem{ma20253dsrbench}
 Weixuan Ma et~al.
 \newblock 3dsrbench: A comprehensive 3d spatial reasoning benchmark.

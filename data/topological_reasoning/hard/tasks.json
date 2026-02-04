@@ -1,0 +1,1171 @@
+[
+  {
+    "task_id": "TR_hard_0001",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R2, R3-R5, R2-R4, R2-R3, R1-R3. Can you travel from R5 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0002",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R1-R2, R3-R5, R2-R4, R2-R3, R1-R3. Can you travel from R6 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TR_hard_0003",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R3, R2-R4, R4-R5, R3-R5, R1-R2, R2-R3, R5-R6. Can you travel from R3 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0004",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R1-R2, R1-R3, R2-R4, R3-R5, R2-R3, R4-R5. Can you travel from R2 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0005",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R2-R3, R1-R3, R4-R5, R2-R4, R3-R5, R1-R2. Can you travel from R1 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0006",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R5, R1-R2, R4-R5, R5-R6, R2-R3. Can you travel from R4 to R2 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0007",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R3, R5-R6, R4-R5, R3-R4, R2-R3. Can you travel from R5 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0008",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R3, R1-R3, R4-R5, R1-R2, R2-R4, R3-R4. Can you travel from R4 to R2 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0009",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R1-R2, R2-R3, R4-R5, R5-R6, R3-R5. Can you travel from R1 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0010",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R2, R5-R6, R3-R5, R4-R5, R2-R4. Can you travel from R6 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0011",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R2-R3, R1-R2, R2-R4, R3-R5, R5-R6. Can you travel from R4 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0012",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R4, R1-R2, R1-R3, R2-R3, R3-R5, R4-R5. Can you travel from R4 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0013",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R4-R5, R3-R4, R5-R6, R3-R5, R2-R4, R1-R2, R1-R3. Can you travel from R1 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0014",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R3, R2-R4, R3-R4, R1-R3, R1-R2, R4-R5. Can you travel from R4 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0015",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R4, R1-R3, R3-R4, R3-R5, R5-R6, R1-R2, R4-R5. Can you travel from R4 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0016",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R4-R5, R2-R4, R3-R4, R1-R2, R5-R6. Can you travel from R6 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0017",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R3, R3-R5, R5-R6, R2-R4, R3-R4. Can you travel from R4 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0018",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R5, R5-R6, R4-R5, R1-R3, R1-R2, R3-R4, R2-R3. Can you travel from R1 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0019",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R5, R2-R4, R1-R2, R2-R3, R1-R3. Can you travel from R3 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0020",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R1-R3, R2-R3, R3-R5, R2-R4, R5-R6, R4-R5. Can you travel from R4 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0021",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R3, R3-R5, R4-R5, R2-R4, R1-R3, R1-R2. Can you travel from R3 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0022",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R1-R3, R3-R4, R1-R2, R3-R5, R2-R4. Can you travel from R1 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0023",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R5, R5-R6, R4-R5, R2-R4, R3-R4, R1-R3. Can you travel from R3 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0024",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R4-R5, R1-R3, R3-R5, R1-R2, R3-R4. Can you travel from R2 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0025",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R3, R5-R6, R4-R5, R3-R5, R2-R3. Can you travel from R2 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0026",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R4-R5, R5-R6, R3-R5, R2-R3, R1-R2, R3-R4. Can you travel from R6 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0027",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R5, R1-R2, R3-R4, R1-R3, R5-R6, R2-R4. Can you travel from R4 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0028",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R5, R3-R4, R4-R5, R5-R6, R1-R3, R1-R2. Can you travel from R5 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0029",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R3, R2-R4, R5-R6, R3-R5, R3-R4, R1-R3. Can you travel from R4 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0030",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R5, R1-R3, R3-R4, R2-R3, R2-R4, R1-R2, R4-R5. Can you travel from R5 to R2 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0031",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R3, R3-R5, R5-R6, R2-R3, R2-R4. Can you travel from R4 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0032",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R4-R5, R3-R5, R1-R2, R1-R3, R2-R4, R5-R6. Can you travel from R1 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0033",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R3, R3-R4, R5-R6, R2-R4, R1-R2, R3-R5. Can you travel from R4 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0034",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R2, R3-R4, R4-R5, R3-R5, R2-R3, R2-R4. Can you travel from R1 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0035",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R4-R5, R5-R6, R2-R3, R3-R5, R3-R4, R1-R2. Can you travel from R3 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0036",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R2-R4, R3-R5, R1-R3, R2-R3, R1-R2, R3-R4. Can you travel from R6 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0037",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R1-R3, R2-R3, R1-R2, R2-R4, R3-R5. Can you travel from R4 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0038",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R3, R4-R5, R2-R4, R5-R6, R3-R5, R1-R2. Can you travel from R3 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0039",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R2, R4-R5, R5-R6, R2-R4, R3-R4. Can you travel from R1 to R2 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0040",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R4, R4-R5, R3-R4, R1-R3, R3-R5. Can you travel from R1 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0041",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R1-R2, R2-R4, R2-R3, R4-R5. Can you travel from R2 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0042",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R2, R4-R5, R2-R3, R3-R5, R3-R4, R1-R3, R5-R6. Can you travel from R6 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0043",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R2-R3, R5-R6, R3-R5, R1-R3, R4-R5, R1-R2. Can you travel from R2 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0044",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R1-R3, R2-R4, R4-R5, R2-R3. Can you travel from R4 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0045",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R3, R3-R5, R1-R2, R3-R4, R1-R3. Can you travel from R2 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0046",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R4, R2-R3, R3-R4, R3-R5, R1-R2, R1-R3. Can you travel from R2 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0047",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R4-R5, R3-R4, R1-R3, R2-R4, R2-R3, R1-R2. Can you travel from R1 to R2 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0048",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R4-R5, R1-R3, R3-R5, R2-R4, R1-R2. Can you travel from R6 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TR_hard_0049",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R3, R3-R5, R4-R5, R2-R4, R5-R6, R1-R2. Can you travel from R5 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0050",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R4-R5, R2-R3, R5-R6, R3-R4, R2-R4. Can you travel from R3 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TR_hard_0051",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R5, R1-R2, R5-R6, R3-R4, R4-R5, R2-R4. Can you travel from R2 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0052",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R1-R2, R1-R3, R2-R4, R4-R5, R3-R5, R2-R3. Can you travel from R6 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TR_hard_0053",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R2-R4, R5-R6, R3-R5, R1-R2. Can you travel from R2 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0054",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R4-R5, R2-R4, R1-R2, R3-R4. Can you travel from R4 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0055",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R1-R3, R5-R6, R3-R5, R2-R4, R2-R3, R1-R2. Can you travel from R4 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0056",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R4-R5, R3-R5, R2-R3, R2-R4, R5-R6. Can you travel from R1 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TR_hard_0057",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R3, R4-R5, R5-R6, R3-R4, R3-R5. Can you travel from R1 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0058",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R4-R5, R5-R6, R2-R3, R1-R2, R3-R5, R2-R4. Can you travel from R4 to R2 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0059",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R4, R1-R3, R1-R2, R3-R5, R2-R3, R4-R5, R3-R4. Can you travel from R5 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0060",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R4-R5, R2-R3, R5-R6, R3-R4, R1-R3. Can you travel from R1 to R2 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0061",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R5, R3-R4, R5-R6, R2-R4, R1-R3. Can you travel from R6 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0062",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R2-R4, R5-R6, R1-R3, R1-R2, R3-R5. Can you travel from R1 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0063",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R3, R4-R5, R3-R5, R5-R6, R2-R4. Can you travel from R4 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0064",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R2, R2-R4, R3-R4, R3-R5, R4-R5, R2-R3, R5-R6. Can you travel from R3 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0065",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R5, R1-R2, R1-R3, R5-R6, R2-R4. Can you travel from R2 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0066",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R4, R3-R4, R1-R2, R5-R6, R3-R5, R4-R5, R2-R3. Can you travel from R4 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0067",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R4, R1-R3, R4-R5, R5-R6, R2-R3, R3-R5. Can you travel from R4 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0068",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R3, R2-R4, R1-R2, R3-R4, R5-R6, R4-R5. Can you travel from R4 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0069",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R1-R2, R1-R3, R2-R3, R4-R5, R2-R4, R5-R6. Can you travel from R6 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0070",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R3-R5, R2-R4, R3-R4, R2-R3. Can you travel from R3 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0071",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R4-R5, R5-R6, R2-R4, R3-R4, R1-R3, R1-R2. Can you travel from R4 to R2 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0072",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R4-R5, R3-R4, R1-R2, R1-R3. Can you travel from R6 to R2 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0073",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R3, R5-R6, R3-R5, R3-R4, R4-R5, R1-R2, R1-R3. Can you travel from R5 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0074",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R1-R3, R4-R5, R1-R2, R2-R3. Can you travel from R1 to R2 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0075",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R1-R3, R2-R4, R3-R5, R4-R5, R5-R6, R1-R2. Can you travel from R2 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0076",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R3, R1-R2, R3-R5, R1-R3, R3-R4, R2-R4. Can you travel from R1 to R2 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0077",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R4-R5, R2-R4, R3-R4, R2-R3, R5-R6. Can you travel from R4 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0078",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R3, R1-R2, R4-R5, R2-R4, R3-R4, R1-R3. Can you travel from R2 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0079",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R1-R2, R1-R3, R2-R4, R3-R5. Can you travel from R4 to R2 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0080",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R2, R3-R4, R3-R5, R5-R6, R4-R5, R1-R3. Can you travel from R2 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0081",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R2-R4, R1-R2, R3-R4, R2-R3. Can you travel from R3 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TR_hard_0082",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R4-R5, R2-R4, R5-R6, R3-R5, R3-R4. Can you travel from R2 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0083",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R4-R5, R3-R5, R1-R3, R5-R6, R2-R3. Can you travel from R3 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0084",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R1-R3, R2-R3, R2-R4, R3-R5, R4-R5. Can you travel from R1 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0085",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R2, R2-R4, R1-R3, R3-R4, R2-R3. Can you travel from R6 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TR_hard_0086",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R3, R2-R4, R3-R4, R1-R2, R5-R6. Can you travel from R5 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TR_hard_0087",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R4, R4-R5, R1-R3, R2-R3, R3-R4. Can you travel from R6 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TR_hard_0088",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R2, R3-R5, R3-R4, R5-R6, R2-R4, R1-R3. Can you travel from R2 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0089",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R3, R2-R3, R2-R4, R1-R2, R4-R5. Can you travel from R2 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0090",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R4, R3-R4, R1-R3, R1-R2, R4-R5, R5-R6. Can you travel from R5 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0091",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R2-R4, R1-R3, R2-R3, R3-R4. Can you travel from R3 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TR_hard_0092",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R4-R5, R2-R4, R2-R3, R3-R5, R1-R2. Can you travel from R4 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0093",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R2-R4, R5-R6, R4-R5, R1-R2, R2-R3. Can you travel from R4 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0094",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R4, R1-R2, R2-R3, R1-R3, R5-R6, R3-R5, R4-R5. Can you travel from R4 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0095",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R3, R4-R5, R2-R4, R5-R6, R1-R2, R1-R3, R3-R4. Can you travel from R5 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0096",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R2-R3, R1-R3, R4-R5, R3-R5. Can you travel from R2 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0097",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R4, R5-R6, R2-R3, R4-R5, R3-R4. Can you travel from R1 to R2 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TR_hard_0098",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R1-R2, R5-R6, R1-R3, R3-R5, R2-R4. Can you travel from R3 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0099",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R3-R4, R2-R4, R1-R2, R4-R5. Can you travel from R5 to R2 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0100",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R1-R2, R4-R5, R3-R4, R2-R4, R1-R3, R2-R3. Can you travel from R4 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0101",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R3-R4, R1-R2, R2-R3, R3-R5. Can you travel from R6 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0102",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R5, R2-R4, R4-R5, R1-R2, R2-R3, R1-R3. Can you travel from R4 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0103",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R3, R1-R2, R3-R4, R3-R5, R4-R5, R1-R3, R2-R4. Can you travel from R3 to R2 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0104",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R3, R1-R3, R2-R4, R5-R6, R3-R4, R4-R5. Can you travel from R4 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0105",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R2, R3-R4, R2-R4, R4-R5, R2-R3. Can you travel from R5 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TR_hard_0106",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R4, R3-R4, R3-R5, R2-R3, R5-R6. Can you travel from R2 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0107",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R3, R5-R6, R2-R3, R2-R4, R1-R2, R3-R5. Can you travel from R2 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0108",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R2-R4, R3-R4, R4-R5, R1-R3, R3-R5, R1-R2. Can you travel from R4 to R2 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0109",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R4-R5, R3-R4, R3-R5, R1-R2, R5-R6. Can you travel from R3 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0110",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R2, R3-R4, R3-R5, R5-R6, R2-R4, R4-R5. Can you travel from R5 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0111",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R2-R4, R3-R5, R5-R6, R4-R5, R2-R3, R1-R2. Can you travel from R5 to R2 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0112",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R3, R1-R2, R5-R6, R1-R3, R3-R5. Can you travel from R1 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0113",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R3, R2-R4, R3-R4, R1-R3, R3-R5, R4-R5, R5-R6. Can you travel from R4 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0114",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R4, R5-R6, R3-R5, R2-R3, R4-R5, R3-R4, R1-R3. Can you travel from R4 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0115",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R1-R3, R2-R3, R3-R4, R1-R2, R3-R5, R2-R4. Can you travel from R6 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0116",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R5, R4-R5, R1-R3, R2-R4, R5-R6, R2-R3. Can you travel from R4 to R2 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0117",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R2-R3, R2-R4, R5-R6, R1-R3, R3-R5, R4-R5. Can you travel from R6 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0118",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R4, R3-R5, R1-R2, R4-R5, R5-R6. Can you travel from R5 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0119",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R5, R1-R3, R3-R4, R2-R3, R4-R5, R5-R6, R2-R4. Can you travel from R2 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0120",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R4, R3-R4, R1-R2, R3-R5, R4-R5, R2-R3, R5-R6. Can you travel from R1 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0121",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R1-R2, R4-R5, R2-R3, R3-R4. Can you travel from R1 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0122",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R4-R5, R3-R4, R3-R5, R2-R3, R5-R6, R1-R3, R1-R2. Can you travel from R4 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0123",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R4, R5-R6, R1-R2, R2-R3, R3-R5, R1-R3. Can you travel from R2 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0124",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R2-R4, R2-R3, R1-R2, R3-R4. Can you travel from R6 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TR_hard_0125",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R5, R3-R4, R1-R3, R2-R4, R5-R6, R4-R5. Can you travel from R3 to R2 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0126",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R2-R4, R1-R3, R3-R5, R3-R4, R4-R5. Can you travel from R1 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0127",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R2-R4, R3-R4, R3-R5, R1-R2, R1-R3. Can you travel from R3 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0128",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R4-R5, R5-R6, R1-R3, R2-R4, R1-R2. Can you travel from R3 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0129",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R2-R3, R4-R5, R1-R2, R1-R3. Can you travel from R2 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0130",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R4-R5, R1-R3, R2-R3, R2-R4. Can you travel from R2 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0131",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R3-R4, R4-R5, R3-R5, R1-R2, R2-R4. Can you travel from R2 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0132",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R2, R2-R3, R2-R4, R4-R5, R3-R4, R5-R6. Can you travel from R5 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0133",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R5, R1-R2, R5-R6, R2-R4, R1-R3, R2-R3, R3-R4. Can you travel from R5 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0134",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R2, R3-R5, R1-R3, R5-R6, R4-R5, R2-R3, R2-R4. Can you travel from R6 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0135",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R3-R5, R2-R3, R4-R5, R2-R4, R1-R2, R5-R6. Can you travel from R3 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0136",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R1-R3, R2-R4, R3-R4, R1-R2, R3-R5. Can you travel from R5 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0137",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R3-R4, R2-R4, R2-R3, R3-R5. Can you travel from R3 to R2 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0138",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R4-R5, R2-R4, R1-R2, R5-R6, R3-R4. Can you travel from R1 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0139",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R5, R5-R6, R2-R4, R4-R5, R2-R3. Can you travel from R5 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TR_hard_0140",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R5, R4-R5, R1-R2, R1-R3, R2-R3, R5-R6, R3-R4. Can you travel from R5 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0141",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R3, R3-R5, R1-R2, R5-R6, R3-R4. Can you travel from R4 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0142",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R4, R1-R3, R2-R3, R5-R6, R3-R5, R4-R5, R3-R4. Can you travel from R3 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0143",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R5, R4-R5, R1-R3, R3-R4, R1-R2, R5-R6. Can you travel from R3 to R2 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0144",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R4-R5, R2-R3, R3-R5, R1-R3. Can you travel from R4 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0145",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R2, R4-R5, R2-R3, R5-R6, R3-R5. Can you travel from R5 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0146",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R3, R2-R3, R2-R4, R3-R4, R4-R5, R1-R2. Can you travel from R6 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TR_hard_0147",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R4-R5, R3-R4, R2-R4, R2-R3, R3-R5. Can you travel from R1 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TR_hard_0148",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R4-R5, R3-R4, R1-R3, R1-R2, R3-R5, R2-R3. Can you travel from R1 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0149",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R4-R5, R2-R3, R3-R5, R1-R3, R1-R2. Can you travel from R3 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0150",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R2, R4-R5, R3-R5, R5-R6, R2-R3. Can you travel from R2 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0151",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R3, R1-R2, R3-R5, R1-R3, R4-R5, R5-R6, R2-R4. Can you travel from R5 to R2 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0152",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R2, R2-R3, R2-R4, R5-R6, R3-R4. Can you travel from R1 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0153",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R4-R5, R2-R4, R3-R5, R2-R3, R3-R4, R1-R2, R1-R3. Can you travel from R1 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TR_hard_0154",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R3-R4, R4-R5, R1-R3, R2-R4. Can you travel from R4 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0155",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R2, R4-R5, R2-R4, R3-R4, R3-R5, R5-R6, R2-R3. Can you travel from R2 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0156",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R5-R6, R1-R2, R1-R3, R4-R5, R3-R4, R2-R4. Can you travel from R2 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0157",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R5, R1-R3, R2-R4, R1-R2, R3-R4. Can you travel from R6 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TR_hard_0158",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R3, R5-R6, R2-R4, R3-R4, R2-R3, R3-R5, R1-R2. Can you travel from R5 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0159",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R4-R5, R2-R4, R2-R3, R3-R5, R5-R6. Can you travel from R2 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0160",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R5, R1-R3, R2-R3, R4-R5, R1-R2. Can you travel from R1 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0161",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R1-R3, R5-R6, R1-R2, R4-R5, R3-R5, R3-R4, R2-R3. Can you travel from R5 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0162",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R4-R5, R3-R4, R5-R6, R2-R3, R3-R5. Can you travel from R1 to R6 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TR_hard_0163",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R4-R5, R2-R4, R1-R3, R3-R5, R1-R2, R2-R3. Can you travel from R6 to R4 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TR_hard_0164",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R5, R1-R3, R5-R6, R3-R4, R2-R3. Can you travel from R2 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0165",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R3, R2-R4, R4-R5, R1-R2, R3-R4, R3-R5, R1-R3. Can you travel from R6 to R5 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "No"
+  },
+  {
+    "task_id": "TR_hard_0166",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R2-R4, R1-R2, R4-R5, R5-R6, R2-R3. Can you travel from R2 to R3 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  },
+  {
+    "task_id": "TR_hard_0167",
+    "category": "topological_reasoning",
+    "difficulty": "hard",
+    "prompt": "A map has 6 regions (R1 to R6) with the following borders: R3-R4, R1-R3, R2-R4, R5-R6, R4-R5. Can you travel from R3 to R1 by only crossing adjacent regions? Answer Yes or No.",
+    "ground_truth": "Yes"
+  }
+]

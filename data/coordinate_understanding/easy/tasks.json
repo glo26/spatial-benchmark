@@ -1,1127 +1,1171 @@
 [
   {
-    "id": "CU-E-001",
+    "task_id": "CU_easy_0001",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (63, -72) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (10, -7) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   },
   {
-    "id": "CU-E-002",
+    "task_id": "CU_easy_0002",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-94, 89) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-10, -2) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-003",
+    "task_id": "CU_easy_0003",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-30, -38) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-3, -3) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-004",
+    "task_id": "CU_easy_0004",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-43, -65) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-6, -7) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-005",
+    "task_id": "CU_easy_0005",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (88, -74) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (7, -8) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   },
   {
-    "id": "CU-E-006",
+    "task_id": "CU_easy_0006",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (73, 89) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (8, 3) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-007",
+    "task_id": "CU_easy_0007",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (39, -78) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-9, -10) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-008",
+    "task_id": "CU_easy_0008",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (51, 8) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-8, -4) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-009",
+    "task_id": "CU_easy_0009",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-92, -93) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-3, 6) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-010",
+    "task_id": "CU_easy_0010",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-77, -45) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (9, -10) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   },
   {
-    "id": "CU-E-011",
+    "task_id": "CU_easy_0011",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-41, 29) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (7, -4) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   },
   {
-    "id": "CU-E-012",
+    "task_id": "CU_easy_0012",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (54, -94) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (10, 7) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-013",
+    "task_id": "CU_easy_0013",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (43, -50) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (3, -3) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   },
   {
-    "id": "CU-E-014",
+    "task_id": "CU_easy_0014",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (83, 66) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (4, 8) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-015",
+    "task_id": "CU_easy_0015",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (79, 39) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-2, -10) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-016",
+    "task_id": "CU_easy_0016",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (7, -44) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-5, 3) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-017",
+    "task_id": "CU_easy_0017",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (14, 50) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (0, -2) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "on an axis"
   },
   {
-    "id": "CU-E-018",
+    "task_id": "CU_easy_0018",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-29, -99) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-6, -4) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-019",
+    "task_id": "CU_easy_0019",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (94, -60) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (0, -7) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "on an axis"
   },
   {
-    "id": "CU-E-020",
+    "task_id": "CU_easy_0020",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (78, 8) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-8, 2) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-021",
+    "task_id": "CU_easy_0021",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-13, -29) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-7, 1) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-022",
+    "task_id": "CU_easy_0022",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-61, -45) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (1, 9) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-023",
+    "task_id": "CU_easy_0023",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (95, -14) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-2, -9) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-024",
+    "task_id": "CU_easy_0024",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-74, -77) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (4, 7) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-025",
+    "task_id": "CU_easy_0025",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-3, -76) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-7, 2) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-026",
+    "task_id": "CU_easy_0026",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-9, -12) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-8, 7) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-027",
+    "task_id": "CU_easy_0027",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (54, -33) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-1, 10) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-028",
+    "task_id": "CU_easy_0028",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-89, 86) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (9, 1) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-029",
+    "task_id": "CU_easy_0029",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (17, 37) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (8, -4) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   },
   {
-    "id": "CU-E-030",
+    "task_id": "CU_easy_0030",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-69, -4) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-8, -9) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-031",
+    "task_id": "CU_easy_0031",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-80, 41) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-3, -1) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-032",
+    "task_id": "CU_easy_0032",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-25, 60) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-8, -3) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-033",
+    "task_id": "CU_easy_0033",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (58, -8) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-7, 2) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-034",
+    "task_id": "CU_easy_0034",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (47, -51) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-2, 4) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-035",
+    "task_id": "CU_easy_0035",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (80, -83) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (10, 1) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-036",
+    "task_id": "CU_easy_0036",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-89, 69) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-5, 1) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-037",
+    "task_id": "CU_easy_0037",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-42, 97) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (1, -4) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   },
   {
-    "id": "CU-E-038",
+    "task_id": "CU_easy_0038",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-26, -80) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-2, 10) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-039",
+    "task_id": "CU_easy_0039",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-41, -75) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-8, 9) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-040",
+    "task_id": "CU_easy_0040",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-3, -29) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (10, -5) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   },
   {
-    "id": "CU-E-041",
+    "task_id": "CU_easy_0041",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (16, 62) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (7, -3) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   },
   {
-    "id": "CU-E-042",
+    "task_id": "CU_easy_0042",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-7, -59) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-5, 4) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-043",
+    "task_id": "CU_easy_0043",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-6, -10) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (2, -2) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   },
   {
-    "id": "CU-E-044",
+    "task_id": "CU_easy_0044",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-47, 71) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (10, 7) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-045",
+    "task_id": "CU_easy_0045",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-32, 79) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-3, 0) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "on an axis"
   },
   {
-    "id": "CU-E-046",
+    "task_id": "CU_easy_0046",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (74, 65) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-9, -3) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-047",
+    "task_id": "CU_easy_0047",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-82, 55) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-9, 0) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "on an axis"
   },
   {
-    "id": "CU-E-048",
+    "task_id": "CU_easy_0048",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (62, -57) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (2, -2) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   },
   {
-    "id": "CU-E-049",
+    "task_id": "CU_easy_0049",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (36, 86) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-8, -4) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-050",
+    "task_id": "CU_easy_0050",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-38, -59) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (8, 0) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "on an axis"
   },
   {
-    "id": "CU-E-051",
+    "task_id": "CU_easy_0051",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (18, -3) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-4, 10) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-052",
+    "task_id": "CU_easy_0052",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-31, 63) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (5, 2) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-053",
+    "task_id": "CU_easy_0053",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (76, 42) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (10, 4) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-054",
+    "task_id": "CU_easy_0054",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-44, 75) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-6, -2) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-055",
+    "task_id": "CU_easy_0055",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-17, 96) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-6, -3) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-056",
+    "task_id": "CU_easy_0056",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (98, -86) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (7, 7) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-057",
+    "task_id": "CU_easy_0057",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-42, -92) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-2, 8) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-058",
+    "task_id": "CU_easy_0058",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-20, 2) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (3, 8) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-059",
+    "task_id": "CU_easy_0059",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-32, -84) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (2, 1) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-060",
+    "task_id": "CU_easy_0060",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-46, 45) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-3, -6) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-061",
+    "task_id": "CU_easy_0061",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (83, -20) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (6, 5) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-062",
+    "task_id": "CU_easy_0062",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-46, 67) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-8, -9) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-063",
+    "task_id": "CU_easy_0063",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (27, 1) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-7, -6) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-064",
+    "task_id": "CU_easy_0064",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (64, 17) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (10, -5) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   },
   {
-    "id": "CU-E-065",
+    "task_id": "CU_easy_0065",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-64, -33) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (3, 9) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-066",
+    "task_id": "CU_easy_0066",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-65, -37) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-8, 2) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-067",
+    "task_id": "CU_easy_0067",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (90, 43) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (2, 9) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-068",
+    "task_id": "CU_easy_0068",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (37, -33) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (4, 6) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-069",
+    "task_id": "CU_easy_0069",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (91, 49) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-2, 7) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-070",
+    "task_id": "CU_easy_0070",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (9, 49) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-10, -7) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-071",
+    "task_id": "CU_easy_0071",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (2, -8) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (7, -2) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   },
   {
-    "id": "CU-E-072",
+    "task_id": "CU_easy_0072",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-44, -65) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (10, 0) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "on an axis"
   },
   {
-    "id": "CU-E-073",
+    "task_id": "CU_easy_0073",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (30, 26) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-7, -1) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-074",
+    "task_id": "CU_easy_0074",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-77, 93) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (3, -5) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   },
   {
-    "id": "CU-E-075",
+    "task_id": "CU_easy_0075",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-88, -72) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (4, -10) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   },
   {
-    "id": "CU-E-076",
+    "task_id": "CU_easy_0076",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-61, 60) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-2, 6) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-077",
+    "task_id": "CU_easy_0077",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-60, 74) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-5, 6) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-078",
+    "task_id": "CU_easy_0078",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (8, 52) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-7, 10) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-079",
+    "task_id": "CU_easy_0079",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-84, -2) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-1, 10) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-080",
+    "task_id": "CU_easy_0080",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-3, 52) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (6, 9) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-081",
+    "task_id": "CU_easy_0081",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (19, 35) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-4, -6) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-082",
+    "task_id": "CU_easy_0082",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-36, 41) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (1, -5) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   },
   {
-    "id": "CU-E-083",
+    "task_id": "CU_easy_0083",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-98, 74) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (7, 6) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-084",
+    "task_id": "CU_easy_0084",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (84, -71) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-10, 9) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-085",
+    "task_id": "CU_easy_0085",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (74, 37) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (0, 5) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "on an axis"
   },
   {
-    "id": "CU-E-086",
+    "task_id": "CU_easy_0086",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (92, -32) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-10, -7) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-087",
+    "task_id": "CU_easy_0087",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (96, 64) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (1, -1) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   },
   {
-    "id": "CU-E-088",
+    "task_id": "CU_easy_0088",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-13, -72) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-3, -9) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-089",
+    "task_id": "CU_easy_0089",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-25, 11) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-3, 8) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-090",
+    "task_id": "CU_easy_0090",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-60, 16) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-8, -8) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-091",
+    "task_id": "CU_easy_0091",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-100, 84) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (5, -8) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   },
   {
-    "id": "CU-E-092",
+    "task_id": "CU_easy_0092",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (84, -33) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (7, -6) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   },
   {
-    "id": "CU-E-093",
+    "task_id": "CU_easy_0093",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (28, 95) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-6, 5) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-094",
+    "task_id": "CU_easy_0094",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-55, 29) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (7, -5) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   },
   {
-    "id": "CU-E-095",
+    "task_id": "CU_easy_0095",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-73, 60) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-2, 6) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-096",
+    "task_id": "CU_easy_0096",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-24, 63) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (9, 3) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-097",
+    "task_id": "CU_easy_0097",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (29, 55) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-4, 7) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-098",
+    "task_id": "CU_easy_0098",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-50, -61) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-4, -1) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-099",
+    "task_id": "CU_easy_0099",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-5, 95) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (2, 10) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-100",
+    "task_id": "CU_easy_0100",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-59, 38) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (1, 4) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-101",
+    "task_id": "CU_easy_0101",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (99, 35) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (6, 4) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-102",
+    "task_id": "CU_easy_0102",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-100, 53) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-7, -3) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-103",
+    "task_id": "CU_easy_0103",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-18, 25) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-3, -8) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-104",
+    "task_id": "CU_easy_0104",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-96, -72) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (0, -10) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "on an axis"
   },
   {
-    "id": "CU-E-105",
+    "task_id": "CU_easy_0105",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-8, -22) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (8, 7) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-106",
+    "task_id": "CU_easy_0106",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-39, -86) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-3, 8) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-107",
+    "task_id": "CU_easy_0107",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-39, 45) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-3, -10) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-108",
+    "task_id": "CU_easy_0108",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-80, -79) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-8, 10) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-109",
+    "task_id": "CU_easy_0109",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (87, 24) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-9, -3) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-110",
+    "task_id": "CU_easy_0110",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-83, 94) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-8, -9) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-111",
+    "task_id": "CU_easy_0111",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (36, 96) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (0, -8) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "on an axis"
   },
   {
-    "id": "CU-E-112",
+    "task_id": "CU_easy_0112",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-68, -68) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (6, -3) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   },
   {
-    "id": "CU-E-113",
+    "task_id": "CU_easy_0113",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (68, 21) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-2, 5) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-114",
+    "task_id": "CU_easy_0114",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (40, -58) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-4, 7) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-115",
+    "task_id": "CU_easy_0115",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-33, 35) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-6, 8) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-116",
+    "task_id": "CU_easy_0116",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (55, 8) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (8, 5) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-117",
+    "task_id": "CU_easy_0117",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-46, 38) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 2,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-3, 5) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
   },
   {
-    "id": "CU-E-118",
+    "task_id": "CU_easy_0118",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (93, 86) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (3, -4) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   },
   {
-    "id": "CU-E-119",
+    "task_id": "CU_easy_0119",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (76, -49) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-7, -7) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-120",
+    "task_id": "CU_easy_0120",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (82, -21) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (3, 1) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-121",
+    "task_id": "CU_easy_0121",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (2, 71) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (3, 3) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-122",
+    "task_id": "CU_easy_0122",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (66, -5) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (4, -9) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   },
   {
-    "id": "CU-E-123",
+    "task_id": "CU_easy_0123",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (12, 32) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 1,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (10, 10) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
   },
   {
-    "id": "CU-E-124",
+    "task_id": "CU_easy_0124",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (15, -70) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 4,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (-7, -9) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
   },
   {
-    "id": "CU-E-125",
+    "task_id": "CU_easy_0125",
     "category": "coordinate_understanding",
     "difficulty": "easy",
-    "task_type": "quadrant_identification",
-    "question": "Given the point (-37, -43) in a Cartesian coordinate system, which quadrant does this point lie in?",
-    "answer": 3,
-    "reasoning_steps": 2
+    "prompt": "In which quadrant of the Cartesian plane is the point (2, 0) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "on an axis"
+  },
+  {
+    "task_id": "CU_easy_0126",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (-7, -3) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
+  },
+  {
+    "task_id": "CU_easy_0127",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (-4, -4) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
+  },
+  {
+    "task_id": "CU_easy_0128",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (7, 4) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
+  },
+  {
+    "task_id": "CU_easy_0129",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (-6, 3) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
+  },
+  {
+    "task_id": "CU_easy_0130",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (-5, -2) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
+  },
+  {
+    "task_id": "CU_easy_0131",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (4, -3) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
+  },
+  {
+    "task_id": "CU_easy_0132",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (-8, 4) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
+  },
+  {
+    "task_id": "CU_easy_0133",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (7, -7) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
+  },
+  {
+    "task_id": "CU_easy_0134",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (-9, 10) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
+  },
+  {
+    "task_id": "CU_easy_0135",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (7, -10) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
+  },
+  {
+    "task_id": "CU_easy_0136",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (-8, -3) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
+  },
+  {
+    "task_id": "CU_easy_0137",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (-5, 3) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
+  },
+  {
+    "task_id": "CU_easy_0138",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (5, 5) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
+  },
+  {
+    "task_id": "CU_easy_0139",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (-4, 2) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
+  },
+  {
+    "task_id": "CU_easy_0140",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (-9, -5) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
+  },
+  {
+    "task_id": "CU_easy_0141",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (2, -10) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
+  },
+  {
+    "task_id": "CU_easy_0142",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (2, -2) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
+  },
+  {
+    "task_id": "CU_easy_0143",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (4, -1) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
+  },
+  {
+    "task_id": "CU_easy_0144",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (3, 7) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
+  },
+  {
+    "task_id": "CU_easy_0145",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (5, -6) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
+  },
+  {
+    "task_id": "CU_easy_0146",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (-4, -1) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
+  },
+  {
+    "task_id": "CU_easy_0147",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (-4, -9) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
+  },
+  {
+    "task_id": "CU_easy_0148",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (8, 7) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
+  },
+  {
+    "task_id": "CU_easy_0149",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (-9, 0) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "on an axis"
+  },
+  {
+    "task_id": "CU_easy_0150",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (-9, -9) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
+  },
+  {
+    "task_id": "CU_easy_0151",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (8, 5) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
+  },
+  {
+    "task_id": "CU_easy_0152",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (6, 6) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
+  },
+  {
+    "task_id": "CU_easy_0153",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (-5, -9) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
+  },
+  {
+    "task_id": "CU_easy_0154",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (6, -8) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
+  },
+  {
+    "task_id": "CU_easy_0155",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (-5, -8) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
+  },
+  {
+    "task_id": "CU_easy_0156",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (9, -8) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
+  },
+  {
+    "task_id": "CU_easy_0157",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (-3, 2) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
+  },
+  {
+    "task_id": "CU_easy_0158",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (-7, 8) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
+  },
+  {
+    "task_id": "CU_easy_0159",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (-3, 8) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "II"
+  },
+  {
+    "task_id": "CU_easy_0160",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (9, -9) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
+  },
+  {
+    "task_id": "CU_easy_0161",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (9, -8) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
+  },
+  {
+    "task_id": "CU_easy_0162",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (3, 8) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
+  },
+  {
+    "task_id": "CU_easy_0163",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (8, 6) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "I"
+  },
+  {
+    "task_id": "CU_easy_0164",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (0, -2) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "on an axis"
+  },
+  {
+    "task_id": "CU_easy_0165",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (-4, 0) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "on an axis"
+  },
+  {
+    "task_id": "CU_easy_0166",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (-3, -2) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "III"
+  },
+  {
+    "task_id": "CU_easy_0167",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "prompt": "In which quadrant of the Cartesian plane is the point (2, -6) located? Answer with I, II, III, IV, or 'on an axis'.",
+    "ground_truth": "IV"
   }
 ]
