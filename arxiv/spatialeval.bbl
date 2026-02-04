@@ -1,0 +1,73 @@
+\begin{thebibliography}{10}
+
+\bibitem{emergentmind2025mapbench}
+{Emergent Mind}.
+\newblock Mapbench: Spatial reasoning benchmark.
+\newblock \url{https://emergentmind.com/benchmarks/mapbench}, 2025.
+
+\bibitem{harnad1990symbol}
+Stevan Harnad.
+\newblock The symbol grounding problem.
+\newblock {\em Physica D: Nonlinear Phenomena}, 42(1-3):335--346, 1990.
+
+\bibitem{li2025benchmarking}
+Feng Li.
+\newblock {\em Benchmarking and enhancing spatial reasoning in large language
+  models}.
+\newblock PhD thesis, White Rose eTheses Online, 2025.
+
+\bibitem{li2023geoai}
+Zekun Li and Hanyu Ning.
+\newblock A geoai benchmark for assessing large language models on geospatial
+  task-solving capabilities.
+\newblock {\em Transactions in GIS}, 2023.
+
+\bibitem{liu2024agentbench}
+Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu~Gu,
+  Hangliang Ding, Kaiwen Men, Kejuan Yang, et~al.
+\newblock {AgentBench}: Evaluating {LLMs} as agents.
+\newblock In {\em International Conference on Learning Representations (ICLR)},
+  2024.
+
+\bibitem{ma20253dsrbench}
+Weixuan Ma et~al.
+\newblock 3dsrbench: A comprehensive 3d spatial reasoning benchmark.
+\newblock In {\em Proceedings of the IEEE/CVF International Conference on
+  Computer Vision}, 2025.
+
+\bibitem{mirpuri2023spartqa}
+Keval Mirpuri and Ranjay Krishna.
+\newblock Spartqa: A textual question answering benchmark for spatial
+  reasoning.
+\newblock {\em arXiv preprint arXiv:2305.10882}, 2023.
+
+\bibitem{solirinai2025geobenchx}
+Solirinai et~al.
+\newblock Geobenchx: Llm-agents benchmark set.
+\newblock \url{https://github.com/gislit/GeoBenchX}, 2025.
+
+\bibitem{spicylemonade2025spatialbench}
+SpicyLemonade.
+\newblock Spatialbench - ai spatial reasoning benchmark.
+\newblock \url{https://github.com/SpicyLemonade/SpatialBench}, 2025.
+
+\bibitem{tang2023grasp}
+Zhisheng Tang and Mohit Kejriwal.
+\newblock Grasp: A grid-based benchmark for spatial commonsense reasoning in
+  llms.
+\newblock {\em arXiv preprint arXiv:2310.08893}, 2023.
+
+\bibitem{wang2025spatial457}
+Yan Wang et~al.
+\newblock Spatial457: A diagnostic benchmark for 6d spatial reasoning of large
+  mutimodal models.
+\newblock In {\em Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition}, 2025.
+
+\bibitem{weston2015towards}
+Jason Weston, Antoine Bordes, Sumit Chopra, and Tomas Mikolov.
+\newblock Towards ai-complete question answering: A set of prerequisite toy
+  tasks.
+\newblock {\em arXiv preprint arXiv:1502.05698}, 2015.
+
+\end{thebibliography}
