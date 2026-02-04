@@ -189,6 +189,12 @@ Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz
 \newblock Training verifiers to solve math word problems.
 \newblock In {\em arXiv preprint arXiv:2110.14168}, 2021.
 
+\bibitem{cohn1997representing}
+Anthony~G Cohn et~al.
+\newblock Representing and reasoning with qualitative spatial relations about
+  regions.
+\newblock {\em Spatial and Temporal Reasoning}, pages 97--134, 1997.
+
 \bibitem{cohn1997qualitative}
 Anthony~G Cohn and Shyamanta~M Hazarika.
 \newblock Qualitative spatial representation and reasoning: An overview.
@@ -232,6 +238,11 @@ Nouha Dziri et~al.
 \newblock Faith and fate: Limits of transformers on compositionality.
 \newblock {\em NeurIPS}, 2023.
 
+\bibitem{egenhofer1991reasoning}
+Max~J Egenhofer and Robert~D Franzosa.
+\newblock Reasoning about binary topological relations.
+\newblock {\em Advances in Spatial Databases}, pages 143--160, 1991.
+
 \bibitem{ekstrom2014cellular}
 Arne~D Ekstrom et~al.
 \newblock Cellular networks underlying human spatial navigation.
@@ -268,6 +279,11 @@ Andrew~U Frank.
 Yanjie Fu et~al.
 \newblock Real estate ranking via mixed land-use latent factor model.
 \newblock {\em KDD}, pages 1927--1936, 2019.
+
+\bibitem{galton2000qualitative}
+Antony Galton.
+\newblock Qualitative spatial change.
+\newblock 2000.
 
 \bibitem{gao2023pal}
 Luyu Gao et~al.
@@ -602,11 +618,22 @@ Roshanak Mirpuri, Reza Mirzaee, and Parisa Kordjamshidi.
   reasoning.
 \newblock {\em arXiv preprint arXiv:2104.05832}, 2023.
 
+\bibitem{mirzaee2021spartqa}
+Roshanak Mirzaee et~al.
+\newblock Spartqa: A textual question answering benchmark for spatial
+  reasoning.
+\newblock {\em NAACL}, 2021.
+
 \bibitem{mou2004intrinsic}
 Weimin Mou and Timothy~P McNamara.
 \newblock Intrinsic frames of reference in spatial memory.
 \newblock {\em Journal of Experimental Psychology: Learning, Memory, and
   Cognition}, 30(2):339, 2004.
+
+\bibitem{muller1998qualitative}
+Philippe M{\"u}ller.
+\newblock Qualitative spatial reasoning about line segments.
+\newblock {\em ECAI}, pages 234--238, 1998.
 
 \bibitem{nakano2021webgpt}
 Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina
@@ -748,6 +775,12 @@ Zhengxiang Shi et~al.
 \newblock Stepgame: A new benchmark for robust multi-hop spatial reasoning in
   texts.
 \newblock {\em AAAI}, 2022.
+
+\bibitem{srivastava2022beyond}
+Aarohi Srivastava et~al.
+\newblock Beyond the imitation game: Quantifying and extrapolating the
+  capabilities of language models.
+\newblock {\em arXiv preprint arXiv:2206.04615}, 2022.
 
 \bibitem{suhr2019nlvr2}
 Alane Suhr, Stephanie Zhou, Ally Zhang, Iris Zhang, Huajun Bai, and Yoav Artzi.

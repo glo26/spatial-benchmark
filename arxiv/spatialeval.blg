@@ -87,55 +87,58 @@ Repeated entry---line 18334 of file references_full.bib
  : @article{nakano2021webgpt
  :                          ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "srivastava2022beyond"
-Warning--I didn't find a database entry for "egenhofer1991reasoning"
-Warning--I didn't find a database entry for "mirzaee2021spartqa"
-Warning--I didn't find a database entry for "muller1998qualitative"
-Warning--I didn't find a database entry for "galton2000qualitative"
-Warning--I didn't find a database entry for "cohn1997representing"
+Repeated entry---line 18384 of file references_full.bib
+ : @article{batty2013big
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18394 of file references_full.bib
+ : @article{bibri2017smart
+ :                        ,
+I'm skipping whatever remains of this entry
 Warning--can't use both volume and number fields in batty2013big
 Warning--empty publisher in batty2013big
+Warning--empty journal in galton2000qualitative
 Warning--empty journal in piaget1956child
 Warning--empty journal in pomerleau1988alvinn
-You've used 165 entries,
+You've used 171 entries,
             2118 wiz_defined-function locations,
-            1276 strings with 30728 characters,
-and the built_in function-call counts, 55501 in all, are:
-= -- 5249
-> -- 3373
-< -- 22
-+ -- 1346
-- -- 1166
-* -- 3808
-:= -- 9687
-add.period$ -- 496
-call.type$ -- 165
-change.case$ -- 1001
+            1297 strings with 31365 characters,
+and the built_in function-call counts, 57382 in all, are:
+= -- 5448
+> -- 3439
+< -- 25
++ -- 1372
+- -- 1186
+* -- 3901
+:= -- 9990
+add.period$ -- 514
+call.type$ -- 171
+change.case$ -- 1026
 chr.to.int$ -- 0
-cite$ -- 169
-duplicate$ -- 1975
-empty$ -- 3781
-format.name$ -- 1166
-if$ -- 11234
+cite$ -- 176
+duplicate$ -- 2063
+empty$ -- 3926
+format.name$ -- 1186
+if$ -- 11646
 int.to.chr$ -- 0
-int.to.str$ -- 165
-missing$ -- 171
-newline$ -- 828
-num.names$ -- 330
-pop$ -- 1039
+int.to.str$ -- 171
+missing$ -- 177
+newline$ -- 858
+num.names$ -- 342
+pop$ -- 1066
 preamble$ -- 1
-purify$ -- 846
+purify$ -- 865
 quote$ -- 0
-skip$ -- 1550
+skip$ -- 1632
 stack$ -- 0
-substring$ -- 2536
-swap$ -- 376
-text.length$ -- 22
+substring$ -- 2657
+swap$ -- 406
+text.length$ -- 25
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 638
-warning$ -- 4
-while$ -- 470
-width$ -- 168
-write$ -- 1719
-(There were 21 error messages)
+type$ -- 662
+warning$ -- 5
+while$ -- 491
+width$ -- 174
+write$ -- 1781
+(There were 23 error messages)
