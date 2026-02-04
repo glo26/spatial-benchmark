@@ -7,6 +7,30 @@ Repeated entry---line 17420 of file references_full.bib
  : @article{randell1992spatial
  :                            ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 17515 of file references_full.bib
+ : @article{zheng2023judging
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17523 of file references_full.bib
+ : @misc{palantir2024maven
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17530 of file references_full.bib
+ : @misc{scaleai2025donovan
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17537 of file references_full.bib
+ : @misc{wherobots2026sedona
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17544 of file references_full.bib
+ : @misc{google2025earthengine
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 17551 of file references_full.bib
+ : @article{zhang2025geoanalystbench
+ :                                  ,
+I'm skipping whatever remains of this entry
 You've used 53 entries,
             2118 wiz_defined-function locations,
             740 strings with 12981 characters,
@@ -48,4 +72,4 @@ warning$ -- 0
 while$ -- 127
 width$ -- 55
 write$ -- 542
-(There was 1 error message)
+(There were 7 error messages)
