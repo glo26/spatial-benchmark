@@ -3,10 +3,10 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "spatialeval"
+name = "spatialops"
 version = "1.0.0"
 authors = [
-    {name = "SpatialEval Team", email = "spatialeval-team@manus.ai"},
+    {name = "SpatialOps Team", email = "spatialops-team@manus.ai"},
 ]
 description = "A comprehensive benchmark for evaluating 2D spatial reasoning in Large Language Models."
 readme = "README.md"
@@ -55,7 +55,7 @@ docs = [
     "mkdocstrings[python]>=0.24.0",
 ]
 all = [
-    "spatialeval[inference,eval,dev,docs]",
+    "spatialops[inference,eval,dev,docs]",
 ]
 
 [project.urls]
@@ -65,7 +65,7 @@ all = [
 "Paper" = "https://arxiv.org/abs/XXXX.XXXXX"
 
 [project.scripts]
-spatialeval = "spatialeval.cli:main"
+spatialops = "spatialops.cli:main"
 
 [tool.setuptools]
 include-package-data = true
@@ -95,9 +95,9 @@ exclude = '''
 [tool.isort]
 profile = "black"
 line_length = 100
-known_first_party = ["spatialeval"]
+known_first_party = ["spatialops"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 python_files = ["test_*.py"]
-addopts = "-v --cov=spatialeval --cov-report=term-missing"
+addopts = "-v --cov=spatialops --cov-report=term-missing"

@@ -8,8 +8,8 @@ SpatialEval benchmark dataset.
 __version__ = "1.0.0"
 __author__ = "SpatialEval Team"
 
-from spatialeval.data import load_dataset, load_category
-from spatialeval.harness import Evaluator
+from spatialops.data import load_dataset, load_category
+from spatialops.harness import Evaluator
 
 __all__ = [
     "__version__",

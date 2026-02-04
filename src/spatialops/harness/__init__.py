@@ -5,12 +5,12 @@ This module provides the core evaluation logic for running LLMs against
 the benchmark tasks and computing scores.
 """
 
-from spatialeval.harness.evaluator import Evaluator
-from spatialeval.harness.metrics import (
+from spatialops.harness.evaluator import Evaluator
+from spatialops.harness.metrics import (
     compute_accuracy,
     compute_reasoning_score,
     compute_efficiency_score,
-    compute_spatialeval_score,
+    compute_spatialops_score,
 )
 
 __all__ = [
@@ -18,5 +18,5 @@ __all__ = [
     "compute_accuracy",
     "compute_reasoning_score",
     "compute_efficiency_score",
-    "compute_spatialeval_score",
+    "compute_spatialops_score",
 ]

@@ -1,30 +1,30 @@
-# SpatialEval
+# SpatialOps
 
 <p align="center">
-  <img src="arxiv/figures/figure1_framework.png" width="80%" alt="SpatialEval Framework">
+  <img src="arxiv/figures/figure1_framework.png" width="80%" alt="SpatialOps Framework">
 </p>
 
 <p align="center">
   <a href="https://arxiv.org/abs/XXXX.XXXXX"><img src="https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge" alt="Paper"></a>
-  <a href="https://huggingface.co/datasets/spatialeval/spatialeval"><img src="https://img.shields.io/badge/Dataset-HuggingFace-yellow?style=for-the-badge" alt="Dataset"></a>
+  <a href="https://huggingface.co/datasets/spatialops/spatialops"><img src="https://img.shields.io/badge/Dataset-HuggingFace-yellow?style=for-the-badge" alt="Dataset"></a>
   <a href="#leaderboard"><img src="https://img.shields.io/badge/Leaderboard-Live-blue?style=for-the-badge" alt="Leaderboard"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-green?style=for-the-badge" alt="License"></a>
 </p>
 
-**SpatialEval** is a comprehensive benchmark for evaluating 2D spatial reasoning capabilities in Large Language Models. It comprises **6,012 procedurally generated tasks** across **12 categories**, organized into three tiers of increasing complexity, with **100% ground-truth accuracy**.
+**SpatialOps** is a comprehensive benchmark for evaluating 2D spatial planning and reasoning capabilities in Large Language Models. It comprises **6,012 procedurally generated tasks** across **12 categories**, organized into three tiers of increasing complexity, with **100% ground-truth accuracy**.
 
 ---
 
 ## News
 
-- **[Feb 2026]** SpatialEval v2.0 released with 12 categories and 6,012 tasks
+- **[Feb 2026]** SpatialOps released with 12 categories and 6,012 tasks
 - **[Target]** NeurIPS 2026 Datasets and Benchmarks Track
 
 ---
 
 ## Leaderboard
 
-Performance is measured by the **SpatialEval Score**, a weighted combination of Answer Accuracy (50%), Reasoning Quality (30%), and Efficiency (20%).
+Performance is measured by the **SpatialOps Score**, a weighted combination of Answer Accuracy (50%), Reasoning Quality (30%), and Efficiency (20%).
 
 | Rank | Model | Score | Accuracy | Tier 1 | Tier 2 | Tier 3 | Easy | Medium | Hard |
 |:----:|:------|:-----:|:--------:|:------:|:------:|:------:|:----:|:------:|:----:|
@@ -43,16 +43,16 @@ Performance is measured by the **SpatialEval Score**, a weighted combination of 
 ### Installation
 
 ```bash
-pip install spatialeval
+pip install spatialops
 ```
 
 ### Basic Usage
 
 ```python
-from spatialeval import SpatialEvalDataset, Evaluator
+from spatialops import SpatialOpsDataset, Evaluator
 
 # Load dataset
-dataset = SpatialEvalDataset()
+dataset = SpatialOpsDataset()
 
 # Run evaluation
 evaluator = Evaluator(model="gpt-5.2")
@@ -65,10 +65,10 @@ print(f"Overall Score: {results['overall_score']}")
 
 ```bash
 # Evaluate on all tasks
-spatialeval evaluate --model gpt-5.2 --output results.json
+spatialops evaluate --model gpt-5.2 --output results.json
 
 # Evaluate specific category
-spatialeval evaluate --model gpt-5.2 --category navigation_pathfinding
+spatialops evaluate --model gpt-5.2 --category navigation_pathfinding
 ```
 
 ---
@@ -116,7 +116,7 @@ spatialeval evaluate --model gpt-5.2 --category navigation_pathfinding
 
 ### Evaluation Methodology
 
-SpatialEval uses a multi-faceted evaluation approach:
+SpatialOps uses a multi-faceted evaluation approach:
 
 ```
 Score = 0.5 × Accuracy + 0.3 × Reasoning + 0.2 × Efficiency
@@ -134,7 +134,7 @@ Score = 0.5 × Accuracy + 0.3 × Reasoning + 0.2 × Efficiency
 spatial-benchmark/
 ├── arxiv/                      # Paper materials
 │   ├── spatialeval.tex         # Main paper
-│   ├── references.bib          # Bibliography
+│   ├── references_full.bib     # Bibliography (1000+ references)
 │   └── figures/                # Figures
 ├── data/                       # Dataset (6,012 tasks)
 │   ├── [category]/             # Per-category folders
@@ -142,7 +142,7 @@ spatial-benchmark/
 │   │   ├── medium/tasks.json
 │   │   └── hard/tasks.json
 │   └── dataset_summary.json
-├── src/spatialeval/            # Python package
+├── src/spatialops/             # Python package
 │   ├── data.py                 # Data loading
 │   ├── harness/                # Evaluation harness
 │   └── models/                 # Model wrappers
@@ -168,8 +168,8 @@ spatial-benchmark/
 ## Citation
 
 ```bibtex
-@inproceedings{spatialeval2026,
-  title={SpatialEval: A Comprehensive Benchmark for 2D Spatial Reasoning in Large Language Models},
+@inproceedings{spatialops2026,
+  title={SpatialOps: A Benchmark for 2D Spatial Planning and Reasoning in Large Language Models},
   author={Anonymous},
   booktitle={NeurIPS Datasets and Benchmarks Track},
   year={2026}
@@ -188,4 +188,4 @@ The dataset is released under [CC BY 4.0](https://creativecommons.org/licenses/b
 
 ## Acknowledgments
 
-We thank the developers of AgentBench, SWE-bench, MMLU, BIG-bench, and PRISM for inspiring the design of this benchmark.
+We thank the developers of AgentBench, SWE-bench, MMLU, BIG-bench, and PRISM for inspiring the design of this benchmark. This work builds upon the theoretical framework presented in "From Perception to Action: Spatial AI Agents and World Models" (Felicia et al., 2026).

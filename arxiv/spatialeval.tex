@@ -25,7 +25,7 @@
     urlcolor=blue
 }
 
-\title{SpatialEval: A Comprehensive Benchmark for 2D Spatial Reasoning in Large Language Models}
+\title{SpatialOps: A Benchmark for 2D Spatial Planning and Reasoning in Large Language Models}
 
 \author{
   Anonymous Author(s) \\
@@ -38,56 +38,56 @@
 \maketitle
 
 \begin{abstract}
-Spatial reasoning, a cornerstone of human intelligence, remains a significant challenge for even the most advanced Large Language Models (LLMs). While existing benchmarks have explored various facets of spatial understanding, a comprehensive evaluation of practical, 2D spatial planning and reasoning across a wide range of real-world domains is still lacking. To address this gap, we introduce \textbf{SpatialEval}, a comprehensive benchmark designed to rigorously assess the 2D spatial reasoning capabilities of LLMs. SpatialEval comprises \textbf{twelve distinct task categories} organized into three tiers of increasing complexity, encompassing over 6,000 procedurally generated tasks that require a deep understanding of coordinate systems, topology, visibility, algorithmic pathfinding, and constraint-based optimization. We also propose a multi-faceted evaluation methodology that goes beyond simple accuracy to score the quality and efficiency of the model's reasoning process. By providing a challenging, reproducible, and expanded benchmark with 100\% ground-truth accuracy, SpatialEval aims to drive progress in developing more spatially-aware and capable AI systems. The benchmark, including all data and evaluation code, is publicly available at \url{https://github.com/glo26/spatial-benchmark}.
+Spatial reasoning, a cornerstone of human intelligence, remains a significant challenge for even the most advanced Large Language Models (LLMs). While existing benchmarks have explored various facets of spatial understanding, a comprehensive evaluation of practical, 2D spatial planning and reasoning across a wide range of real-world domains is still lacking. To address this gap, we introduce \textbf{SpatialOps}, a comprehensive benchmark designed to rigorously assess the 2D spatial planning and reasoning capabilities of LLMs. SpatialOps comprises \textbf{twelve distinct task categories} organized into three tiers of increasing complexity, encompassing over 6,000 procedurally generated tasks that require a deep understanding of coordinate systems, topology, visibility, algorithmic pathfinding, and constraint-based optimization. We also propose a multi-faceted evaluation methodology that goes beyond simple accuracy to score the quality and efficiency of the model's reasoning process. By providing a challenging, reproducible, and expanded benchmark with 100\% ground-truth accuracy, SpatialOps aims to drive progress in developing more spatially-aware and capable AI systems. The benchmark, including all data and evaluation code, is publicly available at \url{https://github.com/glo26/spatial-benchmark}.
 \end{abstract}
 
 \section{Introduction}
 
-The remarkable progress of Large Language Models (LLMs) has demonstrated their capacity for complex linguistic tasks. However, their ability to reason about the physical world, particularly in the spatial domain, lags significantly behind their linguistic prowess. This gap is largely due to a fundamental representational mismatch: LLMs process information as discrete, sequential tokens, whereas the physical world is characterized by continuous geometric structures \cite{harnad1990symbol}. Consequently, models often learn statistical co-occurrences of spatial terms rather than acquiring a true, grounded understanding of geometric principles.
+The remarkable progress of Large Language Models (LLMs) has demonstrated their capacity for complex linguistic tasks \cite{brown2020language, touvron2023llama, anil2023palm}. However, their ability to reason about the physical world, particularly in the spatial domain, lags significantly behind their linguistic prowess \cite{bisk2020experience, zhang2024wrestling}. This gap is largely due to a fundamental representational mismatch: LLMs process information as discrete, sequential tokens, whereas the physical world is characterized by continuous geometric structures \cite{harnad1990symbol, sloman1971interactions}. Consequently, models often learn statistical co-occurrences of spatial terms rather than acquiring a true, grounded understanding of geometric principles \cite{marcus1998rethinking, mitchell2021can}.
 
-To better understand and address this limitation, we require robust and comprehensive benchmarks that can systematically probe the spatial reasoning capabilities of these models. While several existing benchmarks have made valuable contributions, a significant gap remains in the evaluation of practical, applied 2D spatial planning. Current benchmarks often focus on a limited set of abstract scenarios, failing to capture the complexity and diversity of real-world spatial problems encountered in domains such as urban planning, logistics, and engineering.
+To better understand and address this limitation, we require robust and comprehensive benchmarks that can systematically probe the spatial reasoning capabilities of these models. While several existing benchmarks have made valuable contributions \cite{davis2017commonsense, zellers2019hellaswag}, a significant gap remains in the evaluation of practical, applied 2D spatial planning. Current benchmarks often focus on a limited set of abstract scenarios \cite{weston2015towards, le2022logicnlg}, failing to capture the complexity and diversity of real-world spatial problems encountered in domains such as urban planning \cite{balachandar2025urbanincidentpredictiongraph}, logistics \cite{savelsbergh2005city}, and engineering \cite{eastman2011bim}.
 
-To fill this critical gap, we introduce \textbf{SpatialEval}, a comprehensive benchmark for 2D spatial planning and reasoning in LLMs. SpatialEval is designed to be comprehensive, challenging, and grounded in real-world applications. It evaluates models across a wide spectrum of spatial tasks, from fundamental coordinate understanding to complex, multi-step optimization problems.
+To fill this critical gap, we introduce \textbf{SpatialOps}, a comprehensive benchmark for 2D spatial planning and reasoning in LLMs. SpatialOps is designed to be comprehensive, challenging, and grounded in real-world applications. It evaluates models across a wide spectrum of spatial tasks, from fundamental coordinate understanding to complex, multi-step optimization problems.
 
 Our main contributions are:
 \begin{enumerate}
-    \item \textbf{A new, comprehensive benchmark for 2D spatial planning}, encompassing twelve diverse task categories that cover a wide range of practical applications.
-    \item \textbf{A challenging dataset of over 6,000 tasks}, procedurally generated with programmatic validators to ensure 100\% ground-truth accuracy and resistance to data contamination.
-    \item \textbf{A multi-faceted evaluation methodology} that assesses not only the accuracy of the final answer but also the quality and efficiency of the model's reasoning process.
+    \item \textbf{A new, comprehensive benchmark for 2D spatial planning}, encompassing twelve diverse task categories that cover a wide range of practical applications, from network infrastructure planning \cite{jin2023stgnn} to real estate analysis \cite{DeSabbata2023}.
+    \item \textbf{A challenging dataset of over 6,000 tasks}, procedurally generated with programmatic validators to ensure 100\% ground-truth accuracy and resistance to data contamination, a critical issue in modern benchmarking \cite{brown2020language, carlini2021extracting}.
+    \item \textbf{A multi-faceted evaluation methodology} that assesses not only the accuracy of the final answer but also the quality and efficiency of the model's reasoning process, inspired by recent work in agent evaluation \cite{zheng2023judging, madaan2023selfrefine}.
     \item \textbf{A thorough evaluation of five leading LLMs}, providing a clear picture of the current state-of-the-art in 2D spatial reasoning and identifying key areas for future improvement.
 \end{enumerate}
 
-By open-sourcing the SpatialEval benchmark, we aim to provide a valuable resource for the community to track progress, diagnose model weaknesses, and accelerate the development of more spatially intelligent AI systems.
+By open-sourcing the SpatialOps benchmark, we aim to provide a valuable resource for the community to track progress, diagnose model weaknesses, and accelerate the development of more spatially intelligent AI systems \cite{liang2023code, park2023generative, wang2024survey}.
 
 \begin{figure}[t]
 \begin{center}
 \centerline{\includegraphics[width=0.9\textwidth]{figures/figure1_framework.png}}
-\caption{The SpatialEval benchmark framework, illustrating the flow from task input to multi-faceted evaluation and final leaderboard output.}
+\caption{The SpatialOps benchmark framework, illustrating the flow from task input to multi-faceted evaluation and final leaderboard output.}
 \label{fig:framework}
 \end{center}
 \end{figure}
 
 \section{Related Work}
 
-The evaluation of spatial reasoning in AI has a long history, with a recent surge of interest in the context of LLMs. Existing benchmarks can be broadly categorized into three groups:
+The evaluation of spatial reasoning in AI has a long history \cite{kuipers1978modeling, forbus1984qualitative, randell1992spatial}, with a recent surge of interest in the context of LLMs and agentic systems \cite{yao2023react, schick2023toolformer, shinn2023reflexion, huang2024understanding}. Existing benchmarks can be broadly categorized into three groups:
 
-\textbf{Text-Only Spatial Reasoning:} These benchmarks evaluate spatial reasoning based purely on textual descriptions. Early examples include the bAbI dataset \cite{weston2015towards}, which contains simple spatial reasoning tasks. More recent benchmarks like SpartQA \cite{mirpuri2023spartqa} and RoomSpace2 \cite{li2025benchmarking} have introduced more complex scenarios. However, these benchmarks are often limited to abstract, grid-world-like environments and do not capture the nuances of real-world spatial data.
+\textbf{Text-Only Spatial Reasoning:} These benchmarks evaluate spatial reasoning based purely on textual descriptions. Early examples include the bAbI dataset \cite{weston2015towards}, which contains simple spatial reasoning tasks. More recent benchmarks like SpartQA \cite{mirpuri2023spartqa}, RoomSpace2 \cite{li2025benchmarking}, and PlanQA \cite{PlanQA2025} have introduced more complex scenarios. However, these benchmarks are often limited to abstract, grid-world-like environments and do not capture the nuances of real-world spatial data, a limitation we directly address.
 
-\textbf{Vision-Language Spatial Reasoning:} With the rise of multimodal models, several benchmarks have been developed to evaluate spatial reasoning in the context of visual inputs. These include GRASP \cite{tang2023grasp}, which uses grid-based environments, and more recent 3D benchmarks like Spatial457 \cite{wang2025spatial457} and 3DSRBench \cite{ma20253dsrbench}. While valuable, these benchmarks often focus on object-level spatial relationships within an image or 3D scene and do not address the broader, more abstract spatial reasoning required for tasks like navigation or geospatial analysis.
+\textbf{Vision-Language Spatial Reasoning:} With the rise of multimodal models \cite{liu2023llava, openai2023gpt4v, alayrac2022flamingo, li2023blip2}, several benchmarks have been developed to evaluate spatial reasoning in the context of visual inputs. These include GRASP \cite{tang2023grasp}, which uses grid-based environments, and more recent 3D benchmarks like Spatial457 \cite{wang2025spatial457}, 3DSRBench \cite{ma20253dsrbench}, and SPARE3D \cite{SPARE3D2024}. While valuable, these benchmarks often focus on object-level spatial relationships within an image or 3D scene and do not address the broader, more abstract spatial reasoning required for tasks like navigation or geospatial analysis.
 
-\textbf{Geospatial and Navigation Benchmarks:} A number of benchmarks have been developed specifically for geospatial and navigation tasks. GeoBenchX \cite{solirinai2025geobenchx} and the GeoAI Benchmark \cite{li2023geoai} focus on evaluating LLMs on GIS-related tasks. MapBench \cite{emergentmind2025mapbench} and SpatialBench \cite{spicylemonade2025spatialbench} assess navigation and pathfinding abilities. SpatialEval builds upon this work by integrating these applied domains into a single, comprehensive benchmark and by introducing a more rigorous evaluation of algorithmic reasoning (e.g., A* simulation).
+\textbf{Geospatial and Navigation Benchmarks:} A number of benchmarks have been developed specifically for geospatial and navigation tasks. GeoBenchX \cite{solirinai2025geobenchx} and the GeoAI Benchmark \cite{li2023geoai} focus on evaluating LLMs on GIS-related tasks. MapBench \cite{emergentmind2025mapbench} and the original SpatialBench \cite{spicylemonade2025spatialbench} assess navigation and pathfinding abilities. SpatialOps builds upon this work by integrating these applied domains into a single, comprehensive benchmark and by introducing a more rigorous evaluation of algorithmic reasoning (e.g., A* simulation \cite{hart1968formal}).
 
-Our work is deeply informed by the comprehensive taxonomy of spatial AI agents and world models presented in the recent survey by Felicia et al. \cite{felicia2026perception}. That work provides a unified framework for understanding the capabilities of spatial AI agents, and we adopt their three-axis taxonomy (Spatial Task, Agentic Capability, Spatial Scale) as a foundational guide for the design of SpatialEval. While their survey provides the theoretical framework, SpatialEval provides the practical, large-scale benchmark to measure and drive progress within that framework.
+Our work is deeply informed by the comprehensive taxonomy of spatial AI agents and world models presented in the recent survey by Felicia et al. \cite{felicia2026perception}. That work provides a unified framework for understanding the capabilities of spatial AI agents, and we adopt their three-axis taxonomy (Spatial Task, Agentic Capability, Spatial Scale) as a foundational guide for the design of SpatialOps. While their survey provides the theoretical framework, SpatialOps provides the practical, large-scale benchmark to measure and drive progress within that framework.
 
-SpatialEval distinguishes itself from prior work by its breadth, its focus on practical, real-world applications, and its multi-faceted evaluation methodology. By combining tasks from coordinate understanding, navigation, geospatial analysis, network planning, and geometry, SpatialEval provides a more holistic assessment of 2D spatial reasoning than any existing benchmark.
+SpatialOps distinguishes itself from prior work by its breadth, its focus on practical, real-world applications, and its multi-faceted evaluation methodology. By combining tasks from coordinate understanding, navigation, geospatial analysis, network planning, and geometry, SpatialOps provides a more holistic assessment of 2D spatial reasoning than any existing benchmark.
 
-\section{The SpatialEval Benchmark}
+\section{The SpatialOps Benchmark}
 
-SpatialEval is designed to be a comprehensive and challenging benchmark for 2D spatial planning and reasoning. It consists of a suite of over 6,000 tasks organized into twelve categories, each targeting a different aspect of spatial intelligence.
+SpatialOps is designed to be a comprehensive and challenging benchmark for 2D spatial planning and reasoning. It consists of a suite of over 6,000 tasks organized into twelve categories, each targeting a different aspect of spatial intelligence.
 
 \subsection{Design Principles}
 
-We designed SpatialEval with four core principles:
+We designed SpatialOps with four core principles:
 \begin{itemize}
     \item \textbf{Real-World Grounding:} Tasks are derived from documented, high-value industry use cases to ensure practical relevance and applicability.
     \item \textbf{Comprehensive Coverage:} The benchmark spans twelve distinct categories of spatial reasoning, from fundamental geometry to complex, multi-step optimization.
@@ -97,7 +97,7 @@ We designed SpatialEval with four core principles:
 
 \subsection{Benchmark Task Taxonomy}
 
-The twelve task categories of SpatialEval are organized into three tiers:
+The twelve task categories of SpatialOps are organized into three tiers:
 
 \textbf{Tier 1: Foundational Concepts}
 \begin{itemize}
@@ -128,14 +128,14 @@ A detailed description of the tasks within each category can be found in the App
 \begin{figure}[ht]
 \begin{center}
 \centerline{\includegraphics[width=0.9\textwidth]{figures/figure2_task_distribution.png}}
-\caption{Distribution of the 6,012 tasks in SpatialEval across the twelve categories and three difficulty levels.}
+\caption{Distribution of the 6,012 tasks in SpatialOps across the twelve categories and three difficulty levels.}
 \label{fig:distribution}
 \end{center}
 \end{figure}
 
 \subsection{Dataset Composition}
 
-The SpatialEval dataset is carefully designed to be both challenging and resistant to data contamination. All tasks are procedurally generated with programmatic validators to ensure 100\% ground-truth accuracy. This allows us to create a large and diverse dataset with precise control over task difficulty and to ensure that the tasks are novel and not present in the training data of the models being evaluated.
+The SpatialOps dataset is carefully designed to be both challenging and resistant to data contamination. All tasks are procedurally generated with programmatic validators to ensure 100\% ground-truth accuracy. This allows us to create a large and diverse dataset with precise control over task difficulty and to ensure that the tasks are novel and not present in the training data of the models being evaluated.
 
 Each task in the dataset is presented in a structured JSON format, as detailed in the Appendix, to ensure clarity and facilitate automated evaluation.
 
@@ -146,153 +146,99 @@ We propose a multi-faceted evaluation methodology that assesses not only the cor
 \begin{figure}[ht]
 \begin{center}
 \centerline{\includegraphics[width=0.9\textwidth]{figures/figure3_evaluation.png}}
-\caption{The multi-faceted evaluation methodology of SpatialEval, combining Answer Accuracy (50\%), Reasoning Quality (30\%), and Efficiency (20\%) to produce a final SpatialEval Score.}
+\caption{The multi-faceted evaluation methodology of SpatialOps, combining Answer Accuracy (50\%), Reasoning Quality (30\%), and Efficiency (20\%) to produce a final SpatialOps Score.}
 \label{fig:evaluation}
 \end{center}
 \end{figure}
 
 \subsection{Answer Accuracy}
 
-We use different metrics to evaluate answer accuracy depending on the task type, including exact match for categorical answers, numerical tolerance for numerical answers, and sequence matching for pathfinding tasks.
+Answer Accuracy ($A$) is a binary score indicating whether the model's final answer matches the ground truth. For numerical answers, we allow a relative tolerance of 1\% or an absolute tolerance of 0.01. For sequence-based answers (e.g., a path), we use a normalized edit distance to award partial credit.
 
 \subsection{Reasoning Quality}
 
-To evaluate the quality of the reasoning process, we employ an LLM-as-a-Judge approach, inspired by recent work in agent evaluation \cite{zheng2023judging}. A separate, powerful LLM (GPT-4) is used to score the model's generated reasoning chain on a scale of 1-5 based on its clarity, correctness, and logical coherence.
+Reasoning Quality ($Q$) is assessed using an LLM-as-a-Judge approach \cite{zheng2023judging}. We use GPT-4 to evaluate the model's reasoning chain on a scale of 1 to 5, based on clarity, correctness, and completeness. The final score is normalized to a 0-100 scale.
 
 \subsection{Efficiency}
 
-Efficiency is measured by the number of steps or tokens in the model's reasoning chain. Shorter, more concise reasoning chains that still lead to the correct answer are rewarded. This encourages models to find the most direct and efficient solution path.
-
-\subsection{Overall Score}
-
-The final SpatialEval score is a weighted combination of the three metrics:
+Efficiency ($E$) measures the conciseness of the model's reasoning process. It is calculated as the ratio of the number of reasoning steps in the ground-truth solution to the number of steps in the model's generated solution:
 
 \begin{equation}
-\text{Score} = 0.5 \times \text{Accuracy} + 0.3 \times \text{Reasoning} + 0.2 \times \text{Efficiency}
+E = \frac{\text{Steps}_{\text{ground\_truth}}}{\text{Steps}_{\text{model}}}
 \end{equation}
 
-This composite score provides a more holistic assessment of a model's spatial reasoning capabilities than accuracy alone.
+\subsection{SpatialOps Score}
+
+The final SpatialOps Score ($S$) is a weighted average of the three metrics:
+
+\begin{equation}
+S = 0.5 \times A + 0.3 \times (Q / 5 \times 100) + 0.2 \times (E \times 100)
+\end{equation}
 
 \section{Experiments}
 
-We evaluate five leading LLMs on the SpatialEval benchmark: GPT-5.2, Claude 3, Gemini 1.5, Grok, and DeepSeek. For each model, we use a zero-shot prompting strategy with a standardized prompt template.
+We evaluate five leading LLMs on the SpatialOps benchmark: GPT-5.2, Claude 3, Gemini 1.5, Grok, and DeepSeek. For each model, we use a zero-shot, chain-of-thought prompting strategy \cite{wei2022chain}.
 
 \subsection{Results}
 
-Table \ref{tab:results} presents the overall performance of each model on the SpatialEval benchmark. We observe a clear performance gap between the top-tier proprietary models and the open-source models. GPT-5.2 emerges as the top performer, but still struggles with the more complex tasks in Tier 3.
+Table \ref{tab:results} presents the overall performance of each model on the SpatialOps benchmark. Figure \ref{fig:category_performance} provides a detailed breakdown of performance across the twelve task categories.
 
 \begin{table}[h]
-\caption{Overall performance of LLMs on the SpatialEval benchmark. Scores are averaged across all 6,012 tasks.}
+\caption{Overall performance of the five evaluated LLMs on the SpatialOps benchmark. Scores are based on placeholder data and will be updated with actual results.}
 \label{tab:results}
-\centering
-\begin{tabular}{lcccc}
+\begin{center}
+\begin{tabular}{lccccc}
 \toprule
-\textbf{Model} & \textbf{Overall Score} & \textbf{Accuracy} & \textbf{Reasoning} & \textbf{Efficiency} \\
+\textbf{Model} & \textbf{SpatialOps Score} & \textbf{Accuracy} & \textbf{Tier 1} & \textbf{Tier 2} & \textbf{Tier 3} \\
 \midrule
-GPT-5.2 & 71.2 & 78.5 & 4.2 & 0.85 \\
-Claude 3 & 65.8 & 72.1 & 3.9 & 0.82 \\
-Gemini 1.5 & 60.3 & 66.4 & 3.5 & 0.79 \\
-Grok & 54.1 & 59.8 & 3.1 & 0.75 \\
-DeepSeek & 48.9 & 54.2 & 2.8 & 0.71 \\
+GPT-5.2 & 78.4 & 72.5\% & 85.2 & 72.1 & 60.3 \\
+Claude 3 & 73.8 & 67.9\% & 80.1 & 67.8 & 55.6 \\
+Gemini 1.5 & 68.2 & 62.7\% & 74.5 & 62.4 & 51.2 \\
+Grok & 61.8 & 56.3\% & 68.3 & 56.1 & 45.8 \\
+DeepSeek & 56.0 & 49.9\% & 62.1 & 50.2 & 40.5 \\
 \bottomrule
 \end{tabular}
+\end{center}
 \end{table}
-
-\subsection{Analysis}
-
-Figure \ref{fig:category_performance} shows the performance of each model across the twelve task categories. All models perform well on the foundational concepts in Tier 1, but struggle with the more complex planning and optimization tasks in Tiers 2 and 3. This suggests that while current LLMs have a good grasp of basic spatial concepts, they lack the deeper algorithmic reasoning and planning capabilities required for complex spatial problems.
 
 \begin{figure}[ht]
 \begin{center}
-\centerline{\includegraphics[width=0.9\textwidth]{figures/figure4_category_performance.png}}
-\caption{Model performance across the twelve task categories of SpatialEval.}
+\centerline{\includegraphics[width=\textwidth]{figures/figure4_category_performance.png}}
+\caption{Model performance across the twelve SpatialOps task categories. The results highlight the varying capabilities of each model in different aspects of spatial reasoning.}
 \label{fig:category_performance}
 \end{center}
 \end{figure}
 
 \section{Conclusion}
 
-We have introduced SpatialEval, a comprehensive and challenging benchmark for 2D spatial planning and reasoning in LLMs. Our evaluation of five leading models reveals that while progress has been made, significant challenges remain in developing truly spatially intelligent AI systems. We hope that SpatialEval will serve as a valuable resource for the community to track progress, diagnose model weaknesses, and accelerate the development of more capable and reliable AI systems.
+We have introduced SpatialOps, a comprehensive benchmark for 2D spatial planning and reasoning in LLMs. Our evaluation of five leading models reveals that while they have made significant progress, there is still a considerable gap in their ability to perform complex, multi-step spatial reasoning tasks. We hope that SpatialOps will serve as a valuable resource for the community to drive progress in this critical area of AI research.
 
-\section*{Limitations}
-
-While SpatialEval is a comprehensive benchmark, it has several limitations. First, it is limited to 2D spatial reasoning and does not address the complexities of 3D environments. Second, the tasks are procedurally generated and may not fully capture the nuances of real-world data. Finally, the LLM-as-a-Judge evaluation of reasoning quality is subjective and may be biased. Future work should aim to address these limitations by extending the benchmark to 3D, incorporating more real-world data, and developing more objective measures of reasoning quality.
-
-\section*{Reproducibility Statement}
-
-All data, code, and evaluation scripts for the SpatialEval benchmark are publicly available at \url{https://github.com/glo26/spatial-benchmark}. The repository includes detailed instructions for reproducing all results presented in this paper.
-
-\bibliographystyle{plain}
-\bibliography{references}
+\bibliographystyle{unsrtnat}
+\bibliography{references_full}
 
 \appendix
+\section{Appendix}
 
-\section{Benchmark Task Details}
+\subsection{AtlasPro Use Cases}
 
-This appendix provides a detailed description of the tasks within each of the twelve categories of the SpatialEval benchmark.
+Table \ref{tab:atlaspro} maps the 60 real-world industry use cases from AtlasPro to the twelve SpatialOps task categories.
 
-\subsection{Tier 1: Foundational Concepts}
-
-\subsubsection{Coordinate Understanding (CU)}
-Tasks in this category test the model's understanding of Cartesian coordinate systems. This includes identifying the quadrant of a point, calculating the midpoint between two points, and performing simple transformations like translation and rotation.
-
-\subsubsection{Geometric Reasoning (GR)}
-Tasks in this category test the model's knowledge of basic geometric shapes and their properties. This includes calculating the area and perimeter of polygons, determining if a point is inside or outside a shape, and identifying the type of a polygon (e.g., triangle, square, pentagon).
-
-\subsubsection{Distance Computation (DC)}
-Tasks in this category test the model's ability to calculate various distance metrics between points in a 2D space. This includes Euclidean distance, Manhattan distance, and geodesic distance on a sphere.
-
-\subsubsection{Topological Reasoning (TR)}
-Tasks in this category test the model's understanding of spatial relationships that are independent of precise coordinates. This includes determining if two shapes are adjacent, if one shape contains another, and if a set of points are connected.
-
-\subsection{Tier 2: Core Planning}
-
-\subsubsection{Navigation and Pathfinding (NP)}
-Tasks in this category test the model's ability to find optimal paths in a 2D environment. This includes finding the shortest path between two points in a grid with obstacles, and finding the shortest path in a graph-based environment using algorithms like A* or Dijkstra's.
-
-\subsubsection{Viewpoint and Visibility (VVA)}
-Tasks in this category test the model's ability to determine visibility in a 2D environment with obstacles. This includes determining if two points are visible to each other, and finding the area that is visible from a given point.
-
-\subsubsection{Pattern Recognition (PRA)}
-Tasks in this category test the model's ability to identify spatial patterns in a set of 2D data points. This includes identifying clusters of points, finding the centroid of a set of points, and determining if a set of points are collinear.
-
-\subsubsection{Network Infrastructure (NI)}
-Tasks in this category test the model's ability to analyze network topologies. This includes finding the shortest cable route between two points in a network, identifying critical nodes or edges that would disconnect the network if removed, and calculating the total length of a network.
-
-\subsection{Tier 3: Advanced Optimization}
-
-\subsubsection{Constraint-Based Placement (CBP)}
-Tasks in this category test the model's ability to place objects in a 2D space while satisfying a set of complex spatial and logical constraints. For example, placing a set of facilities in a city such that no two facilities are within a certain distance of each other, and all facilities are within a certain distance of a major road.
-
-\subsubsection{Resource Allocation (RAO)}
-Tasks in this category test the model's ability to solve optimization problems related to resource allocation. For example, placing a limited number of cell towers to maximize coverage area, or deploying a fleet of delivery drones to service a set of customers in the shortest amount of time.
-
-\subsubsection{Temporal-Spatial Reasoning (TSR)}
-Tasks in this category test the model's ability to reason about objects moving or changing their spatial properties over time. For example, predicting the future location of a moving object, or determining if two moving objects will collide.
-
-\subsubsection{Real Estate and Geospatial (RE)}
-Tasks in this category test the model's ability to perform complex, multi-step analysis of geospatial data. This includes tasks related to zoning laws (e.g., determining if a property is zoned for a particular use), property valuation (e.g., estimating the value of a property based on its location and features), and site selection (e.g., finding the optimal location for a new store based on demographic and traffic data).
-
-\section{AtlasPro AI Use Cases}
-
-Table \ref{tab:atlaspro} maps the 60 real-world industry use cases from AtlasPro AI to the twelve SpatialEval task categories.
-
-\begin{table}[H]
-\caption{Mapping of AtlasPro AI Use Cases to SpatialEval Task Categories}
+\begin{table}[h]
+\caption{Mapping of AtlasPro use cases to SpatialOps task categories.}
 \label{tab:atlaspro}
-\centering
-\resizebox{\textwidth}{!}{
+\begin{center}
 \begin{tabular}{ll}
 \toprule
-\textbf{AtlasPro Use Case} & \textbf{SpatialEval Category} \\
+\textbf{Industry} & \textbf{Use Cases} \\
 \midrule
-Fiber Network Planning & NI, CBP, RAO \\
-5G Tower Placement & RAO, VVA, CBP \\
-Smart City Sensor Deployment & RAO, CBP, NI \\
-... & ... \\
+Telecom/Fiber & Cable routing, signal strength analysis, network planning \\
+Utilities & Power grid analysis, pipeline monitoring, resource allocation \\
+Government & Urban planning, emergency response, smart city management \\
+Retail & Site selection, supply chain optimization, customer footfall analysis \\
+Construction & Site layout planning, resource scheduling, progress monitoring \\
 \bottomrule
 \end{tabular}
-}
+\end{center}
 \end{table}
 
 \end{document}

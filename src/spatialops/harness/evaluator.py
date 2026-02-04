@@ -8,12 +8,12 @@ from typing import Any, Callable, Dict, List, Optional
 
 from tqdm import tqdm
 
-from spatialeval.data import load_dataset
-from spatialeval.harness.metrics import (
+from spatialops.data import load_dataset
+from spatialops.harness.metrics import (
     compute_accuracy,
     compute_efficiency_score,
     compute_reasoning_score,
-    compute_spatialeval_score,
+    compute_spatialops_score,
 )
 
 
@@ -126,7 +126,7 @@ class Evaluator:
         total_reasoning = sum(r["reasoning_score"] for r in self.results) / len(self.results)
         total_efficiency = sum(r["efficiency_score"] for r in self.results) / len(self.results)
 
-        overall_score = compute_spatialeval_score(
+        overall_score = compute_spatialops_score(
             total_accuracy, total_reasoning, total_efficiency
         )
 
@@ -142,7 +142,7 @@ class Evaluator:
                     "accuracy": cat_acc,
                     "reasoning": cat_reas,
                     "efficiency": cat_eff,
-                    "score": compute_spatialeval_score(cat_acc, cat_reas, cat_eff),
+                    "score": compute_spatialops_score(cat_acc, cat_reas, cat_eff),
                 }
 
         return {

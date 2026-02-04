@@ -1,35 +1,35 @@
 """
-OpenAI model wrapper for SpatialEval.
+Anthropic model wrapper for SpatialEval.
 """
 
 import os
 from typing import Optional
 
-from spatialeval.models.base import BaseModel
+from spatialops.models.base import BaseModel
 
 
-class OpenAIModel(BaseModel):
+class AnthropicModel(BaseModel):
     """
-    Wrapper for OpenAI models (GPT-4, GPT-5.2, etc.).
+    Wrapper for Anthropic models (Claude 3, etc.).
 
     Example:
-        >>> model = OpenAIModel(model_name="gpt-5.2")
+        >>> model = AnthropicModel(model_name="claude-3-opus-20240229")
         >>> response = model.generate("What is 2 + 2?")
     """
 
     def __init__(
         self,
-        model_name: str = "gpt-5.2",
+        model_name: str = "claude-3-opus-20240229",
         api_key: Optional[str] = None,
         temperature: float = 0.0,
         max_tokens: int = 2048,
     ):
         """
-        Initialize the OpenAI model wrapper.
+        Initialize the Anthropic model wrapper.
 
         Args:
-            model_name: The OpenAI model identifier.
-            api_key: The OpenAI API key. If None, uses OPENAI_API_KEY env var.
+            model_name: The Anthropic model identifier.
+            api_key: The Anthropic API key. If None, uses ANTHROPIC_API_KEY env var.
             temperature: Sampling temperature (0.0 for deterministic).
             max_tokens: Maximum tokens in the response.
         """
@@ -40,27 +40,27 @@ class OpenAIModel(BaseModel):
 
     @property
     def client(self):
-        """Lazy initialization of the OpenAI client."""
+        """Lazy initialization of the Anthropic client."""
         if self._client is None:
             try:
-                from openai import OpenAI
+                import anthropic
             except ImportError:
                 raise ImportError(
-                    "OpenAI package not installed. Install with: pip install openai"
+                    "Anthropic package not installed. Install with: pip install anthropic"
                 )
 
-            api_key = self.api_key or os.environ.get("OPENAI_API_KEY")
+            api_key = self.api_key or os.environ.get("ANTHROPIC_API_KEY")
             if not api_key:
                 raise ValueError(
-                    "OpenAI API key not provided. Set OPENAI_API_KEY environment variable "
+                    "Anthropic API key not provided. Set ANTHROPIC_API_KEY environment variable "
                     "or pass api_key to the constructor."
                 )
-            self._client = OpenAI(api_key=api_key)
+            self._client = anthropic.Anthropic(api_key=api_key)
         return self._client
 
     def generate(self, prompt: str, **kwargs) -> str:
         """
-        Generate a response using the OpenAI API.
+        Generate a response using the Anthropic API.
 
         Args:
             prompt: The input prompt.
@@ -72,18 +72,13 @@ class OpenAIModel(BaseModel):
         temperature = kwargs.get("temperature", self.temperature)
         max_tokens = kwargs.get("max_tokens", self.max_tokens)
 
-        response = self.client.chat.completions.create(
+        response = self.client.messages.create(
             model=self.model_name,
-            messages=[
-                {
-                    "role": "system",
-                    "content": "You are a helpful assistant specialized in spatial reasoning. "
-                    "Solve the given problem step by step and provide a clear final answer.",
-                },
-                {"role": "user", "content": prompt},
-            ],
-            temperature=temperature,
             max_tokens=max_tokens,
+            temperature=temperature,
+            system="You are a helpful assistant specialized in spatial reasoning. "
+            "Solve the given problem step by step and provide a clear final answer.",
+            messages=[{"role": "user", "content": prompt}],
         )
 
-        return response.choices[0].message.content
+        return response.content[0].text

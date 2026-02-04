@@ -3,11 +3,11 @@ Tests for the metrics module.
 """
 
 import pytest
-from spatialeval.harness.metrics import (
+from spatialops.harness.metrics import (
     compute_accuracy,
     compute_reasoning_score,
     compute_efficiency_score,
-    compute_spatialeval_score,
+    compute_spatialops_score,
 )
 
 
@@ -83,26 +83,26 @@ class TestComputeEfficiencyScore:
 
 
 class TestComputeSpatialEvalScore:
-    """Tests for the compute_spatialeval_score function."""
+    """Tests for the compute_spatialops_score function."""
 
     def test_perfect_scores(self):
         """Test with perfect component scores."""
-        score = compute_spatialeval_score(1.0, 1.0, 1.0)
+        score = compute_spatialops_score(1.0, 1.0, 1.0)
         assert score == 100.0
 
     def test_zero_scores(self):
         """Test with zero component scores."""
-        score = compute_spatialeval_score(0.0, 0.0, 0.0)
+        score = compute_spatialops_score(0.0, 0.0, 0.0)
         assert score == 0.0
 
     def test_weighted_average(self):
         """Test that the weighted average is computed correctly."""
         # Default weights: (0.5, 0.3, 0.2)
-        score = compute_spatialeval_score(1.0, 0.0, 0.0)
+        score = compute_spatialops_score(1.0, 0.0, 0.0)
         assert score == 50.0  # 1.0 * 0.5 * 100
 
-        score = compute_spatialeval_score(0.0, 1.0, 0.0)
+        score = compute_spatialops_score(0.0, 1.0, 0.0)
         assert score == 30.0  # 1.0 * 0.3 * 100
 
-        score = compute_spatialeval_score(0.0, 0.0, 1.0)
+        score = compute_spatialops_score(0.0, 0.0, 1.0)
         assert score == 20.0  # 1.0 * 0.2 * 100

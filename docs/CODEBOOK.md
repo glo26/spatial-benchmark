@@ -1,6 +1,6 @@
-# SpatialEval Data Code Book
+# SpatialOps Data Code Book
 
-This document provides a complete specification of the SpatialEval dataset schema, task formats, and evaluation criteria.
+This document provides a complete specification of the SpatialOps dataset schema, task formats, and evaluation criteria.
 
 ## Dataset Overview
 

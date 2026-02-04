@@ -1,46 +1,52 @@
 This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: spatialeval.aux
-The style file: plain.bst
-Database file #1: references.bib
-You've used 13 entries,
-            2118 wiz_defined-function locations,
-            560 strings with 6164 characters,
-and the built_in function-call counts, 3621 in all, are:
-= -- 331
-> -- 220
-< -- 0
-+ -- 89
-- -- 74
-* -- 213
-:= -- 662
-add.period$ -- 39
-call.type$ -- 13
-change.case$ -- 71
-chr.to.int$ -- 0
-cite$ -- 13
-duplicate$ -- 129
-empty$ -- 266
-format.name$ -- 74
-if$ -- 727
-int.to.chr$ -- 0
-int.to.str$ -- 13
-missing$ -- 9
-newline$ -- 68
-num.names$ -- 26
-pop$ -- 87
+The style file: unsrtnat.bst
+Database file #1: references_full.bib
+Repeated entry---line 17420 of file references_full.bib
+ : @article{randell1992spatial
+ :                            ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "zheng2023judging"
+You've used 48 entries,
+            2481 wiz_defined-function locations,
+            777 strings with 12985 characters,
+and the built_in function-call counts, 18410 in all, are:
+= -- 1294
+> -- 1436
+< -- 23
++ -- 535
+- -- 438
+* -- 1466
+:= -- 3228
+add.period$ -- 145
+call.type$ -- 48
+change.case$ -- 95
+chr.to.int$ -- 47
+cite$ -- 48
+duplicate$ -- 873
+empty$ -- 1475
+format.name$ -- 501
+if$ -- 3722
+int.to.chr$ -- 2
+int.to.str$ -- 49
+missing$ -- 48
+newline$ -- 249
+num.names$ -- 144
+pop$ -- 413
 preamble$ -- 1
-purify$ -- 59
+purify$ -- 48
 quote$ -- 0
-skip$ -- 100
+skip$ -- 513
 stack$ -- 0
-substring$ -- 92
-swap$ -- 15
+substring$ -- 422
+swap$ -- 98
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 52
+type$ -- 333
 warning$ -- 0
-while$ -- 28
-width$ -- 15
-write$ -- 135
+while$ -- 119
+width$ -- 0
+write$ -- 597
+(There was 1 error message)

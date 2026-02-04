@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 ## [1.0.0] - 2026-02-04
 
 ### Added
-- Initial release of the SpatialEval benchmark.
+- Initial release of the SpatialOps benchmark.
 - Dataset with 2,250 tasks across 6 categories.
 - LaTeX paper draft and repository structure.
 - Appendix with AtlasPro use case mappings.

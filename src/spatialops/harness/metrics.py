@@ -132,7 +132,7 @@ def compute_efficiency_score(response: str) -> float:
         return max(0.3, 1.0 - (word_count - 200) / 500)
 
 
-def compute_spatialeval_score(
+def compute_spatialops_score(
     accuracy: float,
     reasoning: float,
     efficiency: float,
