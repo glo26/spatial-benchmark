@@ -1,985 +1,945 @@
-\begin{thebibliography}{100}
+\begin{thebibliography}{152}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem{ahn2022saycan}
-Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar, Omar Cortes, Byron
-  David, Chelsea Finn, Chuyuan Fu, Keerthana Gober, Karol Gopalakrishnan,
-  et~al.
-\newblock Do as i can, not as i say: Grounding language in robotic affordances.
-\newblock {\em arXiv preprint arXiv:2204.01691}, 2022.
-
-\bibitem{scaleai2025donovan}
-Scale AI.
-\newblock Donovan: Ai for intelligence.
-\newblock \url{https://scale.com/donovan}, 2025.
-
-\bibitem{anderson2018vln}
-Peter Anderson, Qi~Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sunderhauf,
-  Ian Reid, Stephen Gould, and Anton van~den Hengel.
-\newblock Vision-and-language navigation: Interpreting visually-grounded
-  navigation instructions in real environments.
-\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
-  Pattern Recognition}, pages 3674--3683, 2018.
-
-\bibitem{anil2023palm}
-Rohan Anil, Andrew~M Dai, Orhan Firat, Melvin Johnson, Dmitry Lepikhin,
-  Alexandre Passos, Siamak Shakeri, Emanuel Taropa, Paige Bailey, Zhifeng Chen,
-  et~al.
-\newblock Palm 2 technical report.
-\newblock {\em arXiv preprint arXiv:2305.10403}, 2023.
-
-\bibitem{ankerst1999optics}
-Mihael Ankerst et~al.
-\newblock Optics: Ordering points to identify the clustering structure.
-\newblock {\em ACM SIGMOD Record}, 28(2):49--60, 1999.
-
-\bibitem{anthropic2024claude}
-Anthropic.
-\newblock Claude 3 model card.
-\newblock {\em Anthropic Technical Report}, 2024.
-
-\bibitem{bai2020agcrn}
-Lei Bai et~al.
-\newblock Adaptive graph convolutional recurrent network for traffic
-  forecasting.
-\newblock {\em Advances in Neural Information Processing Systems}, 2020.
-
-\bibitem{bai2019stg2seq}
-Lei Bai, Lina Yao, Salil~S Kanhere, Xianzhi Wang, and Quan~Z Sheng.
-\newblock Stg2seq: Spatial-temporal graph to sequence model for multi-step
-  passenger demand forecasting.
-\newblock {\em IJCAI}, 2019.
-
-\bibitem{bang2023multitask}
-Yejin Bang et~al.
-\newblock A multitask, multilingual, multimodal evaluation of chatgpt on
-  reasoning, hallucination, and interactivity.
-\newblock {\em arXiv preprint arXiv:2302.04023}, 2023.
-
-\bibitem{barabasi2016network}
-Albert-L{\'a}szl{\'o} Barab{\'a}si.
-\newblock {\em Network science}.
-\newblock Cambridge University Press, 2016.
-
-\bibitem{battaglia2018relational}
-Peter~W Battaglia, Jessica~B Hamrick, Victor Bapst, et~al.
-\newblock Relational inductive biases, deep learning, and graph networks.
-\newblock {\em arXiv preprint arXiv:1806.01261}, 2018.
-
-\bibitem{battista2007development}
-Michael~T Battista.
-\newblock The development of geometric and spatial thinking.
-\newblock {\em Second Handbook of Research on Mathematics Teaching and
-  Learning}, pages 843--908, 2007.
-
-\bibitem{batty2013big}
-Michael Batty.
-\newblock {\em Big data, smart cities and city planning}, volume~3.
-\newblock 2013.
-
-\bibitem{bibri2017smart}
-Simon~Elias Bibri and John Krogstie.
-\newblock Smart sustainable cities of the future: An extensive
-  interdisciplinary literature review.
-\newblock {\em Sustainable Cities and Society}, 2017.
-
-\bibitem{bisk2020experience}
-Yonatan Bisk, Ari Holtzman, Jesse Thomason, Jacob Andreas, Yoshua Bengio, Joyce
-  Chai, Mirella Lapata, Angeliki Lazaridou, Jonathan May, Aleksandr Nisnevich,
-  et~al.
-\newblock Experience grounds language.
-\newblock {\em arXiv preprint arXiv:2004.10151}, 2020.
-
-\bibitem{bojarski2016endtoend}
-Mariusz Bojarski, Davide Del~Testa, Daniel Dworakowski, et~al.
-\newblock End to end learning for self-driving cars.
-\newblock {\em arXiv preprint arXiv:1604.07316}, 2016.
-
-\bibitem{brohan2023rt2}
-Anthony Brohan, Noah Brown, Justice Carbajal, Yevgen Chebotar, Xi~Chen,
-  Krzysztof Choromanski, Tianli Ding, Danny Driess, Avinava Dubey, Chelsea
-  Finn, et~al.
-\newblock Rt-2: Vision-language-action models transfer web knowledge to robotic
-  control.
-\newblock {\em arXiv preprint arXiv:2307.15818}, 2023.
-
-\bibitem{bronstein2021geometric}
-Michael~M Bronstein et~al.
-\newblock Geometric deep learning.
-\newblock {\em arXiv preprint arXiv:2104.13478}, 2021.
-
-\bibitem{brown2020gpt3}
+\bibitem[Brown et~al.(2020)Brown, Mann, Ryder, Subbiah, Kaplan, Dhariwal,
+  Neelakantan, Shyam, Sastry, Askell, et~al.]{brown2020gpt3}
 Tom Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared~D Kaplan, Prafulla
   Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell,
   et~al.
 \newblock Language models are few-shot learners.
-\newblock {\em Advances in Neural Information Processing Systems},
-  33:1877--1901, 2020.
+\newblock \emph{Advances in Neural Information Processing Systems},
+  33:\penalty0 1877--1901, 2020.
 
-\bibitem{burgess2006spatial}
-Neil Burgess.
-\newblock Spatial memory: How egocentric and allocentric combine.
-\newblock {\em Trends in Cognitive Sciences}, 10(12):551--557, 2006.
+\bibitem[Touvron et~al.(2023)Touvron, Lavril, Izacard, Martinet, Lachaux,
+  Lacroix, Roziere, Goyal, Hambro, Azhar, et~al.]{touvron2023llama}
+Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne
+  Lachaux, Timothee Lacroix, Baptiste Roziere, Naman Goyal, Eric Hambro, Faisal
+  Azhar, et~al.
+\newblock Llama: Open and efficient foundation language models.
+\newblock \emph{arXiv preprint arXiv:2302.13971}, 2023.
 
-\bibitem{burgess2002spatial}
-Neil Burgess, Eleanor~A Maguire, and John O'Keefe.
-\newblock The human hippocampus and spatial and episodic memory.
-\newblock {\em Neuron}, 35(4):625--641, 2002.
+\bibitem[Anil et~al.(2023)Anil, Dai, Firat, Johnson, Lepikhin, Passos, Shakeri,
+  Taropa, Bailey, Chen, et~al.]{anil2023palm}
+Rohan Anil, Andrew~M Dai, Orhan Firat, Melvin Johnson, Dmitry Lepikhin,
+  Alexandre Passos, Siamak Shakeri, Emanuel Taropa, Paige Bailey, Zhifeng Chen,
+  et~al.
+\newblock Palm 2 technical report.
+\newblock \emph{arXiv preprint arXiv:2305.10403}, 2023.
 
-\bibitem{carroll1993human}
-John~B Carroll.
-\newblock {\em Human cognitive abilities: A survey of factor-analytic studies}.
-\newblock Cambridge University Press, 1993.
-
-\bibitem{chai2023graphllm}
-Ziwei Chai et~al.
-\newblock Graphllm: Boosting graph reasoning ability of large language model.
-\newblock {\em arXiv preprint arXiv:2310.05845}, 2023.
-
-\bibitem{chen2015deepdriving}
-Chenyi Chen et~al.
-\newblock Deepdriving: Learning affordance for direct perception in autonomous
-  driving.
-\newblock {\em ICCV}, 2015.
-
-\bibitem{chen2019touchdown}
-Howard Chen, Alane Suhr, Dipendra Misra, Noah Snavely, and Yoav Artzi.
-\newblock Touchdown: Natural language navigation and spatial reasoning in
-  visual street environments.
-\newblock In {\em Proceedings of the IEEE/CVF Conference on Computer Vision and
-  Pattern Recognition}, pages 12538--12547, 2019.
-
-\bibitem{chen2021evaluating}
+\bibitem[Chen et~al.(2021)Chen, Tworek, Jun, Yuan, Pinto, Kaplan, Edwards,
+  Burda, Joseph, Brockman, et~al.]{chen2021evaluating}
 Mark Chen, Jerry Tworek, Heewoo Jun, Qiming Yuan, Henrique Ponde de~Oliveira
   Pinto, Jared Kaplan, Harri Edwards, Yuri Burda, Nicholas Joseph, Greg
   Brockman, et~al.
 \newblock Evaluating large language models trained on code.
-\newblock {\em arXiv preprint arXiv:2107.03374}, 2021.
+\newblock \emph{arXiv preprint arXiv:2107.03374}, 2021.
 
-\bibitem{Chen_2024}
-Wei Chen et~al.
-\newblock Mapbench: Evaluating llms on map reading and spatial reasoning.
-\newblock {\em arXiv preprint arXiv:2404.00001}, 2024.
+\bibitem[Li et~al.(2022)]{li2022competition}
+Yujia Li et~al.
+\newblock Competition-level code generation with alphacode.
+\newblock \emph{Science}, 378\penalty0 (6624):\penalty0 1092--1097, 2022.
 
-\bibitem{chen2022program}
-Wenhu Chen et~al.
-\newblock Program of thoughts prompting: Disentangling computation from
-  reasoning for numerical reasoning tasks.
-\newblock {\em arXiv preprint arXiv:2211.12588}, 2022.
+\bibitem[Wei et~al.(2022)Wei, Wang, Schuurmans, Bosma, Ichter, Xia, Chi, Le,
+  and Zhou]{wei2022chain}
+Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia,
+  Ed~Chi, Quoc Le, and Denny Zhou.
+\newblock Chain-of-thought prompting elicits reasoning in large language
+  models.
+\newblock \emph{Advances in Neural Information Processing Systems},
+  35:\penalty0 24824--24837, 2022.
 
-\bibitem{chen2020application}
-X.~Chen.
-\newblock Application of gnn in urban computing.
-\newblock In {\em 2020 5th International Conference on Smart and Sustainable
-  City (ICSSC)}, pages 1--4. IEEE, 2020.
+\bibitem[Yao et~al.(2023{\natexlab{a}})Yao, Yu, Zhao, Shafran, Griffiths, Cao,
+  and Narasimhan]{yao2023tree}
+Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas~L Griffiths, Yuan Cao,
+  and Karthik Narasimhan.
+\newblock Tree of thoughts: Deliberate problem solving with large language
+  models.
+\newblock \emph{arXiv preprint arXiv:2305.10601}, 2023{\natexlab{a}}.
 
-\bibitem{chen2024spatialreasoning}
-Zhaohan Chen et~al.
-\newblock Spatial reasoning in multimodal large language models: A survey.
-\newblock {\em arXiv preprint arXiv:2511.15722}, 2024.
+\bibitem[Kojima et~al.(2022)Kojima, Gu, Reid, Matsuo, and
+  Iwasawa]{kojima2022large}
+Takeshi Kojima, Shixiang~Shane Gu, Machel Reid, Yutaka Matsuo, and Yusuke
+  Iwasawa.
+\newblock Large language models are zero-shot reasoners.
+\newblock \emph{Advances in Neural Information Processing Systems},
+  35:\penalty0 22199--22213, 2022.
 
-\bibitem{clements2001geometry}
-Douglas~H Clements and Michael~T Battista.
-\newblock {\em Geometry and spatial reasoning}.
-\newblock NCTM, 2001.
+\bibitem[Hendrycks et~al.(2021)]{hendrycks2021measuring}
+Dan Hendrycks et~al.
+\newblock Measuring mathematical problem solving with the math dataset.
+\newblock \emph{NeurIPS}, 2021.
 
-\bibitem{cobbe2021training}
+\bibitem[Cobbe et~al.(2021)Cobbe, Kosaraju, Bavarian, Chen, Jun, Kaiser,
+  Plappert, Tworek, Hilton, Nakano, et~al.]{cobbe2021training}
 Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz
   Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano,
   et~al.
 \newblock Training verifiers to solve math word problems.
-\newblock In {\em arXiv preprint arXiv:2110.14168}, 2021.
+\newblock In \emph{arXiv preprint arXiv:2110.14168}, 2021.
 
-\bibitem{cohn1997representing}
-Anthony~G Cohn et~al.
-\newblock Representing and reasoning with qualitative spatial relations about
-  regions.
-\newblock {\em Spatial and Temporal Reasoning}, pages 97--134, 1997.
+\bibitem[Romera-Paredes et~al.(2024)]{romera2024mathematical}
+Bernardino Romera-Paredes et~al.
+\newblock Mathematical discoveries from program search with large language
+  models.
+\newblock \emph{Nature}, 625\penalty0 (7995):\penalty0 468--475, 2024.
 
-\bibitem{cohn1997qualitative}
-Anthony~G Cohn and Shyamanta~M Hazarika.
-\newblock Qualitative spatial representation and reasoning: An overview.
-\newblock {\em Fundamenta Informaticae}, 46(1-2):1--29, 1997.
+\bibitem[Trinh et~al.(2024)]{trinh2024solving}
+Trieu~H Trinh et~al.
+\newblock Solving olympiad geometry without human demonstrations.
+\newblock \emph{Nature}, 625\penalty0 (7995):\penalty0 476--482, 2024.
 
-\bibitem{cohn2001qualitative}
-Anthony~G Cohn and Shyamanta~M Hazarika.
-\newblock Qualitative spatial representation and reasoning: An overview.
-\newblock {\em Fundamenta informaticae}, 2001.
+\bibitem[Liu et~al.(2023)Liu, Yu, Zhang, Xu, Lei, Lai, Gu, Ding, Men, Yang,
+  et~al.]{liu2023agentbench}
+Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu~Gu,
+  Hangliang Ding, Kaiwen Men, Kejuan Yang, et~al.
+\newblock Agentbench: Evaluating llms as agents.
+\newblock \emph{arXiv preprint arXiv:2308.03688}, 2023.
 
-\bibitem{davis2013ontologies}
-Ernest Davis.
-\newblock Ontologies for spatial reasoning.
-\newblock {\em Spatial Cognition \& Computation}, 13(4):293--323, 2013.
+\bibitem[Bang et~al.(2023)]{bang2023multitask}
+Yejin Bang et~al.
+\newblock A multitask, multilingual, multimodal evaluation of chatgpt on
+  reasoning, hallucination, and interactivity.
+\newblock \emph{arXiv preprint arXiv:2302.04023}, 2023.
 
-\bibitem{DeSabbata2023}
-Stefano De~Sabbata and Pengyuan Liu.
-\newblock A graph neural network framework for spatial geodemographic
-  classification.
-\newblock {\em International Journal of Geographical Information Science},
-  37(12):2464--2486, 2023.
+\bibitem[Srivastava et~al.(2022)]{srivastava2022beyond}
+Aarohi Srivastava et~al.
+\newblock Beyond the imitation game: Quantifying and extrapolating the
+  capabilities of language models.
+\newblock \emph{arXiv preprint arXiv:2206.04615}, 2022.
 
-\bibitem{deng2024mind2web}
-Xiang Deng, Yu~Gu, Boyuan Zheng, Shijie Chen, Sam Stevens, Boshi Wang, Huan
-  Sun, and Yu~Su.
-\newblock Mind2web: Towards a generalist agent for the web.
-\newblock {\em arXiv preprint arXiv:2306.06070}, 2024.
+\bibitem[Newcombe(2010)]{newcombe2010picture}
+Nora~S Newcombe.
+\newblock Picture this: Increasing math and science learning by improving
+  spatial thinking.
+\newblock \emph{American Educator}, 34\penalty0 (2):\penalty0 29, 2010.
 
-\bibitem{deza2009encyclopedia}
-Michel~Marie Deza and Elena Deza.
-\newblock {\em Encyclopedia of distances}.
-\newblock Springer, 2009.
+\bibitem[Hegarty(2006)]{hegarty2006spatial}
+Mary Hegarty.
+\newblock Spatial thinking in undergraduate science education.
+\newblock \emph{Spatial Intelligence: Why It Matters from Birth Through the
+  Lifespan}, pages 39--52, 2006.
 
-\bibitem{dijkstra1959note}
-Edsger~W Dijkstra.
-\newblock A note on two problems in connexion with graphs.
-\newblock {\em Numerische Mathematik}, 1(1):269--271, 1959.
+\bibitem[Uttal et~al.(2013)]{uttal2013malleability}
+David~H Uttal et~al.
+\newblock The malleability of spatial skills: A meta-analysis of training
+  studies.
+\newblock \emph{Psychological Bulletin}, 139\penalty0 (2):\penalty0 352, 2013.
 
-\bibitem{dziri2023faith}
-Nouha Dziri et~al.
-\newblock Faith and fate: Limits of transformers on compositionality.
-\newblock {\em NeurIPS}, 2023.
+\bibitem[Wolbers and Hegarty(2010)]{wolbers2010determines}
+Thomas Wolbers and Mary Hegarty.
+\newblock What determines our navigational abilities?
+\newblock \emph{Trends in Cognitive Sciences}, 14\penalty0 (3):\penalty0
+  138--146, 2010.
 
-\bibitem{egenhofer1991reasoning}
-Max~J Egenhofer and Robert~D Franzosa.
-\newblock Reasoning about binary topological relations.
-\newblock {\em Advances in Spatial Databases}, pages 143--160, 1991.
-
-\bibitem{ekstrom2014cellular}
+\bibitem[Ekstrom et~al.(2014)]{ekstrom2014cellular}
 Arne~D Ekstrom et~al.
 \newblock Cellular networks underlying human spatial navigation.
-\newblock {\em Nature}, 425(6954):184--188, 2014.
+\newblock \emph{Nature}, 425\penalty0 (6954):\penalty0 184--188, 2014.
 
-\bibitem{epstein2017cognitive}
-Russell~A Epstein et~al.
-\newblock The cognitive map in humans: Spatial navigation and beyond.
-\newblock {\em Nature Neuroscience}, 20(11):1504--1513, 2017.
-
-\bibitem{ester1996density}
-Martin Ester et~al.
-\newblock A density-based algorithm for discovering clusters in large spatial
-  databases with noise.
-\newblock {\em KDD}, pages 226--231, 1996.
-
-\bibitem{felicia2026from}
-Gloria Felicia et~al.
-\newblock From perception to action: Spatial ai agents and world models.
-\newblock {\em arXiv preprint arXiv:2602.01644}, 2026.
-
-\bibitem{forbus1984qualitative}
-Kenneth~D Forbus.
-\newblock Qualitative process theory.
-\newblock {\em Artificial Intelligence}, 24(1-3):85--168, 1984.
-
-\bibitem{frank1996qualitative}
-Andrew~U Frank.
-\newblock Qualitative spatial reasoning: Cardinal directions as an example.
-\newblock {\em International Journal of Geographical Information Science},
-  10(3):269--290, 1996.
-
-\bibitem{fu2019real}
-Yanjie Fu et~al.
-\newblock Real estate ranking via mixed land-use latent factor model.
-\newblock {\em KDD}, pages 1927--1936, 2019.
-
-\bibitem{galton2000qualitative}
-Antony Galton.
-\newblock Qualitative spatial change.
-\newblock 2000.
-
-\bibitem{gao2023pal}
-Luyu Gao et~al.
-\newblock Pal: Program-aided language models.
-\newblock {\em International Conference on Machine Learning}, 2023.
-
-\bibitem{garcez2019neural}
-Artur~d'Avila Garcez and Luis~C Lamb.
-\newblock Neural-symbolic computing: An effective methodology for principled
-  integration of machine learning and reasoning.
-\newblock {\em Journal of Applied Logics}, 6(4):611--632, 2019.
-
-\bibitem{ghosh2007visibility}
-Subir~Kumar Ghosh.
-\newblock {\em Visibility algorithms in the plane}.
-\newblock Cambridge University Press, 2007.
-
-\bibitem{gilmer2017neural}
-Justin Gilmer, Samuel~S Schoenholz, Patrick~F Riley, Oriol Vinyals, and
-  George~E Dahl.
-\newblock Neural message passing for quantum chemistry.
-\newblock In {\em ICML}, 2017.
-
-\bibitem{goodchild2007citizens}
-Michael~F Goodchild.
-\newblock Citizens as sensors: the world of volunteered geography.
-\newblock {\em GeoJournal}, 2007.
-
-\bibitem{google2025earthengine}
-Google.
-\newblock Google earth engine.
-\newblock \url{https://earthengine.google.com}, 2025.
-
-\bibitem{graves2016hybrid}
-Alex Graves, Greg Wayne, Malcolm Reynolds, Tim Harley, Ivo Danihelka, Agnieszka
-  Grabska-Barwi{\'n}ska, Sergio~G{\'o}mez Colmenarejo, Edward Grefenstette,
-  Tiago Ramalho, John Agapiou, et~al.
-\newblock Hybrid computing using a neural network with dynamic external memory.
-\newblock {\em Nature}, 538(7626):471--476, 2016.
-
-\bibitem{hamilton2017graphsage}
-William~L Hamilton, Rex Ying, and Jure Leskovec.
-\newblock Inductive representation learning on large graphs.
-\newblock {\em Advances in Neural Information Processing Systems}, 30, 2017.
-
-\bibitem{hart1968formal}
-Peter~E Hart, Nils~J Nilsson, and Bertram Raphael.
-\newblock A formal basis for the heuristic determination of minimum cost paths.
-\newblock {\em IEEE Transactions on Systems Science and Cybernetics},
-  4(2):100--107, 1968.
-
-\bibitem{hegarty2004diagrams}
+\bibitem[Hegarty(2004)]{hegarty2004diagrams}
 Mary Hegarty.
 \newblock Diagrams in the mind and in the world: Relations between internal and
   external visualizations.
-\newblock {\em Diagrammatic Representation and Inference}, pages 1--13, 2004.
+\newblock \emph{Diagrammatic Representation and Inference}, pages 1--13, 2004.
 
-\bibitem{hegarty2006spatial}
-Mary Hegarty.
-\newblock Spatial thinking in undergraduate science education.
-\newblock {\em Spatial Intelligence: Why It Matters from Birth Through the
-  Lifespan}, pages 39--52, 2006.
+\bibitem[Tversky(2005)]{tversky2005functional}
+Barbara Tversky.
+\newblock Functional significance of visuospatial representations.
+\newblock \emph{Handbook of Higher-Level Visuospatial Thinking}, pages 1--34,
+  2005.
 
-\bibitem{hegarty2002individual}
-Mary Hegarty and David Waller.
-\newblock Individual differences in spatial abilities.
-\newblock {\em The Cambridge Handbook of Visuospatial Thinking}, pages
-  121--169, 2002.
+\bibitem[Carroll(1993)]{carroll1993human}
+John~B Carroll.
+\newblock \emph{Human cognitive abilities: A survey of factor-analytic
+  studies}.
+\newblock Cambridge University Press, 1993.
 
-\bibitem{hendrycks2021measuring}
-Dan Hendrycks et~al.
-\newblock Measuring mathematical problem solving with the math dataset.
-\newblock {\em NeurIPS}, 2021.
+\bibitem[McGee(1979)]{mcgee1979human}
+Mark~G McGee.
+\newblock Human spatial abilities: Psychometric studies and environmental,
+  genetic, hormonal, and neurological influences.
+\newblock \emph{Psychological Bulletin}, 86\penalty0 (5):\penalty0 889, 1979.
 
-\bibitem{hochbaum1985best}
-Dorit~S Hochbaum and David~B Shmoys.
-\newblock A best possible heuristic for the k-center problem.
-\newblock {\em Mathematics of Operations Research}, 10(2):180--184, 1985.
+\bibitem[Wai et~al.(2009)Wai, Lubinski, and Benbow]{wai2009spatial}
+Jonathan Wai, David Lubinski, and Camilla~P Benbow.
+\newblock Spatial ability for stem domains: Aligning over 50 years of
+  cumulative psychological knowledge solidifies its importance.
+\newblock \emph{Journal of Educational Psychology}, 101\penalty0 (4):\penalty0
+  817, 2009.
 
-\bibitem{hudson2019gqa}
-Drew~A Hudson and Christopher~D Manning.
-\newblock Gqa: A new dataset for real-world visual reasoning and compositional
-  question answering.
-\newblock In {\em Proceedings of the IEEE/CVF Conference on Computer Vision and
-  Pattern Recognition}, pages 6700--6709, 2019.
+\bibitem[Bisk et~al.(2020)Bisk, Holtzman, Thomason, Andreas, Bengio, Chai,
+  Lapata, Lazaridou, May, Nisnevich, et~al.]{bisk2020experience}
+Yonatan Bisk, Ari Holtzman, Jesse Thomason, Jacob Andreas, Yoshua Bengio, Joyce
+  Chai, Mirella Lapata, Angeliki Lazaridou, Jonathan May, Aleksandr Nisnevich,
+  et~al.
+\newblock Experience grounds language.
+\newblock \emph{arXiv preprint arXiv:2004.10151}, 2020.
 
-\bibitem{imani2023mathprompter}
-Shima Imani et~al.
-\newblock Mathprompter: Mathematical reasoning using large language models.
-\newblock {\em ACL}, 2023.
+\bibitem[Patel and Pavlick(2021)]{patel2021mapping}
+Roma Patel and Ellie Pavlick.
+\newblock Mapping language models to grounded conceptual spaces.
+\newblock \emph{ICLR}, 2021.
 
-\bibitem{wherobots2026sedona}
+\bibitem[Forbus(1984)]{forbus1984qualitative}
+Kenneth~D Forbus.
+\newblock Qualitative process theory.
+\newblock \emph{Artificial Intelligence}, 24\penalty0 (1-3):\penalty0 85--168,
+  1984.
+
+\bibitem[Kuipers(1978)]{kuipers1978modeling}
+Benjamin Kuipers.
+\newblock Modeling spatial knowledge.
+\newblock \emph{Cognitive Science}, 2\penalty0 (2):\penalty0 129--153, 1978.
+
+\bibitem[Randell et~al.(1992)Randell, Cui, and Cohn]{randell1992spatial}
+David~A Randell, Zhan Cui, and Anthony~G Cohn.
+\newblock A spatial logic based on regions and connection.
+\newblock \emph{KR}, 92:\penalty0 165--176, 1992.
+
+\bibitem[Cohn and Hazarika(1997)]{cohn1997qualitative}
+Anthony~G Cohn and Shyamanta~M Hazarika.
+\newblock Qualitative spatial representation and reasoning: An overview.
+\newblock \emph{Fundamenta Informaticae}, 46\penalty0 (1-2):\penalty0 1--29,
+  1997.
+
+\bibitem[Egenhofer and Franzosa(1991)]{egenhofer1991reasoning}
+Max~J Egenhofer and Robert~D Franzosa.
+\newblock Reasoning about binary topological relations.
+\newblock \emph{Advances in Spatial Databases}, pages 143--160, 1991.
+
+\bibitem[Chen et~al.(2024{\natexlab{a}})]{chen2024spatialreasoning}
+Zhaohan Chen et~al.
+\newblock Spatial reasoning in multimodal large language models: A survey.
+\newblock \emph{arXiv preprint arXiv:2511.15722}, 2024{\natexlab{a}}.
+
+\bibitem[Mirzaee et~al.(2021)]{mirzaee2021spartqa}
+Roshanak Mirzaee et~al.
+\newblock Spartqa: A textual question answering benchmark for spatial
+  reasoning.
+\newblock \emph{NAACL}, 2021.
+
+\bibitem[Chen et~al.(2015)]{chen2015deepdriving}
+Chenyi Chen et~al.
+\newblock Deepdriving: Learning affordance for direct perception in autonomous
+  driving.
+\newblock \emph{ICCV}, 2015.
+
+\bibitem[Bojarski et~al.(2016)Bojarski, Del~Testa, Dworakowski,
+  et~al.]{bojarski2016endtoend}
+Mariusz Bojarski, Davide Del~Testa, Daniel Dworakowski, et~al.
+\newblock End to end learning for self-driving cars.
+\newblock \emph{arXiv preprint arXiv:1604.07316}, 2016.
+
+\bibitem[Pomerleau(1988)]{pomerleau1988alvinn}
+Dean~A Pomerleau.
+\newblock Alvinn: An autonomous land vehicle in a neural network.
+\newblock 1988.
+
+\bibitem[Levine et~al.(2016)Levine, Finn, Darrell, and Abbeel]{levine2016end}
+Sergey Levine, Chelsea Finn, Trevor Darrell, and Pieter Abbeel.
+\newblock End-to-end training of deep visuomotor policies.
+\newblock \emph{JMLR}, 2016.
+
+\bibitem[Kalashnikov et~al.(2018)]{kalashnikov2018scalable}
+Dmitry Kalashnikov et~al.
+\newblock Scalable deep reinforcement learning for vision-based robotic
+  manipulation.
+\newblock \emph{CoRL}, 2018.
+
+\bibitem[Zeng et~al.(2018)]{zeng2018learning}
+Andy Zeng et~al.
+\newblock Learning synergies between pushing and grasping with self-supervised
+  deep reinforcement learning.
+\newblock \emph{IROS}, 2018.
+
+\bibitem[Zhang et~al.(2019)]{zhang2019deep}
+Chaoyun Zhang et~al.
+\newblock Deep learning for mobile network traffic prediction.
+\newblock \emph{IEEE Network}, 33\penalty0 (6):\penalty0 48--55, 2019.
+
+\bibitem[Wang et~al.(2020)Wang, Cao, and Yu]{wang2020deep}
+Senzhang Wang, Jiannong Cao, and Philip~S Yu.
+\newblock Deep learning for spatio-temporal data mining: A survey.
+\newblock \emph{IEEE TKDE}, 2020.
+
+\bibitem[Batty(2013)]{batty2013big}
+Michael Batty.
+\newblock \emph{Big data, smart cities and city planning}, volume~3.
+\newblock 2013.
+
+\bibitem[Bibri and Krogstie(2017)]{bibri2017smart}
+Simon~Elias Bibri and John Krogstie.
+\newblock Smart sustainable cities of the future: An extensive
+  interdisciplinary literature review.
+\newblock \emph{Sustainable Cities and Society}, 2017.
+
+\bibitem[Li et~al.(2019)]{li2019learning}
+Jingwen Li et~al.
+\newblock Learning to optimize industry-scale dynamic pickup and delivery
+  problems.
+\newblock \emph{ICDE}, 2019.
+
+\bibitem[Nazari et~al.(2018)]{nazari2018reinforcement}
+Mohammadreza Nazari et~al.
+\newblock Reinforcement learning for solving the vehicle routing problem.
+\newblock \emph{NeurIPS}, 2018.
+
+\bibitem[Law et~al.(2019)]{law2019take}
+Stephen Law et~al.
+\newblock Take a look around: Using street view and satellite images to
+  estimate house prices.
+\newblock \emph{ACM SIGKDD Explorations Newsletter}, 21\penalty0 (2):\penalty0
+  54--65, 2019.
+
+\bibitem[Fu et~al.(2019)]{fu2019real}
+Yanjie Fu et~al.
+\newblock Real estate ranking via mixed land-use latent factor model.
+\newblock \emph{KDD}, pages 1927--1936, 2019.
+
+\bibitem[Technologies(2024)]{palantir2024maven}
+Palantir Technologies.
+\newblock Project maven: Ai for defense.
+\newblock \url{https://www.palantir.com}, 2024.
+
+\bibitem[AI(2025)]{scaleai2025donovan}
+Scale AI.
+\newblock Donovan: Ai for intelligence.
+\newblock \url{https://scale.com/donovan}, 2025.
+
+\bibitem[Inc.(2026)]{wherobots2026sedona}
 Wherobots Inc.
 \newblock Wherobots: Cloud-native spatial intelligence.
 \newblock \url{https://wherobots.com}, 2026.
 
-\bibitem{jiang2022gnn}
-Weiwei Jiang and Jiayun Luo.
-\newblock Graph neural networks for traffic forecasting: A survey.
-\newblock {\em arXiv preprint arXiv:2101.11174}, 2022.
+\bibitem[Google(2025)]{google2025earthengine}
+Google.
+\newblock Google earth engine.
+\newblock \url{https://earthengine.google.com}, 2025.
 
-\bibitem{jimenez2024swebench}
-Carlos~E Jimenez, John Yang, Alexander Wettig, Shunyu Yao, Kexin Pei, Ofir
-  Press, and Karthik Narasimhan.
-\newblock Swe-bench: Can language models resolve real-world github issues?
-\newblock {\em arXiv preprint arXiv:2310.06770}, 2024.
+\bibitem[Piaget and Inhelder(1956)]{piaget1956child}
+Jean Piaget and B{\"a}rbel Inhelder.
+\newblock The child's conception of space.
+\newblock 1956.
 
-\bibitem{jin2023stgnn}
-Guangyin Jin, Yuxuan Liang, Yuchen Fang, Zezhi Huang, Junbo Zhang, and
-  Yu~Zheng.
-\newblock Spatio-temporal graph neural networks for urban computing: A survey.
-\newblock {\em IEEE Transactions on Knowledge and Data Engineering}, 2023.
+\bibitem[Shepard and Metzler(1971)]{shepard1971mental}
+Roger~N Shepard and Jacqueline Metzler.
+\newblock Mental rotation of three-dimensional objects.
+\newblock \emph{Science}, 171\penalty0 (3972):\penalty0 701--703, 1971.
 
-\bibitem{johnson2017clevr}
+\bibitem[Vandenberg and Kuse(1978)]{vandenberg1978mental}
+Steven~G Vandenberg and Allan~R Kuse.
+\newblock Mental rotations, a group test of three-dimensional spatial
+  visualization.
+\newblock \emph{Perceptual and Motor Skills}, 47\penalty0 (2):\penalty0
+  599--604, 1978.
+
+\bibitem[Lohman(1979)]{lohman1979spatial}
+David~F Lohman.
+\newblock Spatial ability: A review and reanalysis of the correlational
+  literature.
+\newblock \emph{Technical Report}, 1979.
+
+\bibitem[Kozhevnikov et~al.(2006)Kozhevnikov, Kosslyn, and
+  Shephard]{kozhevnikov2006spatial}
+Maria Kozhevnikov, Stephen Kosslyn, and Jennifer Shephard.
+\newblock Spatial versus object visualizers: A new characterization of visual
+  cognitive style.
+\newblock \emph{Memory \& Cognition}, 33\penalty0 (4):\penalty0 710--726, 2006.
+
+\bibitem[Hegarty and Waller(2002)]{hegarty2002individual}
+Mary Hegarty and David Waller.
+\newblock Individual differences in spatial abilities.
+\newblock \emph{The Cambridge Handbook of Visuospatial Thinking}, pages
+  121--169, 2002.
+
+\bibitem[Burgess et~al.(2002)Burgess, Maguire, and O'Keefe]{burgess2002spatial}
+Neil Burgess, Eleanor~A Maguire, and John O'Keefe.
+\newblock The human hippocampus and spatial and episodic memory.
+\newblock \emph{Neuron}, 35\penalty0 (4):\penalty0 625--641, 2002.
+
+\bibitem[Kravitz et~al.(2011)]{kravitz2011new}
+Dwight~J Kravitz et~al.
+\newblock A new neural framework for visuospatial processing.
+\newblock \emph{Nature Reviews Neuroscience}, 12\penalty0 (4):\penalty0
+  217--230, 2011.
+
+\bibitem[Epstein et~al.(2017)]{epstein2017cognitive}
+Russell~A Epstein et~al.
+\newblock The cognitive map in humans: Spatial navigation and beyond.
+\newblock \emph{Nature Neuroscience}, 20\penalty0 (11):\penalty0 1504--1513,
+  2017.
+
+\bibitem[Klatzky(1998)]{klatzky1998allocentric}
+Roberta~L Klatzky.
+\newblock Allocentric and egocentric spatial representations: Definitions,
+  distinctions, and interconnections.
+\newblock \emph{Spatial Cognition}, pages 1--17, 1998.
+
+\bibitem[Burgess(2006)]{burgess2006spatial}
+Neil Burgess.
+\newblock Spatial memory: How egocentric and allocentric combine.
+\newblock \emph{Trends in Cognitive Sciences}, 10\penalty0 (12):\penalty0
+  551--557, 2006.
+
+\bibitem[Mou and McNamara(2004)]{mou2004intrinsic}
+Weimin Mou and Timothy~P McNamara.
+\newblock Intrinsic frames of reference in spatial memory.
+\newblock \emph{Journal of Experimental Psychology: Learning, Memory, and
+  Cognition}, 30\penalty0 (2):\penalty0 339, 2004.
+
+\bibitem[Waller and Lippa(2007)]{waller2007landmarks}
+David Waller and Yvonne Lippa.
+\newblock Landmarks as beacons and associative cues: Their role in route
+  learning.
+\newblock \emph{Memory \& Cognition}, 35\penalty0 (5):\penalty0 910--924, 2007.
+
+\bibitem[Anderson et~al.(2018)Anderson, Wu, Teney, Bruce, Johnson, Sunderhauf,
+  Reid, Gould, and van~den Hengel]{anderson2018vln}
+Peter Anderson, Qi~Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sunderhauf,
+  Ian Reid, Stephen Gould, and Anton van~den Hengel.
+\newblock Vision-and-language navigation: Interpreting visually-grounded
+  navigation instructions in real environments.
+\newblock In \emph{Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 3674--3683, 2018.
+
+\bibitem[Chen et~al.(2019)Chen, Suhr, Misra, Snavely, and
+  Artzi]{chen2019touchdown}
+Howard Chen, Alane Suhr, Dipendra Misra, Noah Snavely, and Yoav Artzi.
+\newblock Touchdown: Natural language navigation and spatial reasoning in
+  visual street environments.
+\newblock In \emph{Proceedings of the IEEE/CVF Conference on Computer Vision
+  and Pattern Recognition}, pages 12538--12547, 2019.
+
+\bibitem[Cohn and Hazarika(2001)]{cohn2001qualitative}
+Anthony~G Cohn and Shyamanta~M Hazarika.
+\newblock Qualitative spatial representation and reasoning: An overview.
+\newblock \emph{Fundamenta informaticae}, 2001.
+
+\bibitem[Renz and Nebel(2007)]{renz2007qualitative}
+Jochen Renz and Bernhard Nebel.
+\newblock Qualitative spatial reasoning using constraint calculi.
+\newblock \emph{Handbook of Spatial Logics}, pages 161--215, 2007.
+
+\bibitem[Frank(1996)]{frank1996qualitative}
+Andrew~U Frank.
+\newblock Qualitative spatial reasoning: Cardinal directions as an example.
+\newblock \emph{International Journal of Geographical Information Science},
+  10\penalty0 (3):\penalty0 269--290, 1996.
+
+\bibitem[Ligozat(1998)]{ligozat1998reasoning}
+G{\'e}rard Ligozat.
+\newblock Reasoning about cardinal directions.
+\newblock \emph{Journal of Visual Languages \& Computing}, 9\penalty0
+  (1):\penalty0 23--44, 1998.
+
+\bibitem[M{\"u}ller(1998)]{muller1998qualitative}
+Philippe M{\"u}ller.
+\newblock Qualitative spatial reasoning about line segments.
+\newblock \emph{ECAI}, pages 234--238, 1998.
+
+\bibitem[Galton(2000)]{galton2000qualitative}
+Antony Galton.
+\newblock Qualitative spatial change.
+\newblock 2000.
+
+\bibitem[Cohn et~al.(1997)]{cohn1997representing}
+Anthony~G Cohn et~al.
+\newblock Representing and reasoning with qualitative spatial relations about
+  regions.
+\newblock \emph{Spatial and Temporal Reasoning}, pages 97--134, 1997.
+
+\bibitem[Schockaert et~al.(2008)Schockaert, De~Cock, and
+  Kerre]{schockaert2008fuzzy}
+Steven Schockaert, Martine De~Cock, and Etienne~E Kerre.
+\newblock Fuzzy spatial reasoning.
+\newblock \emph{Handbook of Research on Fuzzy Information Processing in
+  Databases}, pages 102--133, 2008.
+
+\bibitem[Garcez and Lamb(2019)]{garcez2019neural}
+Artur~d'Avila Garcez and Luis~C Lamb.
+\newblock Neural-symbolic computing: An effective methodology for principled
+  integration of machine learning and reasoning.
+\newblock \emph{Journal of Applied Logics}, 6\penalty0 (4):\penalty0 611--632,
+  2019.
+
+\bibitem[Lamb et~al.(2020)]{lamb2020graph}
+Luis~C Lamb et~al.
+\newblock Graph neural networks meet neural-symbolic computing: A survey and
+  perspective.
+\newblock \emph{IJCAI}, 2020.
+
+\bibitem[Davis(2013)]{davis2013ontologies}
+Ernest Davis.
+\newblock Ontologies for spatial reasoning.
+\newblock \emph{Spatial Cognition \& Computation}, 13\penalty0 (4):\penalty0
+  293--323, 2013.
+
+\bibitem[Marcus(2018)]{marcus2018deep}
+Gary Marcus.
+\newblock Deep learning: A critical appraisal.
+\newblock \emph{arXiv preprint arXiv:1801.00631}, 2018.
+
+\bibitem[Weston et~al.(2015)Weston, Bordes, Chopra, Rush, Van~Merri{\"e}nboer,
+  Joulin, and Mikolov]{weston2015towards}
+Jason Weston, Antoine Bordes, Sumit Chopra, Alexander~M Rush, Bart
+  Van~Merri{\"e}nboer, Armand Joulin, and Tomas Mikolov.
+\newblock Towards ai-complete question answering: A set of prerequisite toy
+  tasks.
+\newblock \emph{arXiv preprint arXiv:1502.05698}, 2015.
+
+\bibitem[Sukhbaatar et~al.(2015)]{sukhbaatar2015end}
+Sainbayar Sukhbaatar et~al.
+\newblock End-to-end memory networks.
+\newblock In \emph{NeurIPS}, 2015.
+
+\bibitem[Graves et~al.(2016)Graves, Wayne, Reynolds, Harley, Danihelka,
+  Grabska-Barwi{\'n}ska, Colmenarejo, Grefenstette, Ramalho, Agapiou,
+  et~al.]{graves2016hybrid}
+Alex Graves, Greg Wayne, Malcolm Reynolds, Tim Harley, Ivo Danihelka, Agnieszka
+  Grabska-Barwi{\'n}ska, Sergio~G{\'o}mez Colmenarejo, Edward Grefenstette,
+  Tiago Ramalho, John Agapiou, et~al.
+\newblock Hybrid computing using a neural network with dynamic external memory.
+\newblock \emph{Nature}, 538\penalty0 (7626):\penalty0 471--476, 2016.
+
+\bibitem[Johnson et~al.(2017)Johnson, Hariharan, van~der Maaten, Fei-Fei,
+  Zitnick, and Girshick]{johnson2017clevr}
 Justin Johnson, Bharath Hariharan, Laurens van~der Maaten, Li~Fei-Fei,
   C~Lawrence Zitnick, and Ross Girshick.
 \newblock Clevr: A diagnostic dataset for compositional language and elementary
   visual reasoning.
-\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+\newblock In \emph{Proceedings of the IEEE Conference on Computer Vision and
   Pattern Recognition}, pages 2901--2910, 2017.
 
-\bibitem{kalashnikov2018scalable}
-Dmitry Kalashnikov et~al.
-\newblock Scalable deep reinforcement learning for vision-based robotic
-  manipulation.
-\newblock {\em CoRL}, 2018.
+\bibitem[Hudson and Manning(2019)]{hudson2019gqa}
+Drew~A Hudson and Christopher~D Manning.
+\newblock Gqa: A new dataset for real-world visual reasoning and compositional
+  question answering.
+\newblock In \emph{Proceedings of the IEEE/CVF Conference on Computer Vision
+  and Pattern Recognition}, pages 6700--6709, 2019.
 
-\bibitem{PlanQA2025}
-KAUST.
-\newblock Planqa: A diagnostic benchmark for spatial reasoning in llms.
-\newblock {\em arXiv preprint}, 2025.
+\bibitem[Suhr et~al.(2019)Suhr, Zhou, Zhang, Zhang, Bai, and
+  Artzi]{suhr2019nlvr2}
+Alane Suhr, Stephanie Zhou, Ally Zhang, Iris Zhang, Huajun Bai, and Yoav Artzi.
+\newblock A corpus for reasoning about natural language grounded in
+  photographs.
+\newblock \emph{arXiv preprint arXiv:1811.00491}, 2019.
 
-\bibitem{kipf2017gcn}
-Thomas~N Kipf and Max Welling.
-\newblock Semi-supervised classification with graph convolutional networks.
-\newblock {\em arXiv preprint arXiv:1609.02907}, 2017.
+\bibitem[Savva et~al.(2019)Savva, Kadian, Maksymets, Zhao, Wijmans, Jain,
+  Straub, Liu, Koltun, Malik, et~al.]{savva2019habitat}
+Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao, Erik Wijmans,
+  Bhavana Jain, Julian Straub, Jia Liu, Vladlen Koltun, Jitendra Malik, et~al.
+\newblock Habitat: A platform for embodied ai research.
+\newblock In \emph{Proceedings of the IEEE/CVF International Conference on
+  Computer Vision}, pages 9339--9347, 2019.
 
-\bibitem{klatzky1998allocentric}
-Roberta~L Klatzky.
-\newblock Allocentric and egocentric spatial representations: Definitions,
-  distinctions, and interconnections.
-\newblock {\em Spatial Cognition}, pages 1--17, 1998.
-
-\bibitem{klie2023annotation}
-Jan-Christoph Klie et~al.
-\newblock Annotation error detection: Analyzing the past and present for a more
-  coherent future.
-\newblock {\em Computational Linguistics}, 49(1):157--198, 2023.
-
-\bibitem{koenig2004lifelong}
-Sven Koenig, Maxim Likhachev, and David Furcy.
-\newblock Lifelong planning a*.
-\newblock {\em Artificial Intelligence}, 155(1-2):93--146, 2004.
-
-\bibitem{kojima2022large}
-Takeshi Kojima, Shixiang~Shane Gu, Machel Reid, Yutaka Matsuo, and Yusuke
-  Iwasawa.
-\newblock Large language models are zero-shot reasoners.
-\newblock {\em Advances in Neural Information Processing Systems},
-  35:22199--22213, 2022.
-
-\bibitem{kolve2017ai2thor}
+\bibitem[Kolve et~al.(2017)Kolve, Mottaghi, Han, VanderBilt, Weihs, Herrasti,
+  Gordon, Zhu, Gupta, and Farhadi]{kolve2017ai2thor}
 Eric Kolve, Roozbeh Mottaghi, Winson Han, Eli VanderBilt, Luca Weihs, Alvaro
   Herrasti, Daniel Gordon, Yuke Zhu, Abhinav Gupta, and Ali Farhadi.
 \newblock Ai2-thor: An interactive 3d environment for visual ai.
-\newblock {\em arXiv preprint arXiv:1712.05474}, 2017.
+\newblock \emph{arXiv preprint arXiv:1712.05474}, 2017.
 
-\bibitem{kozhevnikov2006spatial}
-Maria Kozhevnikov, Stephen Kosslyn, and Jennifer Shephard.
-\newblock Spatial versus object visualizers: A new characterization of visual
-  cognitive style.
-\newblock {\em Memory \& Cognition}, 33(4):710--726, 2006.
+\bibitem[Mirpuri et~al.(2023)Mirpuri, Mirzaee, and
+  Kordjamshidi]{mirpuri2023spartqa}
+Roshanak Mirpuri, Reza Mirzaee, and Parisa Kordjamshidi.
+\newblock Spartqa: A textual question answering benchmark for spatial
+  reasoning.
+\newblock \emph{arXiv preprint arXiv:2104.05832}, 2023.
 
-\bibitem{kravitz2011new}
-Dwight~J Kravitz et~al.
-\newblock A new neural framework for visuospatial processing.
-\newblock {\em Nature Reviews Neuroscience}, 12(4):217--230, 2011.
+\bibitem[Shi et~al.(2022)]{shi2022stepgame}
+Zhengxiang Shi et~al.
+\newblock Stepgame: A new benchmark for robust multi-hop spatial reasoning in
+  texts.
+\newblock \emph{AAAI}, 2022.
 
-\bibitem{kuipers1978modeling}
-Benjamin Kuipers.
-\newblock Modeling spatial knowledge.
-\newblock {\em Cognitive Science}, 2(2):129--153, 1978.
-
-\bibitem{kumar1992algorithms}
-Vipin Kumar.
-\newblock Algorithms for constraint-satisfaction problems: A survey.
-\newblock {\em AI Magazine}, 13(1):32--32, 1992.
-
-\bibitem{SPARE3D2024}
-AI4CE Lab.
-\newblock Spare3d: A dataset for spatial reasoning on three-view line drawings.
-\newblock {\em GitHub Repository}, 2024.
-
-\bibitem{lamb2020graph}
-Luis~C Lamb et~al.
-\newblock Graph neural networks meet neural-symbolic computing: A survey and
-  perspective.
-\newblock {\em IJCAI}, 2020.
-
-\bibitem{law2019take}
-Stephen Law et~al.
-\newblock Take a look around: Using street view and satellite images to
-  estimate house prices.
-\newblock {\em ACM SIGKDD Explorations Newsletter}, 21(2):54--65, 2019.
-
-\bibitem{levine2016end}
-Sergey Levine, Chelsea Finn, Trevor Darrell, and Pieter Abbeel.
-\newblock End-to-end training of deep visuomotor policies.
-\newblock {\em JMLR}, 2016.
-
-\bibitem{lewis2020rag}
-Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir
-  Karpukhin, Naman Goyal, Heinrich Kuttler, Mike Lewis, Wen-tau Yih, Tim
-  Rocktaschel, et~al.
-\newblock Retrieval-augmented generation for knowledge-intensive nlp tasks.
-\newblock {\em Advances in Neural Information Processing Systems},
-  33:9459--9474, 2020.
-
-\bibitem{li2019learning}
-Jingwen Li et~al.
-\newblock Learning to optimize industry-scale dynamic pickup and delivery
-  problems.
-\newblock {\em ICDE}, 2019.
-
-\bibitem{li2020dynamic}
-Maosen Li et~al.
-\newblock Dynamic multiscale graph neural networks for 3d skeleton based human
-  motion prediction.
-\newblock {\em CVPR}, 2020.
-
-\bibitem{li2025benchmarking}
+\bibitem[Li et~al.(2025)]{li2025benchmarking}
 Xiang Li et~al.
 \newblock Benchmarking spatial reasoning in large language models.
-\newblock {\em arXiv preprint}, 2025.
+\newblock \emph{arXiv preprint}, 2025.
 
-\bibitem{li2018dcrnn}
-Yaguang Li, Rose Yu, Cyrus Shahabi, and Yan Liu.
-\newblock Diffusion convolutional recurrent neural network: Data-driven traffic
-  forecasting.
-\newblock In {\em International Conference on Learning Representations}, 2018.
+\bibitem[KAUST(2025)]{PlanQA2025}
+KAUST.
+\newblock Planqa: A diagnostic benchmark for spatial reasoning in llms.
+\newblock \emph{arXiv preprint}, 2025.
 
-\bibitem{li2022competition}
-Yujia Li et~al.
-\newblock Competition-level code generation with alphacode.
-\newblock {\em Science}, 378(6624):1092--1097, 2022.
+\bibitem[Xu et~al.(2022)Xu, Zhou, Jin, Xie, and He]{Xu2022AFF}
+Yongyang Xu, Bo~Zhou, Shuai Jin, Xuejing Xie, and Nan He.
+\newblock A framework for urban land use classification by integrating the
+  spatial context of points of interest and graph convolutional neural network
+  method.
+\newblock \emph{Comput. Environ. Urban Syst.}, 94:\penalty0 101807, 2022.
+\newblock URL \url{https://api.semanticscholar.org/CorpusID:248338303}.
 
-\bibitem{liang2022holistic}
-Percy Liang et~al.
-\newblock Holistic evaluation of language models.
-\newblock {\em arXiv preprint arXiv:2211.09110}, 2022.
-
-\bibitem{liao2023rethinking}
-Shuxin Liao et~al.
-\newblock Rethinking benchmark and contamination for language models with
-  rephrased samples.
-\newblock {\em arXiv preprint arXiv:2311.04850}, 2023.
-
-\bibitem{liben2006spatial}
-Lynn~S Liben.
-\newblock Spatial development.
-\newblock {\em Handbook of Child Psychology}, 2006.
-
-\bibitem{ligozat1998reasoning}
-G{\'e}rard Ligozat.
-\newblock Reasoning about cardinal directions.
-\newblock {\em Journal of Visual Languages \& Computing}, 9(1):23--44, 1998.
-
-\bibitem{likhachev2005anytime}
-Maxim Likhachev et~al.
-\newblock Anytime dynamic a*: An anytime, replanning algorithm.
-\newblock {\em ICAPS}, 2005.
-
-\bibitem{liu2023agentbench}
-Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu~Gu,
-  Hangliang Ding, Kaiwen Men, Kejuan Yang, et~al.
-\newblock Agentbench: Evaluating llms as agents.
-\newblock {\em arXiv preprint arXiv:2308.03688}, 2023.
-
-\bibitem{lohman1979spatial}
-David~F Lohman.
-\newblock Spatial ability: A review and reanalysis of the correlational
-  literature.
-\newblock {\em Technical Report}, 1979.
-
-\bibitem{longley2015geographic}
-Paul~A Longley et~al.
-\newblock {\em Geographic information science and systems}.
-\newblock John Wiley \& Sons, 2015.
-
-\bibitem{lu2022fantastically}
-Yao Lu et~al.
-\newblock Fantastically ordered prompts and where to find them: Overcoming
-  few-shot prompt order sensitivity.
-\newblock {\em ACL}, 2022.
-
-\bibitem{Ma_2025_ICCV}
+\bibitem[Ma et~al.(2025)Ma, Chen, Zhang, Chou, Chen, de~Melo, and
+  Yuille]{Ma_2025_ICCV}
 Wufei Ma, Haoyu Chen, Guofeng Zhang, Yu-Cheng Chou, Jieneng Chen, Celso
   de~Melo, and Alan Yuille.
 \newblock 3dsrbench: A comprehensive 3d spatial reasoning benchmark.
-\newblock In {\em Proceedings of the IEEE/CVF International Conference on
+\newblock In \emph{Proceedings of the IEEE/CVF International Conference on
   Computer Vision (ICCV)}, pages 6924--6934, October 2025.
 
-\bibitem{Majumdar_2024_CVPR}
+\bibitem[Lab(2024)]{SPARE3D2024}
+AI4CE Lab.
+\newblock Spare3d: A dataset for spatial reasoning on three-view line drawings.
+\newblock \emph{GitHub Repository}, 2024.
+
+\bibitem[Majumdar et~al.(2024)Majumdar, Ajay, Zhang, Putta, Yenamandra, Henaff,
+  Silwal, Mcvay, Maksymets, Arnaud, Yadav, Li, Newman, Sharma, Berges, Zhang,
+  Agrawal, Bisk, Batra, Kalakrishnan, Meier, Paxton, Sax, and
+  Rajeswaran]{Majumdar_2024_CVPR}
 Arjun Majumdar, Anurag Ajay, Xiaohan Zhang, Pranav Putta, Sriram Yenamandra,
   Mikael Henaff, Sneha Silwal, Paul Mcvay, Oleksandr Maksymets, Sergio Arnaud,
   Karmesh Yadav, Qiyang Li, Ben Newman, Mohit Sharma, Vincent Berges, Shiqi
   Zhang, Pulkit Agrawal, Yonatan Bisk, Dhruv Batra, Mrinal Kalakrishnan,
   Franziska Meier, Chris Paxton, Alexander Sax, and Aravind Rajeswaran.
 \newblock Openeqa: Embodied question answering in the era of foundation models.
-\newblock In {\em Proceedings of the IEEE/CVF Conference on Computer Vision and
-  Pattern Recognition (CVPR)}, pages 16488--16498, June 2024.
+\newblock In \emph{Proceedings of the IEEE/CVF Conference on Computer Vision
+  and Pattern Recognition (CVPR)}, pages 16488--16498, June 2024.
 
-\bibitem{mao2019learning}
-Wei Mao et~al.
-\newblock Learning trajectory dependencies for human motion prediction.
-\newblock {\em ICCV}, 2019.
+\bibitem[Zhang et~al.(2025)]{zhang2025geoanalystbench}
+Wei Zhang et~al.
+\newblock Geoanalystbench: A benchmark for gis workflow generation.
+\newblock \emph{Transactions in GIS}, 2025.
 
-\bibitem{marcus2018deep}
-Gary Marcus.
-\newblock Deep learning: A critical appraisal.
-\newblock {\em arXiv preprint arXiv:1801.00631}, 2018.
+\bibitem[Chen et~al.(2024{\natexlab{b}})]{Chen_2024}
+Wei Chen et~al.
+\newblock Mapbench: Evaluating llms on map reading and spatial reasoning.
+\newblock \emph{arXiv preprint arXiv:2404.00001}, 2024{\natexlab{b}}.
 
-\bibitem{mcgee1979human}
-Mark~G McGee.
-\newblock Human spatial abilities: Psychometric studies and environmental,
-  genetic, hormonal, and neurological influences.
-\newblock {\em Psychological Bulletin}, 86(5):889, 1979.
+\bibitem[Felicia et~al.(2026)]{felicia2026from}
+Gloria Felicia et~al.
+\newblock From perception to action: Spatial ai agents and world models.
+\newblock \emph{arXiv preprint arXiv:2602.01644}, 2026.
 
-\bibitem{mirpuri2023spartqa}
-Roshanak Mirpuri, Reza Mirzaee, and Parisa Kordjamshidi.
-\newblock Spartqa: A textual question answering benchmark for spatial
-  reasoning.
-\newblock {\em arXiv preprint arXiv:2104.05832}, 2023.
+\bibitem[Yao et~al.(2023{\natexlab{b}})Yao, Zhao, Yu, Du, Shafran, Narasimhan,
+  and Cao]{yao2023react}
+Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan,
+  and Yuan Cao.
+\newblock React: Synergizing reasoning and acting in language models.
+\newblock \emph{arXiv preprint arXiv:2210.03629}, 2023{\natexlab{b}}.
 
-\bibitem{mirzaee2021spartqa}
-Roshanak Mirzaee et~al.
-\newblock Spartqa: A textual question answering benchmark for spatial
-  reasoning.
-\newblock {\em NAACL}, 2021.
+\bibitem[Schick et~al.(2023)Schick, Dwivedi-Yu, Dessi, Raileanu, Lomeli,
+  Zettlemoyer, Cancedda, and Scialom]{schick2023toolformer}
+Timo Schick, Jane Dwivedi-Yu, Roberto Dessi, Roberta Raileanu, Maria Lomeli,
+  Luke Zettlemoyer, Nicola Cancedda, and Thomas Scialom.
+\newblock Toolformer: Language models can teach themselves to use tools.
+\newblock \emph{arXiv preprint arXiv:2302.04761}, 2023.
 
-\bibitem{mou2004intrinsic}
-Weimin Mou and Timothy~P McNamara.
-\newblock Intrinsic frames of reference in spatial memory.
-\newblock {\em Journal of Experimental Psychology: Learning, Memory, and
-  Cognition}, 30(2):339, 2004.
+\bibitem[Qin et~al.(2024)Qin, Liang, Ye, et~al.]{qin2023toolllm}
+Yujia Qin, Shihao Liang, Yining Ye, et~al.
+\newblock Toolllm: Facilitating large language models to master 16000+
+  real-world apis.
+\newblock In \emph{ICLR}, 2024.
 
-\bibitem{muller1998qualitative}
-Philippe M{\"u}ller.
-\newblock Qualitative spatial reasoning about line segments.
-\newblock {\em ECAI}, pages 234--238, 1998.
+\bibitem[Gao et~al.(2023)]{gao2023pal}
+Luyu Gao et~al.
+\newblock Pal: Program-aided language models.
+\newblock \emph{International Conference on Machine Learning}, 2023.
 
-\bibitem{nakano2021webgpt}
+\bibitem[Chen et~al.(2022)]{chen2022program}
+Wenhu Chen et~al.
+\newblock Program of thoughts prompting: Disentangling computation from
+  reasoning for numerical reasoning tasks.
+\newblock \emph{arXiv preprint arXiv:2211.12588}, 2022.
+
+\bibitem[Lewis et~al.(2020)Lewis, Perez, Piktus, Petroni, Karpukhin, Goyal,
+  Kuttler, Lewis, Yih, Rocktaschel, et~al.]{lewis2020rag}
+Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir
+  Karpukhin, Naman Goyal, Heinrich Kuttler, Mike Lewis, Wen-tau Yih, Tim
+  Rocktaschel, et~al.
+\newblock Retrieval-augmented generation for knowledge-intensive nlp tasks.
+\newblock \emph{Advances in Neural Information Processing Systems},
+  33:\penalty0 9459--9474, 2020.
+
+\bibitem[Nakano et~al.(2021)Nakano, Hilton, Balaji, Wu, Ouyang, Kim, Hesse,
+  Jain, Kosaraju, Saunders, et~al.]{nakano2021webgpt}
 Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina
   Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders,
   et~al.
 \newblock Webgpt: Browser-assisted question-answering with human feedback.
-\newblock {\em arXiv preprint arXiv:2112.09332}, 2021.
+\newblock \emph{arXiv preprint arXiv:2112.09332}, 2021.
 
-\bibitem{nazari2018reinforcement}
-Mohammadreza Nazari et~al.
-\newblock Reinforcement learning for solving the vehicle routing problem.
-\newblock {\em NeurIPS}, 2018.
+\bibitem[Ahn et~al.(2022)Ahn, Brohan, Brown, Chebotar, Cortes, David, Finn, Fu,
+  Gober, Gopalakrishnan, et~al.]{ahn2022saycan}
+Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar, Omar Cortes, Byron
+  David, Chelsea Finn, Chuyuan Fu, Keerthana Gober, Karol Gopalakrishnan,
+  et~al.
+\newblock Do as i can, not as i say: Grounding language in robotic affordances.
+\newblock \emph{arXiv preprint arXiv:2204.01691}, 2022.
 
-\bibitem{newcombe2010picture}
-Nora~S Newcombe.
-\newblock Picture this: Increasing math and science learning by improving
-  spatial thinking.
-\newblock {\em American Educator}, 34(2):29, 2010.
+\bibitem[Brohan et~al.(2023)Brohan, Brown, Carbajal, Chebotar, Chen,
+  Choromanski, Ding, Driess, Dubey, Finn, et~al.]{brohan2023rt2}
+Anthony Brohan, Noah Brown, Justice Carbajal, Yevgen Chebotar, Xi~Chen,
+  Krzysztof Choromanski, Tianli Ding, Danny Driess, Avinava Dubey, Chelsea
+  Finn, et~al.
+\newblock Rt-2: Vision-language-action models transfer web knowledge to robotic
+  control.
+\newblock \emph{arXiv preprint arXiv:2307.15818}, 2023.
 
-\bibitem{newman2018networks}
-Mark Newman.
-\newblock {\em Networks}.
-\newblock Oxford University Press, 2018.
+\bibitem[Imani et~al.(2023)]{imani2023mathprompter}
+Shima Imani et~al.
+\newblock Mathprompter: Mathematical reasoning using large language models.
+\newblock \emph{ACL}, 2023.
 
-\bibitem{northcutt2021pervasive}
-Curtis~G Northcutt et~al.
-\newblock Pervasive label errors in test sets destabilize machine learning
-  benchmarks.
-\newblock {\em NeurIPS}, 2021.
+\bibitem[Zhou et~al.(2023{\natexlab{a}})]{zhou2023solving}
+Aojun Zhou et~al.
+\newblock Solving challenging math word problems using gpt-4 code interpreter
+  with code-based self-verification.
+\newblock \emph{arXiv preprint arXiv:2308.07921}, 2023{\natexlab{a}}.
 
-\bibitem{achiam2023gpt4}
-OpenAI.
-\newblock Gpt-4 technical report.
-\newblock {\em arXiv preprint arXiv:2303.08774}, 2023.
+\bibitem[Zhou et~al.(2023{\natexlab{b}})Zhou, Xu, Zhu, Zhou, Lo, Sridhar,
+  Cheng, Bisk, Fried, Alon, et~al.]{zhou2023webarena}
+Shuyan Zhou, Frank~F Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar,
+  Xianyi Cheng, Yonatan Bisk, Daniel Fried, Uri Alon, et~al.
+\newblock Webarena: A realistic web environment for building autonomous agents.
+\newblock \emph{arXiv preprint arXiv:2307.13854}, 2023{\natexlab{b}}.
 
-\bibitem{patel2021mapping}
-Roma Patel and Ellie Pavlick.
-\newblock Mapping language models to grounded conceptual spaces.
-\newblock {\em ICLR}, 2021.
+\bibitem[Jimenez et~al.(2024)Jimenez, Yang, Wettig, Yao, Pei, Press, and
+  Narasimhan]{jimenez2024swebench}
+Carlos~E Jimenez, John Yang, Alexander Wettig, Shunyu Yao, Kexin Pei, Ofir
+  Press, and Karthik Narasimhan.
+\newblock Swe-bench: Can language models resolve real-world github issues?
+\newblock \emph{arXiv preprint arXiv:2310.06770}, 2024.
 
-\bibitem{piaget1956child}
-Jean Piaget and B{\"a}rbel Inhelder.
-\newblock The child's conception of space.
-\newblock 1956.
+\bibitem[Deng et~al.(2024)Deng, Gu, Zheng, Chen, Stevens, Wang, Sun, and
+  Su]{deng2024mind2web}
+Xiang Deng, Yu~Gu, Boyuan Zheng, Shijie Chen, Sam Stevens, Boshi Wang, Huan
+  Sun, and Yu~Su.
+\newblock Mind2web: Towards a generalist agent for the web.
+\newblock \emph{arXiv preprint arXiv:2306.06070}, 2024.
 
-\bibitem{pomerleau1988alvinn}
-Dean~A Pomerleau.
-\newblock Alvinn: An autonomous land vehicle in a neural network.
-\newblock 1988.
+\bibitem[Wu et~al.(2020)]{wu2020comprehensive}
+Zonghan Wu et~al.
+\newblock A comprehensive survey on graph neural networks.
+\newblock \emph{IEEE Transactions on Neural Networks and Learning Systems},
+  2020.
 
-\bibitem{preparata1985computational}
-Franco~P Preparata and Michael Shamos.
-\newblock {\em Computational geometry: An introduction}.
-\newblock Springer, 1985.
+\bibitem[Zhou et~al.(2020)]{zhou2020graph}
+Jie Zhou et~al.
+\newblock Graph neural networks: A review of methods and applications.
+\newblock \emph{AI Open}, 2020.
 
-\bibitem{press2022measuring}
-Ofir Press et~al.
-\newblock Measuring and narrowing the compositionality gap in language models.
-\newblock {\em arXiv preprint arXiv:2210.03350}, 2022.
+\bibitem[Battaglia et~al.(2018)Battaglia, Hamrick, Bapst,
+  et~al.]{battaglia2018relational}
+Peter~W Battaglia, Jessica~B Hamrick, Victor Bapst, et~al.
+\newblock Relational inductive biases, deep learning, and graph networks.
+\newblock \emph{arXiv preprint arXiv:1806.01261}, 2018.
 
-\bibitem{qi2017pointnet}
+\bibitem[Gilmer et~al.(2017)Gilmer, Schoenholz, Riley, Vinyals, and
+  Dahl]{gilmer2017neural}
+Justin Gilmer, Samuel~S Schoenholz, Patrick~F Riley, Oriol Vinyals, and
+  George~E Dahl.
+\newblock Neural message passing for quantum chemistry.
+\newblock In \emph{ICML}, 2017.
+
+\bibitem[Li et~al.(2018)Li, Yu, Shahabi, and Liu]{li2018diffusion}
+Yaguang Li, Rose Yu, Cyrus Shahabi, and Yan Liu.
+\newblock Diffusion convolutional recurrent neural network: Data-driven traffic
+  forecasting.
+\newblock In \emph{ICLR}, 2018.
+
+\bibitem[Yu et~al.(2018)Yu, Yin, and Zhu]{yu2018spatio}
+Bing Yu, Haoteng Yin, and Zhanxing Zhu.
+\newblock Spatio-temporal graph convolutional networks: A deep learning
+  framework for traffic forecasting.
+\newblock In \emph{IJCAI}, 2018.
+
+\bibitem[Qi et~al.(2017)Qi, Su, Mo, and Guibas]{qi2017pointnet}
 Charles~R Qi, Hao Su, Kaichun Mo, and Leonidas~J Guibas.
 \newblock Pointnet: Deep learning on point sets for 3d classification and
   segmentation.
-\newblock In {\em CVPR}, 2017.
+\newblock In \emph{CVPR}, 2017.
 
-\bibitem{qin2023toolllm}
-Yujia Qin, Shihao Liang, Yining Ye, et~al.
-\newblock Toolllm: Facilitating large language models to master 16000+
-  real-world apis.
-\newblock In {\em ICLR}, 2024.
+\bibitem[Wang et~al.(2019)Wang, Sun, Liu, Sarma, Bronstein, and
+  Solomon]{wang2019dynamic}
+Yue Wang, Yongbin Sun, Ziwei Liu, Sanjay~E Sarma, Michael~M Bronstein, and
+  Justin~M Solomon.
+\newblock Dynamic graph cnn for learning on point clouds.
+\newblock In \emph{ACM TOG}, 2019.
 
-\bibitem{raji2021ai}
-Inioluwa~Deborah Raji, Emily~M Bender, Amandalynne Paullada, Emily Denton, and
-  Alex Hanna.
-\newblock Ai and the everything in the whole wide world benchmark.
-\newblock {\em NeurIPS Datasets and Benchmarks}, 2021.
-
-\bibitem{randell1992spatial}
-David~A Randell, Zhan Cui, and Anthony~G Cohn.
-\newblock A spatial logic based on regions and connection.
-\newblock {\em KR}, 92:165--176, 1992.
-
-\bibitem{renz2007qualitative}
-Jochen Renz and Bernhard Nebel.
-\newblock Qualitative spatial reasoning using constraint calculi.
-\newblock {\em Handbook of Spatial Logics}, pages 161--215, 2007.
-
-\bibitem{romera2024mathematical}
-Bernardino Romera-Paredes et~al.
-\newblock Mathematical discoveries from program search with large language
-  models.
-\newblock {\em Nature}, 625(7995):468--475, 2024.
-
-\bibitem{rossi2006handbook}
-Francesca Rossi, Peter Van~Beek, and Toby Walsh.
-\newblock {\em Handbook of constraint programming}.
-\newblock Elsevier, 2006.
-
-\bibitem{savva2019habitat}
-Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao, Erik Wijmans,
-  Bhavana Jain, Julian Straub, Jia Liu, Vladlen Koltun, Jitendra Malik, et~al.
-\newblock Habitat: A platform for embodied ai research.
-\newblock In {\em Proceedings of the IEEE/CVF International Conference on
-  Computer Vision}, pages 9339--9347, 2019.
-
-\bibitem{schick2023toolformer}
-Timo Schick, Jane Dwivedi-Yu, Roberto Dessi, Roberta Raileanu, Maria Lomeli,
-  Luke Zettlemoyer, Nicola Cancedda, and Thomas Scialom.
-\newblock Toolformer: Language models can teach themselves to use tools.
-\newblock {\em arXiv preprint arXiv:2302.04761}, 2023.
-
-\bibitem{schockaert2008fuzzy}
-Steven Schockaert, Martine De~Cock, and Etienne~E Kerre.
-\newblock Fuzzy spatial reasoning.
-\newblock {\em Handbook of Research on Fuzzy Information Processing in
-  Databases}, pages 102--133, 2008.
-
-\bibitem{schutt2017schnet}
+\bibitem[Sch{\"u}tt et~al.(2017)Sch{\"u}tt, Kindermans, Sauceda~Felix, Chmiela,
+  Tkatchenko, and M{\"u}ller]{schutt2017schnet}
 Kristof Sch{\"u}tt, Pieter-Jan Kindermans, Huziel~Enoc Sauceda~Felix, Stefan
   Chmiela, Alexandre Tkatchenko, and Klaus-Robert M{\"u}ller.
 \newblock Schnet: A continuous-filter convolutional neural network for modeling
   quantum interactions.
-\newblock {\em NeurIPS}, 30, 2017.
+\newblock \emph{NeurIPS}, 30, 2017.
 
-\bibitem{shehzad2024graphtransformers}
-Ahsan Shehzad, Feng Xia, Shagufta Abid, Chao Peng, Shuo Yu, Dongyu Zhang, and
-  Karin Verspoor.
-\newblock Graph transformers: A survey.
-\newblock {\em arXiv preprint arXiv:2407.09777}, 2024.
+\bibitem[Klicpera et~al.(2020)Klicpera, Gro{\ss}, and
+  G{\"u}nnemann]{klicpera2020directional}
+Johannes Klicpera, Janek Gro{\ss}, and Stephan G{\"u}nnemann.
+\newblock Directional message passing for molecular graphs.
+\newblock In \emph{ICLR}, 2020.
 
-\bibitem{shepard1971mental}
-Roger~N Shepard and Jacqueline Metzler.
-\newblock Mental rotation of three-dimensional objects.
-\newblock {\em Science}, 171(3972):701--703, 1971.
+\bibitem[Seo et~al.(2018)Seo, Defferrard, Vandergheynst, and
+  Bresson]{seo2018structured}
+Youngjoo Seo, Micha{\"e}l Defferrard, Pierre Vandergheynst, and Xavier Bresson.
+\newblock Structured sequence modeling with graph convolutional recurrent
+  networks.
+\newblock In \emph{International Conference on Neural Information Processing},
+  pages 362--373, 2018.
 
-\bibitem{shi2022stepgame}
-Zhengxiang Shi et~al.
-\newblock Stepgame: A new benchmark for robust multi-hop spatial reasoning in
-  texts.
-\newblock {\em AAAI}, 2022.
+\bibitem[Jain et~al.(2016)Jain, Zamir, Savarese, and
+  Saxena]{jain2016structural}
+Ashesh Jain, Amir~R Zamir, Silvio Savarese, and Ashutosh Saxena.
+\newblock Structural-rnn: Deep learning on spatio-temporal graphs.
+\newblock In \emph{CVPR}, 2016.
 
-\bibitem{srivastava2022beyond}
-Aarohi Srivastava et~al.
-\newblock Beyond the imitation game: Quantifying and extrapolating the
-  capabilities of language models.
-\newblock {\em arXiv preprint arXiv:2206.04615}, 2022.
+\bibitem[Derrow-Pinion et~al.(2021)Derrow-Pinion, She, Wong, Lange, Hester,
+  Perez, Nunkesser, Lee, Guo, Wiltshire, et~al.]{derrow2021attention}
+Austin Derrow-Pinion, Jennifer She, David Wong, Oliver Lange, Todd Hester, Luis
+  Perez, Marc Nunkesser, Seongjae Lee, Xueying Guo, Brett Wiltshire, et~al.
+\newblock Eta prediction with graph neural networks in google maps.
+\newblock In \emph{CIKM}, 2021.
 
-\bibitem{suhr2019nlvr2}
-Alane Suhr, Stephanie Zhou, Ally Zhang, Iris Zhang, Huajun Bai, and Yoav Artzi.
-\newblock A corpus for reasoning about natural language grounded in
-  photographs.
-\newblock {\em arXiv preprint arXiv:1811.00491}, 2019.
+\bibitem[Guo et~al.(2019)Guo, Lin, Feng, Song, and Wan]{guo2019attention}
+Shengnan Guo, Youfang Lin, Ning Feng, Chao Song, and Huaiyu Wan.
+\newblock Attention based spatial-temporal graph convolutional networks for
+  traffic flow forecasting.
+\newblock In \emph{AAAI}, 2019.
 
-\bibitem{sukhbaatar2015end}
-Sainbayar Sukhbaatar et~al.
-\newblock End-to-end memory networks.
-\newblock In {\em NeurIPS}, 2015.
+\bibitem[Zheng et~al.(2020)Zheng, Fan, Wang, and Qi]{zheng2020gman}
+Chuanpan Zheng, Xiaoliang Fan, Cheng Wang, and Jianzhong Qi.
+\newblock Gman: A graph multi-attention network for traffic prediction.
+\newblock 2020.
 
-\bibitem{palantir2024maven}
-Palantir Technologies.
-\newblock Project maven: Ai for defense.
-\newblock \url{https://www.palantir.com}, 2024.
+\bibitem[Bai et~al.(2020)Bai, Yao, Li, Wang, and Wang]{bai2020adaptive}
+Lei Bai, Lina Yao, Can Li, Xianzhi Wang, and Can Wang.
+\newblock Adaptive graph convolutional recurrent network for traffic
+  forecasting.
+\newblock In \emph{NeurIPS}, 2020.
 
-\bibitem{touvron2023llama}
-Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne
-  Lachaux, Timothee Lacroix, Baptiste Roziere, Naman Goyal, Eric Hambro, Faisal
-  Azhar, et~al.
-\newblock Llama: Open and efficient foundation language models.
-\newblock {\em arXiv preprint arXiv:2302.13971}, 2023.
+\bibitem[Mao et~al.(2019)]{mao2019learning}
+Wei Mao et~al.
+\newblock Learning trajectory dependencies for human motion prediction.
+\newblock \emph{ICCV}, 2019.
 
-\bibitem{trinh2024solving}
-Trieu~H Trinh et~al.
-\newblock Solving olympiad geometry without human demonstrations.
-\newblock {\em Nature}, 625(7995):476--482, 2024.
+\bibitem[Li et~al.(2020)]{li2020dynamic}
+Maosen Li et~al.
+\newblock Dynamic multiscale graph neural networks for 3d skeleton based human
+  motion prediction.
+\newblock \emph{CVPR}, 2020.
 
-\bibitem{tversky2005functional}
-Barbara Tversky.
-\newblock Functional significance of visuospatial representations.
-\newblock {\em Handbook of Higher-Level Visuospatial Thinking}, pages 1--34,
-  2005.
+\bibitem[Cui et~al.(2020)Cui, Ke, Pu, and Wang]{cui2020learning}
+Zhiyong Cui, Ruimin Ke, Ziyuan Pu, and Yinhai Wang.
+\newblock Learning dynamic and hierarchical traffic spatiotemporal features
+  with transformer.
+\newblock 2020.
 
-\bibitem{UNHabitat2025}
-{UN-Habitat}.
-\newblock Ai for spatial mapping and analysis: Geoai toolkit for urban
-  planners.
-\newblock Technical report, United Nations Human Settlements Programme
-  (UN-Habitat), 2025.
+\bibitem[He et~al.(2023)He, Bresson, Laurent, Perold, LeCun, and
+  Hooi]{he2023explanations}
+Xiaoxin He, Xavier Bresson, Thomas Laurent, Adam Perold, Yann LeCun, and Bryan
+  Hooi.
+\newblock Explanations as features: Llm-based features for text-attributed
+  graphs.
+\newblock \emph{arXiv preprint arXiv:2305.19523}, 2023.
 
-\bibitem{urrutia2000art}
-Jorge Urrutia.
-\newblock Art gallery and illumination problems.
-\newblock {\em Handbook of Computational Geometry}, pages 973--1027, 2000.
+\bibitem[Chen et~al.(2023)Chen, Mao, Li, Jin, Wen, Wei, Wang, Yin, Fan, Liu,
+  and Tang]{chen2023label}
+Zhikai Chen, Haitao Mao, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang
+  Wang, Dawei Yin, Wenqi Fan, Hui Liu, and Jiliang Tang.
+\newblock Label-free node classification on graphs with large language models.
+\newblock In \emph{arXiv}, 2023.
 
-\bibitem{uttal2013malleability}
-David~H Uttal et~al.
-\newblock The malleability of spatial skills: A meta-analysis of training
-  studies.
-\newblock {\em Psychological Bulletin}, 139(2):352, 2013.
+\bibitem[Qian et~al.(2023)Qian, Tang, Yang, Liang, and Liu]{qian2023can}
+Chen Qian, Huayi Tang, Zhirui Yang, Hong Liang, and Yang Liu.
+\newblock Can large language models empower molecular property prediction?
+\newblock In \emph{arXiv}, 2023.
 
-\bibitem{vandenberg1978mental}
-Steven~G Vandenberg and Allan~R Kuse.
-\newblock Mental rotations, a group test of three-dimensional spatial
-  visualization.
-\newblock {\em Perceptual and Motor Skills}, 47(2):599--604, 1978.
+\bibitem[Deza and Deza(2009)]{deza2009encyclopedia}
+Michel~Marie Deza and Elena Deza.
+\newblock \emph{Encyclopedia of distances}.
+\newblock Springer, 2009.
 
-\bibitem{vazirani2001approximation}
-Vijay~V Vazirani.
-\newblock {\em Approximation algorithms}.
-\newblock Springer, 2001.
+\bibitem[Black(2006)]{black2006introduction}
+Paul~E Black.
+\newblock \emph{Introduction to discrete mathematics and algorithms}.
+\newblock NIST, 2006.
 
-\bibitem{velickovic2018gat}
-Petar Velickovic, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro
-  Lio, and Yoshua Bengio.
-\newblock Graph attention networks.
-\newblock {\em arXiv preprint arXiv:1710.10903}, 2018.
+\bibitem[Hart et~al.(1968)Hart, Nilsson, and Raphael]{hart1968formal}
+Peter~E Hart, Nils~J Nilsson, and Bertram Raphael.
+\newblock A formal basis for the heuristic determination of minimum cost paths.
+\newblock \emph{IEEE Transactions on Systems Science and Cybernetics},
+  4\penalty0 (2):\penalty0 100--107, 1968.
 
-\bibitem{wai2009spatial}
-Jonathan Wai, David Lubinski, and Camilla~P Benbow.
-\newblock Spatial ability for stem domains: Aligning over 50 years of
-  cumulative psychological knowledge solidifies its importance.
-\newblock {\em Journal of Educational Psychology}, 101(4):817, 2009.
+\bibitem[Dijkstra(1959)]{dijkstra1959note}
+Edsger~W Dijkstra.
+\newblock A note on two problems in connexion with graphs.
+\newblock \emph{Numerische Mathematik}, 1\penalty0 (1):\penalty0 269--271,
+  1959.
 
-\bibitem{waller2007landmarks}
-David Waller and Yvonne Lippa.
-\newblock Landmarks as beacons and associative cues: Their role in route
-  learning.
-\newblock {\em Memory \& Cognition}, 35(5):910--924, 2007.
+\bibitem[LaValle(2006)]{lavalle2006planning}
+Steven~M LaValle.
+\newblock \emph{Planning algorithms}.
+\newblock Cambridge university press, 2006.
 
-\bibitem{wang2021power}
-Jianhui Wang et~al.
-\newblock Power system state estimation via deep learning.
-\newblock {\em IEEE Transactions on Smart Grid}, 12(2):1152--1162, 2021.
+\bibitem[Thrun et~al.(2005)Thrun, Burgard, and Fox]{thrun2005probabilistic}
+Sebastian Thrun, Wolfram Burgard, and Dieter Fox.
+\newblock \emph{Probabilistic robotics}.
+\newblock MIT press, 2005.
 
-\bibitem{wang2023large}
-Peiyi Wang et~al.
-\newblock Large language models are not fair evaluators.
-\newblock {\em arXiv preprint arXiv:2305.17926}, 2023.
+\bibitem[O'Rourke(2018)]{o2018computational}
+Joseph O'Rourke.
+\newblock \emph{Computational geometry in C}.
+\newblock Cambridge University Press, 2018.
 
-\bibitem{wang2020deep}
-Senzhang Wang, Jiannong Cao, and Philip~S Yu.
-\newblock Deep learning for spatio-temporal data mining: A survey.
-\newblock {\em IEEE TKDE}, 2020.
+\bibitem[Ghosh(2007)]{ghosh2007visibility}
+Subir~Kumar Ghosh.
+\newblock \emph{Visibility algorithms in the plane}.
+\newblock Cambridge University Press, 2007.
 
-\bibitem{wang2019dynamic}
-Yue Wang, Yongbin Sun, Ziwei Liu, Sanjay~E Sarma, Michael~M Bronstein, and
-  Justin~M Solomon.
-\newblock Dynamic graph cnn for learning on point clouds.
-\newblock In {\em ACM TOG}, 2019.
+\bibitem[Jain and Dubes(1988)]{jain1988algorithms}
+Anil~K Jain and Richard~C Dubes.
+\newblock \emph{Algorithms for clustering data}.
+\newblock Prentice-Hall, 1988.
 
-\bibitem{wei2022chain}
-Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia,
-  Ed~Chi, Quoc Le, and Denny Zhou.
-\newblock Chain-of-thought prompting elicits reasoning in large language
-  models.
-\newblock {\em Advances in Neural Information Processing Systems},
-  35:24824--24837, 2022.
+\bibitem[Bishop(2006)]{bishop2006pattern}
+Christopher~M Bishop.
+\newblock \emph{Pattern recognition and machine learning}.
+\newblock Springer, 2006.
 
-\bibitem{weston2015towards}
-Jason Weston, Antoine Bordes, Sumit Chopra, Alexander~M Rush, Bart
-  Van~Merri{\"e}nboer, Armand Joulin, and Tomas Mikolov.
-\newblock Towards ai-complete question answering: A set of prerequisite toy
-  tasks.
-\newblock {\em arXiv preprint arXiv:1502.05698}, 2015.
+\bibitem[Newman(2018)]{newman2018networks}
+Mark Newman.
+\newblock \emph{Networks}.
+\newblock Oxford University Press, 2018.
 
-\bibitem{wolbers2010determines}
-Thomas Wolbers and Mary Hegarty.
-\newblock What determines our navigational abilities?
-\newblock {\em Trends in Cognitive Sciences}, 14(3):138--146, 2010.
+\bibitem[Barab{\'a}si(2016)]{barabasi2016network}
+Albert-L{\'a}szl{\'o} Barab{\'a}si.
+\newblock \emph{Network science}.
+\newblock Cambridge University Press, 2016.
 
-\bibitem{wu2019graphwavenet}
-Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, and Chengqi Zhang.
-\newblock Graph wavenet for deep spatial-temporal graph modeling.
-\newblock In {\em Proceedings of the Twenty-Eighth International Joint
-  Conference on Artificial Intelligence}, pages 1907--1913, 2019.
+\bibitem[Russell and Norvig(2010)]{russell2010artificial}
+Stuart Russell and Peter Norvig.
+\newblock \emph{Artificial intelligence: a modern approach}.
+\newblock Prentice Hall, 2010.
 
-\bibitem{Xu2022AFF}
-Yongyang Xu, Bo~Zhou, Shuai Jin, Xuejing Xie, and Nan He.
-\newblock A framework for urban land use classification by integrating the
-  spatial context of points of interest and graph convolutional neural network
-  method.
-\newblock {\em Comput. Environ. Urban Syst.}, 94:101807, 2022.
+\bibitem[Dechter(2003)]{dechter2003constraint}
+Rina Dechter.
+\newblock \emph{Constraint processing}.
+\newblock Morgan Kaufmann, 2003.
 
-\bibitem{yao2023tree}
-Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas~L Griffiths, Yuan Cao,
-  and Karthik Narasimhan.
-\newblock Tree of thoughts: Deliberate problem solving with large language
-  models.
-\newblock {\em arXiv preprint arXiv:2305.10601}, 2023.
+\bibitem[Boyd and Vandenberghe(2004)]{boyd2004convex}
+Stephen Boyd and Lieven Vandenberghe.
+\newblock \emph{Convex optimization}.
+\newblock Cambridge University Press, 2004.
 
-\bibitem{yao2023react}
-Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan,
-  and Yuan Cao.
-\newblock React: Synergizing reasoning and acting in language models.
-\newblock {\em arXiv preprint arXiv:2210.03629}, 2023.
+\bibitem[Allen(1983)]{allen1983maintaining}
+James~F Allen.
+\newblock Maintaining knowledge about temporal intervals.
+\newblock \emph{Communications of the ACM}, 1983.
 
-\bibitem{yu2018stgcn}
-Bing Yu, Haoteng Yin, and Zhanxing Zhu.
-\newblock Spatio-temporal graph convolutional networks: A deep learning
-  framework for traffic forecasting.
-\newblock In {\em Proceedings of the Twenty-Seventh International Joint
-  Conference on Artificial Intelligence}, pages 3634--3640, 2018.
+\bibitem[Longley et~al.(2015)]{longley2015geographic}
+Paul~A Longley et~al.
+\newblock \emph{Geographic information science and systems}.
+\newblock John Wiley \& Sons, 2015.
 
-\bibitem{zeng2018learning}
-Andy Zeng et~al.
-\newblock Learning synergies between pushing and grasping with self-supervised
-  deep reinforcement learning.
-\newblock {\em IROS}, 2018.
-
-\bibitem{zhang2019deep}
-Chaoyun Zhang et~al.
-\newblock Deep learning for mobile network traffic prediction.
-\newblock {\em IEEE Network}, 33(6):48--55, 2019.
-
-\bibitem{zhang2025geoanalystbench}
-Wei Zhang et~al.
-\newblock Geoanalystbench: A benchmark for gis workflow generation.
-\newblock {\em Transactions in GIS}, 2025.
-
-\bibitem{zhang2023graph}
-Yiwen Zhang et~al.
-\newblock Graph-based planning for embodied agents.
-\newblock {\em arXiv preprint}, 2023.
-
-\bibitem{zhao2021calibrate}
-Zihao Zhao et~al.
-\newblock Calibrate before use: Improving few-shot performance of language
-  models.
-\newblock {\em ICML}, 2021.
-
-\bibitem{zheng2023judging}
-Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao
-  Zhuang, Zi~Lin, Zhuohan Li, Dacheng Li, Eric Xing, et~al.
-\newblock Judging llm-as-a-judge with mt-bench and chatbot arena.
-\newblock {\em Advances in Neural Information Processing Systems}, 36, 2023.
-
-\bibitem{zhou2023solving}
-Aojun Zhou et~al.
-\newblock Solving challenging math word problems using gpt-4 code interpreter
-  with code-based self-verification.
-\newblock {\em arXiv preprint arXiv:2308.07921}, 2023.
-
-\bibitem{zhou2023webarena}
-Shuyan Zhou, Frank~F Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar,
-  Xianyi Cheng, Yonatan Bisk, Daniel Fried, Uri Alon, et~al.
-\newblock Webarena: A realistic web environment for building autonomous agents.
-\newblock {\em arXiv preprint arXiv:2307.13854}, 2023.
+\bibitem[Goodchild(2007)]{goodchild2007citizens}
+Michael~F Goodchild.
+\newblock Citizens as sensors: the world of volunteered geography.
+\newblock \emph{GeoJournal}, 2007.
 
 \end{thebibliography}

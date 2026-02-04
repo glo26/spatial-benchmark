@@ -1,15 +1,11 @@
 This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: spatialeval.aux
-The style file: plain.bst
+The style file: unsrtnat.bst
 Database file #1: references_full.bib
 Repeated entry---line 17420 of file references_full.bib
  : @article{randell1992spatial
  :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 17515 of file references_full.bib
- : @article{zheng2023judging
- :                          ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 17523 of file references_full.bib
  : @misc{palantir2024maven
@@ -47,17 +43,9 @@ Repeated entry---line 17974 of file references_full.bib
  : @book{goodchild2007citizens
  :                            ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 17991 of file references_full.bib
- : @article{raji2021ai
- :                    ,
-I'm skipping whatever remains of this entry
 Repeated entry---line 18053 of file references_full.bib
  : @article{wang2020deep
  :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 18063 of file references_full.bib
- : @article{chen2020application
- :                             ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 18121 of file references_full.bib
  : @article{chen2021evaluating
@@ -95,50 +83,89 @@ Repeated entry---line 18394 of file references_full.bib
  : @article{bibri2017smart
  :                        ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 18433 of file references_full.bib
+ : @article{wu2020comprehensive
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18440 of file references_full.bib
+ : @article{zhou2020graph
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18468 of file references_full.bib
+ : @inproceedings{seo2018structured
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18489 of file references_full.bib
+ : @inproceedings{guo2019attention
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18496 of file references_full.bib
+ : @inproceedings{zheng2020gman
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18517 of file references_full.bib
+ : @inproceedings{he2023explanations
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18545 of file references_full.bib
+ : @book{lavalle2006planning
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18552 of file references_full.bib
+ : @book{thrun2005probabilistic
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 18580 of file references_full.bib
+ : @book{russell2010artificial
+ :                            ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "bertsimas1997introduction"
+Warning--empty journal in pomerleau1988alvinn
 Warning--can't use both volume and number fields in batty2013big
 Warning--empty publisher in batty2013big
-Warning--empty journal in galton2000qualitative
 Warning--empty journal in piaget1956child
-Warning--empty journal in pomerleau1988alvinn
-You've used 171 entries,
-            2118 wiz_defined-function locations,
-            1297 strings with 31365 characters,
-and the built_in function-call counts, 57382 in all, are:
-= -- 5448
-> -- 3439
-< -- 25
-+ -- 1372
-- -- 1186
-* -- 3901
-:= -- 9990
-add.period$ -- 514
-call.type$ -- 171
-change.case$ -- 1026
-chr.to.int$ -- 0
-cite$ -- 176
-duplicate$ -- 2063
-empty$ -- 3926
-format.name$ -- 1186
-if$ -- 11646
-int.to.chr$ -- 0
-int.to.str$ -- 171
-missing$ -- 177
-newline$ -- 858
-num.names$ -- 342
-pop$ -- 1066
+Warning--empty journal in galton2000qualitative
+Warning--empty journal in zheng2020gman
+Warning--empty booktitle in cui2020learning
+You've used 152 entries,
+            2481 wiz_defined-function locations,
+            1258 strings with 29245 characters,
+and the built_in function-call counts, 58571 in all, are:
+= -- 4455
+> -- 3774
+< -- 112
++ -- 1437
+- -- 1130
+* -- 4252
+:= -- 9642
+add.period$ -- 457
+call.type$ -- 152
+change.case$ -- 288
+chr.to.int$ -- 149
+cite$ -- 159
+duplicate$ -- 3053
+empty$ -- 5152
+format.name$ -- 1357
+if$ -- 12348
+int.to.chr$ -- 4
+int.to.str$ -- 153
+missing$ -- 164
+newline$ -- 769
+num.names$ -- 456
+pop$ -- 1449
 preamble$ -- 1
-purify$ -- 865
+purify$ -- 152
 quote$ -- 0
-skip$ -- 1632
+skip$ -- 1886
 stack$ -- 0
-substring$ -- 2657
-swap$ -- 406
-text.length$ -- 25
+substring$ -- 1760
+swap$ -- 508
+text.length$ -- 20
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 662
-warning$ -- 5
-while$ -- 491
-width$ -- 174
-write$ -- 1781
-(There were 23 error messages)
+type$ -- 1016
+warning$ -- 7
+while$ -- 425
+width$ -- 0
+write$ -- 1884
+(There were 29 error messages)
