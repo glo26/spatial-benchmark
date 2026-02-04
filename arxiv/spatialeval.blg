@@ -3,44 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: spatialeval.aux
 The style file: plain.bst
 Database file #1: references.bib
-You've used 12 entries,
+You've used 13 entries,
             2118 wiz_defined-function locations,
-            555 strings with 5926 characters,
-and the built_in function-call counts, 3285 in all, are:
-= -- 299
-> -- 187
+            560 strings with 6146 characters,
+and the built_in function-call counts, 3649 in all, are:
+= -- 330
+> -- 220
 < -- 0
-+ -- 76
-- -- 62
-* -- 184
-:= -- 592
-add.period$ -- 36
-call.type$ -- 12
-change.case$ -- 62
++ -- 89
+- -- 74
+* -- 213
+:= -- 661
+add.period$ -- 39
+call.type$ -- 13
+change.case$ -- 71
 chr.to.int$ -- 0
-cite$ -- 12
-duplicate$ -- 123
-empty$ -- 260
-format.name$ -- 62
-if$ -- 669
+cite$ -- 13
+duplicate$ -- 133
+empty$ -- 277
+format.name$ -- 74
+if$ -- 737
 int.to.chr$ -- 0
-int.to.str$ -- 12
-missing$ -- 8
-newline$ -- 63
-num.names$ -- 24
-pop$ -- 84
+int.to.str$ -- 13
+missing$ -- 9
+newline$ -- 68
+num.names$ -- 26
+pop$ -- 93
 preamble$ -- 1
-purify$ -- 51
+purify$ -- 59
 quote$ -- 0
-skip$ -- 92
+skip$ -- 99
 stack$ -- 0
-substring$ -- 87
-swap$ -- 15
+substring$ -- 92
+swap$ -- 16
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 48
+type$ -- 52
 warning$ -- 0
-while$ -- 26
-width$ -- 14
-write$ -- 124
+while$ -- 28
+width$ -- 15
+write$ -- 134

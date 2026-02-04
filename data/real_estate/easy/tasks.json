@@ -1,0 +1,1627 @@
+[
+  {
+    "id": "RE-E-001",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 175 ft x 133 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 175,
+      "length": 133
+    },
+    "answer": 23275,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-002",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 167 ft x 113 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 167,
+      "length": 113
+    },
+    "answer": 18871,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-003",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 159 ft x 153 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 159,
+      "length": 153
+    },
+    "answer": 24327,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-004",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 60 ft x 147 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 60,
+      "length": 147
+    },
+    "answer": 8820,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-005",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 130 ft x 150 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 130,
+      "length": 150
+    },
+    "answer": 19500,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-006",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 196 ft x 187 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 196,
+      "length": 187
+    },
+    "answer": 36652,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-007",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 184 ft x 59 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 184,
+      "length": 59
+    },
+    "answer": 10856,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-008",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 183 ft x 77 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 183,
+      "length": 77
+    },
+    "answer": 14091,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-009",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 165 ft x 166 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 165,
+      "length": 166
+    },
+    "answer": 27390,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-010",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 60 ft x 112 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 60,
+      "length": 112
+    },
+    "answer": 6720,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-011",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 182 ft x 187 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 182,
+      "length": 187
+    },
+    "answer": 34034,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-012",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 151 ft x 60 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 151,
+      "length": 60
+    },
+    "answer": 9060,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-013",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 192 ft x 149 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 192,
+      "length": 149
+    },
+    "answer": 28608,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-014",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 182 ft x 62 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 182,
+      "length": 62
+    },
+    "answer": 11284,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-015",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 98 ft x 124 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 98,
+      "length": 124
+    },
+    "answer": 12152,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-016",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 162 ft x 151 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 162,
+      "length": 151
+    },
+    "answer": 24462,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-017",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 127 ft x 123 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 127,
+      "length": 123
+    },
+    "answer": 15621,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-018",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 168 ft x 92 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 168,
+      "length": 92
+    },
+    "answer": 15456,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-019",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 158 ft x 125 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 158,
+      "length": 125
+    },
+    "answer": 19750,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-020",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 63 ft x 182 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 63,
+      "length": 182
+    },
+    "answer": 11466,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-021",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 86 ft x 168 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 86,
+      "length": 168
+    },
+    "answer": 14448,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-022",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 165 ft x 73 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 165,
+      "length": 73
+    },
+    "answer": 12045,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-023",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 178 ft x 78 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 178,
+      "length": 78
+    },
+    "answer": 13884,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-024",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 96 ft x 199 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 96,
+      "length": 199
+    },
+    "answer": 19104,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-025",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 189 ft x 84 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 189,
+      "length": 84
+    },
+    "answer": 15876,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-026",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 150 ft x 155 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 150,
+      "length": 155
+    },
+    "answer": 23250,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-027",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 132 ft x 165 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 132,
+      "length": 165
+    },
+    "answer": 21780,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-028",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 56 ft x 95 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 56,
+      "length": 95
+    },
+    "answer": 5320,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-029",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 166 ft x 101 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 166,
+      "length": 101
+    },
+    "answer": 16766,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-030",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 166 ft x 73 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 166,
+      "length": 73
+    },
+    "answer": 12118,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-031",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 114 ft x 132 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 114,
+      "length": 132
+    },
+    "answer": 15048,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-032",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 91 ft x 81 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 91,
+      "length": 81
+    },
+    "answer": 7371,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-033",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 73 ft x 79 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 73,
+      "length": 79
+    },
+    "answer": 5767,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-034",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 165 ft x 142 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 165,
+      "length": 142
+    },
+    "answer": 23430,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-035",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 71 ft x 184 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 71,
+      "length": 184
+    },
+    "answer": 13064,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-036",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 148 ft x 180 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 148,
+      "length": 180
+    },
+    "answer": 26640,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-037",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 90 ft x 146 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 90,
+      "length": 146
+    },
+    "answer": 13140,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-038",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 190 ft x 147 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 190,
+      "length": 147
+    },
+    "answer": 27930,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-039",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 61 ft x 93 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 61,
+      "length": 93
+    },
+    "answer": 5673,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-040",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 135 ft x 194 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 135,
+      "length": 194
+    },
+    "answer": 26190,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-041",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 88 ft x 91 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 88,
+      "length": 91
+    },
+    "answer": 8008,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-042",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 87 ft x 95 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 87,
+      "length": 95
+    },
+    "answer": 8265,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-043",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 63 ft x 157 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 63,
+      "length": 157
+    },
+    "answer": 9891,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-044",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 128 ft x 129 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 128,
+      "length": 129
+    },
+    "answer": 16512,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-045",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 164 ft x 123 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 164,
+      "length": 123
+    },
+    "answer": 20172,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-046",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 96 ft x 80 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 96,
+      "length": 80
+    },
+    "answer": 7680,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-047",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 83 ft x 101 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 83,
+      "length": 101
+    },
+    "answer": 8383,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-048",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 50 ft x 114 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 50,
+      "length": 114
+    },
+    "answer": 5700,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-049",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 53 ft x 167 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 53,
+      "length": 167
+    },
+    "answer": 8851,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-050",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 177 ft x 177 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 177,
+      "length": 177
+    },
+    "answer": 31329,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-051",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 189 ft x 51 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 189,
+      "length": 51
+    },
+    "answer": 9639,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-052",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 176 ft x 110 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 176,
+      "length": 110
+    },
+    "answer": 19360,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-053",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 105 ft x 200 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 105,
+      "length": 200
+    },
+    "answer": 21000,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-054",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 171 ft x 166 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 171,
+      "length": 166
+    },
+    "answer": 28386,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-055",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 154 ft x 163 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 154,
+      "length": 163
+    },
+    "answer": 25102,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-056",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 70 ft x 51 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 70,
+      "length": 51
+    },
+    "answer": 3570,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-057",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 112 ft x 190 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 112,
+      "length": 190
+    },
+    "answer": 21280,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-058",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 121 ft x 192 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 121,
+      "length": 192
+    },
+    "answer": 23232,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-059",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 103 ft x 62 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 103,
+      "length": 62
+    },
+    "answer": 6386,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-060",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 97 ft x 87 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 97,
+      "length": 87
+    },
+    "answer": 8439,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-061",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 64 ft x 139 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 64,
+      "length": 139
+    },
+    "answer": 8896,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-062",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 59 ft x 87 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 59,
+      "length": 87
+    },
+    "answer": 5133,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-063",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 58 ft x 197 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 58,
+      "length": 197
+    },
+    "answer": 11426,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-064",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 126 ft x 134 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 126,
+      "length": 134
+    },
+    "answer": 16884,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-065",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 72 ft x 62 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 72,
+      "length": 62
+    },
+    "answer": 4464,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-066",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 77 ft x 156 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 77,
+      "length": 156
+    },
+    "answer": 12012,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-067",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 95 ft x 91 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 95,
+      "length": 91
+    },
+    "answer": 8645,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-068",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 122 ft x 196 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 122,
+      "length": 196
+    },
+    "answer": 23912,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-069",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 193 ft x 95 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 193,
+      "length": 95
+    },
+    "answer": 18335,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-070",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 166 ft x 198 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 166,
+      "length": 198
+    },
+    "answer": 32868,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-071",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 142 ft x 59 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 142,
+      "length": 59
+    },
+    "answer": 8378,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-072",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 73 ft x 126 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 73,
+      "length": 126
+    },
+    "answer": 9198,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-073",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 132 ft x 144 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 132,
+      "length": 144
+    },
+    "answer": 19008,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-074",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 147 ft x 67 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 147,
+      "length": 67
+    },
+    "answer": 9849,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-075",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 159 ft x 190 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 159,
+      "length": 190
+    },
+    "answer": 30210,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-076",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 66 ft x 124 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 66,
+      "length": 124
+    },
+    "answer": 8184,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-077",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 170 ft x 84 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 170,
+      "length": 84
+    },
+    "answer": 14280,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-078",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 81 ft x 120 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 81,
+      "length": 120
+    },
+    "answer": 9720,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-079",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 134 ft x 184 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 134,
+      "length": 184
+    },
+    "answer": 24656,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-080",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 155 ft x 184 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 155,
+      "length": 184
+    },
+    "answer": 28520,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-081",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 103 ft x 103 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 103,
+      "length": 103
+    },
+    "answer": 10609,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-082",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 64 ft x 77 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 64,
+      "length": 77
+    },
+    "answer": 4928,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-083",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 196 ft x 185 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 196,
+      "length": 185
+    },
+    "answer": 36260,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-084",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 72 ft x 173 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 72,
+      "length": 173
+    },
+    "answer": 12456,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-085",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 123 ft x 159 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 123,
+      "length": 159
+    },
+    "answer": 19557,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-086",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 131 ft x 116 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 131,
+      "length": 116
+    },
+    "answer": 15196,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-087",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 184 ft x 197 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 184,
+      "length": 197
+    },
+    "answer": 36248,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-088",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 140 ft x 83 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 140,
+      "length": 83
+    },
+    "answer": 11620,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-089",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 194 ft x 177 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 194,
+      "length": 177
+    },
+    "answer": 34338,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-090",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 183 ft x 177 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 183,
+      "length": 177
+    },
+    "answer": 32391,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-091",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 176 ft x 96 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 176,
+      "length": 96
+    },
+    "answer": 16896,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-092",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 109 ft x 124 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 109,
+      "length": 124
+    },
+    "answer": 13516,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-093",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 99 ft x 50 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 99,
+      "length": 50
+    },
+    "answer": 4950,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-094",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 80 ft x 56 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 80,
+      "length": 56
+    },
+    "answer": 4480,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-095",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 169 ft x 80 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 169,
+      "length": 80
+    },
+    "answer": 13520,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-096",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 103 ft x 156 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 103,
+      "length": 156
+    },
+    "answer": 16068,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-097",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 155 ft x 61 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 155,
+      "length": 61
+    },
+    "answer": 9455,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-098",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 135 ft x 139 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 135,
+      "length": 139
+    },
+    "answer": 18765,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-099",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 193 ft x 104 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 193,
+      "length": 104
+    },
+    "answer": 20072,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-100",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 52 ft x 101 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 52,
+      "length": 101
+    },
+    "answer": 5252,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-101",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 122 ft x 115 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 122,
+      "length": 115
+    },
+    "answer": 14030,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-102",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 67 ft x 128 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 67,
+      "length": 128
+    },
+    "answer": 8576,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-103",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 126 ft x 179 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 126,
+      "length": 179
+    },
+    "answer": 22554,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-104",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 190 ft x 132 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 190,
+      "length": 132
+    },
+    "answer": 25080,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-105",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 51 ft x 79 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 51,
+      "length": 79
+    },
+    "answer": 4029,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-106",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 135 ft x 137 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 135,
+      "length": 137
+    },
+    "answer": 18495,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-107",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 151 ft x 195 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 151,
+      "length": 195
+    },
+    "answer": 29445,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-108",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 57 ft x 94 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 57,
+      "length": 94
+    },
+    "answer": 5358,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-109",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 99 ft x 134 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 99,
+      "length": 134
+    },
+    "answer": 13266,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-110",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 136 ft x 172 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 136,
+      "length": 172
+    },
+    "answer": 23392,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-111",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 171 ft x 59 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 171,
+      "length": 59
+    },
+    "answer": 10089,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-112",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 84 ft x 173 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 84,
+      "length": 173
+    },
+    "answer": 14532,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-113",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 89 ft x 167 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 89,
+      "length": 167
+    },
+    "answer": 14863,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-114",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 187 ft x 135 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 187,
+      "length": 135
+    },
+    "answer": 25245,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-115",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 168 ft x 155 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 168,
+      "length": 155
+    },
+    "answer": 26040,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-116",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 64 ft x 183 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 64,
+      "length": 183
+    },
+    "answer": 11712,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-117",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 126 ft x 194 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 126,
+      "length": 194
+    },
+    "answer": 24444,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-118",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 130 ft x 192 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 130,
+      "length": 192
+    },
+    "answer": 24960,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-119",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 187 ft x 54 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 187,
+      "length": 54
+    },
+    "answer": 10098,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-120",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 103 ft x 197 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 103,
+      "length": 197
+    },
+    "answer": 20291,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-121",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 134 ft x 140 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 134,
+      "length": 140
+    },
+    "answer": 18760,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-122",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 66 ft x 88 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 66,
+      "length": 88
+    },
+    "answer": 5808,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-123",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 121 ft x 57 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 121,
+      "length": 57
+    },
+    "answer": 6897,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-124",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 136 ft x 146 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 136,
+      "length": 146
+    },
+    "answer": 19856,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "RE-E-125",
+    "category": "real_estate",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "question": "A rectangular property has dimensions 186 ft x 92 ft. What is the total area in square feet?",
+    "dimensions": {
+      "width": 186,
+      "length": 92
+    },
+    "answer": 17112,
+    "reasoning_steps": 2
+  }
+]

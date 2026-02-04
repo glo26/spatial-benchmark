@@ -1,0 +1,3877 @@
+[
+  {
+    "id": "GR-H-001",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(79.0, 50.0), (58.96, 77.58), (26.54, 67.05), (26.54, 32.95), (58.96, 22.42)] using the shoelace formula.",
+    "vertices": [
+      [
+        79.0,
+        50.0
+      ],
+      [
+        58.96,
+        77.58
+      ],
+      [
+        26.54,
+        67.05
+      ],
+      [
+        26.54,
+        32.95
+      ],
+      [
+        58.96,
+        22.42
+      ]
+    ],
+    "answer": 1999.61,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-002",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(87.0, 50.0), (61.43, 85.19), (20.07, 71.75), (20.07, 28.25), (61.43, 14.81)] using the shoelace formula.",
+    "vertices": [
+      [
+        87.0,
+        50.0
+      ],
+      [
+        61.43,
+        85.19
+      ],
+      [
+        20.07,
+        71.75
+      ],
+      [
+        20.07,
+        28.25
+      ],
+      [
+        61.43,
+        14.81
+      ]
+    ],
+    "answer": 3254.85,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-003",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(79.0, 50.0), (58.96, 77.58), (26.54, 67.05), (26.54, 32.95), (58.96, 22.42)] using the shoelace formula.",
+    "vertices": [
+      [
+        79.0,
+        50.0
+      ],
+      [
+        58.96,
+        77.58
+      ],
+      [
+        26.54,
+        67.05
+      ],
+      [
+        26.54,
+        32.95
+      ],
+      [
+        58.96,
+        22.42
+      ]
+    ],
+    "answer": 1999.61,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-004",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(80.0, 50.0), (59.27, 78.53), (25.73, 67.63), (25.73, 32.37), (59.27, 21.47)] using the shoelace formula.",
+    "vertices": [
+      [
+        80.0,
+        50.0
+      ],
+      [
+        59.27,
+        78.53
+      ],
+      [
+        25.73,
+        67.63
+      ],
+      [
+        25.73,
+        32.37
+      ],
+      [
+        59.27,
+        21.47
+      ]
+    ],
+    "answer": 2139.63,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-005",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(77.0, 50.0), (58.34, 75.68), (28.16, 65.87), (28.16, 34.13), (58.34, 24.32)] using the shoelace formula.",
+    "vertices": [
+      [
+        77.0,
+        50.0
+      ],
+      [
+        58.34,
+        75.68
+      ],
+      [
+        28.16,
+        65.87
+      ],
+      [
+        28.16,
+        34.13
+      ],
+      [
+        58.34,
+        24.32
+      ]
+    ],
+    "answer": 1733.17,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-006",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(88.0, 50.0), (61.74, 86.14), (19.26, 72.34), (19.26, 27.66), (61.74, 13.86)] using the shoelace formula.",
+    "vertices": [
+      [
+        88.0,
+        50.0
+      ],
+      [
+        61.74,
+        86.14
+      ],
+      [
+        19.26,
+        72.34
+      ],
+      [
+        19.26,
+        27.66
+      ],
+      [
+        61.74,
+        13.86
+      ]
+    ],
+    "answer": 3433.27,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-007",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(86.0, 50.0), (61.12, 84.24), (20.88, 71.16), (20.88, 28.84), (61.12, 15.76)] using the shoelace formula.",
+    "vertices": [
+      [
+        86.0,
+        50.0
+      ],
+      [
+        61.12,
+        84.24
+      ],
+      [
+        20.88,
+        71.16
+      ],
+      [
+        20.88,
+        28.84
+      ],
+      [
+        61.12,
+        15.76
+      ]
+    ],
+    "answer": 3081.19,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-008",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(83.0, 50.0), (60.2, 81.38), (23.3, 69.4), (23.3, 30.6), (60.2, 18.62)] using the shoelace formula.",
+    "vertices": [
+      [
+        83.0,
+        50.0
+      ],
+      [
+        60.2,
+        81.38
+      ],
+      [
+        23.3,
+        69.4
+      ],
+      [
+        23.3,
+        30.6
+      ],
+      [
+        60.2,
+        18.62
+      ]
+    ],
+    "answer": 2589.25,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-009",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(74.0, 50.0), (57.42, 72.83), (30.58, 64.11), (30.58, 35.89), (57.42, 27.17)] using the shoelace formula.",
+    "vertices": [
+      [
+        74.0,
+        50.0
+      ],
+      [
+        57.42,
+        72.83
+      ],
+      [
+        30.58,
+        64.11
+      ],
+      [
+        30.58,
+        35.89
+      ],
+      [
+        57.42,
+        27.17
+      ]
+    ],
+    "answer": 1369.99,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-010",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(87.0, 50.0), (61.43, 85.19), (20.07, 71.75), (20.07, 28.25), (61.43, 14.81)] using the shoelace formula.",
+    "vertices": [
+      [
+        87.0,
+        50.0
+      ],
+      [
+        61.43,
+        85.19
+      ],
+      [
+        20.07,
+        71.75
+      ],
+      [
+        20.07,
+        28.25
+      ],
+      [
+        61.43,
+        14.81
+      ]
+    ],
+    "answer": 3254.85,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-011",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(88.0, 50.0), (61.74, 86.14), (19.26, 72.34), (19.26, 27.66), (61.74, 13.86)] using the shoelace formula.",
+    "vertices": [
+      [
+        88.0,
+        50.0
+      ],
+      [
+        61.74,
+        86.14
+      ],
+      [
+        19.26,
+        72.34
+      ],
+      [
+        19.26,
+        27.66
+      ],
+      [
+        61.74,
+        13.86
+      ]
+    ],
+    "answer": 3433.27,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-012",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(80.0, 50.0), (59.27, 78.53), (25.73, 67.63), (25.73, 32.37), (59.27, 21.47)] using the shoelace formula.",
+    "vertices": [
+      [
+        80.0,
+        50.0
+      ],
+      [
+        59.27,
+        78.53
+      ],
+      [
+        25.73,
+        67.63
+      ],
+      [
+        25.73,
+        32.37
+      ],
+      [
+        59.27,
+        21.47
+      ]
+    ],
+    "answer": 2139.63,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-013",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(70.0, 50.0), (56.18, 69.02), (33.82, 61.76), (33.82, 38.24), (56.18, 30.98)] using the shoelace formula.",
+    "vertices": [
+      [
+        70.0,
+        50.0
+      ],
+      [
+        56.18,
+        69.02
+      ],
+      [
+        33.82,
+        61.76
+      ],
+      [
+        33.82,
+        38.24
+      ],
+      [
+        56.18,
+        30.98
+      ]
+    ],
+    "answer": 951.1,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-014",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(89.0, 50.0), (62.05, 87.09), (18.45, 72.92), (18.45, 27.08), (62.05, 12.91)] using the shoelace formula.",
+    "vertices": [
+      [
+        89.0,
+        50.0
+      ],
+      [
+        62.05,
+        87.09
+      ],
+      [
+        18.45,
+        72.92
+      ],
+      [
+        18.45,
+        27.08
+      ],
+      [
+        62.05,
+        12.91
+      ]
+    ],
+    "answer": 3616.01,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-015",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(71.0, 50.0), (56.49, 69.97), (33.01, 62.34), (33.01, 37.66), (56.49, 30.03)] using the shoelace formula.",
+    "vertices": [
+      [
+        71.0,
+        50.0
+      ],
+      [
+        56.49,
+        69.97
+      ],
+      [
+        33.01,
+        62.34
+      ],
+      [
+        33.01,
+        37.66
+      ],
+      [
+        56.49,
+        30.03
+      ]
+    ],
+    "answer": 1048.4,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-016",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(81.0, 50.0), (59.58, 79.48), (24.92, 68.22), (24.92, 31.78), (59.58, 20.52)] using the shoelace formula.",
+    "vertices": [
+      [
+        81.0,
+        50.0
+      ],
+      [
+        59.58,
+        79.48
+      ],
+      [
+        24.92,
+        68.22
+      ],
+      [
+        24.92,
+        31.78
+      ],
+      [
+        59.58,
+        20.52
+      ]
+    ],
+    "answer": 2284.74,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-017",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(88.0, 50.0), (61.74, 86.14), (19.26, 72.34), (19.26, 27.66), (61.74, 13.86)] using the shoelace formula.",
+    "vertices": [
+      [
+        88.0,
+        50.0
+      ],
+      [
+        61.74,
+        86.14
+      ],
+      [
+        19.26,
+        72.34
+      ],
+      [
+        19.26,
+        27.66
+      ],
+      [
+        61.74,
+        13.86
+      ]
+    ],
+    "answer": 3433.27,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-018",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(73.0, 50.0), (57.11, 71.87), (31.39, 63.52), (31.39, 36.48), (57.11, 28.13)] using the shoelace formula.",
+    "vertices": [
+      [
+        73.0,
+        50.0
+      ],
+      [
+        57.11,
+        71.87
+      ],
+      [
+        31.39,
+        63.52
+      ],
+      [
+        31.39,
+        36.48
+      ],
+      [
+        57.11,
+        28.13
+      ]
+    ],
+    "answer": 1257.75,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-019",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(72.0, 50.0), (56.8, 70.92), (32.2, 62.93), (32.2, 37.07), (56.8, 29.08)] using the shoelace formula.",
+    "vertices": [
+      [
+        72.0,
+        50.0
+      ],
+      [
+        56.8,
+        70.92
+      ],
+      [
+        32.2,
+        62.93
+      ],
+      [
+        32.2,
+        37.07
+      ],
+      [
+        56.8,
+        29.08
+      ]
+    ],
+    "answer": 1150.69,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-020",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(89.0, 50.0), (62.05, 87.09), (18.45, 72.92), (18.45, 27.08), (62.05, 12.91)] using the shoelace formula.",
+    "vertices": [
+      [
+        89.0,
+        50.0
+      ],
+      [
+        62.05,
+        87.09
+      ],
+      [
+        18.45,
+        72.92
+      ],
+      [
+        18.45,
+        27.08
+      ],
+      [
+        62.05,
+        12.91
+      ]
+    ],
+    "answer": 3616.01,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-021",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(72.0, 50.0), (56.8, 70.92), (32.2, 62.93), (32.2, 37.07), (56.8, 29.08)] using the shoelace formula.",
+    "vertices": [
+      [
+        72.0,
+        50.0
+      ],
+      [
+        56.8,
+        70.92
+      ],
+      [
+        32.2,
+        62.93
+      ],
+      [
+        32.2,
+        37.07
+      ],
+      [
+        56.8,
+        29.08
+      ]
+    ],
+    "answer": 1150.69,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-022",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(86.0, 50.0), (61.12, 84.24), (20.88, 71.16), (20.88, 28.84), (61.12, 15.76)] using the shoelace formula.",
+    "vertices": [
+      [
+        86.0,
+        50.0
+      ],
+      [
+        61.12,
+        84.24
+      ],
+      [
+        20.88,
+        71.16
+      ],
+      [
+        20.88,
+        28.84
+      ],
+      [
+        61.12,
+        15.76
+      ]
+    ],
+    "answer": 3081.19,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-023",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(83.0, 50.0), (60.2, 81.38), (23.3, 69.4), (23.3, 30.6), (60.2, 18.62)] using the shoelace formula.",
+    "vertices": [
+      [
+        83.0,
+        50.0
+      ],
+      [
+        60.2,
+        81.38
+      ],
+      [
+        23.3,
+        69.4
+      ],
+      [
+        23.3,
+        30.6
+      ],
+      [
+        60.2,
+        18.62
+      ]
+    ],
+    "answer": 2589.25,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-024",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
+    "vertices": [
+      [
+        75.0,
+        50.0
+      ],
+      [
+        57.73,
+        73.78
+      ],
+      [
+        29.77,
+        64.69
+      ],
+      [
+        29.77,
+        35.31
+      ],
+      [
+        57.73,
+        26.22
+      ]
+    ],
+    "answer": 1486.3,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-025",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(76.0, 50.0), (58.03, 74.73), (28.97, 65.28), (28.97, 34.72), (58.03, 25.27)] using the shoelace formula.",
+    "vertices": [
+      [
+        76.0,
+        50.0
+      ],
+      [
+        58.03,
+        74.73
+      ],
+      [
+        28.97,
+        65.28
+      ],
+      [
+        28.97,
+        34.72
+      ],
+      [
+        58.03,
+        25.27
+      ]
+    ],
+    "answer": 1607.09,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-026",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(77.0, 50.0), (58.34, 75.68), (28.16, 65.87), (28.16, 34.13), (58.34, 24.32)] using the shoelace formula.",
+    "vertices": [
+      [
+        77.0,
+        50.0
+      ],
+      [
+        58.34,
+        75.68
+      ],
+      [
+        28.16,
+        65.87
+      ],
+      [
+        28.16,
+        34.13
+      ],
+      [
+        58.34,
+        24.32
+      ]
+    ],
+    "answer": 1733.17,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-027",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(89.0, 50.0), (62.05, 87.09), (18.45, 72.92), (18.45, 27.08), (62.05, 12.91)] using the shoelace formula.",
+    "vertices": [
+      [
+        89.0,
+        50.0
+      ],
+      [
+        62.05,
+        87.09
+      ],
+      [
+        18.45,
+        72.92
+      ],
+      [
+        18.45,
+        27.08
+      ],
+      [
+        62.05,
+        12.91
+      ]
+    ],
+    "answer": 3616.01,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-028",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
+    "vertices": [
+      [
+        75.0,
+        50.0
+      ],
+      [
+        57.73,
+        73.78
+      ],
+      [
+        29.77,
+        64.69
+      ],
+      [
+        29.77,
+        35.31
+      ],
+      [
+        57.73,
+        26.22
+      ]
+    ],
+    "answer": 1486.3,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-029",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
+    "vertices": [
+      [
+        75.0,
+        50.0
+      ],
+      [
+        57.73,
+        73.78
+      ],
+      [
+        29.77,
+        64.69
+      ],
+      [
+        29.77,
+        35.31
+      ],
+      [
+        57.73,
+        26.22
+      ]
+    ],
+    "answer": 1486.3,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-030",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(70.0, 50.0), (56.18, 69.02), (33.82, 61.76), (33.82, 38.24), (56.18, 30.98)] using the shoelace formula.",
+    "vertices": [
+      [
+        70.0,
+        50.0
+      ],
+      [
+        56.18,
+        69.02
+      ],
+      [
+        33.82,
+        61.76
+      ],
+      [
+        33.82,
+        38.24
+      ],
+      [
+        56.18,
+        30.98
+      ]
+    ],
+    "answer": 951.1,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-031",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(90.0, 50.0), (62.36, 88.04), (17.64, 73.51), (17.64, 26.49), (62.36, 11.96)] using the shoelace formula.",
+    "vertices": [
+      [
+        90.0,
+        50.0
+      ],
+      [
+        62.36,
+        88.04
+      ],
+      [
+        17.64,
+        73.51
+      ],
+      [
+        17.64,
+        26.49
+      ],
+      [
+        62.36,
+        11.96
+      ]
+    ],
+    "answer": 3803.94,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-032",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(85.0, 50.0), (60.82, 83.29), (21.68, 70.57), (21.68, 29.43), (60.82, 16.71)] using the shoelace formula.",
+    "vertices": [
+      [
+        85.0,
+        50.0
+      ],
+      [
+        60.82,
+        83.29
+      ],
+      [
+        21.68,
+        70.57
+      ],
+      [
+        21.68,
+        29.43
+      ],
+      [
+        60.82,
+        16.71
+      ]
+    ],
+    "answer": 2913.03,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-033",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(73.0, 50.0), (57.11, 71.87), (31.39, 63.52), (31.39, 36.48), (57.11, 28.13)] using the shoelace formula.",
+    "vertices": [
+      [
+        73.0,
+        50.0
+      ],
+      [
+        57.11,
+        71.87
+      ],
+      [
+        31.39,
+        63.52
+      ],
+      [
+        31.39,
+        36.48
+      ],
+      [
+        57.11,
+        28.13
+      ]
+    ],
+    "answer": 1257.75,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-034",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(80.0, 50.0), (59.27, 78.53), (25.73, 67.63), (25.73, 32.37), (59.27, 21.47)] using the shoelace formula.",
+    "vertices": [
+      [
+        80.0,
+        50.0
+      ],
+      [
+        59.27,
+        78.53
+      ],
+      [
+        25.73,
+        67.63
+      ],
+      [
+        25.73,
+        32.37
+      ],
+      [
+        59.27,
+        21.47
+      ]
+    ],
+    "answer": 2139.63,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-035",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(72.0, 50.0), (56.8, 70.92), (32.2, 62.93), (32.2, 37.07), (56.8, 29.08)] using the shoelace formula.",
+    "vertices": [
+      [
+        72.0,
+        50.0
+      ],
+      [
+        56.8,
+        70.92
+      ],
+      [
+        32.2,
+        62.93
+      ],
+      [
+        32.2,
+        37.07
+      ],
+      [
+        56.8,
+        29.08
+      ]
+    ],
+    "answer": 1150.69,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-036",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(73.0, 50.0), (57.11, 71.87), (31.39, 63.52), (31.39, 36.48), (57.11, 28.13)] using the shoelace formula.",
+    "vertices": [
+      [
+        73.0,
+        50.0
+      ],
+      [
+        57.11,
+        71.87
+      ],
+      [
+        31.39,
+        63.52
+      ],
+      [
+        31.39,
+        36.48
+      ],
+      [
+        57.11,
+        28.13
+      ]
+    ],
+    "answer": 1257.75,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-037",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(82.0, 50.0), (59.89, 80.43), (24.11, 68.81), (24.11, 31.19), (59.89, 19.57)] using the shoelace formula.",
+    "vertices": [
+      [
+        82.0,
+        50.0
+      ],
+      [
+        59.89,
+        80.43
+      ],
+      [
+        24.11,
+        68.81
+      ],
+      [
+        24.11,
+        31.19
+      ],
+      [
+        59.89,
+        19.57
+      ]
+    ],
+    "answer": 2434.61,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-038",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(88.0, 50.0), (61.74, 86.14), (19.26, 72.34), (19.26, 27.66), (61.74, 13.86)] using the shoelace formula.",
+    "vertices": [
+      [
+        88.0,
+        50.0
+      ],
+      [
+        61.74,
+        86.14
+      ],
+      [
+        19.26,
+        72.34
+      ],
+      [
+        19.26,
+        27.66
+      ],
+      [
+        61.74,
+        13.86
+      ]
+    ],
+    "answer": 3433.27,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-039",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(82.0, 50.0), (59.89, 80.43), (24.11, 68.81), (24.11, 31.19), (59.89, 19.57)] using the shoelace formula.",
+    "vertices": [
+      [
+        82.0,
+        50.0
+      ],
+      [
+        59.89,
+        80.43
+      ],
+      [
+        24.11,
+        68.81
+      ],
+      [
+        24.11,
+        31.19
+      ],
+      [
+        59.89,
+        19.57
+      ]
+    ],
+    "answer": 2434.61,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-040",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(83.0, 50.0), (60.2, 81.38), (23.3, 69.4), (23.3, 30.6), (60.2, 18.62)] using the shoelace formula.",
+    "vertices": [
+      [
+        83.0,
+        50.0
+      ],
+      [
+        60.2,
+        81.38
+      ],
+      [
+        23.3,
+        69.4
+      ],
+      [
+        23.3,
+        30.6
+      ],
+      [
+        60.2,
+        18.62
+      ]
+    ],
+    "answer": 2589.25,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-041",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(82.0, 50.0), (59.89, 80.43), (24.11, 68.81), (24.11, 31.19), (59.89, 19.57)] using the shoelace formula.",
+    "vertices": [
+      [
+        82.0,
+        50.0
+      ],
+      [
+        59.89,
+        80.43
+      ],
+      [
+        24.11,
+        68.81
+      ],
+      [
+        24.11,
+        31.19
+      ],
+      [
+        59.89,
+        19.57
+      ]
+    ],
+    "answer": 2434.61,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-042",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(85.0, 50.0), (60.82, 83.29), (21.68, 70.57), (21.68, 29.43), (60.82, 16.71)] using the shoelace formula.",
+    "vertices": [
+      [
+        85.0,
+        50.0
+      ],
+      [
+        60.82,
+        83.29
+      ],
+      [
+        21.68,
+        70.57
+      ],
+      [
+        21.68,
+        29.43
+      ],
+      [
+        60.82,
+        16.71
+      ]
+    ],
+    "answer": 2913.03,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-043",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(74.0, 50.0), (57.42, 72.83), (30.58, 64.11), (30.58, 35.89), (57.42, 27.17)] using the shoelace formula.",
+    "vertices": [
+      [
+        74.0,
+        50.0
+      ],
+      [
+        57.42,
+        72.83
+      ],
+      [
+        30.58,
+        64.11
+      ],
+      [
+        30.58,
+        35.89
+      ],
+      [
+        57.42,
+        27.17
+      ]
+    ],
+    "answer": 1369.99,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-044",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(80.0, 50.0), (59.27, 78.53), (25.73, 67.63), (25.73, 32.37), (59.27, 21.47)] using the shoelace formula.",
+    "vertices": [
+      [
+        80.0,
+        50.0
+      ],
+      [
+        59.27,
+        78.53
+      ],
+      [
+        25.73,
+        67.63
+      ],
+      [
+        25.73,
+        32.37
+      ],
+      [
+        59.27,
+        21.47
+      ]
+    ],
+    "answer": 2139.63,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-045",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
+    "vertices": [
+      [
+        75.0,
+        50.0
+      ],
+      [
+        57.73,
+        73.78
+      ],
+      [
+        29.77,
+        64.69
+      ],
+      [
+        29.77,
+        35.31
+      ],
+      [
+        57.73,
+        26.22
+      ]
+    ],
+    "answer": 1486.3,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-046",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(73.0, 50.0), (57.11, 71.87), (31.39, 63.52), (31.39, 36.48), (57.11, 28.13)] using the shoelace formula.",
+    "vertices": [
+      [
+        73.0,
+        50.0
+      ],
+      [
+        57.11,
+        71.87
+      ],
+      [
+        31.39,
+        63.52
+      ],
+      [
+        31.39,
+        36.48
+      ],
+      [
+        57.11,
+        28.13
+      ]
+    ],
+    "answer": 1257.75,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-047",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(79.0, 50.0), (58.96, 77.58), (26.54, 67.05), (26.54, 32.95), (58.96, 22.42)] using the shoelace formula.",
+    "vertices": [
+      [
+        79.0,
+        50.0
+      ],
+      [
+        58.96,
+        77.58
+      ],
+      [
+        26.54,
+        67.05
+      ],
+      [
+        26.54,
+        32.95
+      ],
+      [
+        58.96,
+        22.42
+      ]
+    ],
+    "answer": 1999.61,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-048",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(81.0, 50.0), (59.58, 79.48), (24.92, 68.22), (24.92, 31.78), (59.58, 20.52)] using the shoelace formula.",
+    "vertices": [
+      [
+        81.0,
+        50.0
+      ],
+      [
+        59.58,
+        79.48
+      ],
+      [
+        24.92,
+        68.22
+      ],
+      [
+        24.92,
+        31.78
+      ],
+      [
+        59.58,
+        20.52
+      ]
+    ],
+    "answer": 2284.74,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-049",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
+    "vertices": [
+      [
+        75.0,
+        50.0
+      ],
+      [
+        57.73,
+        73.78
+      ],
+      [
+        29.77,
+        64.69
+      ],
+      [
+        29.77,
+        35.31
+      ],
+      [
+        57.73,
+        26.22
+      ]
+    ],
+    "answer": 1486.3,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-050",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(83.0, 50.0), (60.2, 81.38), (23.3, 69.4), (23.3, 30.6), (60.2, 18.62)] using the shoelace formula.",
+    "vertices": [
+      [
+        83.0,
+        50.0
+      ],
+      [
+        60.2,
+        81.38
+      ],
+      [
+        23.3,
+        69.4
+      ],
+      [
+        23.3,
+        30.6
+      ],
+      [
+        60.2,
+        18.62
+      ]
+    ],
+    "answer": 2589.25,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-051",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(78.0, 50.0), (58.65, 76.63), (27.35, 66.46), (27.35, 33.54), (58.65, 23.37)] using the shoelace formula.",
+    "vertices": [
+      [
+        78.0,
+        50.0
+      ],
+      [
+        58.65,
+        76.63
+      ],
+      [
+        27.35,
+        66.46
+      ],
+      [
+        27.35,
+        33.54
+      ],
+      [
+        58.65,
+        23.37
+      ]
+    ],
+    "answer": 1864.01,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-052",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(85.0, 50.0), (60.82, 83.29), (21.68, 70.57), (21.68, 29.43), (60.82, 16.71)] using the shoelace formula.",
+    "vertices": [
+      [
+        85.0,
+        50.0
+      ],
+      [
+        60.82,
+        83.29
+      ],
+      [
+        21.68,
+        70.57
+      ],
+      [
+        21.68,
+        29.43
+      ],
+      [
+        60.82,
+        16.71
+      ]
+    ],
+    "answer": 2913.03,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-053",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(72.0, 50.0), (56.8, 70.92), (32.2, 62.93), (32.2, 37.07), (56.8, 29.08)] using the shoelace formula.",
+    "vertices": [
+      [
+        72.0,
+        50.0
+      ],
+      [
+        56.8,
+        70.92
+      ],
+      [
+        32.2,
+        62.93
+      ],
+      [
+        32.2,
+        37.07
+      ],
+      [
+        56.8,
+        29.08
+      ]
+    ],
+    "answer": 1150.69,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-054",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
+    "vertices": [
+      [
+        75.0,
+        50.0
+      ],
+      [
+        57.73,
+        73.78
+      ],
+      [
+        29.77,
+        64.69
+      ],
+      [
+        29.77,
+        35.31
+      ],
+      [
+        57.73,
+        26.22
+      ]
+    ],
+    "answer": 1486.3,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-055",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(78.0, 50.0), (58.65, 76.63), (27.35, 66.46), (27.35, 33.54), (58.65, 23.37)] using the shoelace formula.",
+    "vertices": [
+      [
+        78.0,
+        50.0
+      ],
+      [
+        58.65,
+        76.63
+      ],
+      [
+        27.35,
+        66.46
+      ],
+      [
+        27.35,
+        33.54
+      ],
+      [
+        58.65,
+        23.37
+      ]
+    ],
+    "answer": 1864.01,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-056",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(82.0, 50.0), (59.89, 80.43), (24.11, 68.81), (24.11, 31.19), (59.89, 19.57)] using the shoelace formula.",
+    "vertices": [
+      [
+        82.0,
+        50.0
+      ],
+      [
+        59.89,
+        80.43
+      ],
+      [
+        24.11,
+        68.81
+      ],
+      [
+        24.11,
+        31.19
+      ],
+      [
+        59.89,
+        19.57
+      ]
+    ],
+    "answer": 2434.61,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-057",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(76.0, 50.0), (58.03, 74.73), (28.97, 65.28), (28.97, 34.72), (58.03, 25.27)] using the shoelace formula.",
+    "vertices": [
+      [
+        76.0,
+        50.0
+      ],
+      [
+        58.03,
+        74.73
+      ],
+      [
+        28.97,
+        65.28
+      ],
+      [
+        28.97,
+        34.72
+      ],
+      [
+        58.03,
+        25.27
+      ]
+    ],
+    "answer": 1607.09,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-058",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(77.0, 50.0), (58.34, 75.68), (28.16, 65.87), (28.16, 34.13), (58.34, 24.32)] using the shoelace formula.",
+    "vertices": [
+      [
+        77.0,
+        50.0
+      ],
+      [
+        58.34,
+        75.68
+      ],
+      [
+        28.16,
+        65.87
+      ],
+      [
+        28.16,
+        34.13
+      ],
+      [
+        58.34,
+        24.32
+      ]
+    ],
+    "answer": 1733.17,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-059",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(81.0, 50.0), (59.58, 79.48), (24.92, 68.22), (24.92, 31.78), (59.58, 20.52)] using the shoelace formula.",
+    "vertices": [
+      [
+        81.0,
+        50.0
+      ],
+      [
+        59.58,
+        79.48
+      ],
+      [
+        24.92,
+        68.22
+      ],
+      [
+        24.92,
+        31.78
+      ],
+      [
+        59.58,
+        20.52
+      ]
+    ],
+    "answer": 2284.74,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-060",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(90.0, 50.0), (62.36, 88.04), (17.64, 73.51), (17.64, 26.49), (62.36, 11.96)] using the shoelace formula.",
+    "vertices": [
+      [
+        90.0,
+        50.0
+      ],
+      [
+        62.36,
+        88.04
+      ],
+      [
+        17.64,
+        73.51
+      ],
+      [
+        17.64,
+        26.49
+      ],
+      [
+        62.36,
+        11.96
+      ]
+    ],
+    "answer": 3803.94,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-061",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(90.0, 50.0), (62.36, 88.04), (17.64, 73.51), (17.64, 26.49), (62.36, 11.96)] using the shoelace formula.",
+    "vertices": [
+      [
+        90.0,
+        50.0
+      ],
+      [
+        62.36,
+        88.04
+      ],
+      [
+        17.64,
+        73.51
+      ],
+      [
+        17.64,
+        26.49
+      ],
+      [
+        62.36,
+        11.96
+      ]
+    ],
+    "answer": 3803.94,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-062",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(72.0, 50.0), (56.8, 70.92), (32.2, 62.93), (32.2, 37.07), (56.8, 29.08)] using the shoelace formula.",
+    "vertices": [
+      [
+        72.0,
+        50.0
+      ],
+      [
+        56.8,
+        70.92
+      ],
+      [
+        32.2,
+        62.93
+      ],
+      [
+        32.2,
+        37.07
+      ],
+      [
+        56.8,
+        29.08
+      ]
+    ],
+    "answer": 1150.69,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-063",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(80.0, 50.0), (59.27, 78.53), (25.73, 67.63), (25.73, 32.37), (59.27, 21.47)] using the shoelace formula.",
+    "vertices": [
+      [
+        80.0,
+        50.0
+      ],
+      [
+        59.27,
+        78.53
+      ],
+      [
+        25.73,
+        67.63
+      ],
+      [
+        25.73,
+        32.37
+      ],
+      [
+        59.27,
+        21.47
+      ]
+    ],
+    "answer": 2139.63,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-064",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(84.0, 50.0), (60.51, 82.34), (22.49, 69.98), (22.49, 30.02), (60.51, 17.66)] using the shoelace formula.",
+    "vertices": [
+      [
+        84.0,
+        50.0
+      ],
+      [
+        60.51,
+        82.34
+      ],
+      [
+        22.49,
+        69.98
+      ],
+      [
+        22.49,
+        30.02
+      ],
+      [
+        60.51,
+        17.66
+      ]
+    ],
+    "answer": 2748.87,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-065",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(73.0, 50.0), (57.11, 71.87), (31.39, 63.52), (31.39, 36.48), (57.11, 28.13)] using the shoelace formula.",
+    "vertices": [
+      [
+        73.0,
+        50.0
+      ],
+      [
+        57.11,
+        71.87
+      ],
+      [
+        31.39,
+        63.52
+      ],
+      [
+        31.39,
+        36.48
+      ],
+      [
+        57.11,
+        28.13
+      ]
+    ],
+    "answer": 1257.75,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-066",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(86.0, 50.0), (61.12, 84.24), (20.88, 71.16), (20.88, 28.84), (61.12, 15.76)] using the shoelace formula.",
+    "vertices": [
+      [
+        86.0,
+        50.0
+      ],
+      [
+        61.12,
+        84.24
+      ],
+      [
+        20.88,
+        71.16
+      ],
+      [
+        20.88,
+        28.84
+      ],
+      [
+        61.12,
+        15.76
+      ]
+    ],
+    "answer": 3081.19,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-067",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(78.0, 50.0), (58.65, 76.63), (27.35, 66.46), (27.35, 33.54), (58.65, 23.37)] using the shoelace formula.",
+    "vertices": [
+      [
+        78.0,
+        50.0
+      ],
+      [
+        58.65,
+        76.63
+      ],
+      [
+        27.35,
+        66.46
+      ],
+      [
+        27.35,
+        33.54
+      ],
+      [
+        58.65,
+        23.37
+      ]
+    ],
+    "answer": 1864.01,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-068",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(70.0, 50.0), (56.18, 69.02), (33.82, 61.76), (33.82, 38.24), (56.18, 30.98)] using the shoelace formula.",
+    "vertices": [
+      [
+        70.0,
+        50.0
+      ],
+      [
+        56.18,
+        69.02
+      ],
+      [
+        33.82,
+        61.76
+      ],
+      [
+        33.82,
+        38.24
+      ],
+      [
+        56.18,
+        30.98
+      ]
+    ],
+    "answer": 951.1,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-069",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(89.0, 50.0), (62.05, 87.09), (18.45, 72.92), (18.45, 27.08), (62.05, 12.91)] using the shoelace formula.",
+    "vertices": [
+      [
+        89.0,
+        50.0
+      ],
+      [
+        62.05,
+        87.09
+      ],
+      [
+        18.45,
+        72.92
+      ],
+      [
+        18.45,
+        27.08
+      ],
+      [
+        62.05,
+        12.91
+      ]
+    ],
+    "answer": 3616.01,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-070",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(71.0, 50.0), (56.49, 69.97), (33.01, 62.34), (33.01, 37.66), (56.49, 30.03)] using the shoelace formula.",
+    "vertices": [
+      [
+        71.0,
+        50.0
+      ],
+      [
+        56.49,
+        69.97
+      ],
+      [
+        33.01,
+        62.34
+      ],
+      [
+        33.01,
+        37.66
+      ],
+      [
+        56.49,
+        30.03
+      ]
+    ],
+    "answer": 1048.4,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-071",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(87.0, 50.0), (61.43, 85.19), (20.07, 71.75), (20.07, 28.25), (61.43, 14.81)] using the shoelace formula.",
+    "vertices": [
+      [
+        87.0,
+        50.0
+      ],
+      [
+        61.43,
+        85.19
+      ],
+      [
+        20.07,
+        71.75
+      ],
+      [
+        20.07,
+        28.25
+      ],
+      [
+        61.43,
+        14.81
+      ]
+    ],
+    "answer": 3254.85,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-072",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(71.0, 50.0), (56.49, 69.97), (33.01, 62.34), (33.01, 37.66), (56.49, 30.03)] using the shoelace formula.",
+    "vertices": [
+      [
+        71.0,
+        50.0
+      ],
+      [
+        56.49,
+        69.97
+      ],
+      [
+        33.01,
+        62.34
+      ],
+      [
+        33.01,
+        37.66
+      ],
+      [
+        56.49,
+        30.03
+      ]
+    ],
+    "answer": 1048.4,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-073",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(81.0, 50.0), (59.58, 79.48), (24.92, 68.22), (24.92, 31.78), (59.58, 20.52)] using the shoelace formula.",
+    "vertices": [
+      [
+        81.0,
+        50.0
+      ],
+      [
+        59.58,
+        79.48
+      ],
+      [
+        24.92,
+        68.22
+      ],
+      [
+        24.92,
+        31.78
+      ],
+      [
+        59.58,
+        20.52
+      ]
+    ],
+    "answer": 2284.74,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-074",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(73.0, 50.0), (57.11, 71.87), (31.39, 63.52), (31.39, 36.48), (57.11, 28.13)] using the shoelace formula.",
+    "vertices": [
+      [
+        73.0,
+        50.0
+      ],
+      [
+        57.11,
+        71.87
+      ],
+      [
+        31.39,
+        63.52
+      ],
+      [
+        31.39,
+        36.48
+      ],
+      [
+        57.11,
+        28.13
+      ]
+    ],
+    "answer": 1257.75,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-075",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
+    "vertices": [
+      [
+        75.0,
+        50.0
+      ],
+      [
+        57.73,
+        73.78
+      ],
+      [
+        29.77,
+        64.69
+      ],
+      [
+        29.77,
+        35.31
+      ],
+      [
+        57.73,
+        26.22
+      ]
+    ],
+    "answer": 1486.3,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-076",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(70.0, 50.0), (56.18, 69.02), (33.82, 61.76), (33.82, 38.24), (56.18, 30.98)] using the shoelace formula.",
+    "vertices": [
+      [
+        70.0,
+        50.0
+      ],
+      [
+        56.18,
+        69.02
+      ],
+      [
+        33.82,
+        61.76
+      ],
+      [
+        33.82,
+        38.24
+      ],
+      [
+        56.18,
+        30.98
+      ]
+    ],
+    "answer": 951.1,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-077",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(86.0, 50.0), (61.12, 84.24), (20.88, 71.16), (20.88, 28.84), (61.12, 15.76)] using the shoelace formula.",
+    "vertices": [
+      [
+        86.0,
+        50.0
+      ],
+      [
+        61.12,
+        84.24
+      ],
+      [
+        20.88,
+        71.16
+      ],
+      [
+        20.88,
+        28.84
+      ],
+      [
+        61.12,
+        15.76
+      ]
+    ],
+    "answer": 3081.19,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-078",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(70.0, 50.0), (56.18, 69.02), (33.82, 61.76), (33.82, 38.24), (56.18, 30.98)] using the shoelace formula.",
+    "vertices": [
+      [
+        70.0,
+        50.0
+      ],
+      [
+        56.18,
+        69.02
+      ],
+      [
+        33.82,
+        61.76
+      ],
+      [
+        33.82,
+        38.24
+      ],
+      [
+        56.18,
+        30.98
+      ]
+    ],
+    "answer": 951.1,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-079",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(70.0, 50.0), (56.18, 69.02), (33.82, 61.76), (33.82, 38.24), (56.18, 30.98)] using the shoelace formula.",
+    "vertices": [
+      [
+        70.0,
+        50.0
+      ],
+      [
+        56.18,
+        69.02
+      ],
+      [
+        33.82,
+        61.76
+      ],
+      [
+        33.82,
+        38.24
+      ],
+      [
+        56.18,
+        30.98
+      ]
+    ],
+    "answer": 951.1,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-080",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(80.0, 50.0), (59.27, 78.53), (25.73, 67.63), (25.73, 32.37), (59.27, 21.47)] using the shoelace formula.",
+    "vertices": [
+      [
+        80.0,
+        50.0
+      ],
+      [
+        59.27,
+        78.53
+      ],
+      [
+        25.73,
+        67.63
+      ],
+      [
+        25.73,
+        32.37
+      ],
+      [
+        59.27,
+        21.47
+      ]
+    ],
+    "answer": 2139.63,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-081",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(82.0, 50.0), (59.89, 80.43), (24.11, 68.81), (24.11, 31.19), (59.89, 19.57)] using the shoelace formula.",
+    "vertices": [
+      [
+        82.0,
+        50.0
+      ],
+      [
+        59.89,
+        80.43
+      ],
+      [
+        24.11,
+        68.81
+      ],
+      [
+        24.11,
+        31.19
+      ],
+      [
+        59.89,
+        19.57
+      ]
+    ],
+    "answer": 2434.61,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-082",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(79.0, 50.0), (58.96, 77.58), (26.54, 67.05), (26.54, 32.95), (58.96, 22.42)] using the shoelace formula.",
+    "vertices": [
+      [
+        79.0,
+        50.0
+      ],
+      [
+        58.96,
+        77.58
+      ],
+      [
+        26.54,
+        67.05
+      ],
+      [
+        26.54,
+        32.95
+      ],
+      [
+        58.96,
+        22.42
+      ]
+    ],
+    "answer": 1999.61,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-083",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(70.0, 50.0), (56.18, 69.02), (33.82, 61.76), (33.82, 38.24), (56.18, 30.98)] using the shoelace formula.",
+    "vertices": [
+      [
+        70.0,
+        50.0
+      ],
+      [
+        56.18,
+        69.02
+      ],
+      [
+        33.82,
+        61.76
+      ],
+      [
+        33.82,
+        38.24
+      ],
+      [
+        56.18,
+        30.98
+      ]
+    ],
+    "answer": 951.1,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-084",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(88.0, 50.0), (61.74, 86.14), (19.26, 72.34), (19.26, 27.66), (61.74, 13.86)] using the shoelace formula.",
+    "vertices": [
+      [
+        88.0,
+        50.0
+      ],
+      [
+        61.74,
+        86.14
+      ],
+      [
+        19.26,
+        72.34
+      ],
+      [
+        19.26,
+        27.66
+      ],
+      [
+        61.74,
+        13.86
+      ]
+    ],
+    "answer": 3433.27,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-085",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(88.0, 50.0), (61.74, 86.14), (19.26, 72.34), (19.26, 27.66), (61.74, 13.86)] using the shoelace formula.",
+    "vertices": [
+      [
+        88.0,
+        50.0
+      ],
+      [
+        61.74,
+        86.14
+      ],
+      [
+        19.26,
+        72.34
+      ],
+      [
+        19.26,
+        27.66
+      ],
+      [
+        61.74,
+        13.86
+      ]
+    ],
+    "answer": 3433.27,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-086",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(81.0, 50.0), (59.58, 79.48), (24.92, 68.22), (24.92, 31.78), (59.58, 20.52)] using the shoelace formula.",
+    "vertices": [
+      [
+        81.0,
+        50.0
+      ],
+      [
+        59.58,
+        79.48
+      ],
+      [
+        24.92,
+        68.22
+      ],
+      [
+        24.92,
+        31.78
+      ],
+      [
+        59.58,
+        20.52
+      ]
+    ],
+    "answer": 2284.74,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-087",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(72.0, 50.0), (56.8, 70.92), (32.2, 62.93), (32.2, 37.07), (56.8, 29.08)] using the shoelace formula.",
+    "vertices": [
+      [
+        72.0,
+        50.0
+      ],
+      [
+        56.8,
+        70.92
+      ],
+      [
+        32.2,
+        62.93
+      ],
+      [
+        32.2,
+        37.07
+      ],
+      [
+        56.8,
+        29.08
+      ]
+    ],
+    "answer": 1150.69,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-088",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
+    "vertices": [
+      [
+        75.0,
+        50.0
+      ],
+      [
+        57.73,
+        73.78
+      ],
+      [
+        29.77,
+        64.69
+      ],
+      [
+        29.77,
+        35.31
+      ],
+      [
+        57.73,
+        26.22
+      ]
+    ],
+    "answer": 1486.3,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-089",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(76.0, 50.0), (58.03, 74.73), (28.97, 65.28), (28.97, 34.72), (58.03, 25.27)] using the shoelace formula.",
+    "vertices": [
+      [
+        76.0,
+        50.0
+      ],
+      [
+        58.03,
+        74.73
+      ],
+      [
+        28.97,
+        65.28
+      ],
+      [
+        28.97,
+        34.72
+      ],
+      [
+        58.03,
+        25.27
+      ]
+    ],
+    "answer": 1607.09,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-090",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(90.0, 50.0), (62.36, 88.04), (17.64, 73.51), (17.64, 26.49), (62.36, 11.96)] using the shoelace formula.",
+    "vertices": [
+      [
+        90.0,
+        50.0
+      ],
+      [
+        62.36,
+        88.04
+      ],
+      [
+        17.64,
+        73.51
+      ],
+      [
+        17.64,
+        26.49
+      ],
+      [
+        62.36,
+        11.96
+      ]
+    ],
+    "answer": 3803.94,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-091",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(89.0, 50.0), (62.05, 87.09), (18.45, 72.92), (18.45, 27.08), (62.05, 12.91)] using the shoelace formula.",
+    "vertices": [
+      [
+        89.0,
+        50.0
+      ],
+      [
+        62.05,
+        87.09
+      ],
+      [
+        18.45,
+        72.92
+      ],
+      [
+        18.45,
+        27.08
+      ],
+      [
+        62.05,
+        12.91
+      ]
+    ],
+    "answer": 3616.01,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-092",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(85.0, 50.0), (60.82, 83.29), (21.68, 70.57), (21.68, 29.43), (60.82, 16.71)] using the shoelace formula.",
+    "vertices": [
+      [
+        85.0,
+        50.0
+      ],
+      [
+        60.82,
+        83.29
+      ],
+      [
+        21.68,
+        70.57
+      ],
+      [
+        21.68,
+        29.43
+      ],
+      [
+        60.82,
+        16.71
+      ]
+    ],
+    "answer": 2913.03,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-093",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
+    "vertices": [
+      [
+        75.0,
+        50.0
+      ],
+      [
+        57.73,
+        73.78
+      ],
+      [
+        29.77,
+        64.69
+      ],
+      [
+        29.77,
+        35.31
+      ],
+      [
+        57.73,
+        26.22
+      ]
+    ],
+    "answer": 1486.3,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-094",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(87.0, 50.0), (61.43, 85.19), (20.07, 71.75), (20.07, 28.25), (61.43, 14.81)] using the shoelace formula.",
+    "vertices": [
+      [
+        87.0,
+        50.0
+      ],
+      [
+        61.43,
+        85.19
+      ],
+      [
+        20.07,
+        71.75
+      ],
+      [
+        20.07,
+        28.25
+      ],
+      [
+        61.43,
+        14.81
+      ]
+    ],
+    "answer": 3254.85,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-095",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(76.0, 50.0), (58.03, 74.73), (28.97, 65.28), (28.97, 34.72), (58.03, 25.27)] using the shoelace formula.",
+    "vertices": [
+      [
+        76.0,
+        50.0
+      ],
+      [
+        58.03,
+        74.73
+      ],
+      [
+        28.97,
+        65.28
+      ],
+      [
+        28.97,
+        34.72
+      ],
+      [
+        58.03,
+        25.27
+      ]
+    ],
+    "answer": 1607.09,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-096",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(81.0, 50.0), (59.58, 79.48), (24.92, 68.22), (24.92, 31.78), (59.58, 20.52)] using the shoelace formula.",
+    "vertices": [
+      [
+        81.0,
+        50.0
+      ],
+      [
+        59.58,
+        79.48
+      ],
+      [
+        24.92,
+        68.22
+      ],
+      [
+        24.92,
+        31.78
+      ],
+      [
+        59.58,
+        20.52
+      ]
+    ],
+    "answer": 2284.74,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-097",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(73.0, 50.0), (57.11, 71.87), (31.39, 63.52), (31.39, 36.48), (57.11, 28.13)] using the shoelace formula.",
+    "vertices": [
+      [
+        73.0,
+        50.0
+      ],
+      [
+        57.11,
+        71.87
+      ],
+      [
+        31.39,
+        63.52
+      ],
+      [
+        31.39,
+        36.48
+      ],
+      [
+        57.11,
+        28.13
+      ]
+    ],
+    "answer": 1257.75,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-098",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(74.0, 50.0), (57.42, 72.83), (30.58, 64.11), (30.58, 35.89), (57.42, 27.17)] using the shoelace formula.",
+    "vertices": [
+      [
+        74.0,
+        50.0
+      ],
+      [
+        57.42,
+        72.83
+      ],
+      [
+        30.58,
+        64.11
+      ],
+      [
+        30.58,
+        35.89
+      ],
+      [
+        57.42,
+        27.17
+      ]
+    ],
+    "answer": 1369.99,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-099",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(89.0, 50.0), (62.05, 87.09), (18.45, 72.92), (18.45, 27.08), (62.05, 12.91)] using the shoelace formula.",
+    "vertices": [
+      [
+        89.0,
+        50.0
+      ],
+      [
+        62.05,
+        87.09
+      ],
+      [
+        18.45,
+        72.92
+      ],
+      [
+        18.45,
+        27.08
+      ],
+      [
+        62.05,
+        12.91
+      ]
+    ],
+    "answer": 3616.01,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-100",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(81.0, 50.0), (59.58, 79.48), (24.92, 68.22), (24.92, 31.78), (59.58, 20.52)] using the shoelace formula.",
+    "vertices": [
+      [
+        81.0,
+        50.0
+      ],
+      [
+        59.58,
+        79.48
+      ],
+      [
+        24.92,
+        68.22
+      ],
+      [
+        24.92,
+        31.78
+      ],
+      [
+        59.58,
+        20.52
+      ]
+    ],
+    "answer": 2284.74,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-101",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(88.0, 50.0), (61.74, 86.14), (19.26, 72.34), (19.26, 27.66), (61.74, 13.86)] using the shoelace formula.",
+    "vertices": [
+      [
+        88.0,
+        50.0
+      ],
+      [
+        61.74,
+        86.14
+      ],
+      [
+        19.26,
+        72.34
+      ],
+      [
+        19.26,
+        27.66
+      ],
+      [
+        61.74,
+        13.86
+      ]
+    ],
+    "answer": 3433.27,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-102",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
+    "vertices": [
+      [
+        75.0,
+        50.0
+      ],
+      [
+        57.73,
+        73.78
+      ],
+      [
+        29.77,
+        64.69
+      ],
+      [
+        29.77,
+        35.31
+      ],
+      [
+        57.73,
+        26.22
+      ]
+    ],
+    "answer": 1486.3,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-103",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(84.0, 50.0), (60.51, 82.34), (22.49, 69.98), (22.49, 30.02), (60.51, 17.66)] using the shoelace formula.",
+    "vertices": [
+      [
+        84.0,
+        50.0
+      ],
+      [
+        60.51,
+        82.34
+      ],
+      [
+        22.49,
+        69.98
+      ],
+      [
+        22.49,
+        30.02
+      ],
+      [
+        60.51,
+        17.66
+      ]
+    ],
+    "answer": 2748.87,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-104",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
+    "vertices": [
+      [
+        75.0,
+        50.0
+      ],
+      [
+        57.73,
+        73.78
+      ],
+      [
+        29.77,
+        64.69
+      ],
+      [
+        29.77,
+        35.31
+      ],
+      [
+        57.73,
+        26.22
+      ]
+    ],
+    "answer": 1486.3,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-105",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(86.0, 50.0), (61.12, 84.24), (20.88, 71.16), (20.88, 28.84), (61.12, 15.76)] using the shoelace formula.",
+    "vertices": [
+      [
+        86.0,
+        50.0
+      ],
+      [
+        61.12,
+        84.24
+      ],
+      [
+        20.88,
+        71.16
+      ],
+      [
+        20.88,
+        28.84
+      ],
+      [
+        61.12,
+        15.76
+      ]
+    ],
+    "answer": 3081.19,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-106",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(74.0, 50.0), (57.42, 72.83), (30.58, 64.11), (30.58, 35.89), (57.42, 27.17)] using the shoelace formula.",
+    "vertices": [
+      [
+        74.0,
+        50.0
+      ],
+      [
+        57.42,
+        72.83
+      ],
+      [
+        30.58,
+        64.11
+      ],
+      [
+        30.58,
+        35.89
+      ],
+      [
+        57.42,
+        27.17
+      ]
+    ],
+    "answer": 1369.99,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-107",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(84.0, 50.0), (60.51, 82.34), (22.49, 69.98), (22.49, 30.02), (60.51, 17.66)] using the shoelace formula.",
+    "vertices": [
+      [
+        84.0,
+        50.0
+      ],
+      [
+        60.51,
+        82.34
+      ],
+      [
+        22.49,
+        69.98
+      ],
+      [
+        22.49,
+        30.02
+      ],
+      [
+        60.51,
+        17.66
+      ]
+    ],
+    "answer": 2748.87,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-108",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(70.0, 50.0), (56.18, 69.02), (33.82, 61.76), (33.82, 38.24), (56.18, 30.98)] using the shoelace formula.",
+    "vertices": [
+      [
+        70.0,
+        50.0
+      ],
+      [
+        56.18,
+        69.02
+      ],
+      [
+        33.82,
+        61.76
+      ],
+      [
+        33.82,
+        38.24
+      ],
+      [
+        56.18,
+        30.98
+      ]
+    ],
+    "answer": 951.1,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-109",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(89.0, 50.0), (62.05, 87.09), (18.45, 72.92), (18.45, 27.08), (62.05, 12.91)] using the shoelace formula.",
+    "vertices": [
+      [
+        89.0,
+        50.0
+      ],
+      [
+        62.05,
+        87.09
+      ],
+      [
+        18.45,
+        72.92
+      ],
+      [
+        18.45,
+        27.08
+      ],
+      [
+        62.05,
+        12.91
+      ]
+    ],
+    "answer": 3616.01,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-110",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(71.0, 50.0), (56.49, 69.97), (33.01, 62.34), (33.01, 37.66), (56.49, 30.03)] using the shoelace formula.",
+    "vertices": [
+      [
+        71.0,
+        50.0
+      ],
+      [
+        56.49,
+        69.97
+      ],
+      [
+        33.01,
+        62.34
+      ],
+      [
+        33.01,
+        37.66
+      ],
+      [
+        56.49,
+        30.03
+      ]
+    ],
+    "answer": 1048.4,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-111",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(87.0, 50.0), (61.43, 85.19), (20.07, 71.75), (20.07, 28.25), (61.43, 14.81)] using the shoelace formula.",
+    "vertices": [
+      [
+        87.0,
+        50.0
+      ],
+      [
+        61.43,
+        85.19
+      ],
+      [
+        20.07,
+        71.75
+      ],
+      [
+        20.07,
+        28.25
+      ],
+      [
+        61.43,
+        14.81
+      ]
+    ],
+    "answer": 3254.85,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-112",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(73.0, 50.0), (57.11, 71.87), (31.39, 63.52), (31.39, 36.48), (57.11, 28.13)] using the shoelace formula.",
+    "vertices": [
+      [
+        73.0,
+        50.0
+      ],
+      [
+        57.11,
+        71.87
+      ],
+      [
+        31.39,
+        63.52
+      ],
+      [
+        31.39,
+        36.48
+      ],
+      [
+        57.11,
+        28.13
+      ]
+    ],
+    "answer": 1257.75,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-113",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(79.0, 50.0), (58.96, 77.58), (26.54, 67.05), (26.54, 32.95), (58.96, 22.42)] using the shoelace formula.",
+    "vertices": [
+      [
+        79.0,
+        50.0
+      ],
+      [
+        58.96,
+        77.58
+      ],
+      [
+        26.54,
+        67.05
+      ],
+      [
+        26.54,
+        32.95
+      ],
+      [
+        58.96,
+        22.42
+      ]
+    ],
+    "answer": 1999.61,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-114",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(79.0, 50.0), (58.96, 77.58), (26.54, 67.05), (26.54, 32.95), (58.96, 22.42)] using the shoelace formula.",
+    "vertices": [
+      [
+        79.0,
+        50.0
+      ],
+      [
+        58.96,
+        77.58
+      ],
+      [
+        26.54,
+        67.05
+      ],
+      [
+        26.54,
+        32.95
+      ],
+      [
+        58.96,
+        22.42
+      ]
+    ],
+    "answer": 1999.61,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-115",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(73.0, 50.0), (57.11, 71.87), (31.39, 63.52), (31.39, 36.48), (57.11, 28.13)] using the shoelace formula.",
+    "vertices": [
+      [
+        73.0,
+        50.0
+      ],
+      [
+        57.11,
+        71.87
+      ],
+      [
+        31.39,
+        63.52
+      ],
+      [
+        31.39,
+        36.48
+      ],
+      [
+        57.11,
+        28.13
+      ]
+    ],
+    "answer": 1257.75,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-116",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(81.0, 50.0), (59.58, 79.48), (24.92, 68.22), (24.92, 31.78), (59.58, 20.52)] using the shoelace formula.",
+    "vertices": [
+      [
+        81.0,
+        50.0
+      ],
+      [
+        59.58,
+        79.48
+      ],
+      [
+        24.92,
+        68.22
+      ],
+      [
+        24.92,
+        31.78
+      ],
+      [
+        59.58,
+        20.52
+      ]
+    ],
+    "answer": 2284.74,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-117",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
+    "vertices": [
+      [
+        75.0,
+        50.0
+      ],
+      [
+        57.73,
+        73.78
+      ],
+      [
+        29.77,
+        64.69
+      ],
+      [
+        29.77,
+        35.31
+      ],
+      [
+        57.73,
+        26.22
+      ]
+    ],
+    "answer": 1486.3,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-118",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(88.0, 50.0), (61.74, 86.14), (19.26, 72.34), (19.26, 27.66), (61.74, 13.86)] using the shoelace formula.",
+    "vertices": [
+      [
+        88.0,
+        50.0
+      ],
+      [
+        61.74,
+        86.14
+      ],
+      [
+        19.26,
+        72.34
+      ],
+      [
+        19.26,
+        27.66
+      ],
+      [
+        61.74,
+        13.86
+      ]
+    ],
+    "answer": 3433.27,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-119",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(86.0, 50.0), (61.12, 84.24), (20.88, 71.16), (20.88, 28.84), (61.12, 15.76)] using the shoelace formula.",
+    "vertices": [
+      [
+        86.0,
+        50.0
+      ],
+      [
+        61.12,
+        84.24
+      ],
+      [
+        20.88,
+        71.16
+      ],
+      [
+        20.88,
+        28.84
+      ],
+      [
+        61.12,
+        15.76
+      ]
+    ],
+    "answer": 3081.19,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-120",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(75.0, 50.0), (57.73, 73.78), (29.77, 64.69), (29.77, 35.31), (57.73, 26.22)] using the shoelace formula.",
+    "vertices": [
+      [
+        75.0,
+        50.0
+      ],
+      [
+        57.73,
+        73.78
+      ],
+      [
+        29.77,
+        64.69
+      ],
+      [
+        29.77,
+        35.31
+      ],
+      [
+        57.73,
+        26.22
+      ]
+    ],
+    "answer": 1486.3,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-121",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(73.0, 50.0), (57.11, 71.87), (31.39, 63.52), (31.39, 36.48), (57.11, 28.13)] using the shoelace formula.",
+    "vertices": [
+      [
+        73.0,
+        50.0
+      ],
+      [
+        57.11,
+        71.87
+      ],
+      [
+        31.39,
+        63.52
+      ],
+      [
+        31.39,
+        36.48
+      ],
+      [
+        57.11,
+        28.13
+      ]
+    ],
+    "answer": 1257.75,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-122",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(85.0, 50.0), (60.82, 83.29), (21.68, 70.57), (21.68, 29.43), (60.82, 16.71)] using the shoelace formula.",
+    "vertices": [
+      [
+        85.0,
+        50.0
+      ],
+      [
+        60.82,
+        83.29
+      ],
+      [
+        21.68,
+        70.57
+      ],
+      [
+        21.68,
+        29.43
+      ],
+      [
+        60.82,
+        16.71
+      ]
+    ],
+    "answer": 2913.03,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-123",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(76.0, 50.0), (58.03, 74.73), (28.97, 65.28), (28.97, 34.72), (58.03, 25.27)] using the shoelace formula.",
+    "vertices": [
+      [
+        76.0,
+        50.0
+      ],
+      [
+        58.03,
+        74.73
+      ],
+      [
+        28.97,
+        65.28
+      ],
+      [
+        28.97,
+        34.72
+      ],
+      [
+        58.03,
+        25.27
+      ]
+    ],
+    "answer": 1607.09,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-124",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(89.0, 50.0), (62.05, 87.09), (18.45, 72.92), (18.45, 27.08), (62.05, 12.91)] using the shoelace formula.",
+    "vertices": [
+      [
+        89.0,
+        50.0
+      ],
+      [
+        62.05,
+        87.09
+      ],
+      [
+        18.45,
+        72.92
+      ],
+      [
+        18.45,
+        27.08
+      ],
+      [
+        62.05,
+        12.91
+      ]
+    ],
+    "answer": 3616.01,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "GR-H-125",
+    "category": "geometric_reasoning",
+    "difficulty": "hard",
+    "task_type": "polygon_area",
+    "question": "Calculate the area of a polygon with vertices at [(74.0, 50.0), (57.42, 72.83), (30.58, 64.11), (30.58, 35.89), (57.42, 27.17)] using the shoelace formula.",
+    "vertices": [
+      [
+        74.0,
+        50.0
+      ],
+      [
+        57.42,
+        72.83
+      ],
+      [
+        30.58,
+        64.11
+      ],
+      [
+        30.58,
+        35.89
+      ],
+      [
+        57.42,
+        27.17
+      ]
+    ],
+    "answer": 1369.99,
+    "reasoning_steps": 8
+  }
+]

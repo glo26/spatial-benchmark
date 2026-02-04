@@ -1,0 +1,1924 @@
+[
+  {
+    "id": "NI-E-001",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [702, 231, 863]. What is the total cable length needed?",
+    "segments": [
+      702,
+      231,
+      863
+    ],
+    "answer": 1796,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-002",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [230, 365, 683]. What is the total cable length needed?",
+    "segments": [
+      230,
+      365,
+      683
+    ],
+    "answer": 1278,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-003",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [635, 846, 901, 380]. What is the total cable length needed?",
+    "segments": [
+      635,
+      846,
+      901,
+      380
+    ],
+    "answer": 2762,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-004",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [968, 794, 123, 809]. What is the total cable length needed?",
+    "segments": [
+      968,
+      794,
+      123,
+      809
+    ],
+    "answer": 2694,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-005",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [797, 673, 564, 102, 537]. What is the total cable length needed?",
+    "segments": [
+      797,
+      673,
+      564,
+      102,
+      537
+    ],
+    "answer": 2673,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-006",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [974, 430, 542]. What is the total cable length needed?",
+    "segments": [
+      974,
+      430,
+      542
+    ],
+    "answer": 1946,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-007",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [380, 224, 796, 630, 577, 607]. What is the total cable length needed?",
+    "segments": [
+      380,
+      224,
+      796,
+      630,
+      577,
+      607
+    ],
+    "answer": 3214,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-008",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [629, 877, 144, 838, 329]. What is the total cable length needed?",
+    "segments": [
+      629,
+      877,
+      144,
+      838,
+      329
+    ],
+    "answer": 2817,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-009",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [384, 530, 645]. What is the total cable length needed?",
+    "segments": [
+      384,
+      530,
+      645
+    ],
+    "answer": 1559,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-010",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [423, 105, 501, 299, 442, 183]. What is the total cable length needed?",
+    "segments": [
+      423,
+      105,
+      501,
+      299,
+      442,
+      183
+    ],
+    "answer": 1953,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-011",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [855, 331, 806]. What is the total cable length needed?",
+    "segments": [
+      855,
+      331,
+      806
+    ],
+    "answer": 1992,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-012",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [176, 355, 301, 268, 437, 418]. What is the total cable length needed?",
+    "segments": [
+      176,
+      355,
+      301,
+      268,
+      437,
+      418
+    ],
+    "answer": 1955,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-013",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [741, 740, 199]. What is the total cable length needed?",
+    "segments": [
+      741,
+      740,
+      199
+    ],
+    "answer": 1680,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-014",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [591, 542, 927]. What is the total cable length needed?",
+    "segments": [
+      591,
+      542,
+      927
+    ],
+    "answer": 2060,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-015",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [706, 916, 741]. What is the total cable length needed?",
+    "segments": [
+      706,
+      916,
+      741
+    ],
+    "answer": 2363,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-016",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [960, 356, 353, 210, 584]. What is the total cable length needed?",
+    "segments": [
+      960,
+      356,
+      353,
+      210,
+      584
+    ],
+    "answer": 2463,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-017",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [448, 952, 155, 941]. What is the total cable length needed?",
+    "segments": [
+      448,
+      952,
+      155,
+      941
+    ],
+    "answer": 2496,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-018",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [632, 913, 342, 174, 894]. What is the total cable length needed?",
+    "segments": [
+      632,
+      913,
+      342,
+      174,
+      894
+    ],
+    "answer": 2955,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-019",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [882, 197, 740, 557, 692, 227]. What is the total cable length needed?",
+    "segments": [
+      882,
+      197,
+      740,
+      557,
+      692,
+      227
+    ],
+    "answer": 3295,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-020",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [162, 134, 486]. What is the total cable length needed?",
+    "segments": [
+      162,
+      134,
+      486
+    ],
+    "answer": 782,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-021",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [968, 810, 166, 901, 230]. What is the total cable length needed?",
+    "segments": [
+      968,
+      810,
+      166,
+      901,
+      230
+    ],
+    "answer": 3075,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-022",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [921, 552, 156]. What is the total cable length needed?",
+    "segments": [
+      921,
+      552,
+      156
+    ],
+    "answer": 1629,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-023",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [725, 741, 542, 167, 204]. What is the total cable length needed?",
+    "segments": [
+      725,
+      741,
+      542,
+      167,
+      204
+    ],
+    "answer": 2379,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-024",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [672, 153, 401]. What is the total cable length needed?",
+    "segments": [
+      672,
+      153,
+      401
+    ],
+    "answer": 1226,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-025",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [511, 198, 732, 870, 520, 338]. What is the total cable length needed?",
+    "segments": [
+      511,
+      198,
+      732,
+      870,
+      520,
+      338
+    ],
+    "answer": 3169,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-026",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [564, 493, 575]. What is the total cable length needed?",
+    "segments": [
+      564,
+      493,
+      575
+    ],
+    "answer": 1632,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-027",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [735, 734, 203, 447, 766, 791]. What is the total cable length needed?",
+    "segments": [
+      735,
+      734,
+      203,
+      447,
+      766,
+      791
+    ],
+    "answer": 3676,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-028",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [564, 629, 436]. What is the total cable length needed?",
+    "segments": [
+      564,
+      629,
+      436
+    ],
+    "answer": 1629,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-029",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [210, 205, 112, 709]. What is the total cable length needed?",
+    "segments": [
+      210,
+      205,
+      112,
+      709
+    ],
+    "answer": 1236,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-030",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [707, 908, 960]. What is the total cable length needed?",
+    "segments": [
+      707,
+      908,
+      960
+    ],
+    "answer": 2575,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-031",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [686, 229, 752, 621]. What is the total cable length needed?",
+    "segments": [
+      686,
+      229,
+      752,
+      621
+    ],
+    "answer": 2288,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-032",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [463, 531, 592, 842, 735]. What is the total cable length needed?",
+    "segments": [
+      463,
+      531,
+      592,
+      842,
+      735
+    ],
+    "answer": 3163,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-033",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [290, 348, 240, 916, 145, 161]. What is the total cable length needed?",
+    "segments": [
+      290,
+      348,
+      240,
+      916,
+      145,
+      161
+    ],
+    "answer": 2100,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-034",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [419, 698, 546, 625]. What is the total cable length needed?",
+    "segments": [
+      419,
+      698,
+      546,
+      625
+    ],
+    "answer": 2288,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-035",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [418, 697, 654, 894, 249]. What is the total cable length needed?",
+    "segments": [
+      418,
+      697,
+      654,
+      894,
+      249
+    ],
+    "answer": 2912,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-036",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [580, 416, 717, 451]. What is the total cable length needed?",
+    "segments": [
+      580,
+      416,
+      717,
+      451
+    ],
+    "answer": 2164,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-037",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [477, 108, 630, 700, 773]. What is the total cable length needed?",
+    "segments": [
+      477,
+      108,
+      630,
+      700,
+      773
+    ],
+    "answer": 2688,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-038",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [158, 343, 619, 938]. What is the total cable length needed?",
+    "segments": [
+      158,
+      343,
+      619,
+      938
+    ],
+    "answer": 2058,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-039",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [532, 452, 300]. What is the total cable length needed?",
+    "segments": [
+      532,
+      452,
+      300
+    ],
+    "answer": 1284,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-040",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [755, 306, 904, 170]. What is the total cable length needed?",
+    "segments": [
+      755,
+      306,
+      904,
+      170
+    ],
+    "answer": 2135,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-041",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [293, 783, 587, 811, 808]. What is the total cable length needed?",
+    "segments": [
+      293,
+      783,
+      587,
+      811,
+      808
+    ],
+    "answer": 3282,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-042",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [714, 809, 439, 972, 692, 679]. What is the total cable length needed?",
+    "segments": [
+      714,
+      809,
+      439,
+      972,
+      692,
+      679
+    ],
+    "answer": 4305,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-043",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [730, 406, 528, 436, 266]. What is the total cable length needed?",
+    "segments": [
+      730,
+      406,
+      528,
+      436,
+      266
+    ],
+    "answer": 2366,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-044",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [565, 997, 908]. What is the total cable length needed?",
+    "segments": [
+      565,
+      997,
+      908
+    ],
+    "answer": 2470,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-045",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [607, 324, 103]. What is the total cable length needed?",
+    "segments": [
+      607,
+      324,
+      103
+    ],
+    "answer": 1034,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-046",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [809, 335, 577, 738]. What is the total cable length needed?",
+    "segments": [
+      809,
+      335,
+      577,
+      738
+    ],
+    "answer": 2459,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-047",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [344, 592, 852, 886]. What is the total cable length needed?",
+    "segments": [
+      344,
+      592,
+      852,
+      886
+    ],
+    "answer": 2674,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-048",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [926, 857, 484, 310, 509]. What is the total cable length needed?",
+    "segments": [
+      926,
+      857,
+      484,
+      310,
+      509
+    ],
+    "answer": 3086,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-049",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [945, 106, 471, 110]. What is the total cable length needed?",
+    "segments": [
+      945,
+      106,
+      471,
+      110
+    ],
+    "answer": 1632,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-050",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [466, 130, 668]. What is the total cable length needed?",
+    "segments": [
+      466,
+      130,
+      668
+    ],
+    "answer": 1264,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-051",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [245, 397, 550]. What is the total cable length needed?",
+    "segments": [
+      245,
+      397,
+      550
+    ],
+    "answer": 1192,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-052",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [746, 699, 883, 468]. What is the total cable length needed?",
+    "segments": [
+      746,
+      699,
+      883,
+      468
+    ],
+    "answer": 2796,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-053",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [130, 303, 302]. What is the total cable length needed?",
+    "segments": [
+      130,
+      303,
+      302
+    ],
+    "answer": 735,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-054",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [278, 324, 368, 836, 278]. What is the total cable length needed?",
+    "segments": [
+      278,
+      324,
+      368,
+      836,
+      278
+    ],
+    "answer": 2084,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-055",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [967, 667, 351, 282, 300]. What is the total cable length needed?",
+    "segments": [
+      967,
+      667,
+      351,
+      282,
+      300
+    ],
+    "answer": 2567,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-056",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [280, 963, 368]. What is the total cable length needed?",
+    "segments": [
+      280,
+      963,
+      368
+    ],
+    "answer": 1611,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-057",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [121, 951, 793]. What is the total cable length needed?",
+    "segments": [
+      121,
+      951,
+      793
+    ],
+    "answer": 1865,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-058",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [488, 770, 906, 213]. What is the total cable length needed?",
+    "segments": [
+      488,
+      770,
+      906,
+      213
+    ],
+    "answer": 2377,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-059",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [315, 412, 567, 345, 478]. What is the total cable length needed?",
+    "segments": [
+      315,
+      412,
+      567,
+      345,
+      478
+    ],
+    "answer": 2117,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-060",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [776, 275, 639, 918, 738]. What is the total cable length needed?",
+    "segments": [
+      776,
+      275,
+      639,
+      918,
+      738
+    ],
+    "answer": 3346,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-061",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [999, 828, 166, 221, 247, 233]. What is the total cable length needed?",
+    "segments": [
+      999,
+      828,
+      166,
+      221,
+      247,
+      233
+    ],
+    "answer": 2694,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-062",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [296, 645, 487, 811]. What is the total cable length needed?",
+    "segments": [
+      296,
+      645,
+      487,
+      811
+    ],
+    "answer": 2239,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-063",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [425, 713, 539, 751, 350]. What is the total cable length needed?",
+    "segments": [
+      425,
+      713,
+      539,
+      751,
+      350
+    ],
+    "answer": 2778,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-064",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [881, 730, 701]. What is the total cable length needed?",
+    "segments": [
+      881,
+      730,
+      701
+    ],
+    "answer": 2312,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-065",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [974, 648, 401, 908]. What is the total cable length needed?",
+    "segments": [
+      974,
+      648,
+      401,
+      908
+    ],
+    "answer": 2931,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-066",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [435, 353, 154, 744]. What is the total cable length needed?",
+    "segments": [
+      435,
+      353,
+      154,
+      744
+    ],
+    "answer": 1686,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-067",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [993, 229, 971, 620, 698]. What is the total cable length needed?",
+    "segments": [
+      993,
+      229,
+      971,
+      620,
+      698
+    ],
+    "answer": 3511,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-068",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [314, 844, 183, 903, 581, 909]. What is the total cable length needed?",
+    "segments": [
+      314,
+      844,
+      183,
+      903,
+      581,
+      909
+    ],
+    "answer": 3734,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-069",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [271, 620, 497]. What is the total cable length needed?",
+    "segments": [
+      271,
+      620,
+      497
+    ],
+    "answer": 1388,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-070",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [610, 631, 575, 283, 429]. What is the total cable length needed?",
+    "segments": [
+      610,
+      631,
+      575,
+      283,
+      429
+    ],
+    "answer": 2528,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-071",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [638, 811, 594, 832, 606]. What is the total cable length needed?",
+    "segments": [
+      638,
+      811,
+      594,
+      832,
+      606
+    ],
+    "answer": 3481,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-072",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [374, 695, 510, 753, 909, 697]. What is the total cable length needed?",
+    "segments": [
+      374,
+      695,
+      510,
+      753,
+      909,
+      697
+    ],
+    "answer": 3938,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-073",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [312, 324, 307]. What is the total cable length needed?",
+    "segments": [
+      312,
+      324,
+      307
+    ],
+    "answer": 943,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-074",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [983, 340, 505, 323, 413, 535]. What is the total cable length needed?",
+    "segments": [
+      983,
+      340,
+      505,
+      323,
+      413,
+      535
+    ],
+    "answer": 3099,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-075",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [685, 260, 962, 483, 360, 663]. What is the total cable length needed?",
+    "segments": [
+      685,
+      260,
+      962,
+      483,
+      360,
+      663
+    ],
+    "answer": 3413,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-076",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [237, 869, 186]. What is the total cable length needed?",
+    "segments": [
+      237,
+      869,
+      186
+    ],
+    "answer": 1292,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-077",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [555, 631, 460, 335, 697]. What is the total cable length needed?",
+    "segments": [
+      555,
+      631,
+      460,
+      335,
+      697
+    ],
+    "answer": 2678,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-078",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [576, 624, 736]. What is the total cable length needed?",
+    "segments": [
+      576,
+      624,
+      736
+    ],
+    "answer": 1936,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-079",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [536, 561, 578, 542, 518]. What is the total cable length needed?",
+    "segments": [
+      536,
+      561,
+      578,
+      542,
+      518
+    ],
+    "answer": 2735,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-080",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [923, 609, 424, 379, 491]. What is the total cable length needed?",
+    "segments": [
+      923,
+      609,
+      424,
+      379,
+      491
+    ],
+    "answer": 2826,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-081",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [283, 552, 339]. What is the total cable length needed?",
+    "segments": [
+      283,
+      552,
+      339
+    ],
+    "answer": 1174,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-082",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [760, 177, 467, 184, 401]. What is the total cable length needed?",
+    "segments": [
+      760,
+      177,
+      467,
+      184,
+      401
+    ],
+    "answer": 1989,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-083",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [904, 383, 333]. What is the total cable length needed?",
+    "segments": [
+      904,
+      383,
+      333
+    ],
+    "answer": 1620,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-084",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [221, 173, 468]. What is the total cable length needed?",
+    "segments": [
+      221,
+      173,
+      468
+    ],
+    "answer": 862,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-085",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [659, 305, 441]. What is the total cable length needed?",
+    "segments": [
+      659,
+      305,
+      441
+    ],
+    "answer": 1405,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-086",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [791, 437, 356, 409]. What is the total cable length needed?",
+    "segments": [
+      791,
+      437,
+      356,
+      409
+    ],
+    "answer": 1993,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-087",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [295, 822, 718, 241, 975]. What is the total cable length needed?",
+    "segments": [
+      295,
+      822,
+      718,
+      241,
+      975
+    ],
+    "answer": 3051,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-088",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [108, 888, 406, 388, 942]. What is the total cable length needed?",
+    "segments": [
+      108,
+      888,
+      406,
+      388,
+      942
+    ],
+    "answer": 2732,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-089",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [901, 513, 515, 941, 693]. What is the total cable length needed?",
+    "segments": [
+      901,
+      513,
+      515,
+      941,
+      693
+    ],
+    "answer": 3563,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-090",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [583, 769, 624]. What is the total cable length needed?",
+    "segments": [
+      583,
+      769,
+      624
+    ],
+    "answer": 1976,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-091",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [986, 507, 333, 332]. What is the total cable length needed?",
+    "segments": [
+      986,
+      507,
+      333,
+      332
+    ],
+    "answer": 2158,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-092",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [585, 339, 628, 701]. What is the total cable length needed?",
+    "segments": [
+      585,
+      339,
+      628,
+      701
+    ],
+    "answer": 2253,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-093",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [839, 933, 572, 448, 910, 187]. What is the total cable length needed?",
+    "segments": [
+      839,
+      933,
+      572,
+      448,
+      910,
+      187
+    ],
+    "answer": 3889,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-094",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [966, 292, 539, 888, 814]. What is the total cable length needed?",
+    "segments": [
+      966,
+      292,
+      539,
+      888,
+      814
+    ],
+    "answer": 3499,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-095",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [314, 549, 560, 973, 671, 130]. What is the total cable length needed?",
+    "segments": [
+      314,
+      549,
+      560,
+      973,
+      671,
+      130
+    ],
+    "answer": 3197,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-096",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [242, 691, 994, 231, 412]. What is the total cable length needed?",
+    "segments": [
+      242,
+      691,
+      994,
+      231,
+      412
+    ],
+    "answer": 2570,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-097",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [611, 929, 774]. What is the total cable length needed?",
+    "segments": [
+      611,
+      929,
+      774
+    ],
+    "answer": 2314,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-098",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [447, 330, 529, 535, 802]. What is the total cable length needed?",
+    "segments": [
+      447,
+      330,
+      529,
+      535,
+      802
+    ],
+    "answer": 2643,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-099",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [881, 897, 807, 650, 406, 433]. What is the total cable length needed?",
+    "segments": [
+      881,
+      897,
+      807,
+      650,
+      406,
+      433
+    ],
+    "answer": 4074,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-100",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [681, 904, 132]. What is the total cable length needed?",
+    "segments": [
+      681,
+      904,
+      132
+    ],
+    "answer": 1717,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-101",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [257, 438, 681, 744]. What is the total cable length needed?",
+    "segments": [
+      257,
+      438,
+      681,
+      744
+    ],
+    "answer": 2120,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-102",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [490, 309, 500, 165, 647, 495]. What is the total cable length needed?",
+    "segments": [
+      490,
+      309,
+      500,
+      165,
+      647,
+      495
+    ],
+    "answer": 2606,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-103",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [586, 211, 436, 683]. What is the total cable length needed?",
+    "segments": [
+      586,
+      211,
+      436,
+      683
+    ],
+    "answer": 1916,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-104",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [754, 411, 195, 275, 206, 791]. What is the total cable length needed?",
+    "segments": [
+      754,
+      411,
+      195,
+      275,
+      206,
+      791
+    ],
+    "answer": 2632,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-105",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [132, 946, 805, 717]. What is the total cable length needed?",
+    "segments": [
+      132,
+      946,
+      805,
+      717
+    ],
+    "answer": 2600,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-106",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [127, 291, 303, 171, 495, 390]. What is the total cable length needed?",
+    "segments": [
+      127,
+      291,
+      303,
+      171,
+      495,
+      390
+    ],
+    "answer": 1777,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-107",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [338, 398, 775, 636]. What is the total cable length needed?",
+    "segments": [
+      338,
+      398,
+      775,
+      636
+    ],
+    "answer": 2147,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-108",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [565, 158, 477]. What is the total cable length needed?",
+    "segments": [
+      565,
+      158,
+      477
+    ],
+    "answer": 1200,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-109",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [275, 434, 980]. What is the total cable length needed?",
+    "segments": [
+      275,
+      434,
+      980
+    ],
+    "answer": 1689,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-110",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [500, 260, 213, 232, 649, 528]. What is the total cable length needed?",
+    "segments": [
+      500,
+      260,
+      213,
+      232,
+      649,
+      528
+    ],
+    "answer": 2382,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-111",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [860, 170, 498, 986, 311, 233]. What is the total cable length needed?",
+    "segments": [
+      860,
+      170,
+      498,
+      986,
+      311,
+      233
+    ],
+    "answer": 3058,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-112",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [417, 542, 937, 826]. What is the total cable length needed?",
+    "segments": [
+      417,
+      542,
+      937,
+      826
+    ],
+    "answer": 2722,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-113",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [262, 718, 688, 417, 701, 307]. What is the total cable length needed?",
+    "segments": [
+      262,
+      718,
+      688,
+      417,
+      701,
+      307
+    ],
+    "answer": 3093,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-114",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [382, 306, 107, 246, 556, 165]. What is the total cable length needed?",
+    "segments": [
+      382,
+      306,
+      107,
+      246,
+      556,
+      165
+    ],
+    "answer": 1762,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-115",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [719, 926, 352, 638, 436, 682]. What is the total cable length needed?",
+    "segments": [
+      719,
+      926,
+      352,
+      638,
+      436,
+      682
+    ],
+    "answer": 3753,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-116",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [571, 573, 689, 140, 854, 193]. What is the total cable length needed?",
+    "segments": [
+      571,
+      573,
+      689,
+      140,
+      854,
+      193
+    ],
+    "answer": 3020,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-117",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [761, 567, 455, 817, 962]. What is the total cable length needed?",
+    "segments": [
+      761,
+      567,
+      455,
+      817,
+      962
+    ],
+    "answer": 3562,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-118",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [500, 727, 943, 929, 970]. What is the total cable length needed?",
+    "segments": [
+      500,
+      727,
+      943,
+      929,
+      970
+    ],
+    "answer": 4069,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-119",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [525, 355, 283, 732]. What is the total cable length needed?",
+    "segments": [
+      525,
+      355,
+      283,
+      732
+    ],
+    "answer": 1895,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-120",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [568, 493, 774, 287, 815, 682]. What is the total cable length needed?",
+    "segments": [
+      568,
+      493,
+      774,
+      287,
+      815,
+      682
+    ],
+    "answer": 3619,
+    "reasoning_steps": 6
+  },
+  {
+    "id": "NI-E-121",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [502, 815, 144]. What is the total cable length needed?",
+    "segments": [
+      502,
+      815,
+      144
+    ],
+    "answer": 1461,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NI-E-122",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [991, 261, 380, 743]. What is the total cable length needed?",
+    "segments": [
+      991,
+      261,
+      380,
+      743
+    ],
+    "answer": 2375,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-123",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [782, 168, 814, 843, 839]. What is the total cable length needed?",
+    "segments": [
+      782,
+      168,
+      814,
+      843,
+      839
+    ],
+    "answer": 3446,
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NI-E-124",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [605, 521, 880, 666]. What is the total cable length needed?",
+    "segments": [
+      605,
+      521,
+      880,
+      666
+    ],
+    "answer": 2672,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NI-E-125",
+    "category": "network_infrastructure",
+    "difficulty": "easy",
+    "task_type": "cable_length",
+    "question": "A fiber route has the following segment lengths (in feet): [477, 178, 873]. What is the total cable length needed?",
+    "segments": [
+      477,
+      178,
+      873
+    ],
+    "answer": 1528,
+    "reasoning_steps": 3
+  }
+]

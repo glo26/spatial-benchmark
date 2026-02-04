@@ -1,0 +1,5752 @@
+[
+  {
+    "id": "DC-M-001",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (9, 10), which of these points is closest using Manhattan distance: [(53, 15), (68, 79), (52, 20), (71, 70)]?",
+    "origin": [
+      9,
+      10
+    ],
+    "destinations": [
+      {
+        "point": [
+          53,
+          15
+        ],
+        "distance": 49
+      },
+      {
+        "point": [
+          68,
+          79
+        ],
+        "distance": 128
+      },
+      {
+        "point": [
+          52,
+          20
+        ],
+        "distance": 53
+      },
+      {
+        "point": [
+          71,
+          70
+        ],
+        "distance": 122
+      }
+    ],
+    "answer": [
+      53,
+      15
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-002",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (40, 30), which of these points is closest using Manhattan distance: [(89, 35), (88, 31), (14, 84), (18, 56)]?",
+    "origin": [
+      40,
+      30
+    ],
+    "destinations": [
+      {
+        "point": [
+          89,
+          35
+        ],
+        "distance": 54
+      },
+      {
+        "point": [
+          88,
+          31
+        ],
+        "distance": 49
+      },
+      {
+        "point": [
+          14,
+          84
+        ],
+        "distance": 80
+      },
+      {
+        "point": [
+          18,
+          56
+        ],
+        "distance": 48
+      }
+    ],
+    "answer": [
+      18,
+      56
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-003",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (6, 48), which of these points is closest using Manhattan distance: [(5, 17), (48, 60), (48, 61), (21, 98)]?",
+    "origin": [
+      6,
+      48
+    ],
+    "destinations": [
+      {
+        "point": [
+          5,
+          17
+        ],
+        "distance": 32
+      },
+      {
+        "point": [
+          48,
+          60
+        ],
+        "distance": 54
+      },
+      {
+        "point": [
+          48,
+          61
+        ],
+        "distance": 55
+      },
+      {
+        "point": [
+          21,
+          98
+        ],
+        "distance": 65
+      }
+    ],
+    "answer": [
+      5,
+      17
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-004",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (1, 37), which of these points is closest using Manhattan distance: [(88, 46), (56, 74), (73, 23), (57, 2)]?",
+    "origin": [
+      1,
+      37
+    ],
+    "destinations": [
+      {
+        "point": [
+          88,
+          46
+        ],
+        "distance": 96
+      },
+      {
+        "point": [
+          56,
+          74
+        ],
+        "distance": 92
+      },
+      {
+        "point": [
+          73,
+          23
+        ],
+        "distance": 86
+      },
+      {
+        "point": [
+          57,
+          2
+        ],
+        "distance": 91
+      }
+    ],
+    "answer": [
+      73,
+      23
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-005",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (31, 42), which of these points is closest using Manhattan distance: [(72, 44), (43, 10), (47, 8), (22, 17)]?",
+    "origin": [
+      31,
+      42
+    ],
+    "destinations": [
+      {
+        "point": [
+          72,
+          44
+        ],
+        "distance": 43
+      },
+      {
+        "point": [
+          43,
+          10
+        ],
+        "distance": 44
+      },
+      {
+        "point": [
+          47,
+          8
+        ],
+        "distance": 50
+      },
+      {
+        "point": [
+          22,
+          17
+        ],
+        "distance": 34
+      }
+    ],
+    "answer": [
+      22,
+      17
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-006",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (39, 19), which of these points is closest using Manhattan distance: [(86, 50), (19, 14), (85, 25), (81, 41)]?",
+    "origin": [
+      39,
+      19
+    ],
+    "destinations": [
+      {
+        "point": [
+          86,
+          50
+        ],
+        "distance": 78
+      },
+      {
+        "point": [
+          19,
+          14
+        ],
+        "distance": 25
+      },
+      {
+        "point": [
+          85,
+          25
+        ],
+        "distance": 52
+      },
+      {
+        "point": [
+          81,
+          41
+        ],
+        "distance": 64
+      }
+    ],
+    "answer": [
+      19,
+      14
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-007",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (18, 45), which of these points is closest using Manhattan distance: [(100, 10), (45, 77), (63, 2), (79, 75)]?",
+    "origin": [
+      18,
+      45
+    ],
+    "destinations": [
+      {
+        "point": [
+          100,
+          10
+        ],
+        "distance": 117
+      },
+      {
+        "point": [
+          45,
+          77
+        ],
+        "distance": 59
+      },
+      {
+        "point": [
+          63,
+          2
+        ],
+        "distance": 88
+      },
+      {
+        "point": [
+          79,
+          75
+        ],
+        "distance": 91
+      }
+    ],
+    "answer": [
+      45,
+      77
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-008",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (26, 10), which of these points is closest using Manhattan distance: [(46, 32), (24, 65), (35, 66), (3, 62)]?",
+    "origin": [
+      26,
+      10
+    ],
+    "destinations": [
+      {
+        "point": [
+          46,
+          32
+        ],
+        "distance": 42
+      },
+      {
+        "point": [
+          24,
+          65
+        ],
+        "distance": 57
+      },
+      {
+        "point": [
+          35,
+          66
+        ],
+        "distance": 65
+      },
+      {
+        "point": [
+          3,
+          62
+        ],
+        "distance": 75
+      }
+    ],
+    "answer": [
+      46,
+      32
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-009",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (20, 10), which of these points is closest using Manhattan distance: [(6, 83), (30, 89), (39, 33), (57, 55)]?",
+    "origin": [
+      20,
+      10
+    ],
+    "destinations": [
+      {
+        "point": [
+          6,
+          83
+        ],
+        "distance": 87
+      },
+      {
+        "point": [
+          30,
+          89
+        ],
+        "distance": 89
+      },
+      {
+        "point": [
+          39,
+          33
+        ],
+        "distance": 42
+      },
+      {
+        "point": [
+          57,
+          55
+        ],
+        "distance": 82
+      }
+    ],
+    "answer": [
+      39,
+      33
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-010",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (21, 2), which of these points is closest using Manhattan distance: [(34, 95), (97, 84), (58, 84), (10, 42)]?",
+    "origin": [
+      21,
+      2
+    ],
+    "destinations": [
+      {
+        "point": [
+          34,
+          95
+        ],
+        "distance": 106
+      },
+      {
+        "point": [
+          97,
+          84
+        ],
+        "distance": 158
+      },
+      {
+        "point": [
+          58,
+          84
+        ],
+        "distance": 119
+      },
+      {
+        "point": [
+          10,
+          42
+        ],
+        "distance": 51
+      }
+    ],
+    "answer": [
+      10,
+      42
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-011",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (35, 2), which of these points is closest using Manhattan distance: [(16, 79), (1, 94), (73, 2), (38, 48)]?",
+    "origin": [
+      35,
+      2
+    ],
+    "destinations": [
+      {
+        "point": [
+          16,
+          79
+        ],
+        "distance": 96
+      },
+      {
+        "point": [
+          1,
+          94
+        ],
+        "distance": 126
+      },
+      {
+        "point": [
+          73,
+          2
+        ],
+        "distance": 38
+      },
+      {
+        "point": [
+          38,
+          48
+        ],
+        "distance": 49
+      }
+    ],
+    "answer": [
+      73,
+      2
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-012",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (12, 30), which of these points is closest using Manhattan distance: [(48, 49), (4, 88), (86, 34), (89, 48)]?",
+    "origin": [
+      12,
+      30
+    ],
+    "destinations": [
+      {
+        "point": [
+          48,
+          49
+        ],
+        "distance": 55
+      },
+      {
+        "point": [
+          4,
+          88
+        ],
+        "distance": 66
+      },
+      {
+        "point": [
+          86,
+          34
+        ],
+        "distance": 78
+      },
+      {
+        "point": [
+          89,
+          48
+        ],
+        "distance": 95
+      }
+    ],
+    "answer": [
+      48,
+      49
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-013",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (21, 23), which of these points is closest using Manhattan distance: [(65, 100), (54, 52), (90, 43), (16, 44)]?",
+    "origin": [
+      21,
+      23
+    ],
+    "destinations": [
+      {
+        "point": [
+          65,
+          100
+        ],
+        "distance": 121
+      },
+      {
+        "point": [
+          54,
+          52
+        ],
+        "distance": 62
+      },
+      {
+        "point": [
+          90,
+          43
+        ],
+        "distance": 89
+      },
+      {
+        "point": [
+          16,
+          44
+        ],
+        "distance": 26
+      }
+    ],
+    "answer": [
+      16,
+      44
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-014",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (46, 16), which of these points is closest using Manhattan distance: [(70, 24), (62, 36), (34, 10), (57, 85)]?",
+    "origin": [
+      46,
+      16
+    ],
+    "destinations": [
+      {
+        "point": [
+          70,
+          24
+        ],
+        "distance": 32
+      },
+      {
+        "point": [
+          62,
+          36
+        ],
+        "distance": 36
+      },
+      {
+        "point": [
+          34,
+          10
+        ],
+        "distance": 18
+      },
+      {
+        "point": [
+          57,
+          85
+        ],
+        "distance": 80
+      }
+    ],
+    "answer": [
+      34,
+      10
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-015",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (5, 42), which of these points is closest using Manhattan distance: [(40, 65), (14, 2), (16, 97), (13, 31)]?",
+    "origin": [
+      5,
+      42
+    ],
+    "destinations": [
+      {
+        "point": [
+          40,
+          65
+        ],
+        "distance": 58
+      },
+      {
+        "point": [
+          14,
+          2
+        ],
+        "distance": 49
+      },
+      {
+        "point": [
+          16,
+          97
+        ],
+        "distance": 66
+      },
+      {
+        "point": [
+          13,
+          31
+        ],
+        "distance": 19
+      }
+    ],
+    "answer": [
+      13,
+      31
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-016",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (4, 11), which of these points is closest using Manhattan distance: [(47, 8), (19, 73), (30, 99), (11, 9)]?",
+    "origin": [
+      4,
+      11
+    ],
+    "destinations": [
+      {
+        "point": [
+          47,
+          8
+        ],
+        "distance": 46
+      },
+      {
+        "point": [
+          19,
+          73
+        ],
+        "distance": 77
+      },
+      {
+        "point": [
+          30,
+          99
+        ],
+        "distance": 114
+      },
+      {
+        "point": [
+          11,
+          9
+        ],
+        "distance": 9
+      }
+    ],
+    "answer": [
+      11,
+      9
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-017",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (0, 46), which of these points is closest using Manhattan distance: [(1, 94), (43, 79), (9, 19), (74, 80)]?",
+    "origin": [
+      0,
+      46
+    ],
+    "destinations": [
+      {
+        "point": [
+          1,
+          94
+        ],
+        "distance": 49
+      },
+      {
+        "point": [
+          43,
+          79
+        ],
+        "distance": 76
+      },
+      {
+        "point": [
+          9,
+          19
+        ],
+        "distance": 36
+      },
+      {
+        "point": [
+          74,
+          80
+        ],
+        "distance": 108
+      }
+    ],
+    "answer": [
+      9,
+      19
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-018",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (29, 40), which of these points is closest using Manhattan distance: [(42, 100), (85, 13), (78, 15), (7, 90)]?",
+    "origin": [
+      29,
+      40
+    ],
+    "destinations": [
+      {
+        "point": [
+          42,
+          100
+        ],
+        "distance": 73
+      },
+      {
+        "point": [
+          85,
+          13
+        ],
+        "distance": 83
+      },
+      {
+        "point": [
+          78,
+          15
+        ],
+        "distance": 74
+      },
+      {
+        "point": [
+          7,
+          90
+        ],
+        "distance": 72
+      }
+    ],
+    "answer": [
+      7,
+      90
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-019",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (8, 12), which of these points is closest using Manhattan distance: [(95, 10), (23, 11), (91, 11), (0, 55)]?",
+    "origin": [
+      8,
+      12
+    ],
+    "destinations": [
+      {
+        "point": [
+          95,
+          10
+        ],
+        "distance": 89
+      },
+      {
+        "point": [
+          23,
+          11
+        ],
+        "distance": 16
+      },
+      {
+        "point": [
+          91,
+          11
+        ],
+        "distance": 84
+      },
+      {
+        "point": [
+          0,
+          55
+        ],
+        "distance": 51
+      }
+    ],
+    "answer": [
+      23,
+      11
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-020",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (50, 43), which of these points is closest using Manhattan distance: [(29, 26), (6, 91), (10, 49), (41, 80)]?",
+    "origin": [
+      50,
+      43
+    ],
+    "destinations": [
+      {
+        "point": [
+          29,
+          26
+        ],
+        "distance": 38
+      },
+      {
+        "point": [
+          6,
+          91
+        ],
+        "distance": 92
+      },
+      {
+        "point": [
+          10,
+          49
+        ],
+        "distance": 46
+      },
+      {
+        "point": [
+          41,
+          80
+        ],
+        "distance": 46
+      }
+    ],
+    "answer": [
+      29,
+      26
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-021",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (33, 12), which of these points is closest using Manhattan distance: [(60, 25), (90, 63), (77, 90), (23, 60)]?",
+    "origin": [
+      33,
+      12
+    ],
+    "destinations": [
+      {
+        "point": [
+          60,
+          25
+        ],
+        "distance": 40
+      },
+      {
+        "point": [
+          90,
+          63
+        ],
+        "distance": 108
+      },
+      {
+        "point": [
+          77,
+          90
+        ],
+        "distance": 122
+      },
+      {
+        "point": [
+          23,
+          60
+        ],
+        "distance": 58
+      }
+    ],
+    "answer": [
+      60,
+      25
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-022",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (18, 46), which of these points is closest using Manhattan distance: [(86, 75), (7, 56), (23, 64), (0, 10)]?",
+    "origin": [
+      18,
+      46
+    ],
+    "destinations": [
+      {
+        "point": [
+          86,
+          75
+        ],
+        "distance": 97
+      },
+      {
+        "point": [
+          7,
+          56
+        ],
+        "distance": 21
+      },
+      {
+        "point": [
+          23,
+          64
+        ],
+        "distance": 23
+      },
+      {
+        "point": [
+          0,
+          10
+        ],
+        "distance": 54
+      }
+    ],
+    "answer": [
+      7,
+      56
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-023",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (11, 12), which of these points is closest using Manhattan distance: [(33, 18), (69, 73), (24, 89), (15, 89)]?",
+    "origin": [
+      11,
+      12
+    ],
+    "destinations": [
+      {
+        "point": [
+          33,
+          18
+        ],
+        "distance": 28
+      },
+      {
+        "point": [
+          69,
+          73
+        ],
+        "distance": 119
+      },
+      {
+        "point": [
+          24,
+          89
+        ],
+        "distance": 90
+      },
+      {
+        "point": [
+          15,
+          89
+        ],
+        "distance": 81
+      }
+    ],
+    "answer": [
+      33,
+      18
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-024",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (48, 4), which of these points is closest using Manhattan distance: [(24, 23), (41, 96), (29, 20), (50, 81)]?",
+    "origin": [
+      48,
+      4
+    ],
+    "destinations": [
+      {
+        "point": [
+          24,
+          23
+        ],
+        "distance": 43
+      },
+      {
+        "point": [
+          41,
+          96
+        ],
+        "distance": 99
+      },
+      {
+        "point": [
+          29,
+          20
+        ],
+        "distance": 35
+      },
+      {
+        "point": [
+          50,
+          81
+        ],
+        "distance": 79
+      }
+    ],
+    "answer": [
+      29,
+      20
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-025",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (37, 18), which of these points is closest using Manhattan distance: [(76, 52), (64, 81), (36, 27), (54, 32)]?",
+    "origin": [
+      37,
+      18
+    ],
+    "destinations": [
+      {
+        "point": [
+          76,
+          52
+        ],
+        "distance": 73
+      },
+      {
+        "point": [
+          64,
+          81
+        ],
+        "distance": 90
+      },
+      {
+        "point": [
+          36,
+          27
+        ],
+        "distance": 10
+      },
+      {
+        "point": [
+          54,
+          32
+        ],
+        "distance": 31
+      }
+    ],
+    "answer": [
+      36,
+      27
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-026",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (22, 47), which of these points is closest using Manhattan distance: [(30, 67), (0, 83), (87, 32), (36, 96)]?",
+    "origin": [
+      22,
+      47
+    ],
+    "destinations": [
+      {
+        "point": [
+          30,
+          67
+        ],
+        "distance": 28
+      },
+      {
+        "point": [
+          0,
+          83
+        ],
+        "distance": 58
+      },
+      {
+        "point": [
+          87,
+          32
+        ],
+        "distance": 80
+      },
+      {
+        "point": [
+          36,
+          96
+        ],
+        "distance": 63
+      }
+    ],
+    "answer": [
+      30,
+      67
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-027",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (10, 4), which of these points is closest using Manhattan distance: [(7, 8), (63, 44), (93, 7), (79, 96)]?",
+    "origin": [
+      10,
+      4
+    ],
+    "destinations": [
+      {
+        "point": [
+          7,
+          8
+        ],
+        "distance": 7
+      },
+      {
+        "point": [
+          63,
+          44
+        ],
+        "distance": 93
+      },
+      {
+        "point": [
+          93,
+          7
+        ],
+        "distance": 86
+      },
+      {
+        "point": [
+          79,
+          96
+        ],
+        "distance": 161
+      }
+    ],
+    "answer": [
+      7,
+      8
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-028",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (27, 5), which of these points is closest using Manhattan distance: [(86, 97), (91, 57), (1, 95), (86, 11)]?",
+    "origin": [
+      27,
+      5
+    ],
+    "destinations": [
+      {
+        "point": [
+          86,
+          97
+        ],
+        "distance": 151
+      },
+      {
+        "point": [
+          91,
+          57
+        ],
+        "distance": 116
+      },
+      {
+        "point": [
+          1,
+          95
+        ],
+        "distance": 116
+      },
+      {
+        "point": [
+          86,
+          11
+        ],
+        "distance": 65
+      }
+    ],
+    "answer": [
+      86,
+      11
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-029",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (20, 37), which of these points is closest using Manhattan distance: [(98, 46), (89, 87), (77, 86), (8, 72)]?",
+    "origin": [
+      20,
+      37
+    ],
+    "destinations": [
+      {
+        "point": [
+          98,
+          46
+        ],
+        "distance": 87
+      },
+      {
+        "point": [
+          89,
+          87
+        ],
+        "distance": 119
+      },
+      {
+        "point": [
+          77,
+          86
+        ],
+        "distance": 106
+      },
+      {
+        "point": [
+          8,
+          72
+        ],
+        "distance": 47
+      }
+    ],
+    "answer": [
+      8,
+      72
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-030",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (16, 46), which of these points is closest using Manhattan distance: [(40, 57), (45, 95), (61, 47), (63, 38)]?",
+    "origin": [
+      16,
+      46
+    ],
+    "destinations": [
+      {
+        "point": [
+          40,
+          57
+        ],
+        "distance": 35
+      },
+      {
+        "point": [
+          45,
+          95
+        ],
+        "distance": 78
+      },
+      {
+        "point": [
+          61,
+          47
+        ],
+        "distance": 46
+      },
+      {
+        "point": [
+          63,
+          38
+        ],
+        "distance": 55
+      }
+    ],
+    "answer": [
+      40,
+      57
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-031",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (48, 31), which of these points is closest using Manhattan distance: [(40, 69), (95, 24), (29, 75), (21, 5)]?",
+    "origin": [
+      48,
+      31
+    ],
+    "destinations": [
+      {
+        "point": [
+          40,
+          69
+        ],
+        "distance": 46
+      },
+      {
+        "point": [
+          95,
+          24
+        ],
+        "distance": 54
+      },
+      {
+        "point": [
+          29,
+          75
+        ],
+        "distance": 63
+      },
+      {
+        "point": [
+          21,
+          5
+        ],
+        "distance": 53
+      }
+    ],
+    "answer": [
+      40,
+      69
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-032",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (44, 22), which of these points is closest using Manhattan distance: [(52, 59), (59, 41), (51, 59), (59, 57)]?",
+    "origin": [
+      44,
+      22
+    ],
+    "destinations": [
+      {
+        "point": [
+          52,
+          59
+        ],
+        "distance": 45
+      },
+      {
+        "point": [
+          59,
+          41
+        ],
+        "distance": 34
+      },
+      {
+        "point": [
+          51,
+          59
+        ],
+        "distance": 44
+      },
+      {
+        "point": [
+          59,
+          57
+        ],
+        "distance": 50
+      }
+    ],
+    "answer": [
+      59,
+      41
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-033",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (9, 9), which of these points is closest using Manhattan distance: [(94, 96), (49, 53), (3, 17), (100, 40)]?",
+    "origin": [
+      9,
+      9
+    ],
+    "destinations": [
+      {
+        "point": [
+          94,
+          96
+        ],
+        "distance": 172
+      },
+      {
+        "point": [
+          49,
+          53
+        ],
+        "distance": 84
+      },
+      {
+        "point": [
+          3,
+          17
+        ],
+        "distance": 14
+      },
+      {
+        "point": [
+          100,
+          40
+        ],
+        "distance": 122
+      }
+    ],
+    "answer": [
+      3,
+      17
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-034",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (24, 40), which of these points is closest using Manhattan distance: [(19, 51), (46, 1), (55, 84), (22, 19)]?",
+    "origin": [
+      24,
+      40
+    ],
+    "destinations": [
+      {
+        "point": [
+          19,
+          51
+        ],
+        "distance": 16
+      },
+      {
+        "point": [
+          46,
+          1
+        ],
+        "distance": 61
+      },
+      {
+        "point": [
+          55,
+          84
+        ],
+        "distance": 75
+      },
+      {
+        "point": [
+          22,
+          19
+        ],
+        "distance": 23
+      }
+    ],
+    "answer": [
+      19,
+      51
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-035",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (37, 11), which of these points is closest using Manhattan distance: [(27, 12), (2, 50), (60, 19), (34, 43)]?",
+    "origin": [
+      37,
+      11
+    ],
+    "destinations": [
+      {
+        "point": [
+          27,
+          12
+        ],
+        "distance": 11
+      },
+      {
+        "point": [
+          2,
+          50
+        ],
+        "distance": 74
+      },
+      {
+        "point": [
+          60,
+          19
+        ],
+        "distance": 31
+      },
+      {
+        "point": [
+          34,
+          43
+        ],
+        "distance": 35
+      }
+    ],
+    "answer": [
+      27,
+      12
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-036",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (12, 1), which of these points is closest using Manhattan distance: [(63, 50), (20, 38), (70, 35), (29, 24)]?",
+    "origin": [
+      12,
+      1
+    ],
+    "destinations": [
+      {
+        "point": [
+          63,
+          50
+        ],
+        "distance": 100
+      },
+      {
+        "point": [
+          20,
+          38
+        ],
+        "distance": 45
+      },
+      {
+        "point": [
+          70,
+          35
+        ],
+        "distance": 92
+      },
+      {
+        "point": [
+          29,
+          24
+        ],
+        "distance": 40
+      }
+    ],
+    "answer": [
+      29,
+      24
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-037",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (31, 38), which of these points is closest using Manhattan distance: [(92, 63), (55, 55), (20, 62), (85, 7)]?",
+    "origin": [
+      31,
+      38
+    ],
+    "destinations": [
+      {
+        "point": [
+          92,
+          63
+        ],
+        "distance": 86
+      },
+      {
+        "point": [
+          55,
+          55
+        ],
+        "distance": 41
+      },
+      {
+        "point": [
+          20,
+          62
+        ],
+        "distance": 35
+      },
+      {
+        "point": [
+          85,
+          7
+        ],
+        "distance": 85
+      }
+    ],
+    "answer": [
+      20,
+      62
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-038",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (22, 6), which of these points is closest using Manhattan distance: [(8, 41), (90, 61), (77, 37), (18, 30)]?",
+    "origin": [
+      22,
+      6
+    ],
+    "destinations": [
+      {
+        "point": [
+          8,
+          41
+        ],
+        "distance": 49
+      },
+      {
+        "point": [
+          90,
+          61
+        ],
+        "distance": 123
+      },
+      {
+        "point": [
+          77,
+          37
+        ],
+        "distance": 86
+      },
+      {
+        "point": [
+          18,
+          30
+        ],
+        "distance": 28
+      }
+    ],
+    "answer": [
+      18,
+      30
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-039",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (33, 31), which of these points is closest using Manhattan distance: [(27, 53), (62, 1), (39, 80), (20, 43)]?",
+    "origin": [
+      33,
+      31
+    ],
+    "destinations": [
+      {
+        "point": [
+          27,
+          53
+        ],
+        "distance": 28
+      },
+      {
+        "point": [
+          62,
+          1
+        ],
+        "distance": 59
+      },
+      {
+        "point": [
+          39,
+          80
+        ],
+        "distance": 55
+      },
+      {
+        "point": [
+          20,
+          43
+        ],
+        "distance": 25
+      }
+    ],
+    "answer": [
+      20,
+      43
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-040",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (40, 19), which of these points is closest using Manhattan distance: [(87, 79), (54, 78), (15, 76), (16, 67)]?",
+    "origin": [
+      40,
+      19
+    ],
+    "destinations": [
+      {
+        "point": [
+          87,
+          79
+        ],
+        "distance": 107
+      },
+      {
+        "point": [
+          54,
+          78
+        ],
+        "distance": 73
+      },
+      {
+        "point": [
+          15,
+          76
+        ],
+        "distance": 82
+      },
+      {
+        "point": [
+          16,
+          67
+        ],
+        "distance": 72
+      }
+    ],
+    "answer": [
+      16,
+      67
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-041",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (18, 21), which of these points is closest using Manhattan distance: [(92, 47), (88, 16), (47, 72), (60, 8)]?",
+    "origin": [
+      18,
+      21
+    ],
+    "destinations": [
+      {
+        "point": [
+          92,
+          47
+        ],
+        "distance": 100
+      },
+      {
+        "point": [
+          88,
+          16
+        ],
+        "distance": 75
+      },
+      {
+        "point": [
+          47,
+          72
+        ],
+        "distance": 80
+      },
+      {
+        "point": [
+          60,
+          8
+        ],
+        "distance": 55
+      }
+    ],
+    "answer": [
+      60,
+      8
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-042",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (1, 28), which of these points is closest using Manhattan distance: [(47, 53), (31, 26), (41, 88), (29, 40)]?",
+    "origin": [
+      1,
+      28
+    ],
+    "destinations": [
+      {
+        "point": [
+          47,
+          53
+        ],
+        "distance": 71
+      },
+      {
+        "point": [
+          31,
+          26
+        ],
+        "distance": 32
+      },
+      {
+        "point": [
+          41,
+          88
+        ],
+        "distance": 100
+      },
+      {
+        "point": [
+          29,
+          40
+        ],
+        "distance": 40
+      }
+    ],
+    "answer": [
+      31,
+      26
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-043",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (40, 30), which of these points is closest using Manhattan distance: [(100, 35), (71, 43), (73, 42), (89, 24)]?",
+    "origin": [
+      40,
+      30
+    ],
+    "destinations": [
+      {
+        "point": [
+          100,
+          35
+        ],
+        "distance": 65
+      },
+      {
+        "point": [
+          71,
+          43
+        ],
+        "distance": 44
+      },
+      {
+        "point": [
+          73,
+          42
+        ],
+        "distance": 45
+      },
+      {
+        "point": [
+          89,
+          24
+        ],
+        "distance": 55
+      }
+    ],
+    "answer": [
+      71,
+      43
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-044",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (8, 20), which of these points is closest using Manhattan distance: [(100, 80), (73, 29), (90, 75), (78, 30)]?",
+    "origin": [
+      8,
+      20
+    ],
+    "destinations": [
+      {
+        "point": [
+          100,
+          80
+        ],
+        "distance": 152
+      },
+      {
+        "point": [
+          73,
+          29
+        ],
+        "distance": 74
+      },
+      {
+        "point": [
+          90,
+          75
+        ],
+        "distance": 137
+      },
+      {
+        "point": [
+          78,
+          30
+        ],
+        "distance": 80
+      }
+    ],
+    "answer": [
+      73,
+      29
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-045",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (15, 31), which of these points is closest using Manhattan distance: [(72, 60), (2, 40), (65, 12), (49, 96)]?",
+    "origin": [
+      15,
+      31
+    ],
+    "destinations": [
+      {
+        "point": [
+          72,
+          60
+        ],
+        "distance": 86
+      },
+      {
+        "point": [
+          2,
+          40
+        ],
+        "distance": 22
+      },
+      {
+        "point": [
+          65,
+          12
+        ],
+        "distance": 69
+      },
+      {
+        "point": [
+          49,
+          96
+        ],
+        "distance": 99
+      }
+    ],
+    "answer": [
+      2,
+      40
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-046",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (9, 39), which of these points is closest using Manhattan distance: [(41, 10), (67, 62), (59, 77), (93, 34)]?",
+    "origin": [
+      9,
+      39
+    ],
+    "destinations": [
+      {
+        "point": [
+          41,
+          10
+        ],
+        "distance": 61
+      },
+      {
+        "point": [
+          67,
+          62
+        ],
+        "distance": 81
+      },
+      {
+        "point": [
+          59,
+          77
+        ],
+        "distance": 88
+      },
+      {
+        "point": [
+          93,
+          34
+        ],
+        "distance": 89
+      }
+    ],
+    "answer": [
+      41,
+      10
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-047",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (4, 28), which of these points is closest using Manhattan distance: [(49, 99), (24, 98), (35, 91), (18, 46)]?",
+    "origin": [
+      4,
+      28
+    ],
+    "destinations": [
+      {
+        "point": [
+          49,
+          99
+        ],
+        "distance": 116
+      },
+      {
+        "point": [
+          24,
+          98
+        ],
+        "distance": 90
+      },
+      {
+        "point": [
+          35,
+          91
+        ],
+        "distance": 94
+      },
+      {
+        "point": [
+          18,
+          46
+        ],
+        "distance": 32
+      }
+    ],
+    "answer": [
+      18,
+      46
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-048",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (49, 3), which of these points is closest using Manhattan distance: [(60, 31), (28, 81), (0, 41), (45, 79)]?",
+    "origin": [
+      49,
+      3
+    ],
+    "destinations": [
+      {
+        "point": [
+          60,
+          31
+        ],
+        "distance": 39
+      },
+      {
+        "point": [
+          28,
+          81
+        ],
+        "distance": 99
+      },
+      {
+        "point": [
+          0,
+          41
+        ],
+        "distance": 87
+      },
+      {
+        "point": [
+          45,
+          79
+        ],
+        "distance": 80
+      }
+    ],
+    "answer": [
+      60,
+      31
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-049",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (30, 35), which of these points is closest using Manhattan distance: [(18, 100), (34, 40), (62, 40), (77, 68)]?",
+    "origin": [
+      30,
+      35
+    ],
+    "destinations": [
+      {
+        "point": [
+          18,
+          100
+        ],
+        "distance": 77
+      },
+      {
+        "point": [
+          34,
+          40
+        ],
+        "distance": 9
+      },
+      {
+        "point": [
+          62,
+          40
+        ],
+        "distance": 37
+      },
+      {
+        "point": [
+          77,
+          68
+        ],
+        "distance": 80
+      }
+    ],
+    "answer": [
+      34,
+      40
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-050",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (12, 41), which of these points is closest using Manhattan distance: [(24, 76), (77, 15), (37, 93), (7, 94)]?",
+    "origin": [
+      12,
+      41
+    ],
+    "destinations": [
+      {
+        "point": [
+          24,
+          76
+        ],
+        "distance": 47
+      },
+      {
+        "point": [
+          77,
+          15
+        ],
+        "distance": 91
+      },
+      {
+        "point": [
+          37,
+          93
+        ],
+        "distance": 77
+      },
+      {
+        "point": [
+          7,
+          94
+        ],
+        "distance": 58
+      }
+    ],
+    "answer": [
+      24,
+      76
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-051",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (12, 33), which of these points is closest using Manhattan distance: [(64, 36), (31, 48), (54, 89), (1, 38)]?",
+    "origin": [
+      12,
+      33
+    ],
+    "destinations": [
+      {
+        "point": [
+          64,
+          36
+        ],
+        "distance": 55
+      },
+      {
+        "point": [
+          31,
+          48
+        ],
+        "distance": 34
+      },
+      {
+        "point": [
+          54,
+          89
+        ],
+        "distance": 98
+      },
+      {
+        "point": [
+          1,
+          38
+        ],
+        "distance": 16
+      }
+    ],
+    "answer": [
+      1,
+      38
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-052",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (16, 13), which of these points is closest using Manhattan distance: [(18, 37), (3, 3), (83, 82), (97, 53)]?",
+    "origin": [
+      16,
+      13
+    ],
+    "destinations": [
+      {
+        "point": [
+          18,
+          37
+        ],
+        "distance": 26
+      },
+      {
+        "point": [
+          3,
+          3
+        ],
+        "distance": 23
+      },
+      {
+        "point": [
+          83,
+          82
+        ],
+        "distance": 136
+      },
+      {
+        "point": [
+          97,
+          53
+        ],
+        "distance": 121
+      }
+    ],
+    "answer": [
+      3,
+      3
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-053",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (5, 23), which of these points is closest using Manhattan distance: [(59, 99), (18, 57), (80, 48), (71, 20)]?",
+    "origin": [
+      5,
+      23
+    ],
+    "destinations": [
+      {
+        "point": [
+          59,
+          99
+        ],
+        "distance": 130
+      },
+      {
+        "point": [
+          18,
+          57
+        ],
+        "distance": 47
+      },
+      {
+        "point": [
+          80,
+          48
+        ],
+        "distance": 100
+      },
+      {
+        "point": [
+          71,
+          20
+        ],
+        "distance": 69
+      }
+    ],
+    "answer": [
+      18,
+      57
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-054",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (38, 28), which of these points is closest using Manhattan distance: [(97, 40), (13, 35), (58, 35), (25, 90)]?",
+    "origin": [
+      38,
+      28
+    ],
+    "destinations": [
+      {
+        "point": [
+          97,
+          40
+        ],
+        "distance": 71
+      },
+      {
+        "point": [
+          13,
+          35
+        ],
+        "distance": 32
+      },
+      {
+        "point": [
+          58,
+          35
+        ],
+        "distance": 27
+      },
+      {
+        "point": [
+          25,
+          90
+        ],
+        "distance": 75
+      }
+    ],
+    "answer": [
+      58,
+      35
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-055",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (38, 29), which of these points is closest using Manhattan distance: [(36, 20), (75, 16), (41, 2), (15, 6)]?",
+    "origin": [
+      38,
+      29
+    ],
+    "destinations": [
+      {
+        "point": [
+          36,
+          20
+        ],
+        "distance": 11
+      },
+      {
+        "point": [
+          75,
+          16
+        ],
+        "distance": 50
+      },
+      {
+        "point": [
+          41,
+          2
+        ],
+        "distance": 30
+      },
+      {
+        "point": [
+          15,
+          6
+        ],
+        "distance": 46
+      }
+    ],
+    "answer": [
+      36,
+      20
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-056",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (20, 35), which of these points is closest using Manhattan distance: [(61, 47), (18, 40), (92, 48), (70, 3)]?",
+    "origin": [
+      20,
+      35
+    ],
+    "destinations": [
+      {
+        "point": [
+          61,
+          47
+        ],
+        "distance": 53
+      },
+      {
+        "point": [
+          18,
+          40
+        ],
+        "distance": 7
+      },
+      {
+        "point": [
+          92,
+          48
+        ],
+        "distance": 85
+      },
+      {
+        "point": [
+          70,
+          3
+        ],
+        "distance": 82
+      }
+    ],
+    "answer": [
+      18,
+      40
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-057",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (40, 27), which of these points is closest using Manhattan distance: [(82, 41), (50, 22), (41, 78), (97, 4)]?",
+    "origin": [
+      40,
+      27
+    ],
+    "destinations": [
+      {
+        "point": [
+          82,
+          41
+        ],
+        "distance": 56
+      },
+      {
+        "point": [
+          50,
+          22
+        ],
+        "distance": 15
+      },
+      {
+        "point": [
+          41,
+          78
+        ],
+        "distance": 52
+      },
+      {
+        "point": [
+          97,
+          4
+        ],
+        "distance": 80
+      }
+    ],
+    "answer": [
+      50,
+      22
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-058",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (41, 18), which of these points is closest using Manhattan distance: [(41, 72), (96, 72), (5, 65), (7, 92)]?",
+    "origin": [
+      41,
+      18
+    ],
+    "destinations": [
+      {
+        "point": [
+          41,
+          72
+        ],
+        "distance": 54
+      },
+      {
+        "point": [
+          96,
+          72
+        ],
+        "distance": 109
+      },
+      {
+        "point": [
+          5,
+          65
+        ],
+        "distance": 83
+      },
+      {
+        "point": [
+          7,
+          92
+        ],
+        "distance": 108
+      }
+    ],
+    "answer": [
+      41,
+      72
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-059",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (45, 45), which of these points is closest using Manhattan distance: [(16, 63), (8, 8), (17, 19), (13, 66)]?",
+    "origin": [
+      45,
+      45
+    ],
+    "destinations": [
+      {
+        "point": [
+          16,
+          63
+        ],
+        "distance": 47
+      },
+      {
+        "point": [
+          8,
+          8
+        ],
+        "distance": 74
+      },
+      {
+        "point": [
+          17,
+          19
+        ],
+        "distance": 54
+      },
+      {
+        "point": [
+          13,
+          66
+        ],
+        "distance": 53
+      }
+    ],
+    "answer": [
+      16,
+      63
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-060",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (10, 45), which of these points is closest using Manhattan distance: [(30, 11), (96, 46), (45, 43), (10, 52)]?",
+    "origin": [
+      10,
+      45
+    ],
+    "destinations": [
+      {
+        "point": [
+          30,
+          11
+        ],
+        "distance": 54
+      },
+      {
+        "point": [
+          96,
+          46
+        ],
+        "distance": 87
+      },
+      {
+        "point": [
+          45,
+          43
+        ],
+        "distance": 37
+      },
+      {
+        "point": [
+          10,
+          52
+        ],
+        "distance": 7
+      }
+    ],
+    "answer": [
+      10,
+      52
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-061",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (21, 48), which of these points is closest using Manhattan distance: [(8, 63), (51, 69), (7, 67), (53, 82)]?",
+    "origin": [
+      21,
+      48
+    ],
+    "destinations": [
+      {
+        "point": [
+          8,
+          63
+        ],
+        "distance": 28
+      },
+      {
+        "point": [
+          51,
+          69
+        ],
+        "distance": 51
+      },
+      {
+        "point": [
+          7,
+          67
+        ],
+        "distance": 33
+      },
+      {
+        "point": [
+          53,
+          82
+        ],
+        "distance": 66
+      }
+    ],
+    "answer": [
+      8,
+      63
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-062",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (50, 25), which of these points is closest using Manhattan distance: [(88, 19), (70, 11), (26, 57), (20, 14)]?",
+    "origin": [
+      50,
+      25
+    ],
+    "destinations": [
+      {
+        "point": [
+          88,
+          19
+        ],
+        "distance": 44
+      },
+      {
+        "point": [
+          70,
+          11
+        ],
+        "distance": 34
+      },
+      {
+        "point": [
+          26,
+          57
+        ],
+        "distance": 56
+      },
+      {
+        "point": [
+          20,
+          14
+        ],
+        "distance": 41
+      }
+    ],
+    "answer": [
+      70,
+      11
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-063",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (48, 16), which of these points is closest using Manhattan distance: [(29, 30), (7, 82), (87, 71), (3, 6)]?",
+    "origin": [
+      48,
+      16
+    ],
+    "destinations": [
+      {
+        "point": [
+          29,
+          30
+        ],
+        "distance": 33
+      },
+      {
+        "point": [
+          7,
+          82
+        ],
+        "distance": 107
+      },
+      {
+        "point": [
+          87,
+          71
+        ],
+        "distance": 94
+      },
+      {
+        "point": [
+          3,
+          6
+        ],
+        "distance": 55
+      }
+    ],
+    "answer": [
+      29,
+      30
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-064",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (41, 44), which of these points is closest using Manhattan distance: [(28, 61), (5, 5), (28, 97), (29, 19)]?",
+    "origin": [
+      41,
+      44
+    ],
+    "destinations": [
+      {
+        "point": [
+          28,
+          61
+        ],
+        "distance": 30
+      },
+      {
+        "point": [
+          5,
+          5
+        ],
+        "distance": 75
+      },
+      {
+        "point": [
+          28,
+          97
+        ],
+        "distance": 66
+      },
+      {
+        "point": [
+          29,
+          19
+        ],
+        "distance": 37
+      }
+    ],
+    "answer": [
+      28,
+      61
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-065",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (8, 32), which of these points is closest using Manhattan distance: [(40, 41), (49, 96), (81, 85), (50, 2)]?",
+    "origin": [
+      8,
+      32
+    ],
+    "destinations": [
+      {
+        "point": [
+          40,
+          41
+        ],
+        "distance": 41
+      },
+      {
+        "point": [
+          49,
+          96
+        ],
+        "distance": 105
+      },
+      {
+        "point": [
+          81,
+          85
+        ],
+        "distance": 126
+      },
+      {
+        "point": [
+          50,
+          2
+        ],
+        "distance": 72
+      }
+    ],
+    "answer": [
+      40,
+      41
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-066",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (32, 48), which of these points is closest using Manhattan distance: [(37, 63), (3, 85), (91, 89), (53, 70)]?",
+    "origin": [
+      32,
+      48
+    ],
+    "destinations": [
+      {
+        "point": [
+          37,
+          63
+        ],
+        "distance": 20
+      },
+      {
+        "point": [
+          3,
+          85
+        ],
+        "distance": 66
+      },
+      {
+        "point": [
+          91,
+          89
+        ],
+        "distance": 100
+      },
+      {
+        "point": [
+          53,
+          70
+        ],
+        "distance": 43
+      }
+    ],
+    "answer": [
+      37,
+      63
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-067",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (4, 2), which of these points is closest using Manhattan distance: [(25, 75), (4, 26), (29, 74), (62, 0)]?",
+    "origin": [
+      4,
+      2
+    ],
+    "destinations": [
+      {
+        "point": [
+          25,
+          75
+        ],
+        "distance": 94
+      },
+      {
+        "point": [
+          4,
+          26
+        ],
+        "distance": 24
+      },
+      {
+        "point": [
+          29,
+          74
+        ],
+        "distance": 97
+      },
+      {
+        "point": [
+          62,
+          0
+        ],
+        "distance": 60
+      }
+    ],
+    "answer": [
+      4,
+      26
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-068",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (22, 44), which of these points is closest using Manhattan distance: [(10, 74), (47, 65), (21, 50), (27, 19)]?",
+    "origin": [
+      22,
+      44
+    ],
+    "destinations": [
+      {
+        "point": [
+          10,
+          74
+        ],
+        "distance": 42
+      },
+      {
+        "point": [
+          47,
+          65
+        ],
+        "distance": 46
+      },
+      {
+        "point": [
+          21,
+          50
+        ],
+        "distance": 7
+      },
+      {
+        "point": [
+          27,
+          19
+        ],
+        "distance": 30
+      }
+    ],
+    "answer": [
+      21,
+      50
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-069",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (34, 0), which of these points is closest using Manhattan distance: [(80, 95), (79, 36), (34, 71), (47, 65)]?",
+    "origin": [
+      34,
+      0
+    ],
+    "destinations": [
+      {
+        "point": [
+          80,
+          95
+        ],
+        "distance": 141
+      },
+      {
+        "point": [
+          79,
+          36
+        ],
+        "distance": 81
+      },
+      {
+        "point": [
+          34,
+          71
+        ],
+        "distance": 71
+      },
+      {
+        "point": [
+          47,
+          65
+        ],
+        "distance": 78
+      }
+    ],
+    "answer": [
+      34,
+      71
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-070",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (24, 10), which of these points is closest using Manhattan distance: [(25, 96), (77, 32), (42, 25), (41, 33)]?",
+    "origin": [
+      24,
+      10
+    ],
+    "destinations": [
+      {
+        "point": [
+          25,
+          96
+        ],
+        "distance": 87
+      },
+      {
+        "point": [
+          77,
+          32
+        ],
+        "distance": 75
+      },
+      {
+        "point": [
+          42,
+          25
+        ],
+        "distance": 33
+      },
+      {
+        "point": [
+          41,
+          33
+        ],
+        "distance": 40
+      }
+    ],
+    "answer": [
+      42,
+      25
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-071",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (25, 7), which of these points is closest using Manhattan distance: [(83, 36), (57, 3), (57, 77), (83, 85)]?",
+    "origin": [
+      25,
+      7
+    ],
+    "destinations": [
+      {
+        "point": [
+          83,
+          36
+        ],
+        "distance": 87
+      },
+      {
+        "point": [
+          57,
+          3
+        ],
+        "distance": 36
+      },
+      {
+        "point": [
+          57,
+          77
+        ],
+        "distance": 102
+      },
+      {
+        "point": [
+          83,
+          85
+        ],
+        "distance": 136
+      }
+    ],
+    "answer": [
+      57,
+      3
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-072",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (32, 49), which of these points is closest using Manhattan distance: [(51, 26), (23, 14), (5, 49), (13, 95)]?",
+    "origin": [
+      32,
+      49
+    ],
+    "destinations": [
+      {
+        "point": [
+          51,
+          26
+        ],
+        "distance": 42
+      },
+      {
+        "point": [
+          23,
+          14
+        ],
+        "distance": 44
+      },
+      {
+        "point": [
+          5,
+          49
+        ],
+        "distance": 27
+      },
+      {
+        "point": [
+          13,
+          95
+        ],
+        "distance": 65
+      }
+    ],
+    "answer": [
+      5,
+      49
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-073",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (13, 12), which of these points is closest using Manhattan distance: [(97, 72), (94, 95), (38, 88), (86, 27)]?",
+    "origin": [
+      13,
+      12
+    ],
+    "destinations": [
+      {
+        "point": [
+          97,
+          72
+        ],
+        "distance": 144
+      },
+      {
+        "point": [
+          94,
+          95
+        ],
+        "distance": 164
+      },
+      {
+        "point": [
+          38,
+          88
+        ],
+        "distance": 101
+      },
+      {
+        "point": [
+          86,
+          27
+        ],
+        "distance": 88
+      }
+    ],
+    "answer": [
+      86,
+      27
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-074",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (37, 19), which of these points is closest using Manhattan distance: [(46, 59), (6, 82), (80, 29), (72, 32)]?",
+    "origin": [
+      37,
+      19
+    ],
+    "destinations": [
+      {
+        "point": [
+          46,
+          59
+        ],
+        "distance": 49
+      },
+      {
+        "point": [
+          6,
+          82
+        ],
+        "distance": 94
+      },
+      {
+        "point": [
+          80,
+          29
+        ],
+        "distance": 53
+      },
+      {
+        "point": [
+          72,
+          32
+        ],
+        "distance": 48
+      }
+    ],
+    "answer": [
+      72,
+      32
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-075",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (13, 32), which of these points is closest using Manhattan distance: [(3, 39), (1, 27), (23, 42), (26, 63)]?",
+    "origin": [
+      13,
+      32
+    ],
+    "destinations": [
+      {
+        "point": [
+          3,
+          39
+        ],
+        "distance": 17
+      },
+      {
+        "point": [
+          1,
+          27
+        ],
+        "distance": 17
+      },
+      {
+        "point": [
+          23,
+          42
+        ],
+        "distance": 20
+      },
+      {
+        "point": [
+          26,
+          63
+        ],
+        "distance": 44
+      }
+    ],
+    "answer": [
+      3,
+      39
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-076",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (46, 24), which of these points is closest using Manhattan distance: [(92, 41), (58, 50), (77, 96), (21, 62)]?",
+    "origin": [
+      46,
+      24
+    ],
+    "destinations": [
+      {
+        "point": [
+          92,
+          41
+        ],
+        "distance": 63
+      },
+      {
+        "point": [
+          58,
+          50
+        ],
+        "distance": 38
+      },
+      {
+        "point": [
+          77,
+          96
+        ],
+        "distance": 103
+      },
+      {
+        "point": [
+          21,
+          62
+        ],
+        "distance": 63
+      }
+    ],
+    "answer": [
+      58,
+      50
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-077",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (30, 35), which of these points is closest using Manhattan distance: [(76, 36), (85, 31), (9, 78), (13, 0)]?",
+    "origin": [
+      30,
+      35
+    ],
+    "destinations": [
+      {
+        "point": [
+          76,
+          36
+        ],
+        "distance": 47
+      },
+      {
+        "point": [
+          85,
+          31
+        ],
+        "distance": 59
+      },
+      {
+        "point": [
+          9,
+          78
+        ],
+        "distance": 64
+      },
+      {
+        "point": [
+          13,
+          0
+        ],
+        "distance": 52
+      }
+    ],
+    "answer": [
+      76,
+      36
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-078",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (1, 39), which of these points is closest using Manhattan distance: [(6, 1), (35, 0), (38, 56), (48, 93)]?",
+    "origin": [
+      1,
+      39
+    ],
+    "destinations": [
+      {
+        "point": [
+          6,
+          1
+        ],
+        "distance": 43
+      },
+      {
+        "point": [
+          35,
+          0
+        ],
+        "distance": 73
+      },
+      {
+        "point": [
+          38,
+          56
+        ],
+        "distance": 54
+      },
+      {
+        "point": [
+          48,
+          93
+        ],
+        "distance": 101
+      }
+    ],
+    "answer": [
+      6,
+      1
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-079",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (36, 10), which of these points is closest using Manhattan distance: [(12, 6), (47, 27), (82, 24), (54, 94)]?",
+    "origin": [
+      36,
+      10
+    ],
+    "destinations": [
+      {
+        "point": [
+          12,
+          6
+        ],
+        "distance": 28
+      },
+      {
+        "point": [
+          47,
+          27
+        ],
+        "distance": 28
+      },
+      {
+        "point": [
+          82,
+          24
+        ],
+        "distance": 60
+      },
+      {
+        "point": [
+          54,
+          94
+        ],
+        "distance": 102
+      }
+    ],
+    "answer": [
+      12,
+      6
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-080",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (23, 4), which of these points is closest using Manhattan distance: [(35, 53), (83, 2), (38, 98), (4, 15)]?",
+    "origin": [
+      23,
+      4
+    ],
+    "destinations": [
+      {
+        "point": [
+          35,
+          53
+        ],
+        "distance": 61
+      },
+      {
+        "point": [
+          83,
+          2
+        ],
+        "distance": 62
+      },
+      {
+        "point": [
+          38,
+          98
+        ],
+        "distance": 109
+      },
+      {
+        "point": [
+          4,
+          15
+        ],
+        "distance": 30
+      }
+    ],
+    "answer": [
+      4,
+      15
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-081",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (19, 9), which of these points is closest using Manhattan distance: [(33, 58), (26, 15), (81, 95), (87, 3)]?",
+    "origin": [
+      19,
+      9
+    ],
+    "destinations": [
+      {
+        "point": [
+          33,
+          58
+        ],
+        "distance": 63
+      },
+      {
+        "point": [
+          26,
+          15
+        ],
+        "distance": 13
+      },
+      {
+        "point": [
+          81,
+          95
+        ],
+        "distance": 148
+      },
+      {
+        "point": [
+          87,
+          3
+        ],
+        "distance": 74
+      }
+    ],
+    "answer": [
+      26,
+      15
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-082",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (30, 11), which of these points is closest using Manhattan distance: [(1, 14), (11, 92), (30, 58), (74, 88)]?",
+    "origin": [
+      30,
+      11
+    ],
+    "destinations": [
+      {
+        "point": [
+          1,
+          14
+        ],
+        "distance": 32
+      },
+      {
+        "point": [
+          11,
+          92
+        ],
+        "distance": 100
+      },
+      {
+        "point": [
+          30,
+          58
+        ],
+        "distance": 47
+      },
+      {
+        "point": [
+          74,
+          88
+        ],
+        "distance": 121
+      }
+    ],
+    "answer": [
+      1,
+      14
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-083",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (35, 17), which of these points is closest using Manhattan distance: [(34, 2), (89, 72), (61, 8), (93, 88)]?",
+    "origin": [
+      35,
+      17
+    ],
+    "destinations": [
+      {
+        "point": [
+          34,
+          2
+        ],
+        "distance": 16
+      },
+      {
+        "point": [
+          89,
+          72
+        ],
+        "distance": 109
+      },
+      {
+        "point": [
+          61,
+          8
+        ],
+        "distance": 35
+      },
+      {
+        "point": [
+          93,
+          88
+        ],
+        "distance": 129
+      }
+    ],
+    "answer": [
+      34,
+      2
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-084",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (9, 13), which of these points is closest using Manhattan distance: [(8, 50), (86, 48), (3, 4), (63, 55)]?",
+    "origin": [
+      9,
+      13
+    ],
+    "destinations": [
+      {
+        "point": [
+          8,
+          50
+        ],
+        "distance": 38
+      },
+      {
+        "point": [
+          86,
+          48
+        ],
+        "distance": 112
+      },
+      {
+        "point": [
+          3,
+          4
+        ],
+        "distance": 15
+      },
+      {
+        "point": [
+          63,
+          55
+        ],
+        "distance": 96
+      }
+    ],
+    "answer": [
+      3,
+      4
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-085",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (29, 26), which of these points is closest using Manhattan distance: [(22, 1), (73, 5), (84, 8), (98, 35)]?",
+    "origin": [
+      29,
+      26
+    ],
+    "destinations": [
+      {
+        "point": [
+          22,
+          1
+        ],
+        "distance": 32
+      },
+      {
+        "point": [
+          73,
+          5
+        ],
+        "distance": 65
+      },
+      {
+        "point": [
+          84,
+          8
+        ],
+        "distance": 73
+      },
+      {
+        "point": [
+          98,
+          35
+        ],
+        "distance": 78
+      }
+    ],
+    "answer": [
+      22,
+      1
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-086",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (45, 18), which of these points is closest using Manhattan distance: [(92, 61), (25, 34), (3, 85), (34, 24)]?",
+    "origin": [
+      45,
+      18
+    ],
+    "destinations": [
+      {
+        "point": [
+          92,
+          61
+        ],
+        "distance": 90
+      },
+      {
+        "point": [
+          25,
+          34
+        ],
+        "distance": 36
+      },
+      {
+        "point": [
+          3,
+          85
+        ],
+        "distance": 109
+      },
+      {
+        "point": [
+          34,
+          24
+        ],
+        "distance": 17
+      }
+    ],
+    "answer": [
+      34,
+      24
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-087",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (15, 44), which of these points is closest using Manhattan distance: [(57, 0), (83, 5), (72, 55), (71, 89)]?",
+    "origin": [
+      15,
+      44
+    ],
+    "destinations": [
+      {
+        "point": [
+          57,
+          0
+        ],
+        "distance": 86
+      },
+      {
+        "point": [
+          83,
+          5
+        ],
+        "distance": 107
+      },
+      {
+        "point": [
+          72,
+          55
+        ],
+        "distance": 68
+      },
+      {
+        "point": [
+          71,
+          89
+        ],
+        "distance": 101
+      }
+    ],
+    "answer": [
+      72,
+      55
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-088",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (31, 50), which of these points is closest using Manhattan distance: [(29, 91), (95, 6), (36, 46), (11, 76)]?",
+    "origin": [
+      31,
+      50
+    ],
+    "destinations": [
+      {
+        "point": [
+          29,
+          91
+        ],
+        "distance": 43
+      },
+      {
+        "point": [
+          95,
+          6
+        ],
+        "distance": 108
+      },
+      {
+        "point": [
+          36,
+          46
+        ],
+        "distance": 9
+      },
+      {
+        "point": [
+          11,
+          76
+        ],
+        "distance": 46
+      }
+    ],
+    "answer": [
+      36,
+      46
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-089",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (23, 29), which of these points is closest using Manhattan distance: [(60, 69), (20, 47), (84, 47), (92, 70)]?",
+    "origin": [
+      23,
+      29
+    ],
+    "destinations": [
+      {
+        "point": [
+          60,
+          69
+        ],
+        "distance": 77
+      },
+      {
+        "point": [
+          20,
+          47
+        ],
+        "distance": 21
+      },
+      {
+        "point": [
+          84,
+          47
+        ],
+        "distance": 79
+      },
+      {
+        "point": [
+          92,
+          70
+        ],
+        "distance": 110
+      }
+    ],
+    "answer": [
+      20,
+      47
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-090",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (34, 9), which of these points is closest using Manhattan distance: [(41, 94), (81, 44), (52, 22), (74, 51)]?",
+    "origin": [
+      34,
+      9
+    ],
+    "destinations": [
+      {
+        "point": [
+          41,
+          94
+        ],
+        "distance": 92
+      },
+      {
+        "point": [
+          81,
+          44
+        ],
+        "distance": 82
+      },
+      {
+        "point": [
+          52,
+          22
+        ],
+        "distance": 31
+      },
+      {
+        "point": [
+          74,
+          51
+        ],
+        "distance": 82
+      }
+    ],
+    "answer": [
+      52,
+      22
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-091",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (23, 29), which of these points is closest using Manhattan distance: [(44, 98), (37, 18), (86, 96), (63, 86)]?",
+    "origin": [
+      23,
+      29
+    ],
+    "destinations": [
+      {
+        "point": [
+          44,
+          98
+        ],
+        "distance": 90
+      },
+      {
+        "point": [
+          37,
+          18
+        ],
+        "distance": 25
+      },
+      {
+        "point": [
+          86,
+          96
+        ],
+        "distance": 130
+      },
+      {
+        "point": [
+          63,
+          86
+        ],
+        "distance": 97
+      }
+    ],
+    "answer": [
+      37,
+      18
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-092",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (34, 26), which of these points is closest using Manhattan distance: [(46, 55), (11, 77), (32, 17), (42, 45)]?",
+    "origin": [
+      34,
+      26
+    ],
+    "destinations": [
+      {
+        "point": [
+          46,
+          55
+        ],
+        "distance": 41
+      },
+      {
+        "point": [
+          11,
+          77
+        ],
+        "distance": 74
+      },
+      {
+        "point": [
+          32,
+          17
+        ],
+        "distance": 11
+      },
+      {
+        "point": [
+          42,
+          45
+        ],
+        "distance": 27
+      }
+    ],
+    "answer": [
+      32,
+      17
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-093",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (41, 29), which of these points is closest using Manhattan distance: [(57, 96), (69, 87), (21, 5), (43, 64)]?",
+    "origin": [
+      41,
+      29
+    ],
+    "destinations": [
+      {
+        "point": [
+          57,
+          96
+        ],
+        "distance": 83
+      },
+      {
+        "point": [
+          69,
+          87
+        ],
+        "distance": 86
+      },
+      {
+        "point": [
+          21,
+          5
+        ],
+        "distance": 44
+      },
+      {
+        "point": [
+          43,
+          64
+        ],
+        "distance": 37
+      }
+    ],
+    "answer": [
+      43,
+      64
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-094",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (40, 9), which of these points is closest using Manhattan distance: [(76, 43), (69, 80), (95, 20), (73, 17)]?",
+    "origin": [
+      40,
+      9
+    ],
+    "destinations": [
+      {
+        "point": [
+          76,
+          43
+        ],
+        "distance": 70
+      },
+      {
+        "point": [
+          69,
+          80
+        ],
+        "distance": 100
+      },
+      {
+        "point": [
+          95,
+          20
+        ],
+        "distance": 66
+      },
+      {
+        "point": [
+          73,
+          17
+        ],
+        "distance": 41
+      }
+    ],
+    "answer": [
+      73,
+      17
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-095",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (50, 13), which of these points is closest using Manhattan distance: [(88, 50), (10, 53), (14, 64), (69, 5)]?",
+    "origin": [
+      50,
+      13
+    ],
+    "destinations": [
+      {
+        "point": [
+          88,
+          50
+        ],
+        "distance": 75
+      },
+      {
+        "point": [
+          10,
+          53
+        ],
+        "distance": 80
+      },
+      {
+        "point": [
+          14,
+          64
+        ],
+        "distance": 87
+      },
+      {
+        "point": [
+          69,
+          5
+        ],
+        "distance": 27
+      }
+    ],
+    "answer": [
+      69,
+      5
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-096",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (33, 6), which of these points is closest using Manhattan distance: [(73, 0), (32, 70), (85, 21), (94, 29)]?",
+    "origin": [
+      33,
+      6
+    ],
+    "destinations": [
+      {
+        "point": [
+          73,
+          0
+        ],
+        "distance": 46
+      },
+      {
+        "point": [
+          32,
+          70
+        ],
+        "distance": 65
+      },
+      {
+        "point": [
+          85,
+          21
+        ],
+        "distance": 67
+      },
+      {
+        "point": [
+          94,
+          29
+        ],
+        "distance": 84
+      }
+    ],
+    "answer": [
+      73,
+      0
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-097",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (43, 45), which of these points is closest using Manhattan distance: [(100, 42), (62, 14), (41, 93), (47, 70)]?",
+    "origin": [
+      43,
+      45
+    ],
+    "destinations": [
+      {
+        "point": [
+          100,
+          42
+        ],
+        "distance": 60
+      },
+      {
+        "point": [
+          62,
+          14
+        ],
+        "distance": 50
+      },
+      {
+        "point": [
+          41,
+          93
+        ],
+        "distance": 50
+      },
+      {
+        "point": [
+          47,
+          70
+        ],
+        "distance": 29
+      }
+    ],
+    "answer": [
+      47,
+      70
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-098",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (25, 33), which of these points is closest using Manhattan distance: [(84, 50), (28, 73), (44, 95), (52, 88)]?",
+    "origin": [
+      25,
+      33
+    ],
+    "destinations": [
+      {
+        "point": [
+          84,
+          50
+        ],
+        "distance": 76
+      },
+      {
+        "point": [
+          28,
+          73
+        ],
+        "distance": 43
+      },
+      {
+        "point": [
+          44,
+          95
+        ],
+        "distance": 81
+      },
+      {
+        "point": [
+          52,
+          88
+        ],
+        "distance": 82
+      }
+    ],
+    "answer": [
+      28,
+      73
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-099",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (48, 6), which of these points is closest using Manhattan distance: [(28, 81), (82, 58), (19, 88), (96, 24)]?",
+    "origin": [
+      48,
+      6
+    ],
+    "destinations": [
+      {
+        "point": [
+          28,
+          81
+        ],
+        "distance": 95
+      },
+      {
+        "point": [
+          82,
+          58
+        ],
+        "distance": 86
+      },
+      {
+        "point": [
+          19,
+          88
+        ],
+        "distance": 111
+      },
+      {
+        "point": [
+          96,
+          24
+        ],
+        "distance": 66
+      }
+    ],
+    "answer": [
+      96,
+      24
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-100",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (45, 0), which of these points is closest using Manhattan distance: [(64, 13), (63, 18), (9, 88), (39, 30)]?",
+    "origin": [
+      45,
+      0
+    ],
+    "destinations": [
+      {
+        "point": [
+          64,
+          13
+        ],
+        "distance": 32
+      },
+      {
+        "point": [
+          63,
+          18
+        ],
+        "distance": 36
+      },
+      {
+        "point": [
+          9,
+          88
+        ],
+        "distance": 124
+      },
+      {
+        "point": [
+          39,
+          30
+        ],
+        "distance": 36
+      }
+    ],
+    "answer": [
+      64,
+      13
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-101",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (48, 25), which of these points is closest using Manhattan distance: [(38, 26), (69, 81), (12, 24), (3, 2)]?",
+    "origin": [
+      48,
+      25
+    ],
+    "destinations": [
+      {
+        "point": [
+          38,
+          26
+        ],
+        "distance": 11
+      },
+      {
+        "point": [
+          69,
+          81
+        ],
+        "distance": 77
+      },
+      {
+        "point": [
+          12,
+          24
+        ],
+        "distance": 37
+      },
+      {
+        "point": [
+          3,
+          2
+        ],
+        "distance": 68
+      }
+    ],
+    "answer": [
+      38,
+      26
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-102",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (1, 18), which of these points is closest using Manhattan distance: [(15, 26), (23, 99), (87, 9), (8, 32)]?",
+    "origin": [
+      1,
+      18
+    ],
+    "destinations": [
+      {
+        "point": [
+          15,
+          26
+        ],
+        "distance": 22
+      },
+      {
+        "point": [
+          23,
+          99
+        ],
+        "distance": 103
+      },
+      {
+        "point": [
+          87,
+          9
+        ],
+        "distance": 95
+      },
+      {
+        "point": [
+          8,
+          32
+        ],
+        "distance": 21
+      }
+    ],
+    "answer": [
+      8,
+      32
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-103",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (28, 7), which of these points is closest using Manhattan distance: [(54, 45), (84, 51), (1, 89), (76, 38)]?",
+    "origin": [
+      28,
+      7
+    ],
+    "destinations": [
+      {
+        "point": [
+          54,
+          45
+        ],
+        "distance": 64
+      },
+      {
+        "point": [
+          84,
+          51
+        ],
+        "distance": 100
+      },
+      {
+        "point": [
+          1,
+          89
+        ],
+        "distance": 109
+      },
+      {
+        "point": [
+          76,
+          38
+        ],
+        "distance": 79
+      }
+    ],
+    "answer": [
+      54,
+      45
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-104",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (21, 24), which of these points is closest using Manhattan distance: [(47, 26), (38, 54), (79, 75), (61, 81)]?",
+    "origin": [
+      21,
+      24
+    ],
+    "destinations": [
+      {
+        "point": [
+          47,
+          26
+        ],
+        "distance": 28
+      },
+      {
+        "point": [
+          38,
+          54
+        ],
+        "distance": 47
+      },
+      {
+        "point": [
+          79,
+          75
+        ],
+        "distance": 109
+      },
+      {
+        "point": [
+          61,
+          81
+        ],
+        "distance": 97
+      }
+    ],
+    "answer": [
+      47,
+      26
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-105",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (39, 37), which of these points is closest using Manhattan distance: [(5, 86), (62, 4), (63, 40), (44, 3)]?",
+    "origin": [
+      39,
+      37
+    ],
+    "destinations": [
+      {
+        "point": [
+          5,
+          86
+        ],
+        "distance": 83
+      },
+      {
+        "point": [
+          62,
+          4
+        ],
+        "distance": 56
+      },
+      {
+        "point": [
+          63,
+          40
+        ],
+        "distance": 27
+      },
+      {
+        "point": [
+          44,
+          3
+        ],
+        "distance": 39
+      }
+    ],
+    "answer": [
+      63,
+      40
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-106",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (16, 44), which of these points is closest using Manhattan distance: [(60, 49), (96, 68), (98, 12), (54, 88)]?",
+    "origin": [
+      16,
+      44
+    ],
+    "destinations": [
+      {
+        "point": [
+          60,
+          49
+        ],
+        "distance": 49
+      },
+      {
+        "point": [
+          96,
+          68
+        ],
+        "distance": 104
+      },
+      {
+        "point": [
+          98,
+          12
+        ],
+        "distance": 114
+      },
+      {
+        "point": [
+          54,
+          88
+        ],
+        "distance": 82
+      }
+    ],
+    "answer": [
+      60,
+      49
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-107",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (37, 39), which of these points is closest using Manhattan distance: [(44, 87), (62, 3), (48, 4), (62, 97)]?",
+    "origin": [
+      37,
+      39
+    ],
+    "destinations": [
+      {
+        "point": [
+          44,
+          87
+        ],
+        "distance": 55
+      },
+      {
+        "point": [
+          62,
+          3
+        ],
+        "distance": 61
+      },
+      {
+        "point": [
+          48,
+          4
+        ],
+        "distance": 46
+      },
+      {
+        "point": [
+          62,
+          97
+        ],
+        "distance": 83
+      }
+    ],
+    "answer": [
+      48,
+      4
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-108",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (5, 30), which of these points is closest using Manhattan distance: [(32, 69), (11, 10), (31, 92), (91, 80)]?",
+    "origin": [
+      5,
+      30
+    ],
+    "destinations": [
+      {
+        "point": [
+          32,
+          69
+        ],
+        "distance": 66
+      },
+      {
+        "point": [
+          11,
+          10
+        ],
+        "distance": 26
+      },
+      {
+        "point": [
+          31,
+          92
+        ],
+        "distance": 88
+      },
+      {
+        "point": [
+          91,
+          80
+        ],
+        "distance": 136
+      }
+    ],
+    "answer": [
+      11,
+      10
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-109",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (6, 29), which of these points is closest using Manhattan distance: [(48, 95), (43, 30), (77, 60), (4, 41)]?",
+    "origin": [
+      6,
+      29
+    ],
+    "destinations": [
+      {
+        "point": [
+          48,
+          95
+        ],
+        "distance": 108
+      },
+      {
+        "point": [
+          43,
+          30
+        ],
+        "distance": 38
+      },
+      {
+        "point": [
+          77,
+          60
+        ],
+        "distance": 102
+      },
+      {
+        "point": [
+          4,
+          41
+        ],
+        "distance": 14
+      }
+    ],
+    "answer": [
+      4,
+      41
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-110",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (19, 35), which of these points is closest using Manhattan distance: [(99, 90), (57, 27), (78, 52), (12, 1)]?",
+    "origin": [
+      19,
+      35
+    ],
+    "destinations": [
+      {
+        "point": [
+          99,
+          90
+        ],
+        "distance": 135
+      },
+      {
+        "point": [
+          57,
+          27
+        ],
+        "distance": 46
+      },
+      {
+        "point": [
+          78,
+          52
+        ],
+        "distance": 76
+      },
+      {
+        "point": [
+          12,
+          1
+        ],
+        "distance": 41
+      }
+    ],
+    "answer": [
+      12,
+      1
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-111",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (43, 8), which of these points is closest using Manhattan distance: [(75, 86), (99, 3), (64, 56), (8, 64)]?",
+    "origin": [
+      43,
+      8
+    ],
+    "destinations": [
+      {
+        "point": [
+          75,
+          86
+        ],
+        "distance": 110
+      },
+      {
+        "point": [
+          99,
+          3
+        ],
+        "distance": 61
+      },
+      {
+        "point": [
+          64,
+          56
+        ],
+        "distance": 69
+      },
+      {
+        "point": [
+          8,
+          64
+        ],
+        "distance": 91
+      }
+    ],
+    "answer": [
+      99,
+      3
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-112",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (11, 29), which of these points is closest using Manhattan distance: [(35, 89), (72, 49), (68, 83), (92, 6)]?",
+    "origin": [
+      11,
+      29
+    ],
+    "destinations": [
+      {
+        "point": [
+          35,
+          89
+        ],
+        "distance": 84
+      },
+      {
+        "point": [
+          72,
+          49
+        ],
+        "distance": 81
+      },
+      {
+        "point": [
+          68,
+          83
+        ],
+        "distance": 111
+      },
+      {
+        "point": [
+          92,
+          6
+        ],
+        "distance": 104
+      }
+    ],
+    "answer": [
+      72,
+      49
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-113",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (16, 37), which of these points is closest using Manhattan distance: [(15, 89), (66, 62), (22, 57), (37, 20)]?",
+    "origin": [
+      16,
+      37
+    ],
+    "destinations": [
+      {
+        "point": [
+          15,
+          89
+        ],
+        "distance": 53
+      },
+      {
+        "point": [
+          66,
+          62
+        ],
+        "distance": 75
+      },
+      {
+        "point": [
+          22,
+          57
+        ],
+        "distance": 26
+      },
+      {
+        "point": [
+          37,
+          20
+        ],
+        "distance": 38
+      }
+    ],
+    "answer": [
+      22,
+      57
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-114",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (2, 18), which of these points is closest using Manhattan distance: [(76, 42), (54, 14), (87, 19), (9, 25)]?",
+    "origin": [
+      2,
+      18
+    ],
+    "destinations": [
+      {
+        "point": [
+          76,
+          42
+        ],
+        "distance": 98
+      },
+      {
+        "point": [
+          54,
+          14
+        ],
+        "distance": 56
+      },
+      {
+        "point": [
+          87,
+          19
+        ],
+        "distance": 86
+      },
+      {
+        "point": [
+          9,
+          25
+        ],
+        "distance": 14
+      }
+    ],
+    "answer": [
+      9,
+      25
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-115",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (30, 31), which of these points is closest using Manhattan distance: [(31, 0), (49, 99), (95, 83), (22, 98)]?",
+    "origin": [
+      30,
+      31
+    ],
+    "destinations": [
+      {
+        "point": [
+          31,
+          0
+        ],
+        "distance": 32
+      },
+      {
+        "point": [
+          49,
+          99
+        ],
+        "distance": 87
+      },
+      {
+        "point": [
+          95,
+          83
+        ],
+        "distance": 117
+      },
+      {
+        "point": [
+          22,
+          98
+        ],
+        "distance": 75
+      }
+    ],
+    "answer": [
+      31,
+      0
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-116",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (24, 2), which of these points is closest using Manhattan distance: [(38, 23), (28, 43), (87, 74), (63, 29)]?",
+    "origin": [
+      24,
+      2
+    ],
+    "destinations": [
+      {
+        "point": [
+          38,
+          23
+        ],
+        "distance": 35
+      },
+      {
+        "point": [
+          28,
+          43
+        ],
+        "distance": 45
+      },
+      {
+        "point": [
+          87,
+          74
+        ],
+        "distance": 135
+      },
+      {
+        "point": [
+          63,
+          29
+        ],
+        "distance": 66
+      }
+    ],
+    "answer": [
+      38,
+      23
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-117",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (45, 28), which of these points is closest using Manhattan distance: [(89, 14), (12, 21), (17, 16), (94, 77)]?",
+    "origin": [
+      45,
+      28
+    ],
+    "destinations": [
+      {
+        "point": [
+          89,
+          14
+        ],
+        "distance": 58
+      },
+      {
+        "point": [
+          12,
+          21
+        ],
+        "distance": 40
+      },
+      {
+        "point": [
+          17,
+          16
+        ],
+        "distance": 40
+      },
+      {
+        "point": [
+          94,
+          77
+        ],
+        "distance": 98
+      }
+    ],
+    "answer": [
+      12,
+      21
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-118",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (36, 1), which of these points is closest using Manhattan distance: [(56, 63), (46, 89), (55, 2), (90, 67)]?",
+    "origin": [
+      36,
+      1
+    ],
+    "destinations": [
+      {
+        "point": [
+          56,
+          63
+        ],
+        "distance": 82
+      },
+      {
+        "point": [
+          46,
+          89
+        ],
+        "distance": 98
+      },
+      {
+        "point": [
+          55,
+          2
+        ],
+        "distance": 20
+      },
+      {
+        "point": [
+          90,
+          67
+        ],
+        "distance": 120
+      }
+    ],
+    "answer": [
+      55,
+      2
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-119",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (44, 23), which of these points is closest using Manhattan distance: [(81, 69), (13, 53), (60, 4), (35, 55)]?",
+    "origin": [
+      44,
+      23
+    ],
+    "destinations": [
+      {
+        "point": [
+          81,
+          69
+        ],
+        "distance": 83
+      },
+      {
+        "point": [
+          13,
+          53
+        ],
+        "distance": 61
+      },
+      {
+        "point": [
+          60,
+          4
+        ],
+        "distance": 35
+      },
+      {
+        "point": [
+          35,
+          55
+        ],
+        "distance": 41
+      }
+    ],
+    "answer": [
+      60,
+      4
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-120",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (35, 44), which of these points is closest using Manhattan distance: [(54, 8), (8, 11), (33, 85), (45, 60)]?",
+    "origin": [
+      35,
+      44
+    ],
+    "destinations": [
+      {
+        "point": [
+          54,
+          8
+        ],
+        "distance": 55
+      },
+      {
+        "point": [
+          8,
+          11
+        ],
+        "distance": 60
+      },
+      {
+        "point": [
+          33,
+          85
+        ],
+        "distance": 43
+      },
+      {
+        "point": [
+          45,
+          60
+        ],
+        "distance": 26
+      }
+    ],
+    "answer": [
+      45,
+      60
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-121",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (25, 32), which of these points is closest using Manhattan distance: [(31, 17), (15, 3), (20, 11), (73, 23)]?",
+    "origin": [
+      25,
+      32
+    ],
+    "destinations": [
+      {
+        "point": [
+          31,
+          17
+        ],
+        "distance": 21
+      },
+      {
+        "point": [
+          15,
+          3
+        ],
+        "distance": 39
+      },
+      {
+        "point": [
+          20,
+          11
+        ],
+        "distance": 26
+      },
+      {
+        "point": [
+          73,
+          23
+        ],
+        "distance": 57
+      }
+    ],
+    "answer": [
+      31,
+      17
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-122",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (42, 12), which of these points is closest using Manhattan distance: [(57, 84), (69, 47), (71, 33), (61, 8)]?",
+    "origin": [
+      42,
+      12
+    ],
+    "destinations": [
+      {
+        "point": [
+          57,
+          84
+        ],
+        "distance": 87
+      },
+      {
+        "point": [
+          69,
+          47
+        ],
+        "distance": 62
+      },
+      {
+        "point": [
+          71,
+          33
+        ],
+        "distance": 50
+      },
+      {
+        "point": [
+          61,
+          8
+        ],
+        "distance": 23
+      }
+    ],
+    "answer": [
+      61,
+      8
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-123",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (50, 42), which of these points is closest using Manhattan distance: [(23, 74), (52, 14), (71, 5), (29, 25)]?",
+    "origin": [
+      50,
+      42
+    ],
+    "destinations": [
+      {
+        "point": [
+          23,
+          74
+        ],
+        "distance": 59
+      },
+      {
+        "point": [
+          52,
+          14
+        ],
+        "distance": 30
+      },
+      {
+        "point": [
+          71,
+          5
+        ],
+        "distance": 58
+      },
+      {
+        "point": [
+          29,
+          25
+        ],
+        "distance": 38
+      }
+    ],
+    "answer": [
+      52,
+      14
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-124",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (9, 19), which of these points is closest using Manhattan distance: [(17, 95), (89, 50), (1, 47), (7, 65)]?",
+    "origin": [
+      9,
+      19
+    ],
+    "destinations": [
+      {
+        "point": [
+          17,
+          95
+        ],
+        "distance": 84
+      },
+      {
+        "point": [
+          89,
+          50
+        ],
+        "distance": 111
+      },
+      {
+        "point": [
+          1,
+          47
+        ],
+        "distance": 36
+      },
+      {
+        "point": [
+          7,
+          65
+        ],
+        "distance": 48
+      }
+    ],
+    "answer": [
+      1,
+      47
+    ],
+    "reasoning_steps": 5
+  },
+  {
+    "id": "DC-M-125",
+    "category": "distance_computation",
+    "difficulty": "medium",
+    "task_type": "manhattan_comparison",
+    "question": "From origin (50, 0), which of these points is closest using Manhattan distance: [(14, 67), (85, 34), (74, 67), (1, 38)]?",
+    "origin": [
+      50,
+      0
+    ],
+    "destinations": [
+      {
+        "point": [
+          14,
+          67
+        ],
+        "distance": 103
+      },
+      {
+        "point": [
+          85,
+          34
+        ],
+        "distance": 69
+      },
+      {
+        "point": [
+          74,
+          67
+        ],
+        "distance": 91
+      },
+      {
+        "point": [
+          1,
+          38
+        ],
+        "distance": 87
+      }
+    ],
+    "answer": [
+      85,
+      34
+    ],
+    "reasoning_steps": 5
+  }
+]

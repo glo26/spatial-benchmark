@@ -1,69 +1,104 @@
 # SpatialEval: A Comprehensive Benchmark for 2D Spatial Reasoning in Large Language Models
 
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![NeurIPS 2026](https://img.shields.io/badge/NeurIPS-2026-purple.svg)](https://neurips.cc/)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/XXXX.XXXXX)
+[![Dataset](https://img.shields.io/badge/Dataset-2250_Tasks-blue)](./data/)
+[![License](https://img.shields.io/badge/License-Apache_2.0-green)](LICENSE)
 
 ## Overview
 
-**SpatialEval** is a comprehensive benchmark designed to rigorously assess the 2D spatial reasoning capabilities of Large Language Models (LLMs). Unlike existing benchmarks that focus on abstract grid-world scenarios, SpatialEval tests models on practical, real-world spatial problems encountered in domains such as urban planning, logistics, and engineering.
+**SpatialEval** is a comprehensive benchmark designed to rigorously assess the 2D spatial reasoning capabilities of Large Language Models (LLMs). It evaluates models across six distinct task categories grounded in real-world applications from AtlasPro AI.
 
 ## Key Features
 
-- **Six Diverse Task Categories**: Coordinate Understanding, Navigation & Pathfinding, Real Estate Spatial Analysis, Network Infrastructure, Geometric Reasoning, and Distance Computation
-- **2,250 Carefully Curated Tasks**: Spanning three difficulty levels (Easy, Medium, Hard)
-- **Multi-Faceted Evaluation**: Beyond accuracy—assessing reasoning quality and efficiency
-- **Real-World Grounding**: Tasks derived from practical applications and real data
+- **2,250 Tasks** across 6 categories and 3 difficulty levels
+- **Multi-faceted Evaluation**: Accuracy (50%) + Reasoning Quality (30%) + Efficiency (20%)
+- **Real-World Grounding**: Tasks derived from 60 validated industry use cases
+- **Procedural Generation**: Contamination-resistant dataset design
 
 ## Task Categories
 
 | Category | Code | Description |
 |----------|------|-------------|
-| Coordinate Understanding | CU | Cartesian/Polar coordinates, GPS reasoning, transformations |
-| Navigation & Pathfinding | NP | A* algorithm, shortest path, multi-waypoint routing |
-| Real Estate Analysis | RE | Property boundaries, proximity queries, zoning compliance |
-| Network Infrastructure | NI | Cable routing, network topology, connectivity analysis |
-| Geometric Reasoning | GR | Shape recognition, area/perimeter, spatial relationships |
-| Distance Computation | DC | Euclidean, Manhattan, geodesic distances |
+| Coordinate Understanding | CU | Coordinate systems, GPS transformations, polygon containment |
+| Navigation & Pathfinding | NP | Direction following, shortest path, A* algorithm |
+| Real Estate Analysis | RE | Property area, proximity analysis, zoning compliance |
+| Network Infrastructure | NI | Cable routing, topology analysis, failure cascade |
+| Geometric Reasoning | GR | Shape properties, spatial relationships, polygon area |
+| Distance Computation | DC | Euclidean, Manhattan, geodesic (Haversine) distances |
 
-## Evaluated Models
+## Dataset Statistics
 
-- OpenAI GPT-5.2
-- Anthropic Claude 3 (Opus)
-- Google Gemini 1.5 (Pro)
-- xAI Grok-1.5
-- DeepSeek-V2
+| Difficulty | Tasks per Category | Total |
+|------------|-------------------|-------|
+| Easy | 125 | 750 |
+| Medium | 125 | 750 |
+| Hard | 125 | 750 |
+| **Total** | **375** | **2,250** |
+
+## Models Evaluated
+
+1. **OpenAI GPT-5.2**
+2. **Anthropic Claude 3** (Opus)
+3. **Google Gemini 1.5** (Pro)
+4. **xAI Grok-1.5**
+5. **DeepSeek-V2**
 
 ## Repository Structure
 
 ```
 spatial-benchmark/
 ├── arxiv/                    # Paper source files
-│   ├── spatialeval.tex       # Main LaTeX file
+│   ├── spatialeval.tex       # Main LaTeX paper
+│   ├── spatialeval.pdf       # Compiled PDF
 │   ├── references.bib        # Bibliography
-│   ├── neurips_2023.sty      # NeurIPS style file
 │   └── figures/              # Paper figures
-├── data/                     # Benchmark dataset (coming soon)
-├── evaluation/               # Evaluation scripts (coming soon)
+├── data/                     # Benchmark dataset
+│   ├── coordinate_understanding/
+│   ├── navigation_pathfinding/
+│   ├── real_estate/
+│   ├── network_infrastructure/
+│   ├── geometric_reasoning/
+│   ├── distance_computation/
+│   ├── generate_dataset.py   # Dataset generation script
+│   └── dataset_summary.json  # Dataset metadata
 └── README.md
+```
+
+## Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/glo26/spatial-benchmark.git
+cd spatial-benchmark
+
+# View dataset summary
+cat data/dataset_summary.json
+
+# Example: Load coordinate understanding tasks
+python3 -c "import json; tasks = json.load(open('data/coordinate_understanding/easy/tasks.json')); print(f'Loaded {len(tasks)} tasks')"
 ```
 
 ## Citation
 
-If you use SpatialEval in your research, please cite:
-
 ```bibtex
-@inproceedings{spatialeval2026,
+@article{spatialeval2026,
   title={SpatialEval: A Comprehensive Benchmark for 2D Spatial Reasoning in Large Language Models},
   author={Anonymous},
-  booktitle={Advances in Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track},
+  journal={arXiv preprint},
   year={2026}
 }
 ```
 
+## Related Work
+
+This benchmark is informed by the comprehensive taxonomy presented in:
+
+> Felicia, G., Bryant, N., Putra, H., Gazali, A., Lobo, E., & Rojas, E. (2026). *From Perception to Action: Spatial AI Agents and World Models*. arXiv:2602.01644.
+
 ## License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License.
 
-## Status
+---
 
-**Draft v1** - Paper structure and methodology complete. Experimental results pending.
+**Target Venue**: NeurIPS 2026 Datasets & Benchmarks Track

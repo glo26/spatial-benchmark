@@ -75,13 +75,25 @@ The evaluation of spatial reasoning in AI has a long history, with a recent surg
 
 \textbf{Geospatial and Navigation Benchmarks:} A number of benchmarks have been developed specifically for geospatial and navigation tasks. GeoBenchX \cite{solirinai2025geobenchx} and the GeoAI Benchmark \cite{li2023geoai} focus on evaluating LLMs on GIS-related tasks. MapBench \cite{emergentmind2025mapbench} and SpatialBench \cite{spicylemonade2025spatialbench} assess navigation and pathfinding abilities. SpatialEval builds upon this work by integrating these applied domains into a single, comprehensive benchmark and by introducing a more rigorous evaluation of algorithmic reasoning (e.g., A* simulation).
 
+Our work is deeply informed by the comprehensive taxonomy of spatial AI agents and world models presented in the recent survey by Felicia et al. \cite{felicia2026perception}. That work provides a unified framework for understanding the capabilities of spatial AI agents, and we adopt their three-axis taxonomy (Spatial Task, Agentic Capability, Spatial Scale) as a foundational guide for the design of SpatialEval. While their survey provides the theoretical framework, SpatialEval provides the practical, large-scale benchmark to measure and drive progress within that framework.
+
 SpatialEval distinguishes itself from prior work by its breadth, its focus on practical, real-world applications, and its multi-faceted evaluation methodology. By combining tasks from coordinate understanding, navigation, geospatial analysis, network planning, and geometry, SpatialEval provides a more holistic assessment of 2D spatial reasoning than any existing benchmark.
 
 \section{The SpatialEval Benchmark}
 
 SpatialEval is designed to be a comprehensive and challenging benchmark for 2D spatial reasoning. It consists of a suite of tasks organized into six categories, each targeting a different aspect of spatial intelligence.
 
-\subsection{Task Categories}
+\subsection{Design Principles}
+
+We designed SpatialEval with four core principles:
+\begin{itemize}
+    \item \textbf{Real-World Grounding:} Tasks are derived from documented, high-value industry use cases to ensure practical relevance and applicability.
+    \item \textbf{Comprehensive Coverage:} The benchmark spans six distinct categories of spatial reasoning, from fundamental geometry to complex, multi-step geospatial analysis.
+    \item \textbf{Controlled Difficulty:} A mix of procedural generation and real-world data allows for precise control over task difficulty, enabling fine-grained analysis of model capabilities.
+    \item \textbf{Multi-Faceted Evaluation:} We move beyond simple accuracy to evaluate the quality and efficiency of the reasoning process, providing a more holistic view of a model's spatial intelligence.
+\end{itemize}
+
+\subsection{Benchmark Task Taxonomy}
 
 The six task categories of SpatialEval are:
 \begin{itemize}
@@ -103,7 +115,7 @@ A detailed description of the tasks within each category can be found in the App
 \end{center}
 \end{figure}
 
-\subsection{Dataset Design}
+\subsection{Dataset Composition}
 
 The SpatialEval dataset is carefully designed to be both challenging and resistant to data contamination. We employ a dual strategy for dataset generation:
 
@@ -113,7 +125,7 @@ The SpatialEval dataset is carefully designed to be both challenging and resista
 
 Each task in the dataset is presented in a structured JSON format, as detailed in the Appendix, to ensure clarity and facilitate automated evaluation.
 
-\section{Evaluation Methodology}
+\section{Evaluation Metrics}
 
 We propose a multi-faceted evaluation methodology that assesses not only the correctness of the final answer but also the quality of the reasoning process that led to it. Each model's performance is evaluated along three dimensions: \textbf{Answer Accuracy}, \textbf{Reasoning Quality}, and \textbf{Efficiency}.
 
@@ -139,7 +151,9 @@ We also score the efficiency of the reasoning process, rewarding models that can
 
 The final \textbf{SpatialEval Score} is a weighted average of these three dimensions, providing a holistic measure of a model's spatial reasoning capabilities. A detailed breakdown of the scoring methodology is provided in the Appendix.
 
-\section{Experimental Setup (Placeholder)}
+\section{Experiments}
+
+\subsection{Baseline Models (Placeholder)}
 
 We will evaluate five leading large language models on the SpatialEval benchmark:
 \begin{itemize}
@@ -151,6 +165,10 @@ We will evaluate five leading large language models on the SpatialEval benchmark
 \end{itemize}
 
 For each model, we will use the official API with default temperature settings (typically 0.0) to ensure reproducibility. We will report the overall SpatialEval Score for each model, as well as a detailed breakdown of performance across the six task categories and three difficulty levels (easy, medium, hard). This will allow for a fine-grained analysis of the strengths and weaknesses of each model.
+
+\subsection{Main Results (Placeholder)}
+
+Results will be populated after conducting experiments with the five baseline models. We will present a comprehensive analysis including overall SpatialEval Scores, per-category breakdowns, and performance across difficulty levels.
 
 \begin{figure}[ht]
 \begin{center}
@@ -166,5 +184,151 @@ In this paper, we introduce SpatialEval, a new comprehensive benchmark for 2D sp
 
 \bibliographystyle{plain}
 \bibliography{references}
+
+\appendix
+\section{Appendix A: Real-World Grounding in AtlasPro Use Cases}
+
+To ensure SpatialEval is grounded in practical, high-value applications, we derived our task categories from an analysis of 60 validated industry use cases from AtlasPro AI, a leading platform for spatial and network intelligence. These use cases span five major industries: Telecom/Fiber, Utilities, Government/Smart Cities, Retail, and Construction/Industrial. The table below maps these real-world use cases to the six core spatial reasoning capabilities evaluated in our benchmark, demonstrating the direct link between SpatialEval and the demands of real-world AI agent applications.
+
+\begin{table}[h!]
+\caption{Mapping of AtlasPro AI Use Cases to SpatialEval Task Categories}
+\label{tab:use_cases}
+\centering
+\resizebox{\textwidth}{!}{
+\begin{tabular}{p{4.5cm}|c|c|c|c|c|c}
+\toprule
+\textbf{AtlasPro AI Use Case Query} & \textbf{CU} & \textbf{NP} & \textbf{RE} & \textbf{NI} & \textbf{GR} & \textbf{DC} \\
+\midrule
+\multicolumn{7}{c}{\textbf{Telecom / Fiber}} \\
+\midrule
+Breakdown of premises in a polygon & \checkmark & & \checkmark & & \checkmark & \\
+Check for existing fiber in a neighborhood & & & \checkmark & \checkmark & & \checkmark \\
+Cost to build fiber to a polygon & \checkmark & & \checkmark & \checkmark & & \checkmark \\
+Find unserved locations in a county & \checkmark & & \checkmark & & & \checkmark \\
+Identify usable utility poles for aerial fiber & \checkmark & & & \checkmark & & \checkmark \\
+Generate a splice point plan for a route & & \checkmark & & \checkmark & & \\
+Identify single point of failure exposure & & & & \checkmark & & \\
+Find optimal route from CO to subdivision & & \checkmark & & \checkmark & & \checkmark \\
+\midrule
+\multicolumn{7}{c}{\textbf{Utilities — Electric/Gas/Water}} \\
+\midrule
+Assess wildfire risk for transmission lines & & & & \checkmark & & \checkmark \\
+Identify customers affected by de-energizing a circuit & & & & \checkmark & & \\
+Analyze cascade risk from substation failure & & & & \checkmark & & \\
+Detect vegetation encroachment in a corridor & \checkmark & & & & \checkmark & \checkmark \\
+Predict outage probability for the next week & & & & \checkmark & & \\
+Optimize crew dispatch for an outage & & \checkmark & & & & \checkmark \\
+\midrule
+\multicolumn{7}{c}{\textbf{Government / Smart Cities}} \\
+\midrule
+Analyze traffic impact of a road closure & & \checkmark & & & & \\
+Optimize signal timing for a corridor & & \checkmark & & & & \\
+Find best route for emergency response & & \checkmark & & & & \checkmark \\
+Assess impact of a water main break & & & & \checkmark & & \\
+Identify crime hotspots in a district & \checkmark & & & & & \\
+Determine optimal patrol routes & & \checkmark & & & & \checkmark \\
+\midrule
+\multicolumn{7}{c}{\textbf{Retail}} \\
+\midrule
+Identify camera blind spots in a store & \checkmark & & & & \checkmark & \\
+Redesign floor layout for optimal flow & & \checkmark & & & & \\
+Analyze curbside pickup efficiency & & & & & & \checkmark \\
+\midrule
+\multicolumn{7}{c}{\textbf{Construction / Industrial}} \\
+\midrule
+Identify workers in a hazard zone & \checkmark & & & & & \\
+Find fall hazard areas on a site & \checkmark & & & & \checkmark & \\
+Track construction progress vs. schedule & & & & & \checkmark & \\
+Compare as-built to design & & & & & \checkmark & \\
+\bottomrule
+\end{tabular}
+}
+\end{table}
+
+
+\section{Appendix B: Dataset Statistics}
+
+The SpatialEval benchmark comprises 2,250 tasks distributed evenly across six categories and three difficulty levels. Table \ref{tab:dataset_stats} provides a detailed breakdown of the dataset composition.
+
+\begin{table}[h!]
+\caption{SpatialEval Dataset Statistics}
+\label{tab:dataset_stats}
+\centering
+\begin{tabular}{lccccc}
+\toprule
+\textbf{Category} & \textbf{Code} & \textbf{Easy} & \textbf{Medium} & \textbf{Hard} & \textbf{Total} \\
+\midrule
+Coordinate Understanding & CU & 125 & 125 & 125 & 375 \\
+Navigation \& Pathfinding & NP & 125 & 125 & 125 & 375 \\
+Real Estate Analysis & RE & 125 & 125 & 125 & 375 \\
+Network Infrastructure & NI & 125 & 125 & 125 & 375 \\
+Geometric Reasoning & GR & 125 & 125 & 125 & 375 \\
+Distance Computation & DC & 125 & 125 & 125 & 375 \\
+\midrule
+\textbf{Total} & & \textbf{750} & \textbf{750} & \textbf{750} & \textbf{2,250} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{Appendix C: Task Type Details}
+
+Each category contains multiple task types designed to probe different aspects of spatial reasoning:
+
+\textbf{Coordinate Understanding (CU):}
+\begin{itemize}
+    \item Quadrant identification
+    \item GPS coordinate transformation
+    \item Polygon containment testing
+\end{itemize}
+
+\textbf{Navigation \& Pathfinding (NP):}
+\begin{itemize}
+    \item Direction following
+    \item Manhattan distance shortest path
+    \item A* pathfinding with obstacles
+\end{itemize}
+
+\textbf{Real Estate Analysis (RE):}
+\begin{itemize}
+    \item Property area calculation
+    \item Proximity analysis to amenities
+    \item Zoning compliance verification
+\end{itemize}
+
+\textbf{Network Infrastructure (NI):}
+\begin{itemize}
+    \item Cable length computation
+    \item Network topology analysis
+    \item Failure cascade impact assessment
+\end{itemize}
+
+\textbf{Geometric Reasoning (GR):}
+\begin{itemize}
+    \item Basic shape area calculation
+    \item Spatial relationship determination
+    \item Polygon area via shoelace formula
+\end{itemize}
+
+\textbf{Distance Computation (DC):}
+\begin{itemize}
+    \item Euclidean distance calculation
+    \item Manhattan distance comparison
+    \item Geodesic distance via Haversine formula
+\end{itemize}
+
+\section{Appendix D: Evaluation Score Calculation}
+
+The final SpatialEval Score is computed as a weighted average:
+
+\begin{equation}
+\text{SpatialEval Score} = 0.50 \times \text{Accuracy} + 0.30 \times \text{Reasoning Quality} + 0.20 \times \text{Efficiency}
+\end{equation}
+
+where:
+\begin{itemize}
+    \item \textbf{Accuracy} is the percentage of tasks with correct final answers
+    \item \textbf{Reasoning Quality} is scored on a 0-100 scale by an LLM-as-Judge evaluator
+    \item \textbf{Efficiency} is computed as $\min(1, \frac{\text{optimal steps}}{\text{actual steps}}) \times 100$
+\end{itemize}
 
 \end{document}

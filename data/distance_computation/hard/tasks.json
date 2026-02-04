@@ -1,0 +1,2127 @@
+[
+  {
+    "id": "DC-H-001",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (45.2488, -116.5987) and (46.1768, -77.5284) using the Haversine formula.",
+    "point_a": {
+      "latitude": 45.2488,
+      "longitude": -116.5987
+    },
+    "point_b": {
+      "latitude": 46.1768,
+      "longitude": -77.5284
+    },
+    "answer": 3004.43,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-002",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (43.4282, -113.812) and (35.9195, -98.1483) using the Haversine formula.",
+    "point_a": {
+      "latitude": 43.4282,
+      "longitude": -113.812
+    },
+    "point_b": {
+      "latitude": 35.9195,
+      "longitude": -98.1483
+    },
+    "answer": 1575.38,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-003",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (27.2781, -103.0557) and (39.5681, -94.7642) using the Haversine formula.",
+    "point_a": {
+      "latitude": 27.2781,
+      "longitude": -103.0557
+    },
+    "point_b": {
+      "latitude": 39.5681,
+      "longitude": -94.7642
+    },
+    "answer": 1566.56,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-004",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (43.489, -116.1099) and (27.92, -96.4671) using the Haversine formula.",
+    "point_a": {
+      "latitude": 43.489,
+      "longitude": -116.1099
+    },
+    "point_b": {
+      "latitude": 27.92,
+      "longitude": -96.4671
+    },
+    "answer": 2466.3,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-005",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (44.8073, -120.3283) and (36.8078, -70.6825) using the Haversine formula.",
+    "point_a": {
+      "latitude": 44.8073,
+      "longitude": -120.3283
+    },
+    "point_b": {
+      "latitude": 36.8078,
+      "longitude": -70.6825
+    },
+    "answer": 4204.37,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-006",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (38.0216, -110.6583) and (42.3285, -78.6524) using the Haversine formula.",
+    "point_a": {
+      "latitude": 38.0216,
+      "longitude": -110.6583
+    },
+    "point_b": {
+      "latitude": 42.3285,
+      "longitude": -78.6524
+    },
+    "answer": 2744.39,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-007",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (33.3196, -111.8315) and (31.0368, -120.7777) using the Haversine formula.",
+    "point_a": {
+      "latitude": 33.3196,
+      "longitude": -111.8315
+    },
+    "point_b": {
+      "latitude": 31.0368,
+      "longitude": -120.7777
+    },
+    "answer": 879.05,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-008",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (34.933, -76.9839) and (42.9545, -122.5061) using the Haversine formula.",
+    "point_a": {
+      "latitude": 34.933,
+      "longitude": -76.9839
+    },
+    "point_b": {
+      "latitude": 42.9545,
+      "longitude": -122.5061
+    },
+    "answer": 3985.95,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-009",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (40.4481, -73.7379) and (33.9879, -91.2524) using the Haversine formula.",
+    "point_a": {
+      "latitude": 40.4481,
+      "longitude": -73.7379
+    },
+    "point_b": {
+      "latitude": 33.9879,
+      "longitude": -91.2524
+    },
+    "answer": 1705.12,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-010",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (44.9395, -83.5751) and (27.9285, -90.7956) using the Haversine formula.",
+    "point_a": {
+      "latitude": 44.9395,
+      "longitude": -83.5751
+    },
+    "point_b": {
+      "latitude": 27.9285,
+      "longitude": -90.7956
+    },
+    "answer": 1996.71,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-011",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (43.1808, -76.0078) and (39.8589, -83.2068) using the Haversine formula.",
+    "point_a": {
+      "latitude": 43.1808,
+      "longitude": -76.0078
+    },
+    "point_b": {
+      "latitude": 39.8589,
+      "longitude": -83.2068
+    },
+    "answer": 703.64,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-012",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (28.6176, -91.6551) and (31.6154, -82.2526) using the Haversine formula.",
+    "point_a": {
+      "latitude": 28.6176,
+      "longitude": -91.6551
+    },
+    "point_b": {
+      "latitude": 31.6154,
+      "longitude": -82.2526
+    },
+    "answer": 963.42,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-013",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (34.9531, -122.3306) and (26.5257, -119.4185) using the Haversine formula.",
+    "point_a": {
+      "latitude": 34.9531,
+      "longitude": -122.3306
+    },
+    "point_b": {
+      "latitude": 26.5257,
+      "longitude": -119.4185
+    },
+    "answer": 977.39,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-014",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (45.508, -116.1396) and (39.7522, -104.0459) using the Haversine formula.",
+    "point_a": {
+      "latitude": 45.508,
+      "longitude": -116.1396
+    },
+    "point_b": {
+      "latitude": 39.7522,
+      "longitude": -104.0459
+    },
+    "answer": 1176.41,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-015",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (34.0451, -98.9166) and (43.5567, -74.476) using the Haversine formula.",
+    "point_a": {
+      "latitude": 34.0451,
+      "longitude": -98.9166
+    },
+    "point_b": {
+      "latitude": 43.5567,
+      "longitude": -74.476
+    },
+    "answer": 2355.22,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-016",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (31.9804, -95.0943) and (32.523, -107.3603) using the Haversine formula.",
+    "point_a": {
+      "latitude": 31.9804,
+      "longitude": -95.0943
+    },
+    "point_b": {
+      "latitude": 32.523,
+      "longitude": -107.3603
+    },
+    "answer": 1154.42,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-017",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (46.8154, -96.3822) and (33.8802, -76.9574) using the Haversine formula.",
+    "point_a": {
+      "latitude": 46.8154,
+      "longitude": -96.3822
+    },
+    "point_b": {
+      "latitude": 33.8802,
+      "longitude": -76.9574
+    },
+    "answer": 2175.11,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-018",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (40.8344, -86.4565) and (46.2394, -91.3189) using the Haversine formula.",
+    "point_a": {
+      "latitude": 40.8344,
+      "longitude": -86.4565
+    },
+    "point_b": {
+      "latitude": 46.2394,
+      "longitude": -91.3189
+    },
+    "answer": 717.2,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-019",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (40.2032, -93.0046) and (35.7945, -119.0867) using the Haversine formula.",
+    "point_a": {
+      "latitude": 40.2032,
+      "longitude": -93.0046
+    },
+    "point_b": {
+      "latitude": 35.7945,
+      "longitude": -119.0867
+    },
+    "answer": 2328.44,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-020",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (36.2625, -105.5099) and (36.8909, -89.9062) using the Haversine formula.",
+    "point_a": {
+      "latitude": 36.2625,
+      "longitude": -105.5099
+    },
+    "point_b": {
+      "latitude": 36.8909,
+      "longitude": -89.9062
+    },
+    "answer": 1393.55,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-021",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (30.7866, -109.5166) and (31.2388, -108.3969) using the Haversine formula.",
+    "point_a": {
+      "latitude": 30.7866,
+      "longitude": -109.5166
+    },
+    "point_b": {
+      "latitude": 31.2388,
+      "longitude": -108.3969
+    },
+    "answer": 117.96,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-022",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (36.8109, -107.0952) and (45.8336, -75.0102) using the Haversine formula.",
+    "point_a": {
+      "latitude": 36.8109,
+      "longitude": -107.0952
+    },
+    "point_b": {
+      "latitude": 45.8336,
+      "longitude": -75.0102
+    },
+    "answer": 2837.85,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-023",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (38.0183, -105.1803) and (32.046, -79.4103) using the Haversine formula.",
+    "point_a": {
+      "latitude": 38.0183,
+      "longitude": -105.1803
+    },
+    "point_b": {
+      "latitude": 32.046,
+      "longitude": -79.4103
+    },
+    "answer": 2429.63,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-024",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (36.9065, -101.7769) and (31.0699, -101.1122) using the Haversine formula.",
+    "point_a": {
+      "latitude": 36.9065,
+      "longitude": -101.7769
+    },
+    "point_b": {
+      "latitude": 31.0699,
+      "longitude": -101.1122
+    },
+    "answer": 651.88,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-025",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (40.1596, -82.511) and (45.4827, -116.479) using the Haversine formula.",
+    "point_a": {
+      "latitude": 40.1596,
+      "longitude": -82.511
+    },
+    "point_b": {
+      "latitude": 45.4827,
+      "longitude": -116.479
+    },
+    "answer": 2810.78,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-026",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (42.7079, -108.0692) and (40.8034, -104.4797) using the Haversine formula.",
+    "point_a": {
+      "latitude": 42.7079,
+      "longitude": -108.0692
+    },
+    "point_b": {
+      "latitude": 40.8034,
+      "longitude": -104.4797
+    },
+    "answer": 365.32,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-027",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (37.4838, -106.6583) and (43.3547, -92.5856) using the Haversine formula.",
+    "point_a": {
+      "latitude": 37.4838,
+      "longitude": -106.6583
+    },
+    "point_b": {
+      "latitude": 43.3547,
+      "longitude": -92.5856
+    },
+    "answer": 1355.9,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-028",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (28.9886, -84.872) and (45.1514, -89.5159) using the Haversine formula.",
+    "point_a": {
+      "latitude": 28.9886,
+      "longitude": -84.872
+    },
+    "point_b": {
+      "latitude": 45.1514,
+      "longitude": -89.5159
+    },
+    "answer": 1843.0,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-029",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (29.7319, -81.343) and (44.099, -114.1138) using the Haversine formula.",
+    "point_a": {
+      "latitude": 29.7319,
+      "longitude": -81.343
+    },
+    "point_b": {
+      "latitude": 44.099,
+      "longitude": -114.1138
+    },
+    "answer": 3291.62,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-030",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (39.892, -97.1644) and (30.6496, -97.8455) using the Haversine formula.",
+    "point_a": {
+      "latitude": 39.892,
+      "longitude": -97.1644
+    },
+    "point_b": {
+      "latitude": 30.6496,
+      "longitude": -97.8455
+    },
+    "answer": 1029.56,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-031",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (31.227, -93.3178) and (37.3604, -116.0976) using the Haversine formula.",
+    "point_a": {
+      "latitude": 31.227,
+      "longitude": -93.3178
+    },
+    "point_b": {
+      "latitude": 37.3604,
+      "longitude": -116.0976
+    },
+    "answer": 2194.5,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-032",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (38.9376, -110.3631) and (47.2298, -80.0918) using the Haversine formula.",
+    "point_a": {
+      "latitude": 38.9376,
+      "longitude": -110.3631
+    },
+    "point_b": {
+      "latitude": 47.2298,
+      "longitude": -80.0918
+    },
+    "answer": 2605.64,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-033",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (47.629, -123.8236) and (29.3453, -73.5574) using the Haversine formula.",
+    "point_a": {
+      "latitude": 47.629,
+      "longitude": -123.8236
+    },
+    "point_b": {
+      "latitude": 29.3453,
+      "longitude": -73.5574
+    },
+    "answer": 4722.98,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-034",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (46.3395, -99.4429) and (47.7896, -92.4865) using the Haversine formula.",
+    "point_a": {
+      "latitude": 46.3395,
+      "longitude": -99.4429
+    },
+    "point_b": {
+      "latitude": 47.7896,
+      "longitude": -92.4865
+    },
+    "answer": 550.79,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-035",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (31.3731, -93.3575) and (29.5814, -121.2464) using the Haversine formula.",
+    "point_a": {
+      "latitude": 31.3731,
+      "longitude": -93.3575
+    },
+    "point_b": {
+      "latitude": 29.5814,
+      "longitude": -121.2464
+    },
+    "answer": 2672.93,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-036",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (34.8373, -70.9884) and (38.6913, -98.2761) using the Haversine formula.",
+    "point_a": {
+      "latitude": 34.8373,
+      "longitude": -70.9884
+    },
+    "point_b": {
+      "latitude": 38.6913,
+      "longitude": -98.2761
+    },
+    "answer": 2458.81,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-037",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (33.8983, -117.55) and (29.1654, -104.4879) using the Haversine formula.",
+    "point_a": {
+      "latitude": 33.8983,
+      "longitude": -117.55
+    },
+    "point_b": {
+      "latitude": 29.1654,
+      "longitude": -104.4879
+    },
+    "answer": 1343.84,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-038",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (43.4299, -121.0569) and (44.485, -109.0228) using the Haversine formula.",
+    "point_a": {
+      "latitude": 43.4299,
+      "longitude": -121.0569
+    },
+    "point_b": {
+      "latitude": 44.485,
+      "longitude": -109.0228
+    },
+    "answer": 969.48,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-039",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (37.6153, -109.5056) and (43.029, -74.0096) using the Haversine formula.",
+    "point_a": {
+      "latitude": 37.6153,
+      "longitude": -109.5056
+    },
+    "point_b": {
+      "latitude": 43.029,
+      "longitude": -74.0096
+    },
+    "answer": 3045.21,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-040",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (40.7947, -112.9358) and (45.5002, -93.4054) using the Haversine formula.",
+    "point_a": {
+      "latitude": 40.7947,
+      "longitude": -112.9358
+    },
+    "point_b": {
+      "latitude": 45.5002,
+      "longitude": -93.4054
+    },
+    "answer": 1663.64,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-041",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (25.2267, -105.7693) and (39.3603, -109.0326) using the Haversine formula.",
+    "point_a": {
+      "latitude": 25.2267,
+      "longitude": -105.7693
+    },
+    "point_b": {
+      "latitude": 39.3603,
+      "longitude": -109.0326
+    },
+    "answer": 1600.91,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-042",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (34.8855, -111.5536) and (39.2212, -93.1867) using the Haversine formula.",
+    "point_a": {
+      "latitude": 34.8855,
+      "longitude": -111.5536
+    },
+    "point_b": {
+      "latitude": 39.2212,
+      "longitude": -93.1867
+    },
+    "answer": 1696.26,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-043",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (31.1349, -94.1587) and (44.3377, -115.808) using the Haversine formula.",
+    "point_a": {
+      "latitude": 31.1349,
+      "longitude": -94.1587
+    },
+    "point_b": {
+      "latitude": 44.3377,
+      "longitude": -115.808
+    },
+    "answer": 2391.3,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-044",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (37.7353, -106.8972) and (30.0571, -80.4916) using the Haversine formula.",
+    "point_a": {
+      "latitude": 37.7353,
+      "longitude": -106.8972
+    },
+    "point_b": {
+      "latitude": 30.0571,
+      "longitude": -80.4916
+    },
+    "answer": 2571.89,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-045",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (43.9777, -113.0304) and (39.1748, -72.4584) using the Haversine formula.",
+    "point_a": {
+      "latitude": 43.9777,
+      "longitude": -113.0304
+    },
+    "point_b": {
+      "latitude": 39.1748,
+      "longitude": -72.4584
+    },
+    "answer": 3382.09,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-046",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (27.0971, -84.0154) and (47.5095, -109.4346) using the Haversine formula.",
+    "point_a": {
+      "latitude": 27.0971,
+      "longitude": -84.0154
+    },
+    "point_b": {
+      "latitude": 47.5095,
+      "longitude": -109.4346
+    },
+    "answer": 3166.71,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-047",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (36.1839, -118.8331) and (44.4438, -112.0674) using the Haversine formula.",
+    "point_a": {
+      "latitude": 36.1839,
+      "longitude": -118.8331
+    },
+    "point_b": {
+      "latitude": 44.4438,
+      "longitude": -112.0674
+    },
+    "answer": 1081.98,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-048",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (35.5687, -115.0553) and (28.9915, -112.1016) using the Haversine formula.",
+    "point_a": {
+      "latitude": 35.5687,
+      "longitude": -115.0553
+    },
+    "point_b": {
+      "latitude": 28.9915,
+      "longitude": -112.1016
+    },
+    "answer": 782.17,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-049",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (27.4699, -111.1064) and (32.0954, -92.6996) using the Haversine formula.",
+    "point_a": {
+      "latitude": 27.4699,
+      "longitude": -111.1064
+    },
+    "point_b": {
+      "latitude": 32.0954,
+      "longitude": -92.6996
+    },
+    "answer": 1846.62,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-050",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (38.7935, -103.118) and (29.9079, -118.5802) using the Haversine formula.",
+    "point_a": {
+      "latitude": 38.7935,
+      "longitude": -103.118
+    },
+    "point_b": {
+      "latitude": 29.9079,
+      "longitude": -118.5802
+    },
+    "answer": 1725.54,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-051",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (26.8859, -85.529) and (35.1781, -84.0851) using the Haversine formula.",
+    "point_a": {
+      "latitude": 26.8859,
+      "longitude": -85.529
+    },
+    "point_b": {
+      "latitude": 35.1781,
+      "longitude": -84.0851
+    },
+    "answer": 932.22,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-052",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (33.8429, -90.7871) and (33.7437, -94.7717) using the Haversine formula.",
+    "point_a": {
+      "latitude": 33.8429,
+      "longitude": -90.7871
+    },
+    "point_b": {
+      "latitude": 33.7437,
+      "longitude": -94.7717
+    },
+    "answer": 368.35,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-053",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (31.2496, -76.3825) and (36.305, -81.3623) using the Haversine formula.",
+    "point_a": {
+      "latitude": 31.2496,
+      "longitude": -76.3825
+    },
+    "point_b": {
+      "latitude": 36.305,
+      "longitude": -81.3623
+    },
+    "answer": 726.27,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-054",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (37.0505, -106.6077) and (36.4777, -90.7556) using the Haversine formula.",
+    "point_a": {
+      "latitude": 37.0505,
+      "longitude": -106.6077
+    },
+    "point_b": {
+      "latitude": 36.4777,
+      "longitude": -90.7556
+    },
+    "answer": 1411.89,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-055",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (44.279, -91.2461) and (33.5781, -86.0134) using the Haversine formula.",
+    "point_a": {
+      "latitude": 44.279,
+      "longitude": -91.2461
+    },
+    "point_b": {
+      "latitude": 33.5781,
+      "longitude": -86.0134
+    },
+    "answer": 1272.36,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-056",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (38.8219, -86.2578) and (33.6863, -81.4442) using the Haversine formula.",
+    "point_a": {
+      "latitude": 38.8219,
+      "longitude": -86.2578
+    },
+    "point_b": {
+      "latitude": 33.6863,
+      "longitude": -81.4442
+    },
+    "answer": 715.57,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-057",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (29.764, -107.0326) and (34.3174, -110.5667) using the Haversine formula.",
+    "point_a": {
+      "latitude": 29.764,
+      "longitude": -107.0326
+    },
+    "point_b": {
+      "latitude": 34.3174,
+      "longitude": -110.5667
+    },
+    "answer": 605.96,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-058",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (31.6856, -111.5316) and (38.81, -98.6355) using the Haversine formula.",
+    "point_a": {
+      "latitude": 31.6856,
+      "longitude": -111.5316
+    },
+    "point_b": {
+      "latitude": 38.81,
+      "longitude": -98.6355
+    },
+    "answer": 1411.61,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-059",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (25.5583, -73.4957) and (30.6137, -86.3306) using the Haversine formula.",
+    "point_a": {
+      "latitude": 25.5583,
+      "longitude": -73.4957
+    },
+    "point_b": {
+      "latitude": 30.6137,
+      "longitude": -86.3306
+    },
+    "answer": 1377.67,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-060",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (35.4017, -80.7946) and (33.944, -105.3601) using the Haversine formula.",
+    "point_a": {
+      "latitude": 35.4017,
+      "longitude": -80.7946
+    },
+    "point_b": {
+      "latitude": 33.944,
+      "longitude": -105.3601
+    },
+    "answer": 2246.54,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-061",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (33.7623, -97.4883) and (41.6561, -74.9038) using the Haversine formula.",
+    "point_a": {
+      "latitude": 33.7623,
+      "longitude": -97.4883
+    },
+    "point_b": {
+      "latitude": 41.6561,
+      "longitude": -74.9038
+    },
+    "answer": 2163.52,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-062",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (27.0576, -110.234) and (30.2568, -104.2039) using the Haversine formula.",
+    "point_a": {
+      "latitude": 27.0576,
+      "longitude": -110.234
+    },
+    "point_b": {
+      "latitude": 30.2568,
+      "longitude": -104.2039
+    },
+    "answer": 687.38,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-063",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (47.9333, -98.1593) and (28.8765, -77.9031) using the Haversine formula.",
+    "point_a": {
+      "latitude": 47.9333,
+      "longitude": -98.1593
+    },
+    "point_b": {
+      "latitude": 28.8765,
+      "longitude": -77.9031
+    },
+    "answer": 2740.37,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-064",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (39.8352, -91.6483) and (43.6333, -78.3213) using the Haversine formula.",
+    "point_a": {
+      "latitude": 39.8352,
+      "longitude": -91.6483
+    },
+    "point_b": {
+      "latitude": 43.6333,
+      "longitude": -78.3213
+    },
+    "answer": 1182.07,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-065",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (47.5207, -104.3131) and (42.4963, -119.1415) using the Haversine formula.",
+    "point_a": {
+      "latitude": 47.5207,
+      "longitude": -104.3131
+    },
+    "point_b": {
+      "latitude": 42.4963,
+      "longitude": -119.1415
+    },
+    "answer": 1289.88,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-066",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (46.0645, -119.0117) and (40.9922, -121.2965) using the Haversine formula.",
+    "point_a": {
+      "latitude": 46.0645,
+      "longitude": -119.0117
+    },
+    "point_b": {
+      "latitude": 40.9922,
+      "longitude": -121.2965
+    },
+    "answer": 593.26,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-067",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (26.8229, -73.6715) and (35.4213, -108.1697) using the Haversine formula.",
+    "point_a": {
+      "latitude": 26.8229,
+      "longitude": -73.6715
+    },
+    "point_b": {
+      "latitude": 35.4213,
+      "longitude": -108.1697
+    },
+    "answer": 3400.93,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-068",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (44.7455, -108.9603) and (46.0671, -111.6292) using the Haversine formula.",
+    "point_a": {
+      "latitude": 44.7455,
+      "longitude": -108.9603
+    },
+    "point_b": {
+      "latitude": 46.0671,
+      "longitude": -111.6292
+    },
+    "answer": 254.94,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-069",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (32.1668, -95.8926) and (30.3318, -119.0174) using the Haversine formula.",
+    "point_a": {
+      "latitude": 32.1668,
+      "longitude": -95.8926
+    },
+    "point_b": {
+      "latitude": 30.3318,
+      "longitude": -119.0174
+    },
+    "answer": 2203.51,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-070",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (26.1994, -88.6504) and (43.038, -72.4927) using the Haversine formula.",
+    "point_a": {
+      "latitude": 26.1994,
+      "longitude": -88.6504
+    },
+    "point_b": {
+      "latitude": 43.038,
+      "longitude": -72.4927
+    },
+    "answer": 2376.71,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-071",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (46.6547, -114.499) and (37.6026, -73.1311) using the Haversine formula.",
+    "point_a": {
+      "latitude": 46.6547,
+      "longitude": -114.499
+    },
+    "point_b": {
+      "latitude": 37.6026,
+      "longitude": -73.1311
+    },
+    "answer": 3512.18,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-072",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (45.5832, -111.2428) and (43.5778, -113.4492) using the Haversine formula.",
+    "point_a": {
+      "latitude": 45.5832,
+      "longitude": -111.2428
+    },
+    "point_b": {
+      "latitude": 43.5778,
+      "longitude": -113.4492
+    },
+    "answer": 283.28,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-073",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (41.3882, -120.3614) and (27.3347, -79.8664) using the Haversine formula.",
+    "point_a": {
+      "latitude": 41.3882,
+      "longitude": -120.3614
+    },
+    "point_b": {
+      "latitude": 27.3347,
+      "longitude": -79.8664
+    },
+    "answer": 3987.74,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-074",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (29.1108, -117.2966) and (35.6384, -82.9135) using the Haversine formula.",
+    "point_a": {
+      "latitude": 29.1108,
+      "longitude": -117.2966
+    },
+    "point_b": {
+      "latitude": 35.6384,
+      "longitude": -82.9135
+    },
+    "answer": 3291.85,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-075",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (41.6338, -115.7532) and (46.4395, -110.7351) using the Haversine formula.",
+    "point_a": {
+      "latitude": 41.6338,
+      "longitude": -115.7532
+    },
+    "point_b": {
+      "latitude": 46.4395,
+      "longitude": -110.7351
+    },
+    "answer": 667.87,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-076",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (25.2012, -77.808) and (42.626, -96.2847) using the Haversine formula.",
+    "point_a": {
+      "latitude": 25.2012,
+      "longitude": -77.808
+    },
+    "point_b": {
+      "latitude": 42.626,
+      "longitude": -96.2847
+    },
+    "answer": 2569.07,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-077",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (25.4765, -96.7565) and (26.3076, -116.7127) using the Haversine formula.",
+    "point_a": {
+      "latitude": 25.4765,
+      "longitude": -96.7565
+    },
+    "point_b": {
+      "latitude": 26.3076,
+      "longitude": -116.7127
+    },
+    "answer": 1996.45,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-078",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (26.1119, -115.5809) and (28.0427, -77.4688) using the Haversine formula.",
+    "point_a": {
+      "latitude": 26.1119,
+      "longitude": -115.5809
+    },
+    "point_b": {
+      "latitude": 28.0427,
+      "longitude": -77.4688
+    },
+    "answer": 3764.26,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-079",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (44.1884, -93.0113) and (31.4234, -110.7274) using the Haversine formula.",
+    "point_a": {
+      "latitude": 44.1884,
+      "longitude": -93.0113
+    },
+    "point_b": {
+      "latitude": 31.4234,
+      "longitude": -110.7274
+    },
+    "answer": 2098.02,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-080",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (29.0283, -118.0667) and (30.7089, -89.4326) using the Haversine formula.",
+    "point_a": {
+      "latitude": 29.0283,
+      "longitude": -118.0667
+    },
+    "point_b": {
+      "latitude": 30.7089,
+      "longitude": -89.4326
+    },
+    "answer": 2759.92,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-081",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (42.3538, -120.378) and (33.6808, -123.969) using the Haversine formula.",
+    "point_a": {
+      "latitude": 42.3538,
+      "longitude": -120.378
+    },
+    "point_b": {
+      "latitude": 33.6808,
+      "longitude": -123.969
+    },
+    "answer": 1014.13,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-082",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (35.5978, -80.8627) and (40.5831, -102.6691) using the Haversine formula.",
+    "point_a": {
+      "latitude": 35.5978,
+      "longitude": -80.8627
+    },
+    "point_b": {
+      "latitude": 40.5831,
+      "longitude": -102.6691
+    },
+    "answer": 1981.37,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-083",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (37.4538, -102.1895) and (37.0762, -72.0463) using the Haversine formula.",
+    "point_a": {
+      "latitude": 37.4538,
+      "longitude": -102.1895
+    },
+    "point_b": {
+      "latitude": 37.0762,
+      "longitude": -72.0463
+    },
+    "answer": 2656.34,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-084",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (46.6956, -104.8875) and (38.9269, -85.2088) using the Haversine formula.",
+    "point_a": {
+      "latitude": 46.6956,
+      "longitude": -104.8875
+    },
+    "point_b": {
+      "latitude": 38.9269,
+      "longitude": -85.2088
+    },
+    "answer": 1815.8,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-085",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (42.2349, -83.4119) and (37.0398, -101.9854) using the Haversine formula.",
+    "point_a": {
+      "latitude": 42.2349,
+      "longitude": -83.4119
+    },
+    "point_b": {
+      "latitude": 37.0398,
+      "longitude": -101.9854
+    },
+    "answer": 1687.87,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-086",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (36.5725, -97.0148) and (43.5113, -112.8278) using the Haversine formula.",
+    "point_a": {
+      "latitude": 36.5725,
+      "longitude": -97.0148
+    },
+    "point_b": {
+      "latitude": 43.5113,
+      "longitude": -112.8278
+    },
+    "answer": 1547.8,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-087",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (38.7954, -104.1549) and (31.8642, -91.3626) using the Haversine formula.",
+    "point_a": {
+      "latitude": 38.7954,
+      "longitude": -104.1549
+    },
+    "point_b": {
+      "latitude": 31.8642,
+      "longitude": -91.3626
+    },
+    "answer": 1390.94,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-088",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (34.4855, -103.699) and (33.5933, -107.0146) using the Haversine formula.",
+    "point_a": {
+      "latitude": 34.4855,
+      "longitude": -103.699
+    },
+    "point_b": {
+      "latitude": 33.5933,
+      "longitude": -107.0146
+    },
+    "answer": 321.19,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-089",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (29.5702, -123.1338) and (35.0174, -89.5235) using the Haversine formula.",
+    "point_a": {
+      "latitude": 29.5702,
+      "longitude": -123.1338
+    },
+    "point_b": {
+      "latitude": 35.0174,
+      "longitude": -89.5235
+    },
+    "answer": 3201.16,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-090",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (28.3849, -77.2794) and (43.1821, -83.5418) using the Haversine formula.",
+    "point_a": {
+      "latitude": 28.3849,
+      "longitude": -77.2794
+    },
+    "point_b": {
+      "latitude": 43.1821,
+      "longitude": -83.5418
+    },
+    "answer": 1738.3,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-091",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (39.9286, -107.6935) and (30.6233, -123.1156) using the Haversine formula.",
+    "point_a": {
+      "latitude": 39.9286,
+      "longitude": -107.6935
+    },
+    "point_b": {
+      "latitude": 30.6233,
+      "longitude": -123.1156
+    },
+    "answer": 1736.6,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-092",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (30.2226, -100.2926) and (36.1958, -98.8172) using the Haversine formula.",
+    "point_a": {
+      "latitude": 30.2226,
+      "longitude": -100.2926
+    },
+    "point_b": {
+      "latitude": 36.1958,
+      "longitude": -98.8172
+    },
+    "answer": 678.2,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-093",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (35.6997, -76.3513) and (35.6559, -101.5468) using the Haversine formula.",
+    "point_a": {
+      "latitude": 35.6997,
+      "longitude": -76.3513
+    },
+    "point_b": {
+      "latitude": 35.6559,
+      "longitude": -101.5468
+    },
+    "answer": 2269.47,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-094",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (26.181, -72.8228) and (45.6319, -74.1717) using the Haversine formula.",
+    "point_a": {
+      "latitude": 26.181,
+      "longitude": -72.8228
+    },
+    "point_b": {
+      "latitude": 45.6319,
+      "longitude": -74.1717
+    },
+    "answer": 2166.17,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-095",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (31.7946, -121.1316) and (35.6971, -103.1259) using the Haversine formula.",
+    "point_a": {
+      "latitude": 31.7946,
+      "longitude": -121.1316
+    },
+    "point_b": {
+      "latitude": 35.6971,
+      "longitude": -103.1259
+    },
+    "answer": 1717.64,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-096",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (40.0289, -100.5974) and (38.7594, -104.8422) using the Haversine formula.",
+    "point_a": {
+      "latitude": 40.0289,
+      "longitude": -100.5974
+    },
+    "point_b": {
+      "latitude": 38.7594,
+      "longitude": -104.8422
+    },
+    "answer": 391.07,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-097",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (36.7889, -98.2362) and (46.4815, -77.094) using the Haversine formula.",
+    "point_a": {
+      "latitude": 36.7889,
+      "longitude": -98.2362
+    },
+    "point_b": {
+      "latitude": 46.4815,
+      "longitude": -77.094
+    },
+    "answer": 2051.43,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-098",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (36.0275, -104.9659) and (29.45, -74.2128) using the Haversine formula.",
+    "point_a": {
+      "latitude": 36.0275,
+      "longitude": -104.9659
+    },
+    "point_b": {
+      "latitude": 29.45,
+      "longitude": -74.2128
+    },
+    "answer": 2954.46,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-099",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (28.8167, -70.4266) and (28.3566, -85.6003) using the Haversine formula.",
+    "point_a": {
+      "latitude": 28.8167,
+      "longitude": -70.4266
+    },
+    "point_b": {
+      "latitude": 28.3566,
+      "longitude": -85.6003
+    },
+    "answer": 1481.43,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-100",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (31.201, -122.6671) and (30.03, -95.8611) using the Haversine formula.",
+    "point_a": {
+      "latitude": 31.201,
+      "longitude": -122.6671
+    },
+    "point_b": {
+      "latitude": 30.03,
+      "longitude": -95.8611
+    },
+    "answer": 2562.25,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-101",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (25.5552, -102.2157) and (43.3658, -99.1443) using the Haversine formula.",
+    "point_a": {
+      "latitude": 25.5552,
+      "longitude": -102.2157
+    },
+    "point_b": {
+      "latitude": 43.3658,
+      "longitude": -99.1443
+    },
+    "answer": 1999.98,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-102",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (39.3008, -108.6139) and (26.1711, -96.0821) using the Haversine formula.",
+    "point_a": {
+      "latitude": 39.3008,
+      "longitude": -108.6139
+    },
+    "point_b": {
+      "latitude": 26.1711,
+      "longitude": -96.0821
+    },
+    "answer": 1868.23,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-103",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (27.8358, -100.3265) and (36.2129, -82.7635) using the Haversine formula.",
+    "point_a": {
+      "latitude": 27.8358,
+      "longitude": -100.3265
+    },
+    "point_b": {
+      "latitude": 36.2129,
+      "longitude": -82.7635
+    },
+    "answer": 1895.36,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-104",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (25.8316, -81.9174) and (41.7593, -93.4171) using the Haversine formula.",
+    "point_a": {
+      "latitude": 25.8316,
+      "longitude": -81.9174
+    },
+    "point_b": {
+      "latitude": 41.7593,
+      "longitude": -93.4171
+    },
+    "answer": 2060.98,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-105",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (26.5477, -71.721) and (46.4578, -103.5921) using the Haversine formula.",
+    "point_a": {
+      "latitude": 26.5477,
+      "longitude": -71.721
+    },
+    "point_b": {
+      "latitude": 46.4578,
+      "longitude": -103.5921
+    },
+    "answer": 3566.98,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-106",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (40.1942, -100.2475) and (41.6185, -109.5763) using the Haversine formula.",
+    "point_a": {
+      "latitude": 40.1942,
+      "longitude": -100.2475
+    },
+    "point_b": {
+      "latitude": 41.6185,
+      "longitude": -109.5763
+    },
+    "answer": 799.39,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-107",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (28.2709, -74.5903) and (27.1434, -103.27) using the Haversine formula.",
+    "point_a": {
+      "latitude": 28.2709,
+      "longitude": -74.5903
+    },
+    "point_b": {
+      "latitude": 27.1434,
+      "longitude": -103.27
+    },
+    "answer": 2819.58,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-108",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (34.0712, -121.7379) and (31.9669, -72.5078) using the Haversine formula.",
+    "point_a": {
+      "latitude": 34.0712,
+      "longitude": -121.7379
+    },
+    "point_b": {
+      "latitude": 31.9669,
+      "longitude": -72.5078
+    },
+    "answer": 4551.36,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-109",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (29.4733, -93.2581) and (34.6045, -79.4002) using the Haversine formula.",
+    "point_a": {
+      "latitude": 29.4733,
+      "longitude": -93.2581
+    },
+    "point_b": {
+      "latitude": 34.6045,
+      "longitude": -79.4002
+    },
+    "answer": 1423.71,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-110",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (28.4879, -94.459) and (30.8684, -74.5322) using the Haversine formula.",
+    "point_a": {
+      "latitude": 28.4879,
+      "longitude": -94.459
+    },
+    "point_b": {
+      "latitude": 30.8684,
+      "longitude": -74.5322
+    },
+    "answer": 1940.56,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-111",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (25.013, -120.4237) and (44.7533, -109.6626) using the Haversine formula.",
+    "point_a": {
+      "latitude": 25.013,
+      "longitude": -120.4237
+    },
+    "point_b": {
+      "latitude": 44.7533,
+      "longitude": -109.6626
+    },
+    "answer": 2399.39,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-112",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (36.1013, -120.4312) and (35.7711, -71.0153) using the Haversine formula.",
+    "point_a": {
+      "latitude": 36.1013,
+      "longitude": -120.4312
+    },
+    "point_b": {
+      "latitude": 35.7711,
+      "longitude": -71.0153
+    },
+    "answer": 4399.38,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-113",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (46.2709, -97.352) and (26.8393, -99.1813) using the Haversine formula.",
+    "point_a": {
+      "latitude": 46.2709,
+      "longitude": -97.352
+    },
+    "point_b": {
+      "latitude": 26.8393,
+      "longitude": -99.1813
+    },
+    "answer": 2166.71,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-114",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (45.6863, -90.6929) and (47.5275, -78.0679) using the Haversine formula.",
+    "point_a": {
+      "latitude": 45.6863,
+      "longitude": -90.6929
+    },
+    "point_b": {
+      "latitude": 47.5275,
+      "longitude": -78.0679
+    },
+    "answer": 984.74,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-115",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (46.9804, -110.0635) and (37.8471, -75.9848) using the Haversine formula.",
+    "point_a": {
+      "latitude": 46.9804,
+      "longitude": -110.0635
+    },
+    "point_b": {
+      "latitude": 37.8471,
+      "longitude": -75.9848
+    },
+    "answer": 2948.53,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-116",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (43.7307, -106.1476) and (40.2937, -95.5577) using the Haversine formula.",
+    "point_a": {
+      "latitude": 43.7307,
+      "longitude": -106.1476
+    },
+    "point_b": {
+      "latitude": 40.2937,
+      "longitude": -95.5577
+    },
+    "answer": 953.82,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-117",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (40.3583, -78.8906) and (38.5649, -87.1395) using the Haversine formula.",
+    "point_a": {
+      "latitude": 40.3583,
+      "longitude": -78.8906
+    },
+    "point_b": {
+      "latitude": 38.5649,
+      "longitude": -87.1395
+    },
+    "answer": 735.37,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-118",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (43.5423, -81.972) and (30.6418, -79.9937) using the Haversine formula.",
+    "point_a": {
+      "latitude": 43.5423,
+      "longitude": -81.972
+    },
+    "point_b": {
+      "latitude": 30.6418,
+      "longitude": -79.9937
+    },
+    "answer": 1445.04,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-119",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (34.9791, -109.3018) and (46.6186, -107.7693) using the Haversine formula.",
+    "point_a": {
+      "latitude": 34.9791,
+      "longitude": -109.3018
+    },
+    "point_b": {
+      "latitude": 46.6186,
+      "longitude": -107.7693
+    },
+    "answer": 1300.59,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-120",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (47.3735, -70.4691) and (26.1796, -92.0486) using the Haversine formula.",
+    "point_a": {
+      "latitude": 47.3735,
+      "longitude": -70.4691
+    },
+    "point_b": {
+      "latitude": 26.1796,
+      "longitude": -92.0486
+    },
+    "answer": 3019.65,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-121",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (43.4385, -110.0873) and (43.9536, -94.0292) using the Haversine formula.",
+    "point_a": {
+      "latitude": 43.4385,
+      "longitude": -110.0873
+    },
+    "point_b": {
+      "latitude": 43.9536,
+      "longitude": -94.0292
+    },
+    "answer": 1290.23,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-122",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (44.4232, -112.1766) and (46.9921, -98.9252) using the Haversine formula.",
+    "point_a": {
+      "latitude": 44.4232,
+      "longitude": -112.1766
+    },
+    "point_b": {
+      "latitude": 46.9921,
+      "longitude": -98.9252
+    },
+    "answer": 1066.4,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-123",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (28.5249, -118.6757) and (37.4708, -104.3984) using the Haversine formula.",
+    "point_a": {
+      "latitude": 28.5249,
+      "longitude": -118.6757
+    },
+    "point_b": {
+      "latitude": 37.4708,
+      "longitude": -104.3984
+    },
+    "answer": 1658.74,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-124",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (42.078, -101.3583) and (32.6179, -119.619) using the Haversine formula.",
+    "point_a": {
+      "latitude": 42.078,
+      "longitude": -101.3583
+    },
+    "point_b": {
+      "latitude": 32.6179,
+      "longitude": -119.619
+    },
+    "answer": 1920.32,
+    "reasoning_steps": 8
+  },
+  {
+    "id": "DC-H-125",
+    "category": "distance_computation",
+    "difficulty": "hard",
+    "task_type": "geodesic_distance",
+    "question": "Calculate the geodesic (great-circle) distance in kilometers between GPS coordinates (28.7362, -98.0166) and (46.3534, -120.4187) using the Haversine formula.",
+    "point_a": {
+      "latitude": 28.7362,
+      "longitude": -98.0166
+    },
+    "point_b": {
+      "latitude": 46.3534,
+      "longitude": -120.4187
+    },
+    "answer": 2762.96,
+    "reasoning_steps": 8
+  }
+]

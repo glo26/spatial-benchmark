@@ -1,0 +1,1694 @@
+[
+  {
+    "id": "GR-E-001",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 5?",
+    "parameters": {
+      "radius": 5
+    },
+    "answer": 78.54,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-002",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 20?",
+    "parameters": {
+      "side": 20
+    },
+    "answer": 400,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-003",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 19 and height 14?",
+    "parameters": {
+      "width": 19,
+      "height": 14
+    },
+    "answer": 266,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-004",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 1 and height 10?",
+    "parameters": {
+      "base": 1,
+      "height": 10
+    },
+    "answer": 5.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-005",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 8 and height 13?",
+    "parameters": {
+      "base": 8,
+      "height": 13
+    },
+    "answer": 52.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-006",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 13?",
+    "parameters": {
+      "side": 13
+    },
+    "answer": 169,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-007",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 4?",
+    "parameters": {
+      "radius": 4
+    },
+    "answer": 50.27,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-008",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 7 and height 7?",
+    "parameters": {
+      "base": 7,
+      "height": 7
+    },
+    "answer": 24.5,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-009",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 19?",
+    "parameters": {
+      "radius": 19
+    },
+    "answer": 1134.11,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-010",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 6 and height 6?",
+    "parameters": {
+      "width": 6,
+      "height": 6
+    },
+    "answer": 36,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-011",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 18 and height 14?",
+    "parameters": {
+      "base": 18,
+      "height": 14
+    },
+    "answer": 126.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-012",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 7 and height 14?",
+    "parameters": {
+      "width": 7,
+      "height": 14
+    },
+    "answer": 98,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-013",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 11 and height 12?",
+    "parameters": {
+      "width": 11,
+      "height": 12
+    },
+    "answer": 132,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-014",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 11?",
+    "parameters": {
+      "radius": 11
+    },
+    "answer": 380.13,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-015",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 8 and height 13?",
+    "parameters": {
+      "base": 8,
+      "height": 13
+    },
+    "answer": 52.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-016",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 15 and height 10?",
+    "parameters": {
+      "base": 15,
+      "height": 10
+    },
+    "answer": 75.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-017",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 6 and height 6?",
+    "parameters": {
+      "base": 6,
+      "height": 6
+    },
+    "answer": 18.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-018",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 10 and height 1?",
+    "parameters": {
+      "base": 10,
+      "height": 1
+    },
+    "answer": 5.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-019",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 15 and height 6?",
+    "parameters": {
+      "width": 15,
+      "height": 6
+    },
+    "answer": 90,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-020",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 13?",
+    "parameters": {
+      "radius": 13
+    },
+    "answer": 530.93,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-021",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 14 and height 14?",
+    "parameters": {
+      "base": 14,
+      "height": 14
+    },
+    "answer": 98.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-022",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 1?",
+    "parameters": {
+      "side": 1
+    },
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-023",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 5?",
+    "parameters": {
+      "side": 5
+    },
+    "answer": 25,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-024",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 20?",
+    "parameters": {
+      "radius": 20
+    },
+    "answer": 1256.64,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-025",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 1 and height 11?",
+    "parameters": {
+      "base": 1,
+      "height": 11
+    },
+    "answer": 5.5,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-026",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 6?",
+    "parameters": {
+      "side": 6
+    },
+    "answer": 36,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-027",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 3 and height 12?",
+    "parameters": {
+      "base": 3,
+      "height": 12
+    },
+    "answer": 18.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-028",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 20?",
+    "parameters": {
+      "radius": 20
+    },
+    "answer": 1256.64,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-029",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 18 and height 17?",
+    "parameters": {
+      "base": 18,
+      "height": 17
+    },
+    "answer": 153.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-030",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 6?",
+    "parameters": {
+      "side": 6
+    },
+    "answer": 36,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-031",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 12 and height 8?",
+    "parameters": {
+      "base": 12,
+      "height": 8
+    },
+    "answer": 48.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-032",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 16?",
+    "parameters": {
+      "side": 16
+    },
+    "answer": 256,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-033",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 11?",
+    "parameters": {
+      "side": 11
+    },
+    "answer": 121,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-034",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 10?",
+    "parameters": {
+      "side": 10
+    },
+    "answer": 100,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-035",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 1?",
+    "parameters": {
+      "radius": 1
+    },
+    "answer": 3.14,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-036",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 19?",
+    "parameters": {
+      "side": 19
+    },
+    "answer": 361,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-037",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 15 and height 8?",
+    "parameters": {
+      "base": 15,
+      "height": 8
+    },
+    "answer": 60.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-038",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 8 and height 6?",
+    "parameters": {
+      "base": 8,
+      "height": 6
+    },
+    "answer": 24.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-039",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 17 and height 4?",
+    "parameters": {
+      "base": 17,
+      "height": 4
+    },
+    "answer": 34.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-040",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 6 and height 8?",
+    "parameters": {
+      "width": 6,
+      "height": 8
+    },
+    "answer": 48,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-041",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 3 and height 1?",
+    "parameters": {
+      "base": 3,
+      "height": 1
+    },
+    "answer": 1.5,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-042",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 14?",
+    "parameters": {
+      "radius": 14
+    },
+    "answer": 615.75,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-043",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 13 and height 3?",
+    "parameters": {
+      "base": 13,
+      "height": 3
+    },
+    "answer": 19.5,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-044",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 9 and height 18?",
+    "parameters": {
+      "base": 9,
+      "height": 18
+    },
+    "answer": 81.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-045",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 20?",
+    "parameters": {
+      "radius": 20
+    },
+    "answer": 1256.64,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-046",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 15?",
+    "parameters": {
+      "radius": 15
+    },
+    "answer": 706.86,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-047",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 2 and height 10?",
+    "parameters": {
+      "base": 2,
+      "height": 10
+    },
+    "answer": 10.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-048",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 2 and height 12?",
+    "parameters": {
+      "base": 2,
+      "height": 12
+    },
+    "answer": 12.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-049",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 17 and height 15?",
+    "parameters": {
+      "base": 17,
+      "height": 15
+    },
+    "answer": 127.5,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-050",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 4 and height 4?",
+    "parameters": {
+      "base": 4,
+      "height": 4
+    },
+    "answer": 8.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-051",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 9?",
+    "parameters": {
+      "side": 9
+    },
+    "answer": 81,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-052",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 6?",
+    "parameters": {
+      "radius": 6
+    },
+    "answer": 113.1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-053",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 14 and height 11?",
+    "parameters": {
+      "width": 14,
+      "height": 11
+    },
+    "answer": 154,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-054",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 8?",
+    "parameters": {
+      "side": 8
+    },
+    "answer": 64,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-055",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 7 and height 9?",
+    "parameters": {
+      "base": 7,
+      "height": 9
+    },
+    "answer": 31.5,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-056",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 11?",
+    "parameters": {
+      "radius": 11
+    },
+    "answer": 380.13,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-057",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 15?",
+    "parameters": {
+      "radius": 15
+    },
+    "answer": 706.86,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-058",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 8 and height 9?",
+    "parameters": {
+      "base": 8,
+      "height": 9
+    },
+    "answer": 36.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-059",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 10 and height 15?",
+    "parameters": {
+      "width": 10,
+      "height": 15
+    },
+    "answer": 150,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-060",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 15 and height 9?",
+    "parameters": {
+      "width": 15,
+      "height": 9
+    },
+    "answer": 135,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-061",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 20 and height 2?",
+    "parameters": {
+      "width": 20,
+      "height": 2
+    },
+    "answer": 40,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-062",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 5?",
+    "parameters": {
+      "side": 5
+    },
+    "answer": 25,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-063",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 1 and height 8?",
+    "parameters": {
+      "width": 1,
+      "height": 8
+    },
+    "answer": 8,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-064",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 19 and height 12?",
+    "parameters": {
+      "width": 19,
+      "height": 12
+    },
+    "answer": 228,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-065",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 10 and height 6?",
+    "parameters": {
+      "width": 10,
+      "height": 6
+    },
+    "answer": 60,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-066",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 16 and height 15?",
+    "parameters": {
+      "width": 16,
+      "height": 15
+    },
+    "answer": 240,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-067",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 5 and height 5?",
+    "parameters": {
+      "width": 5,
+      "height": 5
+    },
+    "answer": 25,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-068",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 20?",
+    "parameters": {
+      "side": 20
+    },
+    "answer": 400,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-069",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 13 and height 9?",
+    "parameters": {
+      "width": 13,
+      "height": 9
+    },
+    "answer": 117,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-070",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 1?",
+    "parameters": {
+      "side": 1
+    },
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-071",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 19?",
+    "parameters": {
+      "side": 19
+    },
+    "answer": 361,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-072",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 5 and height 19?",
+    "parameters": {
+      "width": 5,
+      "height": 19
+    },
+    "answer": 95,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-073",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 9?",
+    "parameters": {
+      "radius": 9
+    },
+    "answer": 254.47,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-074",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 17 and height 17?",
+    "parameters": {
+      "width": 17,
+      "height": 17
+    },
+    "answer": 289,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-075",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 16 and height 20?",
+    "parameters": {
+      "base": 16,
+      "height": 20
+    },
+    "answer": 160.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-076",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 12?",
+    "parameters": {
+      "side": 12
+    },
+    "answer": 144,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-077",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 19?",
+    "parameters": {
+      "side": 19
+    },
+    "answer": 361,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-078",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 17 and height 12?",
+    "parameters": {
+      "width": 17,
+      "height": 12
+    },
+    "answer": 204,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-079",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 16 and height 6?",
+    "parameters": {
+      "base": 16,
+      "height": 6
+    },
+    "answer": 48.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-080",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 6 and height 16?",
+    "parameters": {
+      "base": 6,
+      "height": 16
+    },
+    "answer": 48.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-081",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 1 and height 3?",
+    "parameters": {
+      "base": 1,
+      "height": 3
+    },
+    "answer": 1.5,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-082",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 8 and height 10?",
+    "parameters": {
+      "width": 8,
+      "height": 10
+    },
+    "answer": 80,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-083",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 8?",
+    "parameters": {
+      "side": 8
+    },
+    "answer": 64,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-084",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 9?",
+    "parameters": {
+      "side": 9
+    },
+    "answer": 81,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-085",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 7?",
+    "parameters": {
+      "radius": 7
+    },
+    "answer": 153.94,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-086",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 16 and height 15?",
+    "parameters": {
+      "width": 16,
+      "height": 15
+    },
+    "answer": 240,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-087",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 17?",
+    "parameters": {
+      "radius": 17
+    },
+    "answer": 907.92,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-088",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 7?",
+    "parameters": {
+      "side": 7
+    },
+    "answer": 49,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-089",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 2 and height 13?",
+    "parameters": {
+      "width": 2,
+      "height": 13
+    },
+    "answer": 26,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-090",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 11?",
+    "parameters": {
+      "radius": 11
+    },
+    "answer": 380.13,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-091",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 9?",
+    "parameters": {
+      "radius": 9
+    },
+    "answer": 254.47,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-092",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 2?",
+    "parameters": {
+      "radius": 2
+    },
+    "answer": 12.57,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-093",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 19 and height 17?",
+    "parameters": {
+      "base": 19,
+      "height": 17
+    },
+    "answer": 161.5,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-094",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 8?",
+    "parameters": {
+      "side": 8
+    },
+    "answer": 64,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-095",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 6 and height 8?",
+    "parameters": {
+      "width": 6,
+      "height": 8
+    },
+    "answer": 48,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-096",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 15?",
+    "parameters": {
+      "side": 15
+    },
+    "answer": 225,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-097",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 2?",
+    "parameters": {
+      "side": 2
+    },
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-098",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 18 and height 9?",
+    "parameters": {
+      "width": 18,
+      "height": 9
+    },
+    "answer": 162,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-099",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 7?",
+    "parameters": {
+      "radius": 7
+    },
+    "answer": 153.94,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-100",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 5?",
+    "parameters": {
+      "radius": 5
+    },
+    "answer": 78.54,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-101",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 2 and height 7?",
+    "parameters": {
+      "width": 2,
+      "height": 7
+    },
+    "answer": 14,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-102",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 8?",
+    "parameters": {
+      "side": 8
+    },
+    "answer": 64,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-103",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 15 and height 4?",
+    "parameters": {
+      "base": 15,
+      "height": 4
+    },
+    "answer": 30.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-104",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 11?",
+    "parameters": {
+      "radius": 11
+    },
+    "answer": 380.13,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-105",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 7?",
+    "parameters": {
+      "radius": 7
+    },
+    "answer": 153.94,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-106",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 4 and height 15?",
+    "parameters": {
+      "base": 4,
+      "height": 15
+    },
+    "answer": 30.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-107",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 16?",
+    "parameters": {
+      "radius": 16
+    },
+    "answer": 804.25,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-108",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 4?",
+    "parameters": {
+      "side": 4
+    },
+    "answer": 16,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-109",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 20?",
+    "parameters": {
+      "side": 20
+    },
+    "answer": 400,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-110",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 10 and height 19?",
+    "parameters": {
+      "base": 10,
+      "height": 19
+    },
+    "answer": 95.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-111",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 19?",
+    "parameters": {
+      "radius": 19
+    },
+    "answer": 1134.11,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-112",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 4 and height 15?",
+    "parameters": {
+      "base": 4,
+      "height": 15
+    },
+    "answer": 30.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-113",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 19?",
+    "parameters": {
+      "side": 19
+    },
+    "answer": 361,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-114",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 1 and height 9?",
+    "parameters": {
+      "base": 1,
+      "height": 9
+    },
+    "answer": 4.5,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-115",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 20 and height 9?",
+    "parameters": {
+      "base": 20,
+      "height": 9
+    },
+    "answer": 90.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-116",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 6 and height 11?",
+    "parameters": {
+      "base": 6,
+      "height": 11
+    },
+    "answer": 33.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-117",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 17 and height 10?",
+    "parameters": {
+      "base": 17,
+      "height": 10
+    },
+    "answer": 85.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-118",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 9 and height 18?",
+    "parameters": {
+      "width": 9,
+      "height": 18
+    },
+    "answer": 162,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-119",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 11?",
+    "parameters": {
+      "side": 11
+    },
+    "answer": 121,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-120",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 18 and height 17?",
+    "parameters": {
+      "width": 18,
+      "height": 17
+    },
+    "answer": 306,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-121",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "rectangle",
+    "question": "What is the area of a rectangle with width 15 and height 4?",
+    "parameters": {
+      "width": 15,
+      "height": 4
+    },
+    "answer": 60,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-122",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 16?",
+    "parameters": {
+      "side": 16
+    },
+    "answer": 256,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-123",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "circle",
+    "question": "What is the area of a circle with radius 11?",
+    "parameters": {
+      "radius": 11
+    },
+    "answer": 380.13,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-124",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "triangle",
+    "question": "What is the area of a triangle with base 16 and height 6?",
+    "parameters": {
+      "base": 16,
+      "height": 6
+    },
+    "answer": 48.0,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "GR-E-125",
+    "category": "geometric_reasoning",
+    "difficulty": "easy",
+    "task_type": "area_calculation",
+    "shape": "square",
+    "question": "What is the area of a square with side length 3?",
+    "parameters": {
+      "side": 3
+    },
+    "answer": 9,
+    "reasoning_steps": 2
+  }
+]

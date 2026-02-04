@@ -1,0 +1,2127 @@
+[
+  {
+    "id": "DC-E-001",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (78, 43) and (58, 84).",
+    "point_a": [
+      78,
+      43
+    ],
+    "point_b": [
+      58,
+      84
+    ],
+    "answer": 45.62,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-002",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (70, 49) and (100, 57).",
+    "point_a": [
+      70,
+      49
+    ],
+    "point_b": [
+      100,
+      57
+    ],
+    "answer": 31.05,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-003",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (14, 85) and (70, 8).",
+    "point_a": [
+      14,
+      85
+    ],
+    "point_b": [
+      70,
+      8
+    ],
+    "answer": 95.21,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-004",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (43, 31) and (46, 18).",
+    "point_a": [
+      43,
+      31
+    ],
+    "point_b": [
+      46,
+      18
+    ],
+    "answer": 13.34,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-005",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (30, 62) and (24, 51).",
+    "point_a": [
+      30,
+      62
+    ],
+    "point_b": [
+      24,
+      51
+    ],
+    "answer": 12.53,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-006",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (5, 45) and (7, 61).",
+    "point_a": [
+      5,
+      45
+    ],
+    "point_b": [
+      7,
+      61
+    ],
+    "answer": 16.12,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-007",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (84, 90) and (96, 75).",
+    "point_a": [
+      84,
+      90
+    ],
+    "point_b": [
+      96,
+      75
+    ],
+    "answer": 19.21,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-008",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (12, 66) and (11, 84).",
+    "point_a": [
+      12,
+      66
+    ],
+    "point_b": [
+      11,
+      84
+    ],
+    "answer": 18.03,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-009",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (83, 41) and (67, 72).",
+    "point_a": [
+      83,
+      41
+    ],
+    "point_b": [
+      67,
+      72
+    ],
+    "answer": 34.89,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-010",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (73, 89) and (68, 66).",
+    "point_a": [
+      73,
+      89
+    ],
+    "point_b": [
+      68,
+      66
+    ],
+    "answer": 23.54,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-011",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (50, 96) and (69, 82).",
+    "point_a": [
+      50,
+      96
+    ],
+    "point_b": [
+      69,
+      82
+    ],
+    "answer": 23.6,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-012",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (25, 36) and (41, 17).",
+    "point_a": [
+      25,
+      36
+    ],
+    "point_b": [
+      41,
+      17
+    ],
+    "answer": 24.84,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-013",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (57, 97) and (25, 37).",
+    "point_a": [
+      57,
+      97
+    ],
+    "point_b": [
+      25,
+      37
+    ],
+    "answer": 68.0,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-014",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (80, 54) and (51, 55).",
+    "point_a": [
+      80,
+      54
+    ],
+    "point_b": [
+      51,
+      55
+    ],
+    "answer": 29.02,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-015",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (48, 10) and (62, 3).",
+    "point_a": [
+      48,
+      10
+    ],
+    "point_b": [
+      62,
+      3
+    ],
+    "answer": 15.65,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-016",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (62, 13) and (41, 71).",
+    "point_a": [
+      62,
+      13
+    ],
+    "point_b": [
+      41,
+      71
+    ],
+    "answer": 61.68,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-017",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (61, 78) and (49, 39).",
+    "point_a": [
+      61,
+      78
+    ],
+    "point_b": [
+      49,
+      39
+    ],
+    "answer": 40.8,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-018",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (63, 100) and (98, 36).",
+    "point_a": [
+      63,
+      100
+    ],
+    "point_b": [
+      98,
+      36
+    ],
+    "answer": 72.95,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-019",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (98, 87) and (89, 7).",
+    "point_a": [
+      98,
+      87
+    ],
+    "point_b": [
+      89,
+      7
+    ],
+    "answer": 80.5,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-020",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (67, 5) and (24, 11).",
+    "point_a": [
+      67,
+      5
+    ],
+    "point_b": [
+      24,
+      11
+    ],
+    "answer": 43.42,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-021",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (39, 75) and (95, 73).",
+    "point_a": [
+      39,
+      75
+    ],
+    "point_b": [
+      95,
+      73
+    ],
+    "answer": 56.04,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-022",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (69, 22) and (82, 40).",
+    "point_a": [
+      69,
+      22
+    ],
+    "point_b": [
+      82,
+      40
+    ],
+    "answer": 22.2,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-023",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (94, 6) and (68, 3).",
+    "point_a": [
+      94,
+      6
+    ],
+    "point_b": [
+      68,
+      3
+    ],
+    "answer": 26.17,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-024",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (6, 38) and (49, 24).",
+    "point_a": [
+      6,
+      38
+    ],
+    "point_b": [
+      49,
+      24
+    ],
+    "answer": 45.22,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-025",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (45, 68) and (6, 87).",
+    "point_a": [
+      45,
+      68
+    ],
+    "point_b": [
+      6,
+      87
+    ],
+    "answer": 43.38,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-026",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (55, 94) and (65, 67).",
+    "point_a": [
+      55,
+      94
+    ],
+    "point_b": [
+      65,
+      67
+    ],
+    "answer": 28.79,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-027",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (22, 65) and (47, 87).",
+    "point_a": [
+      22,
+      65
+    ],
+    "point_b": [
+      47,
+      87
+    ],
+    "answer": 33.3,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-028",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (89, 5) and (27, 12).",
+    "point_a": [
+      89,
+      5
+    ],
+    "point_b": [
+      27,
+      12
+    ],
+    "answer": 62.39,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-029",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (58, 23) and (28, 91).",
+    "point_a": [
+      58,
+      23
+    ],
+    "point_b": [
+      28,
+      91
+    ],
+    "answer": 74.32,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-030",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (40, 9) and (91, 26).",
+    "point_a": [
+      40,
+      9
+    ],
+    "point_b": [
+      91,
+      26
+    ],
+    "answer": 53.76,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-031",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (63, 26) and (73, 81).",
+    "point_a": [
+      63,
+      26
+    ],
+    "point_b": [
+      73,
+      81
+    ],
+    "answer": 55.9,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-032",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (78, 1) and (5, 48).",
+    "point_a": [
+      78,
+      1
+    ],
+    "point_b": [
+      5,
+      48
+    ],
+    "answer": 86.82,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-033",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (26, 88) and (14, 37).",
+    "point_a": [
+      26,
+      88
+    ],
+    "point_b": [
+      14,
+      37
+    ],
+    "answer": 52.39,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-034",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (0, 30) and (84, 42).",
+    "point_a": [
+      0,
+      30
+    ],
+    "point_b": [
+      84,
+      42
+    ],
+    "answer": 84.85,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-035",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (22, 49) and (29, 47).",
+    "point_a": [
+      22,
+      49
+    ],
+    "point_b": [
+      29,
+      47
+    ],
+    "answer": 7.28,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-036",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (51, 5) and (19, 18).",
+    "point_a": [
+      51,
+      5
+    ],
+    "point_b": [
+      19,
+      18
+    ],
+    "answer": 34.54,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-037",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (76, 31) and (79, 85).",
+    "point_a": [
+      76,
+      31
+    ],
+    "point_b": [
+      79,
+      85
+    ],
+    "answer": 54.08,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-038",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (33, 54) and (87, 73).",
+    "point_a": [
+      33,
+      54
+    ],
+    "point_b": [
+      87,
+      73
+    ],
+    "answer": 57.25,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-039",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (90, 80) and (39, 26).",
+    "point_a": [
+      90,
+      80
+    ],
+    "point_b": [
+      39,
+      26
+    ],
+    "answer": 74.28,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-040",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (83, 94) and (34, 52).",
+    "point_a": [
+      83,
+      94
+    ],
+    "point_b": [
+      34,
+      52
+    ],
+    "answer": 64.54,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-041",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (88, 1) and (53, 52).",
+    "point_a": [
+      88,
+      1
+    ],
+    "point_b": [
+      53,
+      52
+    ],
+    "answer": 61.85,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-042",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (48, 35) and (24, 99).",
+    "point_a": [
+      48,
+      35
+    ],
+    "point_b": [
+      24,
+      99
+    ],
+    "answer": 68.35,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-043",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (62, 32) and (76, 1).",
+    "point_a": [
+      62,
+      32
+    ],
+    "point_b": [
+      76,
+      1
+    ],
+    "answer": 34.01,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-044",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (80, 88) and (50, 5).",
+    "point_a": [
+      80,
+      88
+    ],
+    "point_b": [
+      50,
+      5
+    ],
+    "answer": 88.26,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-045",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (89, 98) and (57, 16).",
+    "point_a": [
+      89,
+      98
+    ],
+    "point_b": [
+      57,
+      16
+    ],
+    "answer": 88.02,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-046",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (84, 88) and (28, 9).",
+    "point_a": [
+      84,
+      88
+    ],
+    "point_b": [
+      28,
+      9
+    ],
+    "answer": 96.83,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-047",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (81, 14) and (14, 20).",
+    "point_a": [
+      81,
+      14
+    ],
+    "point_b": [
+      14,
+      20
+    ],
+    "answer": 67.27,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-048",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (62, 8) and (23, 68).",
+    "point_a": [
+      62,
+      8
+    ],
+    "point_b": [
+      23,
+      68
+    ],
+    "answer": 71.56,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-049",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (41, 21) and (94, 32).",
+    "point_a": [
+      41,
+      21
+    ],
+    "point_b": [
+      94,
+      32
+    ],
+    "answer": 54.13,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-050",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (87, 91) and (88, 50).",
+    "point_a": [
+      87,
+      91
+    ],
+    "point_b": [
+      88,
+      50
+    ],
+    "answer": 41.01,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-051",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (36, 68) and (36, 36).",
+    "point_a": [
+      36,
+      68
+    ],
+    "point_b": [
+      36,
+      36
+    ],
+    "answer": 32.0,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-052",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (72, 33) and (13, 97).",
+    "point_a": [
+      72,
+      33
+    ],
+    "point_b": [
+      13,
+      97
+    ],
+    "answer": 87.05,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-053",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (15, 50) and (25, 11).",
+    "point_a": [
+      15,
+      50
+    ],
+    "point_b": [
+      25,
+      11
+    ],
+    "answer": 40.26,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-054",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (71, 63) and (25, 16).",
+    "point_a": [
+      71,
+      63
+    ],
+    "point_b": [
+      25,
+      16
+    ],
+    "answer": 65.76,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-055",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (66, 4) and (60, 61).",
+    "point_a": [
+      66,
+      4
+    ],
+    "point_b": [
+      60,
+      61
+    ],
+    "answer": 57.31,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-056",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (13, 14) and (29, 4).",
+    "point_a": [
+      13,
+      14
+    ],
+    "point_b": [
+      29,
+      4
+    ],
+    "answer": 18.87,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-057",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (49, 23) and (10, 97).",
+    "point_a": [
+      49,
+      23
+    ],
+    "point_b": [
+      10,
+      97
+    ],
+    "answer": 83.65,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-058",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (88, 8) and (30, 55).",
+    "point_a": [
+      88,
+      8
+    ],
+    "point_b": [
+      30,
+      55
+    ],
+    "answer": 74.65,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-059",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (78, 47) and (56, 94).",
+    "point_a": [
+      78,
+      47
+    ],
+    "point_b": [
+      56,
+      94
+    ],
+    "answer": 51.89,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-060",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (18, 56) and (76, 98).",
+    "point_a": [
+      18,
+      56
+    ],
+    "point_b": [
+      76,
+      98
+    ],
+    "answer": 71.61,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-061",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (5, 84) and (64, 98).",
+    "point_a": [
+      5,
+      84
+    ],
+    "point_b": [
+      64,
+      98
+    ],
+    "answer": 60.64,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-062",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (24, 98) and (26, 92).",
+    "point_a": [
+      24,
+      98
+    ],
+    "point_b": [
+      26,
+      92
+    ],
+    "answer": 6.32,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-063",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (40, 5) and (72, 1).",
+    "point_a": [
+      40,
+      5
+    ],
+    "point_b": [
+      72,
+      1
+    ],
+    "answer": 32.25,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-064",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (19, 43) and (32, 22).",
+    "point_a": [
+      19,
+      43
+    ],
+    "point_b": [
+      32,
+      22
+    ],
+    "answer": 24.7,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-065",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (44, 59) and (25, 82).",
+    "point_a": [
+      44,
+      59
+    ],
+    "point_b": [
+      25,
+      82
+    ],
+    "answer": 29.83,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-066",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (7, 50) and (48, 19).",
+    "point_a": [
+      7,
+      50
+    ],
+    "point_b": [
+      48,
+      19
+    ],
+    "answer": 51.4,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-067",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (37, 64) and (8, 28).",
+    "point_a": [
+      37,
+      64
+    ],
+    "point_b": [
+      8,
+      28
+    ],
+    "answer": 46.23,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-068",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (23, 80) and (24, 42).",
+    "point_a": [
+      23,
+      80
+    ],
+    "point_b": [
+      24,
+      42
+    ],
+    "answer": 38.01,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-069",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (84, 92) and (56, 3).",
+    "point_a": [
+      84,
+      92
+    ],
+    "point_b": [
+      56,
+      3
+    ],
+    "answer": 93.3,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-070",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (56, 8) and (31, 77).",
+    "point_a": [
+      56,
+      8
+    ],
+    "point_b": [
+      31,
+      77
+    ],
+    "answer": 73.39,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-071",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (67, 36) and (71, 20).",
+    "point_a": [
+      67,
+      36
+    ],
+    "point_b": [
+      71,
+      20
+    ],
+    "answer": 16.49,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-072",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (18, 70) and (40, 7).",
+    "point_a": [
+      18,
+      70
+    ],
+    "point_b": [
+      40,
+      7
+    ],
+    "answer": 66.73,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-073",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (14, 87) and (8, 52).",
+    "point_a": [
+      14,
+      87
+    ],
+    "point_b": [
+      8,
+      52
+    ],
+    "answer": 35.51,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-074",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (66, 68) and (2, 79).",
+    "point_a": [
+      66,
+      68
+    ],
+    "point_b": [
+      2,
+      79
+    ],
+    "answer": 64.94,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-075",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (92, 21) and (92, 41).",
+    "point_a": [
+      92,
+      21
+    ],
+    "point_b": [
+      92,
+      41
+    ],
+    "answer": 20.0,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-076",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (47, 4) and (18, 13).",
+    "point_a": [
+      47,
+      4
+    ],
+    "point_b": [
+      18,
+      13
+    ],
+    "answer": 30.36,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-077",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (87, 29) and (0, 48).",
+    "point_a": [
+      87,
+      29
+    ],
+    "point_b": [
+      0,
+      48
+    ],
+    "answer": 89.05,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-078",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (0, 72) and (7, 49).",
+    "point_a": [
+      0,
+      72
+    ],
+    "point_b": [
+      7,
+      49
+    ],
+    "answer": 24.04,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-079",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (98, 72) and (15, 28).",
+    "point_a": [
+      98,
+      72
+    ],
+    "point_b": [
+      15,
+      28
+    ],
+    "answer": 93.94,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-080",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (97, 80) and (4, 72).",
+    "point_a": [
+      97,
+      80
+    ],
+    "point_b": [
+      4,
+      72
+    ],
+    "answer": 93.34,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-081",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (69, 9) and (2, 83).",
+    "point_a": [
+      69,
+      9
+    ],
+    "point_b": [
+      2,
+      83
+    ],
+    "answer": 99.82,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-082",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (60, 73) and (82, 49).",
+    "point_a": [
+      60,
+      73
+    ],
+    "point_b": [
+      82,
+      49
+    ],
+    "answer": 32.56,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-083",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (36, 87) and (78, 49).",
+    "point_a": [
+      36,
+      87
+    ],
+    "point_b": [
+      78,
+      49
+    ],
+    "answer": 56.64,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-084",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (57, 95) and (30, 87).",
+    "point_a": [
+      57,
+      95
+    ],
+    "point_b": [
+      30,
+      87
+    ],
+    "answer": 28.16,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-085",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (62, 78) and (32, 44).",
+    "point_a": [
+      62,
+      78
+    ],
+    "point_b": [
+      32,
+      44
+    ],
+    "answer": 45.34,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-086",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (81, 58) and (61, 19).",
+    "point_a": [
+      81,
+      58
+    ],
+    "point_b": [
+      61,
+      19
+    ],
+    "answer": 43.83,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-087",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (58, 68) and (46, 28).",
+    "point_a": [
+      58,
+      68
+    ],
+    "point_b": [
+      46,
+      28
+    ],
+    "answer": 41.76,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-088",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (18, 36) and (81, 93).",
+    "point_a": [
+      18,
+      36
+    ],
+    "point_b": [
+      81,
+      93
+    ],
+    "answer": 84.96,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-089",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (22, 49) and (32, 20).",
+    "point_a": [
+      22,
+      49
+    ],
+    "point_b": [
+      32,
+      20
+    ],
+    "answer": 30.68,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-090",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (47, 94) and (2, 55).",
+    "point_a": [
+      47,
+      94
+    ],
+    "point_b": [
+      2,
+      55
+    ],
+    "answer": 59.55,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-091",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (38, 18) and (5, 58).",
+    "point_a": [
+      38,
+      18
+    ],
+    "point_b": [
+      5,
+      58
+    ],
+    "answer": 51.86,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-092",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (52, 90) and (69, 29).",
+    "point_a": [
+      52,
+      90
+    ],
+    "point_b": [
+      69,
+      29
+    ],
+    "answer": 63.32,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-093",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (51, 16) and (80, 45).",
+    "point_a": [
+      51,
+      16
+    ],
+    "point_b": [
+      80,
+      45
+    ],
+    "answer": 41.01,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-094",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (26, 51) and (53, 53).",
+    "point_a": [
+      26,
+      51
+    ],
+    "point_b": [
+      53,
+      53
+    ],
+    "answer": 27.07,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-095",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (58, 93) and (57, 56).",
+    "point_a": [
+      58,
+      93
+    ],
+    "point_b": [
+      57,
+      56
+    ],
+    "answer": 37.01,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-096",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (49, 59) and (46, 43).",
+    "point_a": [
+      49,
+      59
+    ],
+    "point_b": [
+      46,
+      43
+    ],
+    "answer": 16.28,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-097",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (41, 85) and (51, 17).",
+    "point_a": [
+      41,
+      85
+    ],
+    "point_b": [
+      51,
+      17
+    ],
+    "answer": 68.73,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-098",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (92, 67) and (26, 31).",
+    "point_a": [
+      92,
+      67
+    ],
+    "point_b": [
+      26,
+      31
+    ],
+    "answer": 75.18,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-099",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (27, 91) and (24, 72).",
+    "point_a": [
+      27,
+      91
+    ],
+    "point_b": [
+      24,
+      72
+    ],
+    "answer": 19.24,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-100",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (24, 93) and (84, 100).",
+    "point_a": [
+      24,
+      93
+    ],
+    "point_b": [
+      84,
+      100
+    ],
+    "answer": 60.41,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-101",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (79, 46) and (59, 70).",
+    "point_a": [
+      79,
+      46
+    ],
+    "point_b": [
+      59,
+      70
+    ],
+    "answer": 31.24,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-102",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (97, 52) and (47, 82).",
+    "point_a": [
+      97,
+      52
+    ],
+    "point_b": [
+      47,
+      82
+    ],
+    "answer": 58.31,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-103",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (39, 27) and (50, 18).",
+    "point_a": [
+      39,
+      27
+    ],
+    "point_b": [
+      50,
+      18
+    ],
+    "answer": 14.21,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-104",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (60, 13) and (69, 83).",
+    "point_a": [
+      60,
+      13
+    ],
+    "point_b": [
+      69,
+      83
+    ],
+    "answer": 70.58,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-105",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (57, 38) and (99, 79).",
+    "point_a": [
+      57,
+      38
+    ],
+    "point_b": [
+      99,
+      79
+    ],
+    "answer": 58.69,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-106",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (52, 6) and (25, 27).",
+    "point_a": [
+      52,
+      6
+    ],
+    "point_b": [
+      25,
+      27
+    ],
+    "answer": 34.21,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-107",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (43, 70) and (20, 84).",
+    "point_a": [
+      43,
+      70
+    ],
+    "point_b": [
+      20,
+      84
+    ],
+    "answer": 26.93,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-108",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (49, 66) and (55, 23).",
+    "point_a": [
+      49,
+      66
+    ],
+    "point_b": [
+      55,
+      23
+    ],
+    "answer": 43.42,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-109",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (56, 3) and (88, 26).",
+    "point_a": [
+      56,
+      3
+    ],
+    "point_b": [
+      88,
+      26
+    ],
+    "answer": 39.41,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-110",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (49, 72) and (85, 22).",
+    "point_a": [
+      49,
+      72
+    ],
+    "point_b": [
+      85,
+      22
+    ],
+    "answer": 61.61,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-111",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (34, 95) and (87, 72).",
+    "point_a": [
+      34,
+      95
+    ],
+    "point_b": [
+      87,
+      72
+    ],
+    "answer": 57.78,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-112",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (98, 19) and (82, 51).",
+    "point_a": [
+      98,
+      19
+    ],
+    "point_b": [
+      82,
+      51
+    ],
+    "answer": 35.78,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-113",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (73, 100) and (25, 19).",
+    "point_a": [
+      73,
+      100
+    ],
+    "point_b": [
+      25,
+      19
+    ],
+    "answer": 94.15,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-114",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (52, 40) and (59, 31).",
+    "point_a": [
+      52,
+      40
+    ],
+    "point_b": [
+      59,
+      31
+    ],
+    "answer": 11.4,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-115",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (94, 16) and (97, 62).",
+    "point_a": [
+      94,
+      16
+    ],
+    "point_b": [
+      97,
+      62
+    ],
+    "answer": 46.1,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-116",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (40, 78) and (97, 78).",
+    "point_a": [
+      40,
+      78
+    ],
+    "point_b": [
+      97,
+      78
+    ],
+    "answer": 57.0,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-117",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (67, 94) and (80, 4).",
+    "point_a": [
+      67,
+      94
+    ],
+    "point_b": [
+      80,
+      4
+    ],
+    "answer": 90.93,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-118",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (86, 12) and (100, 8).",
+    "point_a": [
+      86,
+      12
+    ],
+    "point_b": [
+      100,
+      8
+    ],
+    "answer": 14.56,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-119",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (10, 2) and (1, 6).",
+    "point_a": [
+      10,
+      2
+    ],
+    "point_b": [
+      1,
+      6
+    ],
+    "answer": 9.85,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-120",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (42, 11) and (40, 45).",
+    "point_a": [
+      42,
+      11
+    ],
+    "point_b": [
+      40,
+      45
+    ],
+    "answer": 34.06,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-121",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (25, 95) and (19, 27).",
+    "point_a": [
+      25,
+      95
+    ],
+    "point_b": [
+      19,
+      27
+    ],
+    "answer": 68.26,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-122",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (39, 8) and (46, 79).",
+    "point_a": [
+      39,
+      8
+    ],
+    "point_b": [
+      46,
+      79
+    ],
+    "answer": 71.34,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-123",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (40, 74) and (57, 60).",
+    "point_a": [
+      40,
+      74
+    ],
+    "point_b": [
+      57,
+      60
+    ],
+    "answer": 22.02,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-124",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (43, 90) and (22, 37).",
+    "point_a": [
+      43,
+      90
+    ],
+    "point_b": [
+      22,
+      37
+    ],
+    "answer": 57.01,
+    "reasoning_steps": 3
+  },
+  {
+    "id": "DC-E-125",
+    "category": "distance_computation",
+    "difficulty": "easy",
+    "task_type": "euclidean_distance",
+    "question": "Calculate the Euclidean distance between points (38, 12) and (71, 20).",
+    "point_a": [
+      38,
+      12
+    ],
+    "point_b": [
+      71,
+      20
+    ],
+    "answer": 33.96,
+    "reasoning_steps": 3
+  }
+]

@@ -1,0 +1,3812 @@
+[
+  {
+    "id": "NP-E-001",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (4, 5), follow these directions: [{'direction': 'north', 'distance': 4}, {'direction': 'west', 'distance': 2}]. What is the final position?",
+    "start": {
+      "x": 4,
+      "y": 5
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 4
+      },
+      {
+        "direction": "west",
+        "distance": 2
+      }
+    ],
+    "answer": {
+      "x": 2,
+      "y": 9
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-002",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (2, 6), follow these directions: [{'direction': 'south', 'distance': 5}, {'direction': 'east', 'distance': 1}, {'direction': 'west', 'distance': 1}, {'direction': 'west', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 2,
+      "y": 6
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 5
+      },
+      {
+        "direction": "east",
+        "distance": 1
+      },
+      {
+        "direction": "west",
+        "distance": 1
+      },
+      {
+        "direction": "west",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": 1,
+      "y": 1
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-003",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (7, 1), follow these directions: [{'direction': 'west', 'distance': 5}, {'direction': 'west', 'distance': 4}, {'direction': 'east', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 7,
+      "y": 1
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 5
+      },
+      {
+        "direction": "west",
+        "distance": 4
+      },
+      {
+        "direction": "east",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": -1,
+      "y": 1
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-004",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (6, 0), follow these directions: [{'direction': 'south', 'distance': 5}, {'direction': 'west', 'distance': 3}, {'direction': 'north', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 6,
+      "y": 0
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 5
+      },
+      {
+        "direction": "west",
+        "distance": 3
+      },
+      {
+        "direction": "north",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": 3,
+      "y": -1
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-005",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (1, 3), follow these directions: [{'direction': 'west', 'distance': 5}, {'direction': 'north', 'distance': 4}, {'direction': 'east', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 1,
+      "y": 3
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 5
+      },
+      {
+        "direction": "north",
+        "distance": 4
+      },
+      {
+        "direction": "east",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": -1,
+      "y": 7
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-006",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (3, 5), follow these directions: [{'direction': 'north', 'distance': 5}, {'direction': 'north', 'distance': 5}]. What is the final position?",
+    "start": {
+      "x": 3,
+      "y": 5
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 5
+      },
+      {
+        "direction": "north",
+        "distance": 5
+      }
+    ],
+    "answer": {
+      "x": 3,
+      "y": 15
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-007",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (8, 3), follow these directions: [{'direction': 'east', 'distance': 2}, {'direction': 'south', 'distance': 1}, {'direction': 'south', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 8,
+      "y": 3
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 2
+      },
+      {
+        "direction": "south",
+        "distance": 1
+      },
+      {
+        "direction": "south",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 10,
+      "y": -1
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-008",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (3, 2), follow these directions: [{'direction': 'south', 'distance': 1}, {'direction': 'south', 'distance': 4}, {'direction': 'west', 'distance': 5}, {'direction': 'west', 'distance': 5}]. What is the final position?",
+    "start": {
+      "x": 3,
+      "y": 2
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 1
+      },
+      {
+        "direction": "south",
+        "distance": 4
+      },
+      {
+        "direction": "west",
+        "distance": 5
+      },
+      {
+        "direction": "west",
+        "distance": 5
+      }
+    ],
+    "answer": {
+      "x": -7,
+      "y": -3
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-009",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (10, 10), follow these directions: [{'direction': 'east', 'distance': 3}, {'direction': 'south', 'distance': 4}, {'direction': 'north', 'distance': 4}, {'direction': 'west', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 10,
+      "y": 10
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 3
+      },
+      {
+        "direction": "south",
+        "distance": 4
+      },
+      {
+        "direction": "north",
+        "distance": 4
+      },
+      {
+        "direction": "west",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 10,
+      "y": 10
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-010",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (4, 9), follow these directions: [{'direction': 'east', 'distance': 5}, {'direction': 'north', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 4,
+      "y": 9
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 5
+      },
+      {
+        "direction": "north",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 9,
+      "y": 12
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-011",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (7, 7), follow these directions: [{'direction': 'north', 'distance': 3}, {'direction': 'east', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 7,
+      "y": 7
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 3
+      },
+      {
+        "direction": "east",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": 8,
+      "y": 10
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-012",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (10, 1), follow these directions: [{'direction': 'west', 'distance': 4}, {'direction': 'north', 'distance': 4}, {'direction': 'south', 'distance': 3}, {'direction': 'west', 'distance': 5}]. What is the final position?",
+    "start": {
+      "x": 10,
+      "y": 1
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 4
+      },
+      {
+        "direction": "north",
+        "distance": 4
+      },
+      {
+        "direction": "south",
+        "distance": 3
+      },
+      {
+        "direction": "west",
+        "distance": 5
+      }
+    ],
+    "answer": {
+      "x": 1,
+      "y": 2
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-013",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (2, 0), follow these directions: [{'direction': 'north', 'distance': 3}, {'direction': 'north', 'distance': 5}, {'direction': 'south', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 2,
+      "y": 0
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 3
+      },
+      {
+        "direction": "north",
+        "distance": 5
+      },
+      {
+        "direction": "south",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": 2,
+      "y": 7
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-014",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (3, 7), follow these directions: [{'direction': 'south', 'distance': 3}, {'direction': 'east', 'distance': 3}, {'direction': 'west', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 3,
+      "y": 7
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 3
+      },
+      {
+        "direction": "east",
+        "distance": 3
+      },
+      {
+        "direction": "west",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": 2,
+      "y": 4
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-015",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (5, 10), follow these directions: [{'direction': 'north', 'distance': 3}, {'direction': 'north', 'distance': 3}, {'direction': 'north', 'distance': 5}, {'direction': 'west', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 5,
+      "y": 10
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 3
+      },
+      {
+        "direction": "north",
+        "distance": 3
+      },
+      {
+        "direction": "north",
+        "distance": 5
+      },
+      {
+        "direction": "west",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 2,
+      "y": 21
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-016",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (4, 10), follow these directions: [{'direction': 'south', 'distance': 3}, {'direction': 'north', 'distance': 5}, {'direction': 'south', 'distance': 3}, {'direction': 'east', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 4,
+      "y": 10
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 3
+      },
+      {
+        "direction": "north",
+        "distance": 5
+      },
+      {
+        "direction": "south",
+        "distance": 3
+      },
+      {
+        "direction": "east",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": 8,
+      "y": 9
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-017",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (2, 9), follow these directions: [{'direction': 'north', 'distance': 3}, {'direction': 'west', 'distance': 3}, {'direction': 'south', 'distance': 5}, {'direction': 'north', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 2,
+      "y": 9
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 3
+      },
+      {
+        "direction": "west",
+        "distance": 3
+      },
+      {
+        "direction": "south",
+        "distance": 5
+      },
+      {
+        "direction": "north",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": -1,
+      "y": 11
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-018",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (8, 5), follow these directions: [{'direction': 'east', 'distance': 3}, {'direction': 'south', 'distance': 2}]. What is the final position?",
+    "start": {
+      "x": 8,
+      "y": 5
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 3
+      },
+      {
+        "direction": "south",
+        "distance": 2
+      }
+    ],
+    "answer": {
+      "x": 11,
+      "y": 3
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-019",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (5, 7), follow these directions: [{'direction': 'south', 'distance': 2}, {'direction': 'south', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 5,
+      "y": 7
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 2
+      },
+      {
+        "direction": "south",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": 5,
+      "y": 4
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-020",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (4, 1), follow these directions: [{'direction': 'north', 'distance': 3}, {'direction': 'south', 'distance': 5}, {'direction': 'west', 'distance': 2}, {'direction': 'south', 'distance': 2}]. What is the final position?",
+    "start": {
+      "x": 4,
+      "y": 1
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 3
+      },
+      {
+        "direction": "south",
+        "distance": 5
+      },
+      {
+        "direction": "west",
+        "distance": 2
+      },
+      {
+        "direction": "south",
+        "distance": 2
+      }
+    ],
+    "answer": {
+      "x": 2,
+      "y": -3
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-021",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (9, 2), follow these directions: [{'direction': 'west', 'distance': 1}, {'direction': 'west', 'distance': 3}, {'direction': 'south', 'distance': 4}, {'direction': 'east', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 9,
+      "y": 2
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 1
+      },
+      {
+        "direction": "west",
+        "distance": 3
+      },
+      {
+        "direction": "south",
+        "distance": 4
+      },
+      {
+        "direction": "east",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": 9,
+      "y": -2
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-022",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (3, 8), follow these directions: [{'direction': 'east', 'distance': 4}, {'direction': 'south', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 3,
+      "y": 8
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 4
+      },
+      {
+        "direction": "south",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 7,
+      "y": 5
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-023",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (10, 9), follow these directions: [{'direction': 'west', 'distance': 3}, {'direction': 'west', 'distance': 5}, {'direction': 'west', 'distance': 2}]. What is the final position?",
+    "start": {
+      "x": 10,
+      "y": 9
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 3
+      },
+      {
+        "direction": "west",
+        "distance": 5
+      },
+      {
+        "direction": "west",
+        "distance": 2
+      }
+    ],
+    "answer": {
+      "x": 0,
+      "y": 9
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-024",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (3, 9), follow these directions: [{'direction': 'east', 'distance': 1}, {'direction': 'west', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 3,
+      "y": 9
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 1
+      },
+      {
+        "direction": "west",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 1,
+      "y": 9
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-025",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (8, 1), follow these directions: [{'direction': 'north', 'distance': 3}, {'direction': 'north', 'distance': 2}, {'direction': 'east', 'distance': 4}, {'direction': 'south', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 8,
+      "y": 1
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 3
+      },
+      {
+        "direction": "north",
+        "distance": 2
+      },
+      {
+        "direction": "east",
+        "distance": 4
+      },
+      {
+        "direction": "south",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": 12,
+      "y": 2
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-026",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (1, 3), follow these directions: [{'direction': 'east', 'distance': 1}, {'direction': 'west', 'distance': 1}, {'direction': 'west', 'distance': 5}]. What is the final position?",
+    "start": {
+      "x": 1,
+      "y": 3
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 1
+      },
+      {
+        "direction": "west",
+        "distance": 1
+      },
+      {
+        "direction": "west",
+        "distance": 5
+      }
+    ],
+    "answer": {
+      "x": -4,
+      "y": 3
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-027",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (5, 3), follow these directions: [{'direction': 'north', 'distance': 3}, {'direction': 'south', 'distance': 1}, {'direction': 'east', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 5,
+      "y": 3
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 3
+      },
+      {
+        "direction": "south",
+        "distance": 1
+      },
+      {
+        "direction": "east",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": 6,
+      "y": 5
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-028",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (10, 5), follow these directions: [{'direction': 'south', 'distance': 1}, {'direction': 'east', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 10,
+      "y": 5
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 1
+      },
+      {
+        "direction": "east",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": 14,
+      "y": 4
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-029",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (2, 7), follow these directions: [{'direction': 'north', 'distance': 1}, {'direction': 'north', 'distance': 3}, {'direction': 'south', 'distance': 2}]. What is the final position?",
+    "start": {
+      "x": 2,
+      "y": 7
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 1
+      },
+      {
+        "direction": "north",
+        "distance": 3
+      },
+      {
+        "direction": "south",
+        "distance": 2
+      }
+    ],
+    "answer": {
+      "x": 2,
+      "y": 9
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-030",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (8, 9), follow these directions: [{'direction': 'west', 'distance': 1}, {'direction': 'east', 'distance': 2}, {'direction': 'east', 'distance': 1}, {'direction': 'north', 'distance': 2}]. What is the final position?",
+    "start": {
+      "x": 8,
+      "y": 9
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 1
+      },
+      {
+        "direction": "east",
+        "distance": 2
+      },
+      {
+        "direction": "east",
+        "distance": 1
+      },
+      {
+        "direction": "north",
+        "distance": 2
+      }
+    ],
+    "answer": {
+      "x": 10,
+      "y": 11
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-031",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (6, 10), follow these directions: [{'direction': 'west', 'distance': 1}, {'direction': 'north', 'distance': 4}, {'direction': 'north', 'distance': 5}, {'direction': 'south', 'distance': 2}]. What is the final position?",
+    "start": {
+      "x": 6,
+      "y": 10
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 1
+      },
+      {
+        "direction": "north",
+        "distance": 4
+      },
+      {
+        "direction": "north",
+        "distance": 5
+      },
+      {
+        "direction": "south",
+        "distance": 2
+      }
+    ],
+    "answer": {
+      "x": 5,
+      "y": 17
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-032",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (4, 6), follow these directions: [{'direction': 'east', 'distance': 2}, {'direction': 'west', 'distance': 2}]. What is the final position?",
+    "start": {
+      "x": 4,
+      "y": 6
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 2
+      },
+      {
+        "direction": "west",
+        "distance": 2
+      }
+    ],
+    "answer": {
+      "x": 4,
+      "y": 6
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-033",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (10, 10), follow these directions: [{'direction': 'east', 'distance': 1}, {'direction': 'north', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 10,
+      "y": 10
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 1
+      },
+      {
+        "direction": "north",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": 11,
+      "y": 14
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-034",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (7, 0), follow these directions: [{'direction': 'west', 'distance': 3}, {'direction': 'east', 'distance': 1}, {'direction': 'east', 'distance': 1}, {'direction': 'east', 'distance': 2}]. What is the final position?",
+    "start": {
+      "x": 7,
+      "y": 0
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 3
+      },
+      {
+        "direction": "east",
+        "distance": 1
+      },
+      {
+        "direction": "east",
+        "distance": 1
+      },
+      {
+        "direction": "east",
+        "distance": 2
+      }
+    ],
+    "answer": {
+      "x": 8,
+      "y": 0
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-035",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (10, 10), follow these directions: [{'direction': 'east', 'distance': 2}, {'direction': 'north', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 10,
+      "y": 10
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 2
+      },
+      {
+        "direction": "north",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 12,
+      "y": 13
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-036",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (8, 5), follow these directions: [{'direction': 'south', 'distance': 4}, {'direction': 'west', 'distance': 2}, {'direction': 'south', 'distance': 1}, {'direction': 'west', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 8,
+      "y": 5
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 4
+      },
+      {
+        "direction": "west",
+        "distance": 2
+      },
+      {
+        "direction": "south",
+        "distance": 1
+      },
+      {
+        "direction": "west",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": 5,
+      "y": 0
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-037",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (4, 3), follow these directions: [{'direction': 'south', 'distance': 1}, {'direction': 'east', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 4,
+      "y": 3
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 1
+      },
+      {
+        "direction": "east",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 7,
+      "y": 2
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-038",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (8, 6), follow these directions: [{'direction': 'west', 'distance': 3}, {'direction': 'north', 'distance': 2}, {'direction': 'east', 'distance': 3}, {'direction': 'north', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 8,
+      "y": 6
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 3
+      },
+      {
+        "direction": "north",
+        "distance": 2
+      },
+      {
+        "direction": "east",
+        "distance": 3
+      },
+      {
+        "direction": "north",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 8,
+      "y": 11
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-039",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (4, 1), follow these directions: [{'direction': 'west', 'distance': 4}, {'direction': 'west', 'distance': 4}, {'direction': 'east', 'distance': 2}]. What is the final position?",
+    "start": {
+      "x": 4,
+      "y": 1
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 4
+      },
+      {
+        "direction": "west",
+        "distance": 4
+      },
+      {
+        "direction": "east",
+        "distance": 2
+      }
+    ],
+    "answer": {
+      "x": -2,
+      "y": 1
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-040",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (7, 7), follow these directions: [{'direction': 'east', 'distance': 1}, {'direction': 'west', 'distance': 1}, {'direction': 'west', 'distance': 5}]. What is the final position?",
+    "start": {
+      "x": 7,
+      "y": 7
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 1
+      },
+      {
+        "direction": "west",
+        "distance": 1
+      },
+      {
+        "direction": "west",
+        "distance": 5
+      }
+    ],
+    "answer": {
+      "x": 2,
+      "y": 7
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-041",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (2, 8), follow these directions: [{'direction': 'east', 'distance': 1}, {'direction': 'north', 'distance': 3}, {'direction': 'east', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 2,
+      "y": 8
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 1
+      },
+      {
+        "direction": "north",
+        "distance": 3
+      },
+      {
+        "direction": "east",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 6,
+      "y": 11
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-042",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (7, 9), follow these directions: [{'direction': 'west', 'distance': 2}, {'direction': 'west', 'distance': 3}, {'direction': 'west', 'distance': 1}, {'direction': 'east', 'distance': 5}]. What is the final position?",
+    "start": {
+      "x": 7,
+      "y": 9
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 2
+      },
+      {
+        "direction": "west",
+        "distance": 3
+      },
+      {
+        "direction": "west",
+        "distance": 1
+      },
+      {
+        "direction": "east",
+        "distance": 5
+      }
+    ],
+    "answer": {
+      "x": 6,
+      "y": 9
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-043",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (6, 4), follow these directions: [{'direction': 'north', 'distance': 1}, {'direction': 'west', 'distance': 3}, {'direction': 'south', 'distance': 1}, {'direction': 'south', 'distance': 5}]. What is the final position?",
+    "start": {
+      "x": 6,
+      "y": 4
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 1
+      },
+      {
+        "direction": "west",
+        "distance": 3
+      },
+      {
+        "direction": "south",
+        "distance": 1
+      },
+      {
+        "direction": "south",
+        "distance": 5
+      }
+    ],
+    "answer": {
+      "x": 3,
+      "y": -1
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-044",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (10, 7), follow these directions: [{'direction': 'south', 'distance': 1}, {'direction': 'south', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 10,
+      "y": 7
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 1
+      },
+      {
+        "direction": "south",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 10,
+      "y": 3
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-045",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (5, 6), follow these directions: [{'direction': 'north', 'distance': 5}, {'direction': 'south', 'distance': 4}, {'direction': 'east', 'distance': 3}, {'direction': 'west', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 5,
+      "y": 6
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 5
+      },
+      {
+        "direction": "south",
+        "distance": 4
+      },
+      {
+        "direction": "east",
+        "distance": 3
+      },
+      {
+        "direction": "west",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": 7,
+      "y": 7
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-046",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (9, 2), follow these directions: [{'direction': 'east', 'distance': 4}, {'direction': 'east', 'distance': 3}, {'direction': 'south', 'distance': 1}, {'direction': 'north', 'distance': 2}]. What is the final position?",
+    "start": {
+      "x": 9,
+      "y": 2
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 4
+      },
+      {
+        "direction": "east",
+        "distance": 3
+      },
+      {
+        "direction": "south",
+        "distance": 1
+      },
+      {
+        "direction": "north",
+        "distance": 2
+      }
+    ],
+    "answer": {
+      "x": 16,
+      "y": 3
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-047",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (7, 8), follow these directions: [{'direction': 'north', 'distance': 3}, {'direction': 'east', 'distance': 4}, {'direction': 'south', 'distance': 5}]. What is the final position?",
+    "start": {
+      "x": 7,
+      "y": 8
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 3
+      },
+      {
+        "direction": "east",
+        "distance": 4
+      },
+      {
+        "direction": "south",
+        "distance": 5
+      }
+    ],
+    "answer": {
+      "x": 11,
+      "y": 6
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-048",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (4, 7), follow these directions: [{'direction': 'north', 'distance': 2}, {'direction': 'north', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 4,
+      "y": 7
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 2
+      },
+      {
+        "direction": "north",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": 4,
+      "y": 13
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-049",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (2, 7), follow these directions: [{'direction': 'east', 'distance': 3}, {'direction': 'north', 'distance': 5}]. What is the final position?",
+    "start": {
+      "x": 2,
+      "y": 7
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 3
+      },
+      {
+        "direction": "north",
+        "distance": 5
+      }
+    ],
+    "answer": {
+      "x": 5,
+      "y": 12
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-050",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (8, 4), follow these directions: [{'direction': 'south', 'distance': 2}, {'direction': 'east', 'distance': 5}, {'direction': 'south', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 8,
+      "y": 4
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 2
+      },
+      {
+        "direction": "east",
+        "distance": 5
+      },
+      {
+        "direction": "south",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": 13,
+      "y": 1
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-051",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (3, 2), follow these directions: [{'direction': 'west', 'distance': 1}, {'direction': 'east', 'distance': 5}]. What is the final position?",
+    "start": {
+      "x": 3,
+      "y": 2
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 1
+      },
+      {
+        "direction": "east",
+        "distance": 5
+      }
+    ],
+    "answer": {
+      "x": 7,
+      "y": 2
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-052",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (9, 5), follow these directions: [{'direction': 'south', 'distance': 5}, {'direction': 'north', 'distance': 1}, {'direction': 'east', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 9,
+      "y": 5
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 5
+      },
+      {
+        "direction": "north",
+        "distance": 1
+      },
+      {
+        "direction": "east",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": 13,
+      "y": 1
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-053",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (7, 8), follow these directions: [{'direction': 'west', 'distance': 5}, {'direction': 'north', 'distance': 2}, {'direction': 'east', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 7,
+      "y": 8
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 5
+      },
+      {
+        "direction": "north",
+        "distance": 2
+      },
+      {
+        "direction": "east",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": 3,
+      "y": 10
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-054",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (7, 7), follow these directions: [{'direction': 'east', 'distance': 2}, {'direction': 'south', 'distance': 2}, {'direction': 'west', 'distance': 5}, {'direction': 'north', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 7,
+      "y": 7
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 2
+      },
+      {
+        "direction": "south",
+        "distance": 2
+      },
+      {
+        "direction": "west",
+        "distance": 5
+      },
+      {
+        "direction": "north",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": 4,
+      "y": 6
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-055",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (8, 2), follow these directions: [{'direction': 'south', 'distance': 2}, {'direction': 'east', 'distance': 2}, {'direction': 'east', 'distance': 5}]. What is the final position?",
+    "start": {
+      "x": 8,
+      "y": 2
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 2
+      },
+      {
+        "direction": "east",
+        "distance": 2
+      },
+      {
+        "direction": "east",
+        "distance": 5
+      }
+    ],
+    "answer": {
+      "x": 15,
+      "y": 0
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-056",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (4, 1), follow these directions: [{'direction': 'south', 'distance': 5}, {'direction': 'east', 'distance': 2}, {'direction': 'east', 'distance': 5}]. What is the final position?",
+    "start": {
+      "x": 4,
+      "y": 1
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 5
+      },
+      {
+        "direction": "east",
+        "distance": 2
+      },
+      {
+        "direction": "east",
+        "distance": 5
+      }
+    ],
+    "answer": {
+      "x": 11,
+      "y": -4
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-057",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (8, 1), follow these directions: [{'direction': 'south', 'distance': 5}, {'direction': 'south', 'distance': 2}, {'direction': 'east', 'distance': 5}, {'direction': 'north', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 8,
+      "y": 1
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 5
+      },
+      {
+        "direction": "south",
+        "distance": 2
+      },
+      {
+        "direction": "east",
+        "distance": 5
+      },
+      {
+        "direction": "north",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": 13,
+      "y": -5
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-058",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (1, 0), follow these directions: [{'direction': 'east', 'distance': 2}, {'direction': 'west', 'distance': 5}, {'direction': 'north', 'distance': 4}, {'direction': 'east', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 1,
+      "y": 0
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 2
+      },
+      {
+        "direction": "west",
+        "distance": 5
+      },
+      {
+        "direction": "north",
+        "distance": 4
+      },
+      {
+        "direction": "east",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 1,
+      "y": 4
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-059",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (7, 3), follow these directions: [{'direction': 'west', 'distance': 3}, {'direction': 'west', 'distance': 1}, {'direction': 'north', 'distance': 2}, {'direction': 'west', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 7,
+      "y": 3
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 3
+      },
+      {
+        "direction": "west",
+        "distance": 1
+      },
+      {
+        "direction": "north",
+        "distance": 2
+      },
+      {
+        "direction": "west",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": -1,
+      "y": 5
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-060",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (7, 7), follow these directions: [{'direction': 'east', 'distance': 5}, {'direction': 'south', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 7,
+      "y": 7
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 5
+      },
+      {
+        "direction": "south",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 12,
+      "y": 4
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-061",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (5, 5), follow these directions: [{'direction': 'south', 'distance': 3}, {'direction': 'north', 'distance': 3}, {'direction': 'south', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 5,
+      "y": 5
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 3
+      },
+      {
+        "direction": "north",
+        "distance": 3
+      },
+      {
+        "direction": "south",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": 5,
+      "y": 1
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-062",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (1, 4), follow these directions: [{'direction': 'south', 'distance': 2}, {'direction': 'north', 'distance': 1}, {'direction': 'east', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 1,
+      "y": 4
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 2
+      },
+      {
+        "direction": "north",
+        "distance": 1
+      },
+      {
+        "direction": "east",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": 5,
+      "y": 3
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-063",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (9, 6), follow these directions: [{'direction': 'south', 'distance': 3}, {'direction': 'east', 'distance': 2}]. What is the final position?",
+    "start": {
+      "x": 9,
+      "y": 6
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 3
+      },
+      {
+        "direction": "east",
+        "distance": 2
+      }
+    ],
+    "answer": {
+      "x": 11,
+      "y": 3
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-064",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (2, 7), follow these directions: [{'direction': 'west', 'distance': 4}, {'direction': 'east', 'distance': 4}, {'direction': 'north', 'distance': 1}, {'direction': 'west', 'distance': 5}]. What is the final position?",
+    "start": {
+      "x": 2,
+      "y": 7
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 4
+      },
+      {
+        "direction": "east",
+        "distance": 4
+      },
+      {
+        "direction": "north",
+        "distance": 1
+      },
+      {
+        "direction": "west",
+        "distance": 5
+      }
+    ],
+    "answer": {
+      "x": -3,
+      "y": 8
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-065",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (7, 3), follow these directions: [{'direction': 'east', 'distance': 1}, {'direction': 'north', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 7,
+      "y": 3
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 1
+      },
+      {
+        "direction": "north",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 8,
+      "y": 6
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-066",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (7, 9), follow these directions: [{'direction': 'west', 'distance': 3}, {'direction': 'north', 'distance': 1}, {'direction': 'west', 'distance': 2}, {'direction': 'east', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 7,
+      "y": 9
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 3
+      },
+      {
+        "direction": "north",
+        "distance": 1
+      },
+      {
+        "direction": "west",
+        "distance": 2
+      },
+      {
+        "direction": "east",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 5,
+      "y": 10
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-067",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (6, 5), follow these directions: [{'direction': 'west', 'distance': 1}, {'direction': 'south', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 6,
+      "y": 5
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 1
+      },
+      {
+        "direction": "south",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 5,
+      "y": 2
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-068",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (8, 4), follow these directions: [{'direction': 'west', 'distance': 5}, {'direction': 'west', 'distance': 5}]. What is the final position?",
+    "start": {
+      "x": 8,
+      "y": 4
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 5
+      },
+      {
+        "direction": "west",
+        "distance": 5
+      }
+    ],
+    "answer": {
+      "x": -2,
+      "y": 4
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-069",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (4, 9), follow these directions: [{'direction': 'north', 'distance': 2}, {'direction': 'north', 'distance': 4}, {'direction': 'east', 'distance': 3}, {'direction': 'east', 'distance': 2}]. What is the final position?",
+    "start": {
+      "x": 4,
+      "y": 9
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 2
+      },
+      {
+        "direction": "north",
+        "distance": 4
+      },
+      {
+        "direction": "east",
+        "distance": 3
+      },
+      {
+        "direction": "east",
+        "distance": 2
+      }
+    ],
+    "answer": {
+      "x": 9,
+      "y": 15
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-070",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (3, 9), follow these directions: [{'direction': 'west', 'distance': 5}, {'direction': 'north', 'distance': 1}, {'direction': 'north', 'distance': 2}, {'direction': 'east', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 3,
+      "y": 9
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 5
+      },
+      {
+        "direction": "north",
+        "distance": 1
+      },
+      {
+        "direction": "north",
+        "distance": 2
+      },
+      {
+        "direction": "east",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": 2,
+      "y": 12
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-071",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (8, 7), follow these directions: [{'direction': 'south', 'distance': 3}, {'direction': 'east', 'distance': 2}]. What is the final position?",
+    "start": {
+      "x": 8,
+      "y": 7
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 3
+      },
+      {
+        "direction": "east",
+        "distance": 2
+      }
+    ],
+    "answer": {
+      "x": 10,
+      "y": 4
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-072",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (6, 9), follow these directions: [{'direction': 'east', 'distance': 5}, {'direction': 'east', 'distance': 5}, {'direction': 'west', 'distance': 5}, {'direction': 'east', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 6,
+      "y": 9
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 5
+      },
+      {
+        "direction": "east",
+        "distance": 5
+      },
+      {
+        "direction": "west",
+        "distance": 5
+      },
+      {
+        "direction": "east",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": 15,
+      "y": 9
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-073",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (0, 5), follow these directions: [{'direction': 'north', 'distance': 4}, {'direction': 'east', 'distance': 1}, {'direction': 'west', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 0,
+      "y": 5
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 4
+      },
+      {
+        "direction": "east",
+        "distance": 1
+      },
+      {
+        "direction": "west",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": -2,
+      "y": 9
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-074",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (10, 9), follow these directions: [{'direction': 'south', 'distance': 1}, {'direction': 'west', 'distance': 2}, {'direction': 'west', 'distance': 2}, {'direction': 'south', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 10,
+      "y": 9
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 1
+      },
+      {
+        "direction": "west",
+        "distance": 2
+      },
+      {
+        "direction": "west",
+        "distance": 2
+      },
+      {
+        "direction": "south",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": 6,
+      "y": 7
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-075",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (9, 1), follow these directions: [{'direction': 'north', 'distance': 4}, {'direction': 'east', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 9,
+      "y": 1
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 4
+      },
+      {
+        "direction": "east",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": 13,
+      "y": 5
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-076",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (2, 6), follow these directions: [{'direction': 'south', 'distance': 4}, {'direction': 'west', 'distance': 1}, {'direction': 'south', 'distance': 5}, {'direction': 'south', 'distance': 5}]. What is the final position?",
+    "start": {
+      "x": 2,
+      "y": 6
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 4
+      },
+      {
+        "direction": "west",
+        "distance": 1
+      },
+      {
+        "direction": "south",
+        "distance": 5
+      },
+      {
+        "direction": "south",
+        "distance": 5
+      }
+    ],
+    "answer": {
+      "x": 1,
+      "y": -8
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-077",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (5, 10), follow these directions: [{'direction': 'west', 'distance': 3}, {'direction': 'south', 'distance': 4}, {'direction': 'east', 'distance': 5}]. What is the final position?",
+    "start": {
+      "x": 5,
+      "y": 10
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 3
+      },
+      {
+        "direction": "south",
+        "distance": 4
+      },
+      {
+        "direction": "east",
+        "distance": 5
+      }
+    ],
+    "answer": {
+      "x": 7,
+      "y": 6
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-078",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (5, 10), follow these directions: [{'direction': 'east', 'distance': 5}, {'direction': 'west', 'distance': 2}, {'direction': 'south', 'distance': 3}, {'direction': 'east', 'distance': 2}]. What is the final position?",
+    "start": {
+      "x": 5,
+      "y": 10
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 5
+      },
+      {
+        "direction": "west",
+        "distance": 2
+      },
+      {
+        "direction": "south",
+        "distance": 3
+      },
+      {
+        "direction": "east",
+        "distance": 2
+      }
+    ],
+    "answer": {
+      "x": 10,
+      "y": 7
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-079",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (4, 4), follow these directions: [{'direction': 'south', 'distance': 4}, {'direction': 'east', 'distance': 4}, {'direction': 'east', 'distance': 5}, {'direction': 'east', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 4,
+      "y": 4
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 4
+      },
+      {
+        "direction": "east",
+        "distance": 4
+      },
+      {
+        "direction": "east",
+        "distance": 5
+      },
+      {
+        "direction": "east",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 16,
+      "y": 0
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-080",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (1, 9), follow these directions: [{'direction': 'west', 'distance': 4}, {'direction': 'east', 'distance': 2}, {'direction': 'east', 'distance': 1}, {'direction': 'east', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 1,
+      "y": 9
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 4
+      },
+      {
+        "direction": "east",
+        "distance": 2
+      },
+      {
+        "direction": "east",
+        "distance": 1
+      },
+      {
+        "direction": "east",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": 1,
+      "y": 9
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-081",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (5, 7), follow these directions: [{'direction': 'east', 'distance': 4}, {'direction': 'south', 'distance': 2}, {'direction': 'east', 'distance': 5}, {'direction': 'east', 'distance': 2}]. What is the final position?",
+    "start": {
+      "x": 5,
+      "y": 7
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 4
+      },
+      {
+        "direction": "south",
+        "distance": 2
+      },
+      {
+        "direction": "east",
+        "distance": 5
+      },
+      {
+        "direction": "east",
+        "distance": 2
+      }
+    ],
+    "answer": {
+      "x": 16,
+      "y": 5
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-082",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (1, 9), follow these directions: [{'direction': 'south', 'distance': 2}, {'direction': 'north', 'distance': 5}, {'direction': 'south', 'distance': 2}, {'direction': 'north', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 1,
+      "y": 9
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 2
+      },
+      {
+        "direction": "north",
+        "distance": 5
+      },
+      {
+        "direction": "south",
+        "distance": 2
+      },
+      {
+        "direction": "north",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": 1,
+      "y": 11
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-083",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (6, 5), follow these directions: [{'direction': 'west', 'distance': 1}, {'direction': 'south', 'distance': 1}, {'direction': 'south', 'distance': 4}, {'direction': 'west', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 6,
+      "y": 5
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 1
+      },
+      {
+        "direction": "south",
+        "distance": 1
+      },
+      {
+        "direction": "south",
+        "distance": 4
+      },
+      {
+        "direction": "west",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": 1,
+      "y": 0
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-084",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (10, 3), follow these directions: [{'direction': 'east', 'distance': 3}, {'direction': 'north', 'distance': 1}, {'direction': 'south', 'distance': 5}]. What is the final position?",
+    "start": {
+      "x": 10,
+      "y": 3
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 3
+      },
+      {
+        "direction": "north",
+        "distance": 1
+      },
+      {
+        "direction": "south",
+        "distance": 5
+      }
+    ],
+    "answer": {
+      "x": 13,
+      "y": -1
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-085",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (0, 2), follow these directions: [{'direction': 'south', 'distance': 1}, {'direction': 'west', 'distance': 4}, {'direction': 'south', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 0,
+      "y": 2
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 1
+      },
+      {
+        "direction": "west",
+        "distance": 4
+      },
+      {
+        "direction": "south",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": -4,
+      "y": -2
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-086",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (0, 0), follow these directions: [{'direction': 'north', 'distance': 3}, {'direction': 'east', 'distance': 4}, {'direction': 'west', 'distance': 2}]. What is the final position?",
+    "start": {
+      "x": 0,
+      "y": 0
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 3
+      },
+      {
+        "direction": "east",
+        "distance": 4
+      },
+      {
+        "direction": "west",
+        "distance": 2
+      }
+    ],
+    "answer": {
+      "x": 2,
+      "y": 3
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-087",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (8, 7), follow these directions: [{'direction': 'south', 'distance': 1}, {'direction': 'east', 'distance': 2}, {'direction': 'west', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 8,
+      "y": 7
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 1
+      },
+      {
+        "direction": "east",
+        "distance": 2
+      },
+      {
+        "direction": "west",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 7,
+      "y": 6
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-088",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (2, 0), follow these directions: [{'direction': 'east', 'distance': 3}, {'direction': 'south', 'distance': 2}, {'direction': 'west', 'distance': 4}, {'direction': 'east', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 2,
+      "y": 0
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 3
+      },
+      {
+        "direction": "south",
+        "distance": 2
+      },
+      {
+        "direction": "west",
+        "distance": 4
+      },
+      {
+        "direction": "east",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": 2,
+      "y": -2
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-089",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (6, 10), follow these directions: [{'direction': 'south', 'distance': 2}, {'direction': 'west', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 6,
+      "y": 10
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 2
+      },
+      {
+        "direction": "west",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 3,
+      "y": 8
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-090",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (3, 0), follow these directions: [{'direction': 'west', 'distance': 2}, {'direction': 'west', 'distance': 3}, {'direction': 'east', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 3,
+      "y": 0
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 2
+      },
+      {
+        "direction": "west",
+        "distance": 3
+      },
+      {
+        "direction": "east",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 1,
+      "y": 0
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-091",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (9, 9), follow these directions: [{'direction': 'east', 'distance': 3}, {'direction': 'south', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 9,
+      "y": 9
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 3
+      },
+      {
+        "direction": "south",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": 12,
+      "y": 8
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-092",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (10, 1), follow these directions: [{'direction': 'east', 'distance': 2}, {'direction': 'west', 'distance': 5}, {'direction': 'east', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 10,
+      "y": 1
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 2
+      },
+      {
+        "direction": "west",
+        "distance": 5
+      },
+      {
+        "direction": "east",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": 8,
+      "y": 1
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-093",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (10, 4), follow these directions: [{'direction': 'south', 'distance': 2}, {'direction': 'south', 'distance': 4}, {'direction': 'south', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 10,
+      "y": 4
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 2
+      },
+      {
+        "direction": "south",
+        "distance": 4
+      },
+      {
+        "direction": "south",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": 10,
+      "y": -6
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-094",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (9, 5), follow these directions: [{'direction': 'west', 'distance': 5}, {'direction': 'south', 'distance': 2}, {'direction': 'north', 'distance': 5}]. What is the final position?",
+    "start": {
+      "x": 9,
+      "y": 5
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 5
+      },
+      {
+        "direction": "south",
+        "distance": 2
+      },
+      {
+        "direction": "north",
+        "distance": 5
+      }
+    ],
+    "answer": {
+      "x": 4,
+      "y": 8
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-095",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (7, 8), follow these directions: [{'direction': 'east', 'distance': 1}, {'direction': 'north', 'distance': 1}, {'direction': 'south', 'distance': 5}, {'direction': 'south', 'distance': 2}]. What is the final position?",
+    "start": {
+      "x": 7,
+      "y": 8
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 1
+      },
+      {
+        "direction": "north",
+        "distance": 1
+      },
+      {
+        "direction": "south",
+        "distance": 5
+      },
+      {
+        "direction": "south",
+        "distance": 2
+      }
+    ],
+    "answer": {
+      "x": 8,
+      "y": 2
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-096",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (5, 8), follow these directions: [{'direction': 'north', 'distance': 2}, {'direction': 'west', 'distance': 1}, {'direction': 'west', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 5,
+      "y": 8
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 2
+      },
+      {
+        "direction": "west",
+        "distance": 1
+      },
+      {
+        "direction": "west",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": 3,
+      "y": 10
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-097",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (7, 2), follow these directions: [{'direction': 'west', 'distance': 4}, {'direction': 'north', 'distance': 5}, {'direction': 'west', 'distance': 3}, {'direction': 'north', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 7,
+      "y": 2
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 4
+      },
+      {
+        "direction": "north",
+        "distance": 5
+      },
+      {
+        "direction": "west",
+        "distance": 3
+      },
+      {
+        "direction": "north",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": 0,
+      "y": 11
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-098",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (4, 0), follow these directions: [{'direction': 'south', 'distance': 5}, {'direction': 'north', 'distance': 1}, {'direction': 'west', 'distance': 3}, {'direction': 'north', 'distance': 5}]. What is the final position?",
+    "start": {
+      "x": 4,
+      "y": 0
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 5
+      },
+      {
+        "direction": "north",
+        "distance": 1
+      },
+      {
+        "direction": "west",
+        "distance": 3
+      },
+      {
+        "direction": "north",
+        "distance": 5
+      }
+    ],
+    "answer": {
+      "x": 1,
+      "y": 1
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-099",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (0, 1), follow these directions: [{'direction': 'north', 'distance': 3}, {'direction': 'west', 'distance': 2}, {'direction': 'south', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 0,
+      "y": 1
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 3
+      },
+      {
+        "direction": "west",
+        "distance": 2
+      },
+      {
+        "direction": "south",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": -2,
+      "y": 0
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-100",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (5, 6), follow these directions: [{'direction': 'west', 'distance': 4}, {'direction': 'north', 'distance': 5}, {'direction': 'south', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 5,
+      "y": 6
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 4
+      },
+      {
+        "direction": "north",
+        "distance": 5
+      },
+      {
+        "direction": "south",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 1,
+      "y": 8
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-101",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (1, 2), follow these directions: [{'direction': 'west', 'distance': 5}, {'direction': 'south', 'distance': 2}, {'direction': 'north', 'distance': 1}, {'direction': 'east', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 1,
+      "y": 2
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 5
+      },
+      {
+        "direction": "south",
+        "distance": 2
+      },
+      {
+        "direction": "north",
+        "distance": 1
+      },
+      {
+        "direction": "east",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": 0,
+      "y": 1
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-102",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (10, 8), follow these directions: [{'direction': 'west', 'distance': 2}, {'direction': 'south', 'distance': 4}, {'direction': 'east', 'distance': 2}]. What is the final position?",
+    "start": {
+      "x": 10,
+      "y": 8
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 2
+      },
+      {
+        "direction": "south",
+        "distance": 4
+      },
+      {
+        "direction": "east",
+        "distance": 2
+      }
+    ],
+    "answer": {
+      "x": 10,
+      "y": 4
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-103",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (4, 3), follow these directions: [{'direction': 'north', 'distance': 1}, {'direction': 'west', 'distance': 5}, {'direction': 'north', 'distance': 2}, {'direction': 'south', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 4,
+      "y": 3
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 1
+      },
+      {
+        "direction": "west",
+        "distance": 5
+      },
+      {
+        "direction": "north",
+        "distance": 2
+      },
+      {
+        "direction": "south",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": -1,
+      "y": 5
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-104",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (1, 9), follow these directions: [{'direction': 'west', 'distance': 5}, {'direction': 'north', 'distance': 2}]. What is the final position?",
+    "start": {
+      "x": 1,
+      "y": 9
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 5
+      },
+      {
+        "direction": "north",
+        "distance": 2
+      }
+    ],
+    "answer": {
+      "x": -4,
+      "y": 11
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-105",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (0, 6), follow these directions: [{'direction': 'south', 'distance': 5}, {'direction': 'south', 'distance': 1}, {'direction': 'south', 'distance': 5}]. What is the final position?",
+    "start": {
+      "x": 0,
+      "y": 6
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 5
+      },
+      {
+        "direction": "south",
+        "distance": 1
+      },
+      {
+        "direction": "south",
+        "distance": 5
+      }
+    ],
+    "answer": {
+      "x": 0,
+      "y": -5
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-106",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (4, 3), follow these directions: [{'direction': 'east', 'distance': 5}, {'direction': 'east', 'distance': 2}, {'direction': 'east', 'distance': 2}, {'direction': 'south', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 4,
+      "y": 3
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 5
+      },
+      {
+        "direction": "east",
+        "distance": 2
+      },
+      {
+        "direction": "east",
+        "distance": 2
+      },
+      {
+        "direction": "south",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": 13,
+      "y": -1
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-107",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (4, 4), follow these directions: [{'direction': 'south', 'distance': 4}, {'direction': 'west', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 4,
+      "y": 4
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 4
+      },
+      {
+        "direction": "west",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": 3,
+      "y": 0
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-108",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (5, 10), follow these directions: [{'direction': 'west', 'distance': 5}, {'direction': 'east', 'distance': 4}, {'direction': 'west', 'distance': 2}, {'direction': 'east', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 5,
+      "y": 10
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 5
+      },
+      {
+        "direction": "east",
+        "distance": 4
+      },
+      {
+        "direction": "west",
+        "distance": 2
+      },
+      {
+        "direction": "east",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": 6,
+      "y": 10
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-109",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (2, 8), follow these directions: [{'direction': 'south', 'distance': 2}, {'direction': 'east', 'distance': 2}, {'direction': 'west', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 2,
+      "y": 8
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 2
+      },
+      {
+        "direction": "east",
+        "distance": 2
+      },
+      {
+        "direction": "west",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": 3,
+      "y": 6
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-110",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (8, 6), follow these directions: [{'direction': 'south', 'distance': 4}, {'direction': 'south', 'distance': 3}, {'direction': 'south', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 8,
+      "y": 6
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 4
+      },
+      {
+        "direction": "south",
+        "distance": 3
+      },
+      {
+        "direction": "south",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 8,
+      "y": -4
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-111",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (10, 1), follow these directions: [{'direction': 'east', 'distance': 1}, {'direction': 'south', 'distance': 1}, {'direction': 'east', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 10,
+      "y": 1
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 1
+      },
+      {
+        "direction": "south",
+        "distance": 1
+      },
+      {
+        "direction": "east",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": 15,
+      "y": 0
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-112",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (10, 9), follow these directions: [{'direction': 'north', 'distance': 1}, {'direction': 'south', 'distance': 5}, {'direction': 'south', 'distance': 4}, {'direction': 'south', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 10,
+      "y": 9
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 1
+      },
+      {
+        "direction": "south",
+        "distance": 5
+      },
+      {
+        "direction": "south",
+        "distance": 4
+      },
+      {
+        "direction": "south",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 10,
+      "y": -2
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-113",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (4, 0), follow these directions: [{'direction': 'south', 'distance': 1}, {'direction': 'west', 'distance': 2}]. What is the final position?",
+    "start": {
+      "x": 4,
+      "y": 0
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 1
+      },
+      {
+        "direction": "west",
+        "distance": 2
+      }
+    ],
+    "answer": {
+      "x": 2,
+      "y": -1
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-114",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (9, 3), follow these directions: [{'direction': 'south', 'distance': 5}, {'direction': 'east', 'distance': 3}, {'direction': 'west', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 9,
+      "y": 3
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 5
+      },
+      {
+        "direction": "east",
+        "distance": 3
+      },
+      {
+        "direction": "west",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": 8,
+      "y": -2
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-115",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (8, 10), follow these directions: [{'direction': 'east', 'distance': 3}, {'direction': 'east', 'distance': 5}, {'direction': 'west', 'distance': 4}]. What is the final position?",
+    "start": {
+      "x": 8,
+      "y": 10
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 3
+      },
+      {
+        "direction": "east",
+        "distance": 5
+      },
+      {
+        "direction": "west",
+        "distance": 4
+      }
+    ],
+    "answer": {
+      "x": 12,
+      "y": 10
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-116",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (1, 7), follow these directions: [{'direction': 'south', 'distance': 3}, {'direction': 'east', 'distance': 4}, {'direction': 'north', 'distance': 5}]. What is the final position?",
+    "start": {
+      "x": 1,
+      "y": 7
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 3
+      },
+      {
+        "direction": "east",
+        "distance": 4
+      },
+      {
+        "direction": "north",
+        "distance": 5
+      }
+    ],
+    "answer": {
+      "x": 5,
+      "y": 9
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-117",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (3, 2), follow these directions: [{'direction': 'east', 'distance': 5}, {'direction': 'west', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 3,
+      "y": 2
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 5
+      },
+      {
+        "direction": "west",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 5,
+      "y": 2
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-118",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (2, 3), follow these directions: [{'direction': 'south', 'distance': 4}, {'direction': 'south', 'distance': 4}, {'direction': 'east', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 2,
+      "y": 3
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 4
+      },
+      {
+        "direction": "south",
+        "distance": 4
+      },
+      {
+        "direction": "east",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 5,
+      "y": -5
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-119",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (7, 10), follow these directions: [{'direction': 'west', 'distance': 4}, {'direction': 'south', 'distance': 3}, {'direction': 'south', 'distance': 2}, {'direction': 'west', 'distance': 2}]. What is the final position?",
+    "start": {
+      "x": 7,
+      "y": 10
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 4
+      },
+      {
+        "direction": "south",
+        "distance": 3
+      },
+      {
+        "direction": "south",
+        "distance": 2
+      },
+      {
+        "direction": "west",
+        "distance": 2
+      }
+    ],
+    "answer": {
+      "x": 1,
+      "y": 5
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-120",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (8, 10), follow these directions: [{'direction': 'north', 'distance': 1}, {'direction': 'north', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 8,
+      "y": 10
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 1
+      },
+      {
+        "direction": "north",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": 8,
+      "y": 12
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-121",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (6, 2), follow these directions: [{'direction': 'south', 'distance': 1}, {'direction': 'south', 'distance': 1}, {'direction': 'south', 'distance': 5}, {'direction': 'west', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 6,
+      "y": 2
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 1
+      },
+      {
+        "direction": "south",
+        "distance": 1
+      },
+      {
+        "direction": "south",
+        "distance": 5
+      },
+      {
+        "direction": "west",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 3,
+      "y": -5
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-122",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (0, 9), follow these directions: [{'direction': 'west', 'distance': 4}, {'direction': 'north', 'distance': 1}, {'direction': 'west', 'distance': 1}, {'direction': 'north', 'distance': 5}]. What is the final position?",
+    "start": {
+      "x": 0,
+      "y": 9
+    },
+    "steps": [
+      {
+        "direction": "west",
+        "distance": 4
+      },
+      {
+        "direction": "north",
+        "distance": 1
+      },
+      {
+        "direction": "west",
+        "distance": 1
+      },
+      {
+        "direction": "north",
+        "distance": 5
+      }
+    ],
+    "answer": {
+      "x": -5,
+      "y": 15
+    },
+    "reasoning_steps": 5
+  },
+  {
+    "id": "NP-E-123",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (4, 8), follow these directions: [{'direction': 'north', 'distance': 5}, {'direction': 'west', 'distance': 2}, {'direction': 'north', 'distance': 1}]. What is the final position?",
+    "start": {
+      "x": 4,
+      "y": 8
+    },
+    "steps": [
+      {
+        "direction": "north",
+        "distance": 5
+      },
+      {
+        "direction": "west",
+        "distance": 2
+      },
+      {
+        "direction": "north",
+        "distance": 1
+      }
+    ],
+    "answer": {
+      "x": 2,
+      "y": 14
+    },
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-E-124",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (8, 2), follow these directions: [{'direction': 'south', 'distance': 5}, {'direction': 'east', 'distance': 3}]. What is the final position?",
+    "start": {
+      "x": 8,
+      "y": 2
+    },
+    "steps": [
+      {
+        "direction": "south",
+        "distance": 5
+      },
+      {
+        "direction": "east",
+        "distance": 3
+      }
+    ],
+    "answer": {
+      "x": 11,
+      "y": -3
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "NP-E-125",
+    "category": "navigation_pathfinding",
+    "difficulty": "easy",
+    "task_type": "direction_following",
+    "question": "Starting at position (4, 6), follow these directions: [{'direction': 'east', 'distance': 4}, {'direction': 'west', 'distance': 5}]. What is the final position?",
+    "start": {
+      "x": 4,
+      "y": 6
+    },
+    "steps": [
+      {
+        "direction": "east",
+        "distance": 4
+      },
+      {
+        "direction": "west",
+        "distance": 5
+      }
+    ],
+    "answer": {
+      "x": 3,
+      "y": 6
+    },
+    "reasoning_steps": 3
+  }
+]

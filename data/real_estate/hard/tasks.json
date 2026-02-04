@@ -1,0 +1,2627 @@
+[
+  {
+    "id": "RE-H-001",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 7323 sq ft has zoning requirements: front setback 28 ft, side setback 6 ft, max coverage 39%. A proposed building is 38x71 ft with 42 ft front setback and 11 ft side setback. Is this compliant?",
+    "lot_size": 7323,
+    "zoning": {
+      "front_setback": 28,
+      "side_setback": 6,
+      "max_coverage": 0.39398088241553786
+    },
+    "proposed_building": {
+      "width": 38,
+      "length": 71,
+      "front_setback": 42,
+      "side_setback": 11
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-002",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 17252 sq ft has zoning requirements: front setback 31 ft, side setback 11 ft, max coverage 38%. A proposed building is 46x79 ft with 41 ft front setback and 11 ft side setback. Is this compliant?",
+    "lot_size": 17252,
+    "zoning": {
+      "front_setback": 31,
+      "side_setback": 11,
+      "max_coverage": 0.38487765245763805
+    },
+    "proposed_building": {
+      "width": 46,
+      "length": 79,
+      "front_setback": 41,
+      "side_setback": 11
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-003",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 13470 sq ft has zoning requirements: front setback 30 ft, side setback 11 ft, max coverage 57%. A proposed building is 50x87 ft with 30 ft front setback and 7 ft side setback. Is this compliant?",
+    "lot_size": 13470,
+    "zoning": {
+      "front_setback": 30,
+      "side_setback": 11,
+      "max_coverage": 0.5678015429488952
+    },
+    "proposed_building": {
+      "width": 50,
+      "length": 87,
+      "front_setback": 30,
+      "side_setback": 7
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-004",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 14104 sq ft has zoning requirements: front setback 40 ft, side setback 12 ft, max coverage 32%. A proposed building is 39x43 ft with 22 ft front setback and 8 ft side setback. Is this compliant?",
+    "lot_size": 14104,
+    "zoning": {
+      "front_setback": 40,
+      "side_setback": 12,
+      "max_coverage": 0.3159666564812957
+    },
+    "proposed_building": {
+      "width": 39,
+      "length": 43,
+      "front_setback": 22,
+      "side_setback": 8
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-005",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 5587 sq ft has zoning requirements: front setback 35 ft, side setback 9 ft, max coverage 35%. A proposed building is 59x67 ft with 18 ft front setback and 18 ft side setback. Is this compliant?",
+    "lot_size": 5587,
+    "zoning": {
+      "front_setback": 35,
+      "side_setback": 9,
+      "max_coverage": 0.34906648704252285
+    },
+    "proposed_building": {
+      "width": 59,
+      "length": 67,
+      "front_setback": 18,
+      "side_setback": 18
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-006",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 5668 sq ft has zoning requirements: front setback 34 ft, side setback 10 ft, max coverage 60%. A proposed building is 65x71 ft with 29 ft front setback and 18 ft side setback. Is this compliant?",
+    "lot_size": 5668,
+    "zoning": {
+      "front_setback": 34,
+      "side_setback": 10,
+      "max_coverage": 0.5966455751114245
+    },
+    "proposed_building": {
+      "width": 65,
+      "length": 71,
+      "front_setback": 29,
+      "side_setback": 18
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-007",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 6843 sq ft has zoning requirements: front setback 24 ft, side setback 6 ft, max coverage 40%. A proposed building is 43x95 ft with 24 ft front setback and 8 ft side setback. Is this compliant?",
+    "lot_size": 6843,
+    "zoning": {
+      "front_setback": 24,
+      "side_setback": 6,
+      "max_coverage": 0.4048812905555469
+    },
+    "proposed_building": {
+      "width": 43,
+      "length": 95,
+      "front_setback": 24,
+      "side_setback": 8
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-008",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 18679 sq ft has zoning requirements: front setback 25 ft, side setback 13 ft, max coverage 55%. A proposed building is 66x97 ft with 36 ft front setback and 9 ft side setback. Is this compliant?",
+    "lot_size": 18679,
+    "zoning": {
+      "front_setback": 25,
+      "side_setback": 13,
+      "max_coverage": 0.5467715269464065
+    },
+    "proposed_building": {
+      "width": 66,
+      "length": 97,
+      "front_setback": 36,
+      "side_setback": 9
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-009",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 14560 sq ft has zoning requirements: front setback 20 ft, side setback 13 ft, max coverage 53%. A proposed building is 41x66 ft with 44 ft front setback and 5 ft side setback. Is this compliant?",
+    "lot_size": 14560,
+    "zoning": {
+      "front_setback": 20,
+      "side_setback": 13,
+      "max_coverage": 0.5300542888882483
+    },
+    "proposed_building": {
+      "width": 41,
+      "length": 66,
+      "front_setback": 44,
+      "side_setback": 5
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-010",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 9033 sq ft has zoning requirements: front setback 35 ft, side setback 15 ft, max coverage 33%. A proposed building is 51x41 ft with 24 ft front setback and 6 ft side setback. Is this compliant?",
+    "lot_size": 9033,
+    "zoning": {
+      "front_setback": 35,
+      "side_setback": 15,
+      "max_coverage": 0.3282915671632462
+    },
+    "proposed_building": {
+      "width": 51,
+      "length": 41,
+      "front_setback": 24,
+      "side_setback": 6
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-011",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 11458 sq ft has zoning requirements: front setback 31 ft, side setback 14 ft, max coverage 58%. A proposed building is 36x93 ft with 25 ft front setback and 7 ft side setback. Is this compliant?",
+    "lot_size": 11458,
+    "zoning": {
+      "front_setback": 31,
+      "side_setback": 14,
+      "max_coverage": 0.5787445328039373
+    },
+    "proposed_building": {
+      "width": 36,
+      "length": 93,
+      "front_setback": 25,
+      "side_setback": 7
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-012",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 5473 sq ft has zoning requirements: front setback 22 ft, side setback 12 ft, max coverage 55%. A proposed building is 72x70 ft with 29 ft front setback and 11 ft side setback. Is this compliant?",
+    "lot_size": 5473,
+    "zoning": {
+      "front_setback": 22,
+      "side_setback": 12,
+      "max_coverage": 0.5492097676717638
+    },
+    "proposed_building": {
+      "width": 72,
+      "length": 70,
+      "front_setback": 29,
+      "side_setback": 11
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-013",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 14735 sq ft has zoning requirements: front setback 20 ft, side setback 10 ft, max coverage 59%. A proposed building is 71x79 ft with 45 ft front setback and 17 ft side setback. Is this compliant?",
+    "lot_size": 14735,
+    "zoning": {
+      "front_setback": 20,
+      "side_setback": 10,
+      "max_coverage": 0.590931154140488
+    },
+    "proposed_building": {
+      "width": 71,
+      "length": 79,
+      "front_setback": 45,
+      "side_setback": 17
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-014",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 10323 sq ft has zoning requirements: front setback 38 ft, side setback 7 ft, max coverage 36%. A proposed building is 33x91 ft with 35 ft front setback and 12 ft side setback. Is this compliant?",
+    "lot_size": 10323,
+    "zoning": {
+      "front_setback": 38,
+      "side_setback": 7,
+      "max_coverage": 0.36341005831199624
+    },
+    "proposed_building": {
+      "width": 33,
+      "length": 91,
+      "front_setback": 35,
+      "side_setback": 12
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-015",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 10294 sq ft has zoning requirements: front setback 21 ft, side setback 6 ft, max coverage 46%. A proposed building is 68x64 ft with 17 ft front setback and 15 ft side setback. Is this compliant?",
+    "lot_size": 10294,
+    "zoning": {
+      "front_setback": 21,
+      "side_setback": 6,
+      "max_coverage": 0.46414686654187776
+    },
+    "proposed_building": {
+      "width": 68,
+      "length": 64,
+      "front_setback": 17,
+      "side_setback": 15
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-016",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 9180 sq ft has zoning requirements: front setback 25 ft, side setback 8 ft, max coverage 59%. A proposed building is 55x45 ft with 15 ft front setback and 9 ft side setback. Is this compliant?",
+    "lot_size": 9180,
+    "zoning": {
+      "front_setback": 25,
+      "side_setback": 8,
+      "max_coverage": 0.589514792943472
+    },
+    "proposed_building": {
+      "width": 55,
+      "length": 45,
+      "front_setback": 15,
+      "side_setback": 9
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-017",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 7669 sq ft has zoning requirements: front setback 32 ft, side setback 11 ft, max coverage 39%. A proposed building is 78x81 ft with 19 ft front setback and 6 ft side setback. Is this compliant?",
+    "lot_size": 7669,
+    "zoning": {
+      "front_setback": 32,
+      "side_setback": 11,
+      "max_coverage": 0.3854807666998386
+    },
+    "proposed_building": {
+      "width": 78,
+      "length": 81,
+      "front_setback": 19,
+      "side_setback": 6
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-018",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 9891 sq ft has zoning requirements: front setback 35 ft, side setback 11 ft, max coverage 52%. A proposed building is 49x97 ft with 36 ft front setback and 7 ft side setback. Is this compliant?",
+    "lot_size": 9891,
+    "zoning": {
+      "front_setback": 35,
+      "side_setback": 11,
+      "max_coverage": 0.520766785308018
+    },
+    "proposed_building": {
+      "width": 49,
+      "length": 97,
+      "front_setback": 36,
+      "side_setback": 7
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-019",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 10882 sq ft has zoning requirements: front setback 23 ft, side setback 10 ft, max coverage 45%. A proposed building is 61x68 ft with 43 ft front setback and 15 ft side setback. Is this compliant?",
+    "lot_size": 10882,
+    "zoning": {
+      "front_setback": 23,
+      "side_setback": 10,
+      "max_coverage": 0.45379596769780944
+    },
+    "proposed_building": {
+      "width": 61,
+      "length": 68,
+      "front_setback": 43,
+      "side_setback": 15
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-020",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 12805 sq ft has zoning requirements: front setback 28 ft, side setback 14 ft, max coverage 48%. A proposed building is 35x88 ft with 28 ft front setback and 14 ft side setback. Is this compliant?",
+    "lot_size": 12805,
+    "zoning": {
+      "front_setback": 28,
+      "side_setback": 14,
+      "max_coverage": 0.4801022248485772
+    },
+    "proposed_building": {
+      "width": 35,
+      "length": 88,
+      "front_setback": 28,
+      "side_setback": 14
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-021",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 15057 sq ft has zoning requirements: front setback 25 ft, side setback 11 ft, max coverage 49%. A proposed building is 35x42 ft with 31 ft front setback and 13 ft side setback. Is this compliant?",
+    "lot_size": 15057,
+    "zoning": {
+      "front_setback": 25,
+      "side_setback": 11,
+      "max_coverage": 0.48920587694499734
+    },
+    "proposed_building": {
+      "width": 35,
+      "length": 42,
+      "front_setback": 31,
+      "side_setback": 13
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-022",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 12594 sq ft has zoning requirements: front setback 27 ft, side setback 15 ft, max coverage 51%. A proposed building is 39x99 ft with 30 ft front setback and 19 ft side setback. Is this compliant?",
+    "lot_size": 12594,
+    "zoning": {
+      "front_setback": 27,
+      "side_setback": 15,
+      "max_coverage": 0.5058709607578117
+    },
+    "proposed_building": {
+      "width": 39,
+      "length": 99,
+      "front_setback": 30,
+      "side_setback": 19
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-023",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 15314 sq ft has zoning requirements: front setback 40 ft, side setback 13 ft, max coverage 33%. A proposed building is 59x67 ft with 17 ft front setback and 18 ft side setback. Is this compliant?",
+    "lot_size": 15314,
+    "zoning": {
+      "front_setback": 40,
+      "side_setback": 13,
+      "max_coverage": 0.32519103055604476
+    },
+    "proposed_building": {
+      "width": 59,
+      "length": 67,
+      "front_setback": 17,
+      "side_setback": 18
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-024",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 9921 sq ft has zoning requirements: front setback 24 ft, side setback 7 ft, max coverage 51%. A proposed building is 49x93 ft with 22 ft front setback and 19 ft side setback. Is this compliant?",
+    "lot_size": 9921,
+    "zoning": {
+      "front_setback": 24,
+      "side_setback": 7,
+      "max_coverage": 0.5052941811894707
+    },
+    "proposed_building": {
+      "width": 49,
+      "length": 93,
+      "front_setback": 22,
+      "side_setback": 19
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-025",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 12007 sq ft has zoning requirements: front setback 29 ft, side setback 14 ft, max coverage 31%. A proposed building is 34x98 ft with 16 ft front setback and 19 ft side setback. Is this compliant?",
+    "lot_size": 12007,
+    "zoning": {
+      "front_setback": 29,
+      "side_setback": 14,
+      "max_coverage": 0.3143184823192529
+    },
+    "proposed_building": {
+      "width": 34,
+      "length": 98,
+      "front_setback": 16,
+      "side_setback": 19
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-026",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 6763 sq ft has zoning requirements: front setback 36 ft, side setback 11 ft, max coverage 42%. A proposed building is 59x82 ft with 38 ft front setback and 11 ft side setback. Is this compliant?",
+    "lot_size": 6763,
+    "zoning": {
+      "front_setback": 36,
+      "side_setback": 11,
+      "max_coverage": 0.4239058213557698
+    },
+    "proposed_building": {
+      "width": 59,
+      "length": 82,
+      "front_setback": 38,
+      "side_setback": 11
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-027",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 10823 sq ft has zoning requirements: front setback 28 ft, side setback 14 ft, max coverage 32%. A proposed building is 62x41 ft with 18 ft front setback and 17 ft side setback. Is this compliant?",
+    "lot_size": 10823,
+    "zoning": {
+      "front_setback": 28,
+      "side_setback": 14,
+      "max_coverage": 0.32453086846019347
+    },
+    "proposed_building": {
+      "width": 62,
+      "length": 41,
+      "front_setback": 18,
+      "side_setback": 17
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-028",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 7941 sq ft has zoning requirements: front setback 25 ft, side setback 11 ft, max coverage 31%. A proposed building is 56x96 ft with 37 ft front setback and 12 ft side setback. Is this compliant?",
+    "lot_size": 7941,
+    "zoning": {
+      "front_setback": 25,
+      "side_setback": 11,
+      "max_coverage": 0.313577614910805
+    },
+    "proposed_building": {
+      "width": 56,
+      "length": 96,
+      "front_setback": 37,
+      "side_setback": 12
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-029",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 10143 sq ft has zoning requirements: front setback 38 ft, side setback 12 ft, max coverage 53%. A proposed building is 58x79 ft with 40 ft front setback and 11 ft side setback. Is this compliant?",
+    "lot_size": 10143,
+    "zoning": {
+      "front_setback": 38,
+      "side_setback": 12,
+      "max_coverage": 0.5272062793454375
+    },
+    "proposed_building": {
+      "width": 58,
+      "length": 79,
+      "front_setback": 40,
+      "side_setback": 11
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-030",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 10592 sq ft has zoning requirements: front setback 25 ft, side setback 8 ft, max coverage 36%. A proposed building is 77x78 ft with 23 ft front setback and 6 ft side setback. Is this compliant?",
+    "lot_size": 10592,
+    "zoning": {
+      "front_setback": 25,
+      "side_setback": 8,
+      "max_coverage": 0.3555262172480386
+    },
+    "proposed_building": {
+      "width": 77,
+      "length": 78,
+      "front_setback": 23,
+      "side_setback": 6
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-031",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 12107 sq ft has zoning requirements: front setback 37 ft, side setback 5 ft, max coverage 30%. A proposed building is 37x40 ft with 20 ft front setback and 18 ft side setback. Is this compliant?",
+    "lot_size": 12107,
+    "zoning": {
+      "front_setback": 37,
+      "side_setback": 5,
+      "max_coverage": 0.3017541208750021
+    },
+    "proposed_building": {
+      "width": 37,
+      "length": 40,
+      "front_setback": 20,
+      "side_setback": 18
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-032",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 12539 sq ft has zoning requirements: front setback 32 ft, side setback 15 ft, max coverage 59%. A proposed building is 68x86 ft with 30 ft front setback and 12 ft side setback. Is this compliant?",
+    "lot_size": 12539,
+    "zoning": {
+      "front_setback": 32,
+      "side_setback": 15,
+      "max_coverage": 0.5897411422675405
+    },
+    "proposed_building": {
+      "width": 68,
+      "length": 86,
+      "front_setback": 30,
+      "side_setback": 12
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-033",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 15133 sq ft has zoning requirements: front setback 39 ft, side setback 10 ft, max coverage 51%. A proposed building is 74x83 ft with 27 ft front setback and 12 ft side setback. Is this compliant?",
+    "lot_size": 15133,
+    "zoning": {
+      "front_setback": 39,
+      "side_setback": 10,
+      "max_coverage": 0.507198687658764
+    },
+    "proposed_building": {
+      "width": 74,
+      "length": 83,
+      "front_setback": 27,
+      "side_setback": 12
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-034",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 6435 sq ft has zoning requirements: front setback 24 ft, side setback 7 ft, max coverage 30%. A proposed building is 37x92 ft with 15 ft front setback and 9 ft side setback. Is this compliant?",
+    "lot_size": 6435,
+    "zoning": {
+      "front_setback": 24,
+      "side_setback": 7,
+      "max_coverage": 0.3041627754065441
+    },
+    "proposed_building": {
+      "width": 37,
+      "length": 92,
+      "front_setback": 15,
+      "side_setback": 9
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-035",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 19074 sq ft has zoning requirements: front setback 20 ft, side setback 8 ft, max coverage 44%. A proposed building is 39x81 ft with 22 ft front setback and 16 ft side setback. Is this compliant?",
+    "lot_size": 19074,
+    "zoning": {
+      "front_setback": 20,
+      "side_setback": 8,
+      "max_coverage": 0.4443351581289393
+    },
+    "proposed_building": {
+      "width": 39,
+      "length": 81,
+      "front_setback": 22,
+      "side_setback": 16
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-036",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 18796 sq ft has zoning requirements: front setback 40 ft, side setback 13 ft, max coverage 36%. A proposed building is 49x89 ft with 29 ft front setback and 7 ft side setback. Is this compliant?",
+    "lot_size": 18796,
+    "zoning": {
+      "front_setback": 40,
+      "side_setback": 13,
+      "max_coverage": 0.3572743358152215
+    },
+    "proposed_building": {
+      "width": 49,
+      "length": 89,
+      "front_setback": 29,
+      "side_setback": 7
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-037",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 12765 sq ft has zoning requirements: front setback 33 ft, side setback 5 ft, max coverage 33%. A proposed building is 39x87 ft with 37 ft front setback and 17 ft side setback. Is this compliant?",
+    "lot_size": 12765,
+    "zoning": {
+      "front_setback": 33,
+      "side_setback": 5,
+      "max_coverage": 0.33493764586621255
+    },
+    "proposed_building": {
+      "width": 39,
+      "length": 87,
+      "front_setback": 37,
+      "side_setback": 17
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-038",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 12947 sq ft has zoning requirements: front setback 35 ft, side setback 5 ft, max coverage 56%. A proposed building is 67x55 ft with 21 ft front setback and 12 ft side setback. Is this compliant?",
+    "lot_size": 12947,
+    "zoning": {
+      "front_setback": 35,
+      "side_setback": 5,
+      "max_coverage": 0.5579389336321866
+    },
+    "proposed_building": {
+      "width": 67,
+      "length": 55,
+      "front_setback": 21,
+      "side_setback": 12
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-039",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 14329 sq ft has zoning requirements: front setback 32 ft, side setback 5 ft, max coverage 40%. A proposed building is 36x80 ft with 42 ft front setback and 16 ft side setback. Is this compliant?",
+    "lot_size": 14329,
+    "zoning": {
+      "front_setback": 32,
+      "side_setback": 5,
+      "max_coverage": 0.4001550167975
+    },
+    "proposed_building": {
+      "width": 36,
+      "length": 80,
+      "front_setback": 42,
+      "side_setback": 16
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-040",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 11810 sq ft has zoning requirements: front setback 35 ft, side setback 14 ft, max coverage 48%. A proposed building is 65x58 ft with 16 ft front setback and 18 ft side setback. Is this compliant?",
+    "lot_size": 11810,
+    "zoning": {
+      "front_setback": 35,
+      "side_setback": 14,
+      "max_coverage": 0.47875186517330676
+    },
+    "proposed_building": {
+      "width": 65,
+      "length": 58,
+      "front_setback": 16,
+      "side_setback": 18
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-041",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 11548 sq ft has zoning requirements: front setback 35 ft, side setback 13 ft, max coverage 48%. A proposed building is 69x99 ft with 36 ft front setback and 18 ft side setback. Is this compliant?",
+    "lot_size": 11548,
+    "zoning": {
+      "front_setback": 35,
+      "side_setback": 13,
+      "max_coverage": 0.47731178266841356
+    },
+    "proposed_building": {
+      "width": 69,
+      "length": 99,
+      "front_setback": 36,
+      "side_setback": 18
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-042",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 8799 sq ft has zoning requirements: front setback 21 ft, side setback 13 ft, max coverage 31%. A proposed building is 66x60 ft with 32 ft front setback and 5 ft side setback. Is this compliant?",
+    "lot_size": 8799,
+    "zoning": {
+      "front_setback": 21,
+      "side_setback": 13,
+      "max_coverage": 0.3057058977082473
+    },
+    "proposed_building": {
+      "width": 66,
+      "length": 60,
+      "front_setback": 32,
+      "side_setback": 5
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-043",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 9388 sq ft has zoning requirements: front setback 40 ft, side setback 11 ft, max coverage 57%. A proposed building is 37x71 ft with 34 ft front setback and 14 ft side setback. Is this compliant?",
+    "lot_size": 9388,
+    "zoning": {
+      "front_setback": 40,
+      "side_setback": 11,
+      "max_coverage": 0.5667421783655986
+    },
+    "proposed_building": {
+      "width": 37,
+      "length": 71,
+      "front_setback": 34,
+      "side_setback": 14
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-044",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 12345 sq ft has zoning requirements: front setback 33 ft, side setback 5 ft, max coverage 35%. A proposed building is 76x52 ft with 30 ft front setback and 14 ft side setback. Is this compliant?",
+    "lot_size": 12345,
+    "zoning": {
+      "front_setback": 33,
+      "side_setback": 5,
+      "max_coverage": 0.3484000309288742
+    },
+    "proposed_building": {
+      "width": 76,
+      "length": 52,
+      "front_setback": 30,
+      "side_setback": 14
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-045",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 12178 sq ft has zoning requirements: front setback 27 ft, side setback 13 ft, max coverage 37%. A proposed building is 73x61 ft with 44 ft front setback and 17 ft side setback. Is this compliant?",
+    "lot_size": 12178,
+    "zoning": {
+      "front_setback": 27,
+      "side_setback": 13,
+      "max_coverage": 0.36591070351226335
+    },
+    "proposed_building": {
+      "width": 73,
+      "length": 61,
+      "front_setback": 44,
+      "side_setback": 17
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-046",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 7148 sq ft has zoning requirements: front setback 29 ft, side setback 11 ft, max coverage 59%. A proposed building is 73x81 ft with 38 ft front setback and 14 ft side setback. Is this compliant?",
+    "lot_size": 7148,
+    "zoning": {
+      "front_setback": 29,
+      "side_setback": 11,
+      "max_coverage": 0.5879410104830438
+    },
+    "proposed_building": {
+      "width": 73,
+      "length": 81,
+      "front_setback": 38,
+      "side_setback": 14
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-047",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 18041 sq ft has zoning requirements: front setback 35 ft, side setback 7 ft, max coverage 49%. A proposed building is 48x84 ft with 38 ft front setback and 5 ft side setback. Is this compliant?",
+    "lot_size": 18041,
+    "zoning": {
+      "front_setback": 35,
+      "side_setback": 7,
+      "max_coverage": 0.48655271352948676
+    },
+    "proposed_building": {
+      "width": 48,
+      "length": 84,
+      "front_setback": 38,
+      "side_setback": 5
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-048",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 15929 sq ft has zoning requirements: front setback 35 ft, side setback 7 ft, max coverage 35%. A proposed building is 40x78 ft with 30 ft front setback and 6 ft side setback. Is this compliant?",
+    "lot_size": 15929,
+    "zoning": {
+      "front_setback": 35,
+      "side_setback": 7,
+      "max_coverage": 0.35198733106140245
+    },
+    "proposed_building": {
+      "width": 40,
+      "length": 78,
+      "front_setback": 30,
+      "side_setback": 6
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-049",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 18000 sq ft has zoning requirements: front setback 33 ft, side setback 12 ft, max coverage 39%. A proposed building is 43x75 ft with 16 ft front setback and 3 ft side setback. Is this compliant?",
+    "lot_size": 18000,
+    "zoning": {
+      "front_setback": 33,
+      "side_setback": 12,
+      "max_coverage": 0.3910955680192684
+    },
+    "proposed_building": {
+      "width": 43,
+      "length": 75,
+      "front_setback": 16,
+      "side_setback": 3
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-050",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 10878 sq ft has zoning requirements: front setback 28 ft, side setback 10 ft, max coverage 50%. A proposed building is 41x92 ft with 42 ft front setback and 19 ft side setback. Is this compliant?",
+    "lot_size": 10878,
+    "zoning": {
+      "front_setback": 28,
+      "side_setback": 10,
+      "max_coverage": 0.5030783574847999
+    },
+    "proposed_building": {
+      "width": 41,
+      "length": 92,
+      "front_setback": 42,
+      "side_setback": 19
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-051",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 5523 sq ft has zoning requirements: front setback 22 ft, side setback 10 ft, max coverage 43%. A proposed building is 69x54 ft with 18 ft front setback and 20 ft side setback. Is this compliant?",
+    "lot_size": 5523,
+    "zoning": {
+      "front_setback": 22,
+      "side_setback": 10,
+      "max_coverage": 0.4291861387654452
+    },
+    "proposed_building": {
+      "width": 69,
+      "length": 54,
+      "front_setback": 18,
+      "side_setback": 20
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-052",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 8671 sq ft has zoning requirements: front setback 35 ft, side setback 9 ft, max coverage 60%. A proposed building is 80x62 ft with 39 ft front setback and 4 ft side setback. Is this compliant?",
+    "lot_size": 8671,
+    "zoning": {
+      "front_setback": 35,
+      "side_setback": 9,
+      "max_coverage": 0.5980988465405797
+    },
+    "proposed_building": {
+      "width": 80,
+      "length": 62,
+      "front_setback": 39,
+      "side_setback": 4
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-053",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 17617 sq ft has zoning requirements: front setback 37 ft, side setback 9 ft, max coverage 57%. A proposed building is 74x95 ft with 31 ft front setback and 6 ft side setback. Is this compliant?",
+    "lot_size": 17617,
+    "zoning": {
+      "front_setback": 37,
+      "side_setback": 9,
+      "max_coverage": 0.5688953097563498
+    },
+    "proposed_building": {
+      "width": 74,
+      "length": 95,
+      "front_setback": 31,
+      "side_setback": 6
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-054",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 16573 sq ft has zoning requirements: front setback 21 ft, side setback 12 ft, max coverage 54%. A proposed building is 78x47 ft with 18 ft front setback and 6 ft side setback. Is this compliant?",
+    "lot_size": 16573,
+    "zoning": {
+      "front_setback": 21,
+      "side_setback": 12,
+      "max_coverage": 0.5396960656131855
+    },
+    "proposed_building": {
+      "width": 78,
+      "length": 47,
+      "front_setback": 18,
+      "side_setback": 6
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-055",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 18494 sq ft has zoning requirements: front setback 37 ft, side setback 5 ft, max coverage 45%. A proposed building is 40x80 ft with 18 ft front setback and 9 ft side setback. Is this compliant?",
+    "lot_size": 18494,
+    "zoning": {
+      "front_setback": 37,
+      "side_setback": 5,
+      "max_coverage": 0.4521917181582996
+    },
+    "proposed_building": {
+      "width": 40,
+      "length": 80,
+      "front_setback": 18,
+      "side_setback": 9
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-056",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 19925 sq ft has zoning requirements: front setback 31 ft, side setback 7 ft, max coverage 52%. A proposed building is 75x68 ft with 39 ft front setback and 19 ft side setback. Is this compliant?",
+    "lot_size": 19925,
+    "zoning": {
+      "front_setback": 31,
+      "side_setback": 7,
+      "max_coverage": 0.5185047834190495
+    },
+    "proposed_building": {
+      "width": 75,
+      "length": 68,
+      "front_setback": 39,
+      "side_setback": 19
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-057",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 13165 sq ft has zoning requirements: front setback 23 ft, side setback 7 ft, max coverage 49%. A proposed building is 51x92 ft with 19 ft front setback and 6 ft side setback. Is this compliant?",
+    "lot_size": 13165,
+    "zoning": {
+      "front_setback": 23,
+      "side_setback": 7,
+      "max_coverage": 0.49412789128065904
+    },
+    "proposed_building": {
+      "width": 51,
+      "length": 92,
+      "front_setback": 19,
+      "side_setback": 6
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-058",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 18903 sq ft has zoning requirements: front setback 26 ft, side setback 12 ft, max coverage 59%. A proposed building is 79x89 ft with 15 ft front setback and 10 ft side setback. Is this compliant?",
+    "lot_size": 18903,
+    "zoning": {
+      "front_setback": 26,
+      "side_setback": 12,
+      "max_coverage": 0.5908910000676285
+    },
+    "proposed_building": {
+      "width": 79,
+      "length": 89,
+      "front_setback": 15,
+      "side_setback": 10
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-059",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 18677 sq ft has zoning requirements: front setback 35 ft, side setback 10 ft, max coverage 39%. A proposed building is 40x45 ft with 23 ft front setback and 14 ft side setback. Is this compliant?",
+    "lot_size": 18677,
+    "zoning": {
+      "front_setback": 35,
+      "side_setback": 10,
+      "max_coverage": 0.3860274899863214
+    },
+    "proposed_building": {
+      "width": 40,
+      "length": 45,
+      "front_setback": 23,
+      "side_setback": 14
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-060",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 16717 sq ft has zoning requirements: front setback 33 ft, side setback 10 ft, max coverage 49%. A proposed building is 45x49 ft with 39 ft front setback and 19 ft side setback. Is this compliant?",
+    "lot_size": 16717,
+    "zoning": {
+      "front_setback": 33,
+      "side_setback": 10,
+      "max_coverage": 0.4888321205936266
+    },
+    "proposed_building": {
+      "width": 45,
+      "length": 49,
+      "front_setback": 39,
+      "side_setback": 19
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-061",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 11909 sq ft has zoning requirements: front setback 27 ft, side setback 7 ft, max coverage 54%. A proposed building is 56x98 ft with 28 ft front setback and 17 ft side setback. Is this compliant?",
+    "lot_size": 11909,
+    "zoning": {
+      "front_setback": 27,
+      "side_setback": 7,
+      "max_coverage": 0.5405306035924469
+    },
+    "proposed_building": {
+      "width": 56,
+      "length": 98,
+      "front_setback": 28,
+      "side_setback": 17
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-062",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 18965 sq ft has zoning requirements: front setback 36 ft, side setback 15 ft, max coverage 41%. A proposed building is 31x68 ft with 19 ft front setback and 3 ft side setback. Is this compliant?",
+    "lot_size": 18965,
+    "zoning": {
+      "front_setback": 36,
+      "side_setback": 15,
+      "max_coverage": 0.4085323108965313
+    },
+    "proposed_building": {
+      "width": 31,
+      "length": 68,
+      "front_setback": 19,
+      "side_setback": 3
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-063",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 16757 sq ft has zoning requirements: front setback 36 ft, side setback 6 ft, max coverage 33%. A proposed building is 50x65 ft with 39 ft front setback and 8 ft side setback. Is this compliant?",
+    "lot_size": 16757,
+    "zoning": {
+      "front_setback": 36,
+      "side_setback": 6,
+      "max_coverage": 0.32543346435942566
+    },
+    "proposed_building": {
+      "width": 50,
+      "length": 65,
+      "front_setback": 39,
+      "side_setback": 8
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-064",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 12111 sq ft has zoning requirements: front setback 21 ft, side setback 11 ft, max coverage 53%. A proposed building is 72x99 ft with 35 ft front setback and 7 ft side setback. Is this compliant?",
+    "lot_size": 12111,
+    "zoning": {
+      "front_setback": 21,
+      "side_setback": 11,
+      "max_coverage": 0.5277577155167469
+    },
+    "proposed_building": {
+      "width": 72,
+      "length": 99,
+      "front_setback": 35,
+      "side_setback": 7
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-065",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 19786 sq ft has zoning requirements: front setback 38 ft, side setback 5 ft, max coverage 59%. A proposed building is 75x91 ft with 36 ft front setback and 19 ft side setback. Is this compliant?",
+    "lot_size": 19786,
+    "zoning": {
+      "front_setback": 38,
+      "side_setback": 5,
+      "max_coverage": 0.5933198928049375
+    },
+    "proposed_building": {
+      "width": 75,
+      "length": 91,
+      "front_setback": 36,
+      "side_setback": 19
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-066",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 9845 sq ft has zoning requirements: front setback 33 ft, side setback 11 ft, max coverage 57%. A proposed building is 74x75 ft with 42 ft front setback and 12 ft side setback. Is this compliant?",
+    "lot_size": 9845,
+    "zoning": {
+      "front_setback": 33,
+      "side_setback": 11,
+      "max_coverage": 0.5657348551173598
+    },
+    "proposed_building": {
+      "width": 74,
+      "length": 75,
+      "front_setback": 42,
+      "side_setback": 12
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-067",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 16821 sq ft has zoning requirements: front setback 30 ft, side setback 10 ft, max coverage 30%. A proposed building is 47x97 ft with 31 ft front setback and 7 ft side setback. Is this compliant?",
+    "lot_size": 16821,
+    "zoning": {
+      "front_setback": 30,
+      "side_setback": 10,
+      "max_coverage": 0.3023706700511356
+    },
+    "proposed_building": {
+      "width": 47,
+      "length": 97,
+      "front_setback": 31,
+      "side_setback": 7
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-068",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 16473 sq ft has zoning requirements: front setback 32 ft, side setback 12 ft, max coverage 49%. A proposed building is 64x79 ft with 40 ft front setback and 17 ft side setback. Is this compliant?",
+    "lot_size": 16473,
+    "zoning": {
+      "front_setback": 32,
+      "side_setback": 12,
+      "max_coverage": 0.4931638044233625
+    },
+    "proposed_building": {
+      "width": 64,
+      "length": 79,
+      "front_setback": 40,
+      "side_setback": 17
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-069",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 16427 sq ft has zoning requirements: front setback 31 ft, side setback 15 ft, max coverage 42%. A proposed building is 42x96 ft with 24 ft front setback and 5 ft side setback. Is this compliant?",
+    "lot_size": 16427,
+    "zoning": {
+      "front_setback": 31,
+      "side_setback": 15,
+      "max_coverage": 0.4213517116950459
+    },
+    "proposed_building": {
+      "width": 42,
+      "length": 96,
+      "front_setback": 24,
+      "side_setback": 5
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-070",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 5605 sq ft has zoning requirements: front setback 37 ft, side setback 10 ft, max coverage 42%. A proposed building is 76x87 ft with 43 ft front setback and 7 ft side setback. Is this compliant?",
+    "lot_size": 5605,
+    "zoning": {
+      "front_setback": 37,
+      "side_setback": 10,
+      "max_coverage": 0.4169980616683483
+    },
+    "proposed_building": {
+      "width": 76,
+      "length": 87,
+      "front_setback": 43,
+      "side_setback": 7
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-071",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 13527 sq ft has zoning requirements: front setback 37 ft, side setback 9 ft, max coverage 36%. A proposed building is 62x75 ft with 24 ft front setback and 19 ft side setback. Is this compliant?",
+    "lot_size": 13527,
+    "zoning": {
+      "front_setback": 37,
+      "side_setback": 9,
+      "max_coverage": 0.364120354710861
+    },
+    "proposed_building": {
+      "width": 62,
+      "length": 75,
+      "front_setback": 24,
+      "side_setback": 19
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-072",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 10582 sq ft has zoning requirements: front setback 40 ft, side setback 7 ft, max coverage 31%. A proposed building is 80x74 ft with 33 ft front setback and 11 ft side setback. Is this compliant?",
+    "lot_size": 10582,
+    "zoning": {
+      "front_setback": 40,
+      "side_setback": 7,
+      "max_coverage": 0.307026522668953
+    },
+    "proposed_building": {
+      "width": 80,
+      "length": 74,
+      "front_setback": 33,
+      "side_setback": 11
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-073",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 8954 sq ft has zoning requirements: front setback 29 ft, side setback 11 ft, max coverage 60%. A proposed building is 37x86 ft with 16 ft front setback and 14 ft side setback. Is this compliant?",
+    "lot_size": 8954,
+    "zoning": {
+      "front_setback": 29,
+      "side_setback": 11,
+      "max_coverage": 0.5960864100723144
+    },
+    "proposed_building": {
+      "width": 37,
+      "length": 86,
+      "front_setback": 16,
+      "side_setback": 14
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-074",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 9255 sq ft has zoning requirements: front setback 40 ft, side setback 13 ft, max coverage 41%. A proposed building is 33x88 ft with 35 ft front setback and 6 ft side setback. Is this compliant?",
+    "lot_size": 9255,
+    "zoning": {
+      "front_setback": 40,
+      "side_setback": 13,
+      "max_coverage": 0.40634200377124474
+    },
+    "proposed_building": {
+      "width": 33,
+      "length": 88,
+      "front_setback": 35,
+      "side_setback": 6
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-075",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 12352 sq ft has zoning requirements: front setback 29 ft, side setback 14 ft, max coverage 52%. A proposed building is 59x61 ft with 22 ft front setback and 20 ft side setback. Is this compliant?",
+    "lot_size": 12352,
+    "zoning": {
+      "front_setback": 29,
+      "side_setback": 14,
+      "max_coverage": 0.5210576087352933
+    },
+    "proposed_building": {
+      "width": 59,
+      "length": 61,
+      "front_setback": 22,
+      "side_setback": 20
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-076",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 18836 sq ft has zoning requirements: front setback 39 ft, side setback 8 ft, max coverage 41%. A proposed building is 48x82 ft with 40 ft front setback and 7 ft side setback. Is this compliant?",
+    "lot_size": 18836,
+    "zoning": {
+      "front_setback": 39,
+      "side_setback": 8,
+      "max_coverage": 0.40510114051223156
+    },
+    "proposed_building": {
+      "width": 48,
+      "length": 82,
+      "front_setback": 40,
+      "side_setback": 7
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-077",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 16703 sq ft has zoning requirements: front setback 32 ft, side setback 13 ft, max coverage 52%. A proposed building is 36x60 ft with 31 ft front setback and 9 ft side setback. Is this compliant?",
+    "lot_size": 16703,
+    "zoning": {
+      "front_setback": 32,
+      "side_setback": 13,
+      "max_coverage": 0.5212536966375261
+    },
+    "proposed_building": {
+      "width": 36,
+      "length": 60,
+      "front_setback": 31,
+      "side_setback": 9
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-078",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 18481 sq ft has zoning requirements: front setback 31 ft, side setback 12 ft, max coverage 33%. A proposed building is 75x67 ft with 41 ft front setback and 16 ft side setback. Is this compliant?",
+    "lot_size": 18481,
+    "zoning": {
+      "front_setback": 31,
+      "side_setback": 12,
+      "max_coverage": 0.3293963495192377
+    },
+    "proposed_building": {
+      "width": 75,
+      "length": 67,
+      "front_setback": 41,
+      "side_setback": 16
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-079",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 6342 sq ft has zoning requirements: front setback 22 ft, side setback 5 ft, max coverage 43%. A proposed building is 38x70 ft with 21 ft front setback and 17 ft side setback. Is this compliant?",
+    "lot_size": 6342,
+    "zoning": {
+      "front_setback": 22,
+      "side_setback": 5,
+      "max_coverage": 0.4274660197388588
+    },
+    "proposed_building": {
+      "width": 38,
+      "length": 70,
+      "front_setback": 21,
+      "side_setback": 17
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-080",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 6279 sq ft has zoning requirements: front setback 31 ft, side setback 15 ft, max coverage 46%. A proposed building is 67x75 ft with 31 ft front setback and 15 ft side setback. Is this compliant?",
+    "lot_size": 6279,
+    "zoning": {
+      "front_setback": 31,
+      "side_setback": 15,
+      "max_coverage": 0.4578766809465446
+    },
+    "proposed_building": {
+      "width": 67,
+      "length": 75,
+      "front_setback": 31,
+      "side_setback": 15
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-081",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 19287 sq ft has zoning requirements: front setback 28 ft, side setback 14 ft, max coverage 45%. A proposed building is 57x68 ft with 37 ft front setback and 18 ft side setback. Is this compliant?",
+    "lot_size": 19287,
+    "zoning": {
+      "front_setback": 28,
+      "side_setback": 14,
+      "max_coverage": 0.4496481917123373
+    },
+    "proposed_building": {
+      "width": 57,
+      "length": 68,
+      "front_setback": 37,
+      "side_setback": 18
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-082",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 16988 sq ft has zoning requirements: front setback 33 ft, side setback 7 ft, max coverage 34%. A proposed building is 38x71 ft with 37 ft front setback and 17 ft side setback. Is this compliant?",
+    "lot_size": 16988,
+    "zoning": {
+      "front_setback": 33,
+      "side_setback": 7,
+      "max_coverage": 0.34330385440391126
+    },
+    "proposed_building": {
+      "width": 38,
+      "length": 71,
+      "front_setback": 37,
+      "side_setback": 17
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-083",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 7119 sq ft has zoning requirements: front setback 36 ft, side setback 13 ft, max coverage 34%. A proposed building is 43x69 ft with 30 ft front setback and 4 ft side setback. Is this compliant?",
+    "lot_size": 7119,
+    "zoning": {
+      "front_setback": 36,
+      "side_setback": 13,
+      "max_coverage": 0.3354174473013074
+    },
+    "proposed_building": {
+      "width": 43,
+      "length": 69,
+      "front_setback": 30,
+      "side_setback": 4
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-084",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 17230 sq ft has zoning requirements: front setback 25 ft, side setback 13 ft, max coverage 41%. A proposed building is 37x78 ft with 42 ft front setback and 16 ft side setback. Is this compliant?",
+    "lot_size": 17230,
+    "zoning": {
+      "front_setback": 25,
+      "side_setback": 13,
+      "max_coverage": 0.41079961789033714
+    },
+    "proposed_building": {
+      "width": 37,
+      "length": 78,
+      "front_setback": 42,
+      "side_setback": 16
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-085",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 6807 sq ft has zoning requirements: front setback 23 ft, side setback 10 ft, max coverage 47%. A proposed building is 32x73 ft with 19 ft front setback and 6 ft side setback. Is this compliant?",
+    "lot_size": 6807,
+    "zoning": {
+      "front_setback": 23,
+      "side_setback": 10,
+      "max_coverage": 0.4715294263279227
+    },
+    "proposed_building": {
+      "width": 32,
+      "length": 73,
+      "front_setback": 19,
+      "side_setback": 6
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-086",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 11086 sq ft has zoning requirements: front setback 29 ft, side setback 10 ft, max coverage 39%. A proposed building is 61x41 ft with 40 ft front setback and 7 ft side setback. Is this compliant?",
+    "lot_size": 11086,
+    "zoning": {
+      "front_setback": 29,
+      "side_setback": 10,
+      "max_coverage": 0.39097802481200084
+    },
+    "proposed_building": {
+      "width": 61,
+      "length": 41,
+      "front_setback": 40,
+      "side_setback": 7
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-087",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 7328 sq ft has zoning requirements: front setback 38 ft, side setback 11 ft, max coverage 31%. A proposed building is 49x96 ft with 24 ft front setback and 9 ft side setback. Is this compliant?",
+    "lot_size": 7328,
+    "zoning": {
+      "front_setback": 38,
+      "side_setback": 11,
+      "max_coverage": 0.314595313974069
+    },
+    "proposed_building": {
+      "width": 49,
+      "length": 96,
+      "front_setback": 24,
+      "side_setback": 9
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-088",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 7999 sq ft has zoning requirements: front setback 35 ft, side setback 5 ft, max coverage 34%. A proposed building is 52x44 ft with 42 ft front setback and 4 ft side setback. Is this compliant?",
+    "lot_size": 7999,
+    "zoning": {
+      "front_setback": 35,
+      "side_setback": 5,
+      "max_coverage": 0.33669837165073446
+    },
+    "proposed_building": {
+      "width": 52,
+      "length": 44,
+      "front_setback": 42,
+      "side_setback": 4
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-089",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 11841 sq ft has zoning requirements: front setback 35 ft, side setback 14 ft, max coverage 39%. A proposed building is 58x97 ft with 25 ft front setback and 15 ft side setback. Is this compliant?",
+    "lot_size": 11841,
+    "zoning": {
+      "front_setback": 35,
+      "side_setback": 14,
+      "max_coverage": 0.39291056372023514
+    },
+    "proposed_building": {
+      "width": 58,
+      "length": 97,
+      "front_setback": 25,
+      "side_setback": 15
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-090",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 12786 sq ft has zoning requirements: front setback 39 ft, side setback 7 ft, max coverage 53%. A proposed building is 62x80 ft with 29 ft front setback and 17 ft side setback. Is this compliant?",
+    "lot_size": 12786,
+    "zoning": {
+      "front_setback": 39,
+      "side_setback": 7,
+      "max_coverage": 0.5285853694495312
+    },
+    "proposed_building": {
+      "width": 62,
+      "length": 80,
+      "front_setback": 29,
+      "side_setback": 17
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-091",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 15931 sq ft has zoning requirements: front setback 34 ft, side setback 7 ft, max coverage 56%. A proposed building is 50x45 ft with 40 ft front setback and 16 ft side setback. Is this compliant?",
+    "lot_size": 15931,
+    "zoning": {
+      "front_setback": 34,
+      "side_setback": 7,
+      "max_coverage": 0.5599036657687966
+    },
+    "proposed_building": {
+      "width": 50,
+      "length": 45,
+      "front_setback": 40,
+      "side_setback": 16
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-092",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 11344 sq ft has zoning requirements: front setback 27 ft, side setback 11 ft, max coverage 40%. A proposed building is 32x82 ft with 43 ft front setback and 17 ft side setback. Is this compliant?",
+    "lot_size": 11344,
+    "zoning": {
+      "front_setback": 27,
+      "side_setback": 11,
+      "max_coverage": 0.401699364649492
+    },
+    "proposed_building": {
+      "width": 32,
+      "length": 82,
+      "front_setback": 43,
+      "side_setback": 17
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-093",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 17057 sq ft has zoning requirements: front setback 28 ft, side setback 15 ft, max coverage 33%. A proposed building is 40x85 ft with 15 ft front setback and 12 ft side setback. Is this compliant?",
+    "lot_size": 17057,
+    "zoning": {
+      "front_setback": 28,
+      "side_setback": 15,
+      "max_coverage": 0.32655896738012186
+    },
+    "proposed_building": {
+      "width": 40,
+      "length": 85,
+      "front_setback": 15,
+      "side_setback": 12
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-094",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 14192 sq ft has zoning requirements: front setback 40 ft, side setback 6 ft, max coverage 49%. A proposed building is 35x52 ft with 45 ft front setback and 20 ft side setback. Is this compliant?",
+    "lot_size": 14192,
+    "zoning": {
+      "front_setback": 40,
+      "side_setback": 6,
+      "max_coverage": 0.4931742568895656
+    },
+    "proposed_building": {
+      "width": 35,
+      "length": 52,
+      "front_setback": 45,
+      "side_setback": 20
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-095",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 14451 sq ft has zoning requirements: front setback 21 ft, side setback 14 ft, max coverage 46%. A proposed building is 78x70 ft with 31 ft front setback and 3 ft side setback. Is this compliant?",
+    "lot_size": 14451,
+    "zoning": {
+      "front_setback": 21,
+      "side_setback": 14,
+      "max_coverage": 0.4565261368216481
+    },
+    "proposed_building": {
+      "width": 78,
+      "length": 70,
+      "front_setback": 31,
+      "side_setback": 3
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-096",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 6970 sq ft has zoning requirements: front setback 37 ft, side setback 7 ft, max coverage 59%. A proposed building is 47x90 ft with 21 ft front setback and 10 ft side setback. Is this compliant?",
+    "lot_size": 6970,
+    "zoning": {
+      "front_setback": 37,
+      "side_setback": 7,
+      "max_coverage": 0.5887130298144525
+    },
+    "proposed_building": {
+      "width": 47,
+      "length": 90,
+      "front_setback": 21,
+      "side_setback": 10
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-097",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 18593 sq ft has zoning requirements: front setback 38 ft, side setback 12 ft, max coverage 33%. A proposed building is 64x78 ft with 25 ft front setback and 15 ft side setback. Is this compliant?",
+    "lot_size": 18593,
+    "zoning": {
+      "front_setback": 38,
+      "side_setback": 12,
+      "max_coverage": 0.32539438338634596
+    },
+    "proposed_building": {
+      "width": 64,
+      "length": 78,
+      "front_setback": 25,
+      "side_setback": 15
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-098",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 14648 sq ft has zoning requirements: front setback 21 ft, side setback 12 ft, max coverage 56%. A proposed building is 31x61 ft with 28 ft front setback and 8 ft side setback. Is this compliant?",
+    "lot_size": 14648,
+    "zoning": {
+      "front_setback": 21,
+      "side_setback": 12,
+      "max_coverage": 0.5585923007142144
+    },
+    "proposed_building": {
+      "width": 31,
+      "length": 61,
+      "front_setback": 28,
+      "side_setback": 8
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-099",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 11798 sq ft has zoning requirements: front setback 20 ft, side setback 13 ft, max coverage 40%. A proposed building is 46x45 ft with 18 ft front setback and 6 ft side setback. Is this compliant?",
+    "lot_size": 11798,
+    "zoning": {
+      "front_setback": 20,
+      "side_setback": 13,
+      "max_coverage": 0.3952147306099779
+    },
+    "proposed_building": {
+      "width": 46,
+      "length": 45,
+      "front_setback": 18,
+      "side_setback": 6
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-100",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 13876 sq ft has zoning requirements: front setback 25 ft, side setback 9 ft, max coverage 34%. A proposed building is 46x89 ft with 17 ft front setback and 7 ft side setback. Is this compliant?",
+    "lot_size": 13876,
+    "zoning": {
+      "front_setback": 25,
+      "side_setback": 9,
+      "max_coverage": 0.3432102758795073
+    },
+    "proposed_building": {
+      "width": 46,
+      "length": 89,
+      "front_setback": 17,
+      "side_setback": 7
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-101",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 10026 sq ft has zoning requirements: front setback 33 ft, side setback 15 ft, max coverage 35%. A proposed building is 69x60 ft with 20 ft front setback and 3 ft side setback. Is this compliant?",
+    "lot_size": 10026,
+    "zoning": {
+      "front_setback": 33,
+      "side_setback": 15,
+      "max_coverage": 0.35075731439645674
+    },
+    "proposed_building": {
+      "width": 69,
+      "length": 60,
+      "front_setback": 20,
+      "side_setback": 3
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-102",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 16686 sq ft has zoning requirements: front setback 21 ft, side setback 9 ft, max coverage 42%. A proposed building is 50x49 ft with 28 ft front setback and 13 ft side setback. Is this compliant?",
+    "lot_size": 16686,
+    "zoning": {
+      "front_setback": 21,
+      "side_setback": 9,
+      "max_coverage": 0.41698191337006735
+    },
+    "proposed_building": {
+      "width": 50,
+      "length": 49,
+      "front_setback": 28,
+      "side_setback": 13
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-103",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 9225 sq ft has zoning requirements: front setback 32 ft, side setback 6 ft, max coverage 32%. A proposed building is 45x88 ft with 34 ft front setback and 10 ft side setback. Is this compliant?",
+    "lot_size": 9225,
+    "zoning": {
+      "front_setback": 32,
+      "side_setback": 6,
+      "max_coverage": 0.3155634355602252
+    },
+    "proposed_building": {
+      "width": 45,
+      "length": 88,
+      "front_setback": 34,
+      "side_setback": 10
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-104",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 13076 sq ft has zoning requirements: front setback 36 ft, side setback 13 ft, max coverage 42%. A proposed building is 37x57 ft with 16 ft front setback and 13 ft side setback. Is this compliant?",
+    "lot_size": 13076,
+    "zoning": {
+      "front_setback": 36,
+      "side_setback": 13,
+      "max_coverage": 0.4155146038890415
+    },
+    "proposed_building": {
+      "width": 37,
+      "length": 57,
+      "front_setback": 16,
+      "side_setback": 13
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-105",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 12615 sq ft has zoning requirements: front setback 37 ft, side setback 11 ft, max coverage 32%. A proposed building is 31x66 ft with 35 ft front setback and 10 ft side setback. Is this compliant?",
+    "lot_size": 12615,
+    "zoning": {
+      "front_setback": 37,
+      "side_setback": 11,
+      "max_coverage": 0.31963746357896516
+    },
+    "proposed_building": {
+      "width": 31,
+      "length": 66,
+      "front_setback": 35,
+      "side_setback": 10
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-106",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 19970 sq ft has zoning requirements: front setback 20 ft, side setback 9 ft, max coverage 47%. A proposed building is 67x83 ft with 18 ft front setback and 10 ft side setback. Is this compliant?",
+    "lot_size": 19970,
+    "zoning": {
+      "front_setback": 20,
+      "side_setback": 9,
+      "max_coverage": 0.4662225789505422
+    },
+    "proposed_building": {
+      "width": 67,
+      "length": 83,
+      "front_setback": 18,
+      "side_setback": 10
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-107",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 17500 sq ft has zoning requirements: front setback 37 ft, side setback 15 ft, max coverage 54%. A proposed building is 49x76 ft with 28 ft front setback and 17 ft side setback. Is this compliant?",
+    "lot_size": 17500,
+    "zoning": {
+      "front_setback": 37,
+      "side_setback": 15,
+      "max_coverage": 0.5355642559950903
+    },
+    "proposed_building": {
+      "width": 49,
+      "length": 76,
+      "front_setback": 28,
+      "side_setback": 17
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-108",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 6374 sq ft has zoning requirements: front setback 40 ft, side setback 13 ft, max coverage 36%. A proposed building is 39x63 ft with 32 ft front setback and 8 ft side setback. Is this compliant?",
+    "lot_size": 6374,
+    "zoning": {
+      "front_setback": 40,
+      "side_setback": 13,
+      "max_coverage": 0.361037072054032
+    },
+    "proposed_building": {
+      "width": 39,
+      "length": 63,
+      "front_setback": 32,
+      "side_setback": 8
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-109",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 17812 sq ft has zoning requirements: front setback 27 ft, side setback 13 ft, max coverage 59%. A proposed building is 65x68 ft with 16 ft front setback and 3 ft side setback. Is this compliant?",
+    "lot_size": 17812,
+    "zoning": {
+      "front_setback": 27,
+      "side_setback": 13,
+      "max_coverage": 0.5857837880188654
+    },
+    "proposed_building": {
+      "width": 65,
+      "length": 68,
+      "front_setback": 16,
+      "side_setback": 3
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-110",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 18314 sq ft has zoning requirements: front setback 34 ft, side setback 14 ft, max coverage 39%. A proposed building is 40x40 ft with 16 ft front setback and 18 ft side setback. Is this compliant?",
+    "lot_size": 18314,
+    "zoning": {
+      "front_setback": 34,
+      "side_setback": 14,
+      "max_coverage": 0.38677483645020166
+    },
+    "proposed_building": {
+      "width": 40,
+      "length": 40,
+      "front_setback": 16,
+      "side_setback": 18
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-111",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 9477 sq ft has zoning requirements: front setback 39 ft, side setback 9 ft, max coverage 55%. A proposed building is 54x62 ft with 41 ft front setback and 9 ft side setback. Is this compliant?",
+    "lot_size": 9477,
+    "zoning": {
+      "front_setback": 39,
+      "side_setback": 9,
+      "max_coverage": 0.5518463164865921
+    },
+    "proposed_building": {
+      "width": 54,
+      "length": 62,
+      "front_setback": 41,
+      "side_setback": 9
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-112",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 14587 sq ft has zoning requirements: front setback 36 ft, side setback 9 ft, max coverage 31%. A proposed building is 77x74 ft with 33 ft front setback and 5 ft side setback. Is this compliant?",
+    "lot_size": 14587,
+    "zoning": {
+      "front_setback": 36,
+      "side_setback": 9,
+      "max_coverage": 0.3136454190941519
+    },
+    "proposed_building": {
+      "width": 77,
+      "length": 74,
+      "front_setback": 33,
+      "side_setback": 5
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-113",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 9925 sq ft has zoning requirements: front setback 22 ft, side setback 11 ft, max coverage 51%. A proposed building is 38x86 ft with 32 ft front setback and 11 ft side setback. Is this compliant?",
+    "lot_size": 9925,
+    "zoning": {
+      "front_setback": 22,
+      "side_setback": 11,
+      "max_coverage": 0.5095287929243825
+    },
+    "proposed_building": {
+      "width": 38,
+      "length": 86,
+      "front_setback": 32,
+      "side_setback": 11
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-114",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 19389 sq ft has zoning requirements: front setback 33 ft, side setback 8 ft, max coverage 48%. A proposed building is 50x96 ft with 36 ft front setback and 13 ft side setback. Is this compliant?",
+    "lot_size": 19389,
+    "zoning": {
+      "front_setback": 33,
+      "side_setback": 8,
+      "max_coverage": 0.48313359283988233
+    },
+    "proposed_building": {
+      "width": 50,
+      "length": 96,
+      "front_setback": 36,
+      "side_setback": 13
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-115",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 15406 sq ft has zoning requirements: front setback 28 ft, side setback 12 ft, max coverage 38%. A proposed building is 72x60 ft with 25 ft front setback and 9 ft side setback. Is this compliant?",
+    "lot_size": 15406,
+    "zoning": {
+      "front_setback": 28,
+      "side_setback": 12,
+      "max_coverage": 0.3819039417339748
+    },
+    "proposed_building": {
+      "width": 72,
+      "length": 60,
+      "front_setback": 25,
+      "side_setback": 9
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-116",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 12533 sq ft has zoning requirements: front setback 39 ft, side setback 10 ft, max coverage 30%. A proposed building is 74x48 ft with 35 ft front setback and 3 ft side setback. Is this compliant?",
+    "lot_size": 12533,
+    "zoning": {
+      "front_setback": 39,
+      "side_setback": 10,
+      "max_coverage": 0.3047623848483374
+    },
+    "proposed_building": {
+      "width": 74,
+      "length": 48,
+      "front_setback": 35,
+      "side_setback": 3
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-117",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 14974 sq ft has zoning requirements: front setback 35 ft, side setback 5 ft, max coverage 57%. A proposed building is 73x51 ft with 28 ft front setback and 20 ft side setback. Is this compliant?",
+    "lot_size": 14974,
+    "zoning": {
+      "front_setback": 35,
+      "side_setback": 5,
+      "max_coverage": 0.5704334981953619
+    },
+    "proposed_building": {
+      "width": 73,
+      "length": 51,
+      "front_setback": 28,
+      "side_setback": 20
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-118",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 19668 sq ft has zoning requirements: front setback 35 ft, side setback 11 ft, max coverage 46%. A proposed building is 80x96 ft with 35 ft front setback and 5 ft side setback. Is this compliant?",
+    "lot_size": 19668,
+    "zoning": {
+      "front_setback": 35,
+      "side_setback": 11,
+      "max_coverage": 0.4614394361104416
+    },
+    "proposed_building": {
+      "width": 80,
+      "length": 96,
+      "front_setback": 35,
+      "side_setback": 5
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-119",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 13825 sq ft has zoning requirements: front setback 20 ft, side setback 15 ft, max coverage 43%. A proposed building is 37x62 ft with 41 ft front setback and 15 ft side setback. Is this compliant?",
+    "lot_size": 13825,
+    "zoning": {
+      "front_setback": 20,
+      "side_setback": 15,
+      "max_coverage": 0.43355303109939225
+    },
+    "proposed_building": {
+      "width": 37,
+      "length": 62,
+      "front_setback": 41,
+      "side_setback": 15
+    },
+    "answer": true,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-120",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 18557 sq ft has zoning requirements: front setback 39 ft, side setback 10 ft, max coverage 42%. A proposed building is 79x91 ft with 37 ft front setback and 3 ft side setback. Is this compliant?",
+    "lot_size": 18557,
+    "zoning": {
+      "front_setback": 39,
+      "side_setback": 10,
+      "max_coverage": 0.4160253104057609
+    },
+    "proposed_building": {
+      "width": 79,
+      "length": 91,
+      "front_setback": 37,
+      "side_setback": 3
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-121",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 7044 sq ft has zoning requirements: front setback 34 ft, side setback 10 ft, max coverage 58%. A proposed building is 58x40 ft with 22 ft front setback and 3 ft side setback. Is this compliant?",
+    "lot_size": 7044,
+    "zoning": {
+      "front_setback": 34,
+      "side_setback": 10,
+      "max_coverage": 0.5808743548236583
+    },
+    "proposed_building": {
+      "width": 58,
+      "length": 40,
+      "front_setback": 22,
+      "side_setback": 3
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-122",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 17425 sq ft has zoning requirements: front setback 28 ft, side setback 15 ft, max coverage 58%. A proposed building is 52x52 ft with 17 ft front setback and 12 ft side setback. Is this compliant?",
+    "lot_size": 17425,
+    "zoning": {
+      "front_setback": 28,
+      "side_setback": 15,
+      "max_coverage": 0.5764196068999121
+    },
+    "proposed_building": {
+      "width": 52,
+      "length": 52,
+      "front_setback": 17,
+      "side_setback": 12
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-123",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 18245 sq ft has zoning requirements: front setback 27 ft, side setback 8 ft, max coverage 59%. A proposed building is 53x42 ft with 23 ft front setback and 18 ft side setback. Is this compliant?",
+    "lot_size": 18245,
+    "zoning": {
+      "front_setback": 27,
+      "side_setback": 8,
+      "max_coverage": 0.5940357360850468
+    },
+    "proposed_building": {
+      "width": 53,
+      "length": 42,
+      "front_setback": 23,
+      "side_setback": 18
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-124",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 19819 sq ft has zoning requirements: front setback 39 ft, side setback 8 ft, max coverage 30%. A proposed building is 70x65 ft with 18 ft front setback and 11 ft side setback. Is this compliant?",
+    "lot_size": 19819,
+    "zoning": {
+      "front_setback": 39,
+      "side_setback": 8,
+      "max_coverage": 0.3021406200440677
+    },
+    "proposed_building": {
+      "width": 70,
+      "length": 65,
+      "front_setback": 18,
+      "side_setback": 11
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  },
+  {
+    "id": "RE-H-125",
+    "category": "real_estate",
+    "difficulty": "hard",
+    "task_type": "zoning_compliance",
+    "question": "A lot of 14324 sq ft has zoning requirements: front setback 36 ft, side setback 12 ft, max coverage 35%. A proposed building is 42x82 ft with 38 ft front setback and 8 ft side setback. Is this compliant?",
+    "lot_size": 14324,
+    "zoning": {
+      "front_setback": 36,
+      "side_setback": 12,
+      "max_coverage": 0.3511431289131608
+    },
+    "proposed_building": {
+      "width": 42,
+      "length": 82,
+      "front_setback": 38,
+      "side_setback": 8
+    },
+    "answer": false,
+    "reasoning_steps": 7
+  }
+]

@@ -1,0 +1,1127 @@
+[
+  {
+    "id": "CU-E-001",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (63, -72) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-002",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-94, 89) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-003",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-30, -38) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-004",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-43, -65) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-005",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (88, -74) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-006",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (73, 89) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-007",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (39, -78) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-008",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (51, 8) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-009",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-92, -93) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-010",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-77, -45) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-011",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-41, 29) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-012",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (54, -94) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-013",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (43, -50) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-014",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (83, 66) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-015",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (79, 39) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-016",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (7, -44) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-017",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (14, 50) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-018",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-29, -99) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-019",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (94, -60) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-020",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (78, 8) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-021",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-13, -29) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-022",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-61, -45) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-023",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (95, -14) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-024",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-74, -77) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-025",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-3, -76) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-026",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-9, -12) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-027",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (54, -33) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-028",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-89, 86) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-029",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (17, 37) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-030",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-69, -4) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-031",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-80, 41) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-032",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-25, 60) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-033",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (58, -8) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-034",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (47, -51) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-035",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (80, -83) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-036",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-89, 69) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-037",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-42, 97) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-038",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-26, -80) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-039",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-41, -75) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-040",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-3, -29) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-041",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (16, 62) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-042",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-7, -59) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-043",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-6, -10) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-044",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-47, 71) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-045",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-32, 79) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-046",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (74, 65) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-047",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-82, 55) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-048",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (62, -57) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-049",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (36, 86) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-050",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-38, -59) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-051",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (18, -3) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-052",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-31, 63) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-053",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (76, 42) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-054",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-44, 75) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-055",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-17, 96) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-056",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (98, -86) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-057",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-42, -92) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-058",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-20, 2) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-059",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-32, -84) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-060",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-46, 45) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-061",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (83, -20) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-062",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-46, 67) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-063",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (27, 1) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-064",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (64, 17) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-065",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-64, -33) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-066",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-65, -37) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-067",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (90, 43) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-068",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (37, -33) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-069",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (91, 49) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-070",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (9, 49) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-071",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (2, -8) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-072",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-44, -65) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-073",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (30, 26) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-074",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-77, 93) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-075",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-88, -72) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-076",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-61, 60) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-077",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-60, 74) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-078",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (8, 52) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-079",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-84, -2) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-080",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-3, 52) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-081",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (19, 35) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-082",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-36, 41) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-083",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-98, 74) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-084",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (84, -71) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-085",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (74, 37) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-086",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (92, -32) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-087",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (96, 64) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-088",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-13, -72) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-089",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-25, 11) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-090",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-60, 16) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-091",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-100, 84) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-092",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (84, -33) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-093",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (28, 95) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-094",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-55, 29) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-095",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-73, 60) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-096",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-24, 63) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-097",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (29, 55) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-098",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-50, -61) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-099",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-5, 95) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-100",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-59, 38) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-101",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (99, 35) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-102",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-100, 53) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-103",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-18, 25) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-104",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-96, -72) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-105",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-8, -22) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-106",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-39, -86) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-107",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-39, 45) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-108",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-80, -79) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-109",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (87, 24) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-110",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-83, 94) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-111",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (36, 96) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-112",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-68, -68) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-113",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (68, 21) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-114",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (40, -58) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-115",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-33, 35) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-116",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (55, 8) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-117",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-46, 38) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 2,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-118",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (93, 86) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-119",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (76, -49) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-120",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (82, -21) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-121",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (2, 71) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-122",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (66, -5) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-123",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (12, 32) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 1,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-124",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (15, -70) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 4,
+    "reasoning_steps": 2
+  },
+  {
+    "id": "CU-E-125",
+    "category": "coordinate_understanding",
+    "difficulty": "easy",
+    "task_type": "quadrant_identification",
+    "question": "Given the point (-37, -43) in a Cartesian coordinate system, which quadrant does this point lie in?",
+    "answer": 3,
+    "reasoning_steps": 2
+  }
+]

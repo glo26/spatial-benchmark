@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "CU-M-001",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (26.536622, -123.780013). If we apply an offset of (0.001078, 0.001769), what are the new coordinates?",
+    "answer": {
+      "latitude": 26.5377,
+      "longitude": -123.778244
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-002",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (25.17258, -83.945225). If we apply an offset of (-0.008823, -0.008652), what are the new coordinates?",
+    "answer": {
+      "latitude": 25.163757,
+      "longitude": -83.953877
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-003",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (25.753911, -105.835148). If we apply an offset of (0.000283, -0.00443), what are the new coordinates?",
+    "answer": {
+      "latitude": 25.754194,
+      "longitude": -105.839578
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-004",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (36.649948, -93.724432). If we apply an offset of (0.004467, 0.007648), what are the new coordinates?",
+    "answer": {
+      "latitude": 36.654415,
+      "longitude": -93.716784
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-005",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (38.82908, -110.90616). If we apply an offset of (-0.000541, -0.001859), what are the new coordinates?",
+    "answer": {
+      "latitude": 38.828539,
+      "longitude": -110.908019
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-006",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (27.263819, -86.779001). If we apply an offset of (-0.002914, -0.001778), what are the new coordinates?",
+    "answer": {
+      "latitude": 27.260905,
+      "longitude": -86.780779
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-007",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (45.732082, -121.858071). If we apply an offset of (0.003069, 0.002924), what are the new coordinates?",
+    "answer": {
+      "latitude": 45.735151,
+      "longitude": -121.855147
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-008",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (26.454704, -82.763612). If we apply an offset of (0.006012, -0.007815), what are the new coordinates?",
+    "answer": {
+      "latitude": 26.460716,
+      "longitude": -82.771427
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-009",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (29.598162, -93.895426). If we apply an offset of (-0.007196, -0.00633), what are the new coordinates?",
+    "answer": {
+      "latitude": 29.590966,
+      "longitude": -93.901756
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-010",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (36.103074, -74.279815). If we apply an offset of (-0.008492, 0.00616), what are the new coordinates?",
+    "answer": {
+      "latitude": 36.094582,
+      "longitude": -74.273655
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-011",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (45.543205, -119.321294). If we apply an offset of (0.003043, 0.000812), what are the new coordinates?",
+    "answer": {
+      "latitude": 45.546248,
+      "longitude": -119.320482
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-012",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (25.354189, -119.590759). If we apply an offset of (0.005071, -0.005272), what are the new coordinates?",
+    "answer": {
+      "latitude": 25.35926,
+      "longitude": -119.596031
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-013",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (34.753937, -97.081212). If we apply an offset of (0.007293, 0.008049), what are the new coordinates?",
+    "answer": {
+      "latitude": 34.76123,
+      "longitude": -97.073163
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-014",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (28.951291, -124.874988). If we apply an offset of (-0.002192, 0.00853), what are the new coordinates?",
+    "answer": {
+      "latitude": 28.949099,
+      "longitude": -124.866458
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-015",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (43.843105, -108.455545). If we apply an offset of (0.003932, 0.00461), what are the new coordinates?",
+    "answer": {
+      "latitude": 43.847037,
+      "longitude": -108.450935
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-016",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (43.800677, -86.611464). If we apply an offset of (-0.000267, -0.006202), what are the new coordinates?",
+    "answer": {
+      "latitude": 43.80041,
+      "longitude": -86.617666
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-017",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (30.224822, -121.607969). If we apply an offset of (0.004715, -0.008781), what are the new coordinates?",
+    "answer": {
+      "latitude": 30.229537,
+      "longitude": -121.61675
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-018",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (32.526515, -122.091744). If we apply an offset of (-0.000464, 0.008388), what are the new coordinates?",
+    "answer": {
+      "latitude": 32.526051,
+      "longitude": -122.083356
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-019",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (37.747027, -121.700984). If we apply an offset of (0.000157, 0.007027), what are the new coordinates?",
+    "answer": {
+      "latitude": 37.747184,
+      "longitude": -121.693957
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-020",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (26.644512, -121.05827). If we apply an offset of (0.007236, -0.001924), what are the new coordinates?",
+    "answer": {
+      "latitude": 26.651748,
+      "longitude": -121.060194
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-021",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (47.598307, -91.958826). If we apply an offset of (0.001578, -0.009205), what are the new coordinates?",
+    "answer": {
+      "latitude": 47.599885,
+      "longitude": -91.968031
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-022",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (26.967602, -86.872356). If we apply an offset of (0.001305, -0.003673), what are the new coordinates?",
+    "answer": {
+      "latitude": 26.968907,
+      "longitude": -86.876029
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-023",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (31.258377, -86.155893). If we apply an offset of (-0.003716, -0.004688), what are the new coordinates?",
+    "answer": {
+      "latitude": 31.254661,
+      "longitude": -86.160581
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-024",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (28.141079, -87.560954). If we apply an offset of (-0.000856, 0.00858), what are the new coordinates?",
+    "answer": {
+      "latitude": 28.140223,
+      "longitude": -87.552374
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-025",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (47.457623, -124.459704). If we apply an offset of (0.002423, 0.00126), what are the new coordinates?",
+    "answer": {
+      "latitude": 47.460046,
+      "longitude": -124.458444
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-026",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (27.39955, -93.817205). If we apply an offset of (0.000118, -0.007351), what are the new coordinates?",
+    "answer": {
+      "latitude": 27.399668,
+      "longitude": -93.824556
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-027",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (33.376212, -121.010104). If we apply an offset of (-0.005114, -0.0043), what are the new coordinates?",
+    "answer": {
+      "latitude": 33.371098,
+      "longitude": -121.014404
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-028",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (35.51643, -93.493358). If we apply an offset of (-0.00395, 0.009677), what are the new coordinates?",
+    "answer": {
+      "latitude": 35.51248,
+      "longitude": -93.483681
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-029",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (44.370399, -94.32144). If we apply an offset of (0.003357, 0.001092), what are the new coordinates?",
+    "answer": {
+      "latitude": 44.373756,
+      "longitude": -94.320348
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-030",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (47.362145, -118.991983). If we apply an offset of (0.007563, -0.004711), what are the new coordinates?",
+    "answer": {
+      "latitude": 47.369708,
+      "longitude": -118.996694
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-031",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (46.353105, -81.939832). If we apply an offset of (-0.006891, -0.004365), what are the new coordinates?",
+    "answer": {
+      "latitude": 46.346214,
+      "longitude": -81.944197
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-032",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (30.055112, -105.112943). If we apply an offset of (0.00375, 0.007058), what are the new coordinates?",
+    "answer": {
+      "latitude": 30.058862,
+      "longitude": -105.105885
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-033",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (37.129817, -110.434967). If we apply an offset of (0.008163, -0.008984), what are the new coordinates?",
+    "answer": {
+      "latitude": 37.13798,
+      "longitude": -110.443951
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-034",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (40.222827, -76.897811). If we apply an offset of (-0.009118, -0.003329), what are the new coordinates?",
+    "answer": {
+      "latitude": 40.213709,
+      "longitude": -76.90114
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-035",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (28.139672, -68.171719). If we apply an offset of (-0.006768, -0.001163), what are the new coordinates?",
+    "answer": {
+      "latitude": 28.132904,
+      "longitude": -68.172882
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-036",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (41.936019, -92.467402). If we apply an offset of (-0.007763, 0.008901), what are the new coordinates?",
+    "answer": {
+      "latitude": 41.928256,
+      "longitude": -92.458501
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-037",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (41.584471, -116.354851). If we apply an offset of (-0.009279, -0.002616), what are the new coordinates?",
+    "answer": {
+      "latitude": 41.575192,
+      "longitude": -116.357467
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-038",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (38.260602, -100.072371). If we apply an offset of (-0.009163, -0.002707), what are the new coordinates?",
+    "answer": {
+      "latitude": 38.251439,
+      "longitude": -100.075078
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-039",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (47.394112, -68.612617). If we apply an offset of (-0.009202, -0.002844), what are the new coordinates?",
+    "answer": {
+      "latitude": 47.38491,
+      "longitude": -68.615461
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-040",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (41.369601, -86.317862). If we apply an offset of (-0.002926, 0.001198), what are the new coordinates?",
+    "answer": {
+      "latitude": 41.366675,
+      "longitude": -86.316664
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-041",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (45.993105, -68.517453). If we apply an offset of (0.00499, 0.008515), what are the new coordinates?",
+    "answer": {
+      "latitude": 45.998095,
+      "longitude": -68.508938
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-042",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (30.681696, -115.574898). If we apply an offset of (0.005998, -0.006459), what are the new coordinates?",
+    "answer": {
+      "latitude": 30.687694,
+      "longitude": -115.581357
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-043",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (34.895066, -114.597082). If we apply an offset of (0.00849, 0.005648), what are the new coordinates?",
+    "answer": {
+      "latitude": 34.903556,
+      "longitude": -114.591434
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-044",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (34.881116, -86.145387). If we apply an offset of (0.004701, -0.005037), what are the new coordinates?",
+    "answer": {
+      "latitude": 34.885817,
+      "longitude": -86.150424
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-045",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (28.820748, -84.325865). If we apply an offset of (-0.002349, -0.009226), what are the new coordinates?",
+    "answer": {
+      "latitude": 28.818399,
+      "longitude": -84.335091
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-046",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (36.296561, -113.424776). If we apply an offset of (0.008369, -0.003007), what are the new coordinates?",
+    "answer": {
+      "latitude": 36.30493,
+      "longitude": -113.427783
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-047",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (44.692873, -74.463264). If we apply an offset of (-0.005542, 0.003201), what are the new coordinates?",
+    "answer": {
+      "latitude": 44.687331,
+      "longitude": -74.460063
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-048",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (34.563183, -108.841022). If we apply an offset of (-0.008612, 0.005467), what are the new coordinates?",
+    "answer": {
+      "latitude": 34.554571,
+      "longitude": -108.835555
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-049",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (33.427507, -95.454471). If we apply an offset of (0.00359, 0.006873), what are the new coordinates?",
+    "answer": {
+      "latitude": 33.431097,
+      "longitude": -95.447598
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-050",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (32.947597, -123.399169). If we apply an offset of (0.007541, -0.004776), what are the new coordinates?",
+    "answer": {
+      "latitude": 32.955138,
+      "longitude": -123.403945
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-051",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (38.934154, -67.954067). If we apply an offset of (-0.009235, 0.001931), what are the new coordinates?",
+    "answer": {
+      "latitude": 38.924919,
+      "longitude": -67.952136
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-052",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (33.296491, -79.387166). If we apply an offset of (-0.001272, 0.009685), what are the new coordinates?",
+    "answer": {
+      "latitude": 33.295219,
+      "longitude": -79.377481
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-053",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (27.775499, -72.828725). If we apply an offset of (-0.006198, -0.009112), what are the new coordinates?",
+    "answer": {
+      "latitude": 27.769301,
+      "longitude": -72.837837
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-054",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (35.46538, -94.84462). If we apply an offset of (0.00613, 0.003737), what are the new coordinates?",
+    "answer": {
+      "latitude": 35.47151,
+      "longitude": -94.840883
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-055",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (47.566315, -82.251814). If we apply an offset of (-0.006059, -0.001374), what are the new coordinates?",
+    "answer": {
+      "latitude": 47.560256,
+      "longitude": -82.253188
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-056",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (47.772988, -71.59529). If we apply an offset of (0.002463, 0.003268), what are the new coordinates?",
+    "answer": {
+      "latitude": 47.775451,
+      "longitude": -71.592022
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-057",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (27.991008, -72.797284). If we apply an offset of (0.000142, 0.003338), what are the new coordinates?",
+    "answer": {
+      "latitude": 27.99115,
+      "longitude": -72.793946
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-058",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (32.82839, -84.561912). If we apply an offset of (0.001088, -0.006163), what are the new coordinates?",
+    "answer": {
+      "latitude": 32.829478,
+      "longitude": -84.568075
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-059",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (40.958306, -103.009574). If we apply an offset of (0.004963, -0.006519), what are the new coordinates?",
+    "answer": {
+      "latitude": 40.963269,
+      "longitude": -103.016093
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-060",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (38.658526, -101.44764). If we apply an offset of (0.006675, -0.003923), what are the new coordinates?",
+    "answer": {
+      "latitude": 38.665201,
+      "longitude": -101.451563
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-061",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (30.044384, -79.425988). If we apply an offset of (0.002133, -0.003555), what are the new coordinates?",
+    "answer": {
+      "latitude": 30.046517,
+      "longitude": -79.429543
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-062",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (35.602864, -85.81362). If we apply an offset of (0.000223, 0.005875), what are the new coordinates?",
+    "answer": {
+      "latitude": 35.603087,
+      "longitude": -85.807745
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-063",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (48.035968, -82.314236). If we apply an offset of (0.003177, -0.004324), what are the new coordinates?",
+    "answer": {
+      "latitude": 48.039145,
+      "longitude": -82.31856
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-064",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (40.932492, -89.082873). If we apply an offset of (-0.008132, 0.00904), what are the new coordinates?",
+    "answer": {
+      "latitude": 40.92436,
+      "longitude": -89.073833
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-065",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (30.636846, -106.995671). If we apply an offset of (0.006131, -0.007053), what are the new coordinates?",
+    "answer": {
+      "latitude": 30.642977,
+      "longitude": -107.002724
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-066",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (26.109129, -67.931711). If we apply an offset of (0.002225, 0.00537), what are the new coordinates?",
+    "answer": {
+      "latitude": 26.111354,
+      "longitude": -67.926341
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-067",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (35.929988, -73.604059). If we apply an offset of (0.001513, 0.004367), what are the new coordinates?",
+    "answer": {
+      "latitude": 35.931501,
+      "longitude": -73.599692
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-068",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (34.215483, -101.820134). If we apply an offset of (-0.007049, 0.003752), what are the new coordinates?",
+    "answer": {
+      "latitude": 34.208434,
+      "longitude": -101.816382
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-069",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (46.423836, -75.094447). If we apply an offset of (0.007709, 0.005568), what are the new coordinates?",
+    "answer": {
+      "latitude": 46.431545,
+      "longitude": -75.088879
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-070",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (30.252187, -78.361628). If we apply an offset of (0.003918, -0.000709), what are the new coordinates?",
+    "answer": {
+      "latitude": 30.256105,
+      "longitude": -78.362337
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-071",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (38.377739, -71.786739). If we apply an offset of (-0.007573, -0.007333), what are the new coordinates?",
+    "answer": {
+      "latitude": 38.370166,
+      "longitude": -71.794072
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-072",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (36.151438, -94.194351). If we apply an offset of (0.001179, -0.003654), what are the new coordinates?",
+    "answer": {
+      "latitude": 36.152617,
+      "longitude": -94.198005
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-073",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (43.126, -99.330741). If we apply an offset of (0.0063, 0.00784), what are the new coordinates?",
+    "answer": {
+      "latitude": 43.1323,
+      "longitude": -99.322901
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-074",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (35.241778, -72.402426). If we apply an offset of (-0.001082, -0.006817), what are the new coordinates?",
+    "answer": {
+      "latitude": 35.240696,
+      "longitude": -72.409243
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-075",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (45.675878, -98.895954). If we apply an offset of (0.005036, 0.006797), what are the new coordinates?",
+    "answer": {
+      "latitude": 45.680914,
+      "longitude": -98.889157
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-076",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (31.655472, -79.89486). If we apply an offset of (-0.000308, -0.005215), what are the new coordinates?",
+    "answer": {
+      "latitude": 31.655164,
+      "longitude": -79.900075
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-077",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (35.556942, -83.614398). If we apply an offset of (-0.00531, -0.003283), what are the new coordinates?",
+    "answer": {
+      "latitude": 35.551632,
+      "longitude": -83.617681
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-078",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (46.432644, -120.326496). If we apply an offset of (-0.006983, -0.002339), what are the new coordinates?",
+    "answer": {
+      "latitude": 46.425661,
+      "longitude": -120.328835
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-079",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (28.667326, -112.590733). If we apply an offset of (-0.001703, -0.003382), what are the new coordinates?",
+    "answer": {
+      "latitude": 28.665623,
+      "longitude": -112.594115
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-080",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (36.182183, -121.388589). If we apply an offset of (0.006658, -0.00221), what are the new coordinates?",
+    "answer": {
+      "latitude": 36.188841,
+      "longitude": -121.390799
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-081",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (43.475099, -70.128402). If we apply an offset of (-0.009609, 0.007613), what are the new coordinates?",
+    "answer": {
+      "latitude": 43.46549,
+      "longitude": -70.120789
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-082",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (38.816568, -97.335176). If we apply an offset of (0.008855, -0.004028), what are the new coordinates?",
+    "answer": {
+      "latitude": 38.825423,
+      "longitude": -97.339204
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-083",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (34.35968, -73.284791). If we apply an offset of (0.006715, 0.000764), what are the new coordinates?",
+    "answer": {
+      "latitude": 34.366395,
+      "longitude": -73.284027
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-084",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (42.631217, -78.607646). If we apply an offset of (0.007956, -0.000235), what are the new coordinates?",
+    "answer": {
+      "latitude": 42.639173,
+      "longitude": -78.607881
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-085",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (31.550447, -96.832764). If we apply an offset of (-0.002223, 0.003377), what are the new coordinates?",
+    "answer": {
+      "latitude": 31.548224,
+      "longitude": -96.829387
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-086",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (44.155416, -82.99748). If we apply an offset of (0.00681, 0.008391), what are the new coordinates?",
+    "answer": {
+      "latitude": 44.162226,
+      "longitude": -82.989089
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-087",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (48.537327, -94.020829). If we apply an offset of (0.008139, 0.001838), what are the new coordinates?",
+    "answer": {
+      "latitude": 48.545466,
+      "longitude": -94.018991
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-088",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (40.911994, -120.131047). If we apply an offset of (-0.001428, 0.007337), what are the new coordinates?",
+    "answer": {
+      "latitude": 40.910566,
+      "longitude": -120.12371
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-089",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (29.361497, -109.910934). If we apply an offset of (-0.003453, -0.000906), what are the new coordinates?",
+    "answer": {
+      "latitude": 29.358044,
+      "longitude": -109.91184
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-090",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (33.100013, -73.980881). If we apply an offset of (-0.004435, 0.009024), what are the new coordinates?",
+    "answer": {
+      "latitude": 33.095578,
+      "longitude": -73.971857
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-091",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (35.117556, -76.575167). If we apply an offset of (-0.000594, 0.00498), what are the new coordinates?",
+    "answer": {
+      "latitude": 35.116962,
+      "longitude": -76.570187
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-092",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (26.250055, -69.788658). If we apply an offset of (-0.005516, -0.008628), what are the new coordinates?",
+    "answer": {
+      "latitude": 26.244539,
+      "longitude": -69.797286
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-093",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (47.974854, -122.665028). If we apply an offset of (-0.009379, -0.005054), what are the new coordinates?",
+    "answer": {
+      "latitude": 47.965475,
+      "longitude": -122.670082
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-094",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (45.141492, -88.962532). If we apply an offset of (-0.005229, -0.000529), what are the new coordinates?",
+    "answer": {
+      "latitude": 45.136263,
+      "longitude": -88.963061
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-095",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (27.745347, -70.030093). If we apply an offset of (-0.000699, -0.004875), what are the new coordinates?",
+    "answer": {
+      "latitude": 27.744648,
+      "longitude": -70.034968
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-096",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (33.853484, -89.858224). If we apply an offset of (0.009275, 0.004367), what are the new coordinates?",
+    "answer": {
+      "latitude": 33.862759,
+      "longitude": -89.853857
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-097",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (43.667005, -115.501583). If we apply an offset of (-0.003779, 0.001574), what are the new coordinates?",
+    "answer": {
+      "latitude": 43.663226,
+      "longitude": -115.500009
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-098",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (47.293292, -91.60379). If we apply an offset of (0.008161, -0.002494), what are the new coordinates?",
+    "answer": {
+      "latitude": 47.301453,
+      "longitude": -91.606284
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-099",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (47.595294, -113.496873). If we apply an offset of (0.001842, 0.006611), what are the new coordinates?",
+    "answer": {
+      "latitude": 47.597136,
+      "longitude": -113.490262
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-100",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (30.828385, -84.562806). If we apply an offset of (-0.003968, 0.003685), what are the new coordinates?",
+    "answer": {
+      "latitude": 30.824417,
+      "longitude": -84.559121
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-101",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (44.332671, -78.818821). If we apply an offset of (0.001319, -0.009179), what are the new coordinates?",
+    "answer": {
+      "latitude": 44.33399,
+      "longitude": -78.828
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-102",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (37.785886, -86.631762). If we apply an offset of (-0.008621, 0.002951), what are the new coordinates?",
+    "answer": {
+      "latitude": 37.777265,
+      "longitude": -86.628811
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-103",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (25.303652, -100.636593). If we apply an offset of (-0.000196, -0.00133), what are the new coordinates?",
+    "answer": {
+      "latitude": 25.303456,
+      "longitude": -100.637923
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-104",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (33.692513, -73.288649). If we apply an offset of (-0.000805, -0.00694), what are the new coordinates?",
+    "answer": {
+      "latitude": 33.691708,
+      "longitude": -73.295589
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-105",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (29.227287, -94.738689). If we apply an offset of (0.003009, 0.002318), what are the new coordinates?",
+    "answer": {
+      "latitude": 29.230296,
+      "longitude": -94.736371
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-106",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (47.070824, -80.070796). If we apply an offset of (-0.000703, 0.006515), what are the new coordinates?",
+    "answer": {
+      "latitude": 47.070121,
+      "longitude": -80.064281
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-107",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (39.219391, -106.306334). If we apply an offset of (-0.00509, 0.008692), what are the new coordinates?",
+    "answer": {
+      "latitude": 39.214301,
+      "longitude": -106.297642
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-108",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (31.694278, -98.853484). If we apply an offset of (0.00501, 0.001397), what are the new coordinates?",
+    "answer": {
+      "latitude": 31.699288,
+      "longitude": -98.852087
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-109",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (41.036523, -105.488996). If we apply an offset of (-0.000114, -0.0035), what are the new coordinates?",
+    "answer": {
+      "latitude": 41.036409,
+      "longitude": -105.492496
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-110",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (36.701198, -104.420152). If we apply an offset of (-0.004833, -0.004407), what are the new coordinates?",
+    "answer": {
+      "latitude": 36.696365,
+      "longitude": -104.424559
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-111",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (39.30772, -73.953774). If we apply an offset of (0.001116, 0.000333), what are the new coordinates?",
+    "answer": {
+      "latitude": 39.308836,
+      "longitude": -73.953441
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-112",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (29.585354, -111.001349). If we apply an offset of (-0.001871, 0.001104), what are the new coordinates?",
+    "answer": {
+      "latitude": 29.583483,
+      "longitude": -111.000245
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-113",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (30.767774, -97.3866). If we apply an offset of (0.004237, -0.001037), what are the new coordinates?",
+    "answer": {
+      "latitude": 30.772011,
+      "longitude": -97.387637
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-114",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (25.413838, -107.934336). If we apply an offset of (-0.001912, -0.005134), what are the new coordinates?",
+    "answer": {
+      "latitude": 25.411926,
+      "longitude": -107.93947
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-115",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (40.935041, -103.596814). If we apply an offset of (0.001069, -0.003125), what are the new coordinates?",
+    "answer": {
+      "latitude": 40.93611,
+      "longitude": -103.599939
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-116",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (48.919155, -93.077469). If we apply an offset of (-0.002964, -0.000925), what are the new coordinates?",
+    "answer": {
+      "latitude": 48.916191,
+      "longitude": -93.078394
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-117",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (32.358952, -111.628794). If we apply an offset of (0.004426, -0.003689), what are the new coordinates?",
+    "answer": {
+      "latitude": 32.363378,
+      "longitude": -111.632483
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-118",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (42.829146, -69.849101). If we apply an offset of (0.003803, -0.006169), what are the new coordinates?",
+    "answer": {
+      "latitude": 42.832949,
+      "longitude": -69.85527
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-119",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (42.726512, -108.963022). If we apply an offset of (0.001792, 0.005204), what are the new coordinates?",
+    "answer": {
+      "latitude": 42.728304,
+      "longitude": -108.957818
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-120",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (39.322978, -68.130383). If we apply an offset of (0.006653, -0.004075), what are the new coordinates?",
+    "answer": {
+      "latitude": 39.329631,
+      "longitude": -68.134458
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-121",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (33.661146, -107.46848). If we apply an offset of (0.00416, -0.007468), what are the new coordinates?",
+    "answer": {
+      "latitude": 33.665306,
+      "longitude": -107.475948
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-122",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (26.092377, -121.837491). If we apply an offset of (-0.004157, 0.008882), what are the new coordinates?",
+    "answer": {
+      "latitude": 26.08822,
+      "longitude": -121.828609
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-123",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (40.308872, -81.338054). If we apply an offset of (-0.007948, -0.009755), what are the new coordinates?",
+    "answer": {
+      "latitude": 40.300924,
+      "longitude": -81.347809
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-124",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (31.824144, -97.234576). If we apply an offset of (-0.003186, 0.00931), what are the new coordinates?",
+    "answer": {
+      "latitude": 31.820958,
+      "longitude": -97.225266
+    },
+    "reasoning_steps": 3
+  },
+  {
+    "id": "CU-M-125",
+    "category": "coordinate_understanding",
+    "difficulty": "medium",
+    "task_type": "gps_transformation",
+    "question": "A GPS coordinate is located at (31.059481, -75.020068). If we apply an offset of (-0.007718, -0.008693), what are the new coordinates?",
+    "answer": {
+      "latitude": 31.051763,
+      "longitude": -75.028761
+    },
+    "reasoning_steps": 3
+  }
+]

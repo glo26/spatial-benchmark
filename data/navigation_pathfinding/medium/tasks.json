@@ -1,0 +1,2127 @@
+[
+  {
+    "id": "NP-M-001",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (1, 5) to (6, 7)?",
+    "start": [
+      1,
+      5
+    ],
+    "end": [
+      6,
+      7
+    ],
+    "answer": 7,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-002",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (5, 0) to (10, 10)?",
+    "start": [
+      5,
+      0
+    ],
+    "end": [
+      10,
+      10
+    ],
+    "answer": 15,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-003",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (0, 0) to (8, 8)?",
+    "start": [
+      0,
+      0
+    ],
+    "end": [
+      8,
+      8
+    ],
+    "answer": 16,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-004",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (3, 4) to (8, 5)?",
+    "start": [
+      3,
+      4
+    ],
+    "end": [
+      8,
+      5
+    ],
+    "answer": 6,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-005",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (5, 0) to (10, 6)?",
+    "start": [
+      5,
+      0
+    ],
+    "end": [
+      10,
+      6
+    ],
+    "answer": 11,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-006",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (0, 3) to (8, 10)?",
+    "start": [
+      0,
+      3
+    ],
+    "end": [
+      8,
+      10
+    ],
+    "answer": 15,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-007",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (2, 4) to (5, 9)?",
+    "start": [
+      2,
+      4
+    ],
+    "end": [
+      5,
+      9
+    ],
+    "answer": 8,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-008",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (0, 1) to (6, 10)?",
+    "start": [
+      0,
+      1
+    ],
+    "end": [
+      6,
+      10
+    ],
+    "answer": 15,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-009",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (4, 3) to (7, 5)?",
+    "start": [
+      4,
+      3
+    ],
+    "end": [
+      7,
+      5
+    ],
+    "answer": 5,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-010",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (0, 5) to (7, 9)?",
+    "start": [
+      0,
+      5
+    ],
+    "end": [
+      7,
+      9
+    ],
+    "answer": 11,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-011",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (4, 5) to (5, 6)?",
+    "start": [
+      4,
+      5
+    ],
+    "end": [
+      5,
+      6
+    ],
+    "answer": 2,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-012",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (2, 0) to (6, 9)?",
+    "start": [
+      2,
+      0
+    ],
+    "end": [
+      6,
+      9
+    ],
+    "answer": 13,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-013",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (1, 5) to (8, 5)?",
+    "start": [
+      1,
+      5
+    ],
+    "end": [
+      8,
+      5
+    ],
+    "answer": 7,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-014",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (2, 1) to (9, 6)?",
+    "start": [
+      2,
+      1
+    ],
+    "end": [
+      9,
+      6
+    ],
+    "answer": 12,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-015",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (4, 3) to (10, 9)?",
+    "start": [
+      4,
+      3
+    ],
+    "end": [
+      10,
+      9
+    ],
+    "answer": 12,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-016",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (2, 3) to (10, 6)?",
+    "start": [
+      2,
+      3
+    ],
+    "end": [
+      10,
+      6
+    ],
+    "answer": 11,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-017",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (5, 5) to (5, 9)?",
+    "start": [
+      5,
+      5
+    ],
+    "end": [
+      5,
+      9
+    ],
+    "answer": 4,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-018",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (5, 2) to (5, 5)?",
+    "start": [
+      5,
+      2
+    ],
+    "end": [
+      5,
+      5
+    ],
+    "answer": 3,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-019",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (3, 1) to (5, 7)?",
+    "start": [
+      3,
+      1
+    ],
+    "end": [
+      5,
+      7
+    ],
+    "answer": 8,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-020",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (4, 4) to (9, 8)?",
+    "start": [
+      4,
+      4
+    ],
+    "end": [
+      9,
+      8
+    ],
+    "answer": 9,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-021",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (2, 0) to (10, 7)?",
+    "start": [
+      2,
+      0
+    ],
+    "end": [
+      10,
+      7
+    ],
+    "answer": 15,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-022",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (3, 3) to (6, 7)?",
+    "start": [
+      3,
+      3
+    ],
+    "end": [
+      6,
+      7
+    ],
+    "answer": 7,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-023",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (4, 3) to (8, 6)?",
+    "start": [
+      4,
+      3
+    ],
+    "end": [
+      8,
+      6
+    ],
+    "answer": 7,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-024",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (5, 4) to (10, 8)?",
+    "start": [
+      5,
+      4
+    ],
+    "end": [
+      10,
+      8
+    ],
+    "answer": 9,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-025",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (0, 4) to (7, 6)?",
+    "start": [
+      0,
+      4
+    ],
+    "end": [
+      7,
+      6
+    ],
+    "answer": 9,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-026",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (5, 0) to (5, 7)?",
+    "start": [
+      5,
+      0
+    ],
+    "end": [
+      5,
+      7
+    ],
+    "answer": 7,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-027",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (1, 3) to (10, 10)?",
+    "start": [
+      1,
+      3
+    ],
+    "end": [
+      10,
+      10
+    ],
+    "answer": 16,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-028",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (1, 5) to (8, 7)?",
+    "start": [
+      1,
+      5
+    ],
+    "end": [
+      8,
+      7
+    ],
+    "answer": 9,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-029",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (2, 0) to (5, 5)?",
+    "start": [
+      2,
+      0
+    ],
+    "end": [
+      5,
+      5
+    ],
+    "answer": 8,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-030",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (2, 3) to (7, 7)?",
+    "start": [
+      2,
+      3
+    ],
+    "end": [
+      7,
+      7
+    ],
+    "answer": 9,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-031",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (0, 1) to (5, 6)?",
+    "start": [
+      0,
+      1
+    ],
+    "end": [
+      5,
+      6
+    ],
+    "answer": 10,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-032",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (3, 3) to (9, 9)?",
+    "start": [
+      3,
+      3
+    ],
+    "end": [
+      9,
+      9
+    ],
+    "answer": 12,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-033",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (4, 3) to (5, 5)?",
+    "start": [
+      4,
+      3
+    ],
+    "end": [
+      5,
+      5
+    ],
+    "answer": 3,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-034",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (0, 2) to (9, 5)?",
+    "start": [
+      0,
+      2
+    ],
+    "end": [
+      9,
+      5
+    ],
+    "answer": 12,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-035",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (4, 4) to (7, 8)?",
+    "start": [
+      4,
+      4
+    ],
+    "end": [
+      7,
+      8
+    ],
+    "answer": 7,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-036",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (0, 2) to (8, 8)?",
+    "start": [
+      0,
+      2
+    ],
+    "end": [
+      8,
+      8
+    ],
+    "answer": 14,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-037",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (0, 5) to (9, 6)?",
+    "start": [
+      0,
+      5
+    ],
+    "end": [
+      9,
+      6
+    ],
+    "answer": 10,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-038",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (4, 4) to (6, 10)?",
+    "start": [
+      4,
+      4
+    ],
+    "end": [
+      6,
+      10
+    ],
+    "answer": 8,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-039",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (3, 1) to (6, 7)?",
+    "start": [
+      3,
+      1
+    ],
+    "end": [
+      6,
+      7
+    ],
+    "answer": 9,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-040",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (2, 2) to (8, 6)?",
+    "start": [
+      2,
+      2
+    ],
+    "end": [
+      8,
+      6
+    ],
+    "answer": 10,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-041",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (0, 1) to (8, 7)?",
+    "start": [
+      0,
+      1
+    ],
+    "end": [
+      8,
+      7
+    ],
+    "answer": 14,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-042",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (3, 2) to (8, 5)?",
+    "start": [
+      3,
+      2
+    ],
+    "end": [
+      8,
+      5
+    ],
+    "answer": 8,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-043",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (2, 2) to (6, 10)?",
+    "start": [
+      2,
+      2
+    ],
+    "end": [
+      6,
+      10
+    ],
+    "answer": 12,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-044",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (5, 3) to (9, 9)?",
+    "start": [
+      5,
+      3
+    ],
+    "end": [
+      9,
+      9
+    ],
+    "answer": 10,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-045",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (1, 3) to (5, 6)?",
+    "start": [
+      1,
+      3
+    ],
+    "end": [
+      5,
+      6
+    ],
+    "answer": 7,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-046",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (2, 0) to (8, 7)?",
+    "start": [
+      2,
+      0
+    ],
+    "end": [
+      8,
+      7
+    ],
+    "answer": 13,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-047",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (4, 3) to (7, 8)?",
+    "start": [
+      4,
+      3
+    ],
+    "end": [
+      7,
+      8
+    ],
+    "answer": 8,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-048",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (2, 3) to (10, 9)?",
+    "start": [
+      2,
+      3
+    ],
+    "end": [
+      10,
+      9
+    ],
+    "answer": 14,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-049",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (1, 2) to (7, 9)?",
+    "start": [
+      1,
+      2
+    ],
+    "end": [
+      7,
+      9
+    ],
+    "answer": 13,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-050",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (5, 1) to (8, 7)?",
+    "start": [
+      5,
+      1
+    ],
+    "end": [
+      8,
+      7
+    ],
+    "answer": 9,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-051",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (1, 3) to (7, 7)?",
+    "start": [
+      1,
+      3
+    ],
+    "end": [
+      7,
+      7
+    ],
+    "answer": 10,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-052",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (5, 5) to (10, 8)?",
+    "start": [
+      5,
+      5
+    ],
+    "end": [
+      10,
+      8
+    ],
+    "answer": 8,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-053",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (4, 1) to (7, 8)?",
+    "start": [
+      4,
+      1
+    ],
+    "end": [
+      7,
+      8
+    ],
+    "answer": 10,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-054",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (2, 3) to (7, 5)?",
+    "start": [
+      2,
+      3
+    ],
+    "end": [
+      7,
+      5
+    ],
+    "answer": 7,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-055",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (4, 1) to (9, 9)?",
+    "start": [
+      4,
+      1
+    ],
+    "end": [
+      9,
+      9
+    ],
+    "answer": 13,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-056",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (1, 5) to (9, 5)?",
+    "start": [
+      1,
+      5
+    ],
+    "end": [
+      9,
+      5
+    ],
+    "answer": 8,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-057",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (5, 3) to (10, 6)?",
+    "start": [
+      5,
+      3
+    ],
+    "end": [
+      10,
+      6
+    ],
+    "answer": 8,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-058",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (3, 2) to (10, 5)?",
+    "start": [
+      3,
+      2
+    ],
+    "end": [
+      10,
+      5
+    ],
+    "answer": 10,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-059",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (3, 5) to (8, 6)?",
+    "start": [
+      3,
+      5
+    ],
+    "end": [
+      8,
+      6
+    ],
+    "answer": 6,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-060",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (5, 2) to (6, 7)?",
+    "start": [
+      5,
+      2
+    ],
+    "end": [
+      6,
+      7
+    ],
+    "answer": 6,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-061",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (5, 1) to (10, 8)?",
+    "start": [
+      5,
+      1
+    ],
+    "end": [
+      10,
+      8
+    ],
+    "answer": 12,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-062",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (3, 0) to (8, 9)?",
+    "start": [
+      3,
+      0
+    ],
+    "end": [
+      8,
+      9
+    ],
+    "answer": 14,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-063",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (3, 4) to (8, 9)?",
+    "start": [
+      3,
+      4
+    ],
+    "end": [
+      8,
+      9
+    ],
+    "answer": 10,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-064",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (4, 5) to (8, 9)?",
+    "start": [
+      4,
+      5
+    ],
+    "end": [
+      8,
+      9
+    ],
+    "answer": 8,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-065",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (0, 2) to (10, 9)?",
+    "start": [
+      0,
+      2
+    ],
+    "end": [
+      10,
+      9
+    ],
+    "answer": 17,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-066",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (4, 5) to (5, 5)?",
+    "start": [
+      4,
+      5
+    ],
+    "end": [
+      5,
+      5
+    ],
+    "answer": 1,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-067",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (1, 5) to (10, 7)?",
+    "start": [
+      1,
+      5
+    ],
+    "end": [
+      10,
+      7
+    ],
+    "answer": 11,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-068",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (1, 5) to (9, 5)?",
+    "start": [
+      1,
+      5
+    ],
+    "end": [
+      9,
+      5
+    ],
+    "answer": 8,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-069",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (4, 5) to (10, 10)?",
+    "start": [
+      4,
+      5
+    ],
+    "end": [
+      10,
+      10
+    ],
+    "answer": 11,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-070",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (3, 2) to (8, 5)?",
+    "start": [
+      3,
+      2
+    ],
+    "end": [
+      8,
+      5
+    ],
+    "answer": 8,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-071",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (0, 0) to (7, 6)?",
+    "start": [
+      0,
+      0
+    ],
+    "end": [
+      7,
+      6
+    ],
+    "answer": 13,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-072",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (4, 5) to (9, 9)?",
+    "start": [
+      4,
+      5
+    ],
+    "end": [
+      9,
+      9
+    ],
+    "answer": 9,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-073",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (4, 5) to (9, 6)?",
+    "start": [
+      4,
+      5
+    ],
+    "end": [
+      9,
+      6
+    ],
+    "answer": 6,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-074",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (3, 2) to (8, 8)?",
+    "start": [
+      3,
+      2
+    ],
+    "end": [
+      8,
+      8
+    ],
+    "answer": 11,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-075",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (5, 4) to (10, 9)?",
+    "start": [
+      5,
+      4
+    ],
+    "end": [
+      10,
+      9
+    ],
+    "answer": 10,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-076",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (1, 2) to (5, 8)?",
+    "start": [
+      1,
+      2
+    ],
+    "end": [
+      5,
+      8
+    ],
+    "answer": 10,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-077",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (0, 2) to (8, 5)?",
+    "start": [
+      0,
+      2
+    ],
+    "end": [
+      8,
+      5
+    ],
+    "answer": 11,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-078",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (0, 5) to (6, 7)?",
+    "start": [
+      0,
+      5
+    ],
+    "end": [
+      6,
+      7
+    ],
+    "answer": 8,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-079",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (2, 2) to (8, 6)?",
+    "start": [
+      2,
+      2
+    ],
+    "end": [
+      8,
+      6
+    ],
+    "answer": 10,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-080",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (4, 3) to (7, 8)?",
+    "start": [
+      4,
+      3
+    ],
+    "end": [
+      7,
+      8
+    ],
+    "answer": 8,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-081",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (0, 3) to (10, 10)?",
+    "start": [
+      0,
+      3
+    ],
+    "end": [
+      10,
+      10
+    ],
+    "answer": 17,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-082",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (3, 2) to (5, 7)?",
+    "start": [
+      3,
+      2
+    ],
+    "end": [
+      5,
+      7
+    ],
+    "answer": 7,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-083",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (0, 5) to (5, 5)?",
+    "start": [
+      0,
+      5
+    ],
+    "end": [
+      5,
+      5
+    ],
+    "answer": 5,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-084",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (2, 5) to (5, 10)?",
+    "start": [
+      2,
+      5
+    ],
+    "end": [
+      5,
+      10
+    ],
+    "answer": 8,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-085",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (1, 5) to (6, 9)?",
+    "start": [
+      1,
+      5
+    ],
+    "end": [
+      6,
+      9
+    ],
+    "answer": 9,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-086",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (1, 4) to (6, 7)?",
+    "start": [
+      1,
+      4
+    ],
+    "end": [
+      6,
+      7
+    ],
+    "answer": 8,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-087",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (4, 3) to (8, 6)?",
+    "start": [
+      4,
+      3
+    ],
+    "end": [
+      8,
+      6
+    ],
+    "answer": 7,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-088",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (3, 5) to (6, 6)?",
+    "start": [
+      3,
+      5
+    ],
+    "end": [
+      6,
+      6
+    ],
+    "answer": 4,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-089",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (5, 5) to (8, 8)?",
+    "start": [
+      5,
+      5
+    ],
+    "end": [
+      8,
+      8
+    ],
+    "answer": 6,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-090",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (0, 5) to (9, 6)?",
+    "start": [
+      0,
+      5
+    ],
+    "end": [
+      9,
+      6
+    ],
+    "answer": 10,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-091",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (3, 4) to (8, 8)?",
+    "start": [
+      3,
+      4
+    ],
+    "end": [
+      8,
+      8
+    ],
+    "answer": 9,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-092",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (0, 5) to (6, 6)?",
+    "start": [
+      0,
+      5
+    ],
+    "end": [
+      6,
+      6
+    ],
+    "answer": 7,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-093",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (2, 5) to (5, 9)?",
+    "start": [
+      2,
+      5
+    ],
+    "end": [
+      5,
+      9
+    ],
+    "answer": 7,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-094",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (0, 4) to (6, 7)?",
+    "start": [
+      0,
+      4
+    ],
+    "end": [
+      6,
+      7
+    ],
+    "answer": 9,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-095",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (2, 1) to (8, 5)?",
+    "start": [
+      2,
+      1
+    ],
+    "end": [
+      8,
+      5
+    ],
+    "answer": 10,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-096",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (2, 5) to (8, 9)?",
+    "start": [
+      2,
+      5
+    ],
+    "end": [
+      8,
+      9
+    ],
+    "answer": 10,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-097",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (5, 2) to (9, 8)?",
+    "start": [
+      5,
+      2
+    ],
+    "end": [
+      9,
+      8
+    ],
+    "answer": 10,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-098",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (4, 3) to (9, 5)?",
+    "start": [
+      4,
+      3
+    ],
+    "end": [
+      9,
+      5
+    ],
+    "answer": 7,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-099",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (2, 2) to (8, 9)?",
+    "start": [
+      2,
+      2
+    ],
+    "end": [
+      8,
+      9
+    ],
+    "answer": 13,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-100",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (1, 5) to (10, 7)?",
+    "start": [
+      1,
+      5
+    ],
+    "end": [
+      10,
+      7
+    ],
+    "answer": 11,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-101",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (4, 4) to (5, 10)?",
+    "start": [
+      4,
+      4
+    ],
+    "end": [
+      5,
+      10
+    ],
+    "answer": 7,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-102",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (1, 2) to (5, 6)?",
+    "start": [
+      1,
+      2
+    ],
+    "end": [
+      5,
+      6
+    ],
+    "answer": 8,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-103",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (2, 0) to (6, 7)?",
+    "start": [
+      2,
+      0
+    ],
+    "end": [
+      6,
+      7
+    ],
+    "answer": 11,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-104",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (5, 1) to (9, 8)?",
+    "start": [
+      5,
+      1
+    ],
+    "end": [
+      9,
+      8
+    ],
+    "answer": 11,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-105",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (3, 4) to (6, 9)?",
+    "start": [
+      3,
+      4
+    ],
+    "end": [
+      6,
+      9
+    ],
+    "answer": 8,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-106",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (3, 3) to (6, 8)?",
+    "start": [
+      3,
+      3
+    ],
+    "end": [
+      6,
+      8
+    ],
+    "answer": 8,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-107",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (5, 4) to (10, 10)?",
+    "start": [
+      5,
+      4
+    ],
+    "end": [
+      10,
+      10
+    ],
+    "answer": 11,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-108",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (1, 4) to (6, 8)?",
+    "start": [
+      1,
+      4
+    ],
+    "end": [
+      6,
+      8
+    ],
+    "answer": 9,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-109",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (2, 1) to (6, 7)?",
+    "start": [
+      2,
+      1
+    ],
+    "end": [
+      6,
+      7
+    ],
+    "answer": 10,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-110",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (3, 4) to (5, 7)?",
+    "start": [
+      3,
+      4
+    ],
+    "end": [
+      5,
+      7
+    ],
+    "answer": 5,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-111",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (0, 3) to (6, 6)?",
+    "start": [
+      0,
+      3
+    ],
+    "end": [
+      6,
+      6
+    ],
+    "answer": 9,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-112",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (3, 4) to (9, 10)?",
+    "start": [
+      3,
+      4
+    ],
+    "end": [
+      9,
+      10
+    ],
+    "answer": 12,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-113",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (3, 3) to (10, 8)?",
+    "start": [
+      3,
+      3
+    ],
+    "end": [
+      10,
+      8
+    ],
+    "answer": 12,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-114",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (3, 5) to (8, 8)?",
+    "start": [
+      3,
+      5
+    ],
+    "end": [
+      8,
+      8
+    ],
+    "answer": 8,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-115",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (1, 0) to (9, 5)?",
+    "start": [
+      1,
+      0
+    ],
+    "end": [
+      9,
+      5
+    ],
+    "answer": 13,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-116",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (1, 2) to (5, 7)?",
+    "start": [
+      1,
+      2
+    ],
+    "end": [
+      5,
+      7
+    ],
+    "answer": 9,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-117",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (1, 4) to (7, 6)?",
+    "start": [
+      1,
+      4
+    ],
+    "end": [
+      7,
+      6
+    ],
+    "answer": 8,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-118",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (3, 4) to (10, 8)?",
+    "start": [
+      3,
+      4
+    ],
+    "end": [
+      10,
+      8
+    ],
+    "answer": 11,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-119",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (4, 4) to (5, 9)?",
+    "start": [
+      4,
+      4
+    ],
+    "end": [
+      5,
+      9
+    ],
+    "answer": 6,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-120",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (0, 2) to (9, 7)?",
+    "start": [
+      0,
+      2
+    ],
+    "end": [
+      9,
+      7
+    ],
+    "answer": 14,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-121",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (4, 0) to (10, 8)?",
+    "start": [
+      4,
+      0
+    ],
+    "end": [
+      10,
+      8
+    ],
+    "answer": 14,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-122",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (4, 1) to (8, 5)?",
+    "start": [
+      4,
+      1
+    ],
+    "end": [
+      8,
+      5
+    ],
+    "answer": 8,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-123",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (5, 5) to (6, 7)?",
+    "start": [
+      5,
+      5
+    ],
+    "end": [
+      6,
+      7
+    ],
+    "answer": 3,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-124",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (0, 3) to (7, 7)?",
+    "start": [
+      0,
+      3
+    ],
+    "end": [
+      7,
+      7
+    ],
+    "answer": 11,
+    "reasoning_steps": 4
+  },
+  {
+    "id": "NP-M-125",
+    "category": "navigation_pathfinding",
+    "difficulty": "medium",
+    "task_type": "shortest_path_manhattan",
+    "question": "In a grid where you can only move horizontally or vertically, what is the shortest path length from (0, 3) to (5, 6)?",
+    "start": [
+      0,
+      3
+    ],
+    "end": [
+      5,
+      6
+    ],
+    "answer": 8,
+    "reasoning_steps": 4
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "SpatialEval",
+  "version": "1.0",
+  "total_tasks": 2250,
+  "categories": [
+    "coordinate_understanding",
+    "navigation_pathfinding",
+    "real_estate",
+    "network_infrastructure",
+    "geometric_reasoning",
+    "distance_computation"
+  ],
+  "difficulty_levels": [
+    "easy",
+    "medium",
+    "hard"
+  ],
+  "tasks_per_category": 375,
+  "tasks_per_difficulty": 125
+}
