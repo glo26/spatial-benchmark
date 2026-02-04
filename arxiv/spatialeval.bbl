@@ -69,4 +69,10 @@ Jason Weston, Antoine Bordes, Sumit Chopra, and Tomas Mikolov.
   tasks.
 \newblock {\em arXiv preprint arXiv:1502.05698}, 2015.
 
+\bibitem{zheng2023judging}
+Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao
+  Zhuang, Zi~Lin, Zhuohan Li, Dacheng Li, Eric~P Xing, et~al.
+\newblock Judging llm-as-a-judge with mt-bench and chatbot arena.
+\newblock {\em Advances in Neural Information Processing Systems}, 36, 2023.
+
 \end{thebibliography}

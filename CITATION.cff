@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use SpatialEval in your research, please cite it as below."
+authors:
+  - name: "Anonymous"
+title: "SpatialEval: A Comprehensive Benchmark for 2D Spatial Reasoning in Large Language Models"
+version: 2.0.0
+date-released: 2026-02-01
+url: "https://github.com/glo26/spatial-benchmark"
+repository-code: "https://github.com/glo26/spatial-benchmark"
+license: Apache-2.0
+type: dataset
+keywords:
+  - spatial reasoning
+  - benchmark
+  - large language models
+  - evaluation
+  - 2D planning
+abstract: >-
+  SpatialEval is a comprehensive benchmark for evaluating 2D spatial reasoning
+  capabilities in Large Language Models. It comprises 6,012 procedurally generated
+  tasks across 12 categories, organized into three tiers of increasing complexity,
+  with 100% ground-truth accuracy.
