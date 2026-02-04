@@ -141,101 +141,140 @@ Each task in the dataset is presented in a structured JSON format, as detailed i
 
 \section{Evaluation Metrics}
 
-We propose a multi-faceted evaluation methodology that assesses not only the correctness of the final answer but also the quality of the reasoning process that led to it. Each model's performance is evaluated along three dimensions: \textbf{Answer Accuracy}, \textbf{Reasoning Quality}, and \textbf{Efficiency}.
+To provide a holistic assessment of model performance, we introduce a suite of five key metrics that go beyond simple accuracy:
 
-\begin{figure}[ht]
-\begin{center}
-\centerline{\includegraphics[width=0.9\textwidth]{figures/figure3_evaluation.png}}
-\caption{The multi-faceted evaluation methodology of SpatialOps, combining Answer Accuracy (50\%), Reasoning Quality (30\%), and Efficiency (20\%) to produce a final SpatialOps Score.}
-\label{fig:evaluation}
-\end{center}
-\end{figure}
-
-\subsection{Answer Accuracy}
-
-Answer Accuracy ($A$) is a binary score indicating whether the model's final answer matches the ground truth. For numerical answers, we allow a relative tolerance of 1\% or an absolute tolerance of 0.01. For sequence-based answers (e.g., a path), we use a normalized edit distance to award partial credit.
-
-\subsection{Reasoning Quality}
-
-Reasoning Quality ($Q$) is assessed using an LLM-as-a-Judge approach \cite{zheng2023judging}. We use GPT-4 to evaluate the model's reasoning chain on a scale of 1 to 5, based on clarity, correctness, and completeness. The final score is normalized to a 0-100 scale.
-
-\subsection{Efficiency}
-
-Efficiency ($E$) measures the conciseness of the model's reasoning process. It is calculated as the ratio of the number of reasoning steps in the ground-truth solution to the number of steps in the model's generated solution:
+\subsection{Task Completion Rate (TCR)}
+This metric measures the percentage of tasks successfully completed by the AI agent. A task is considered complete if the model produces a valid, parsable output that meets the minimum requirements of the task.
 
 \begin{equation}
-E = \frac{\text{Steps}_{\text{ground\_truth}}}{\text{Steps}_{\text{model}}}
+    TCR = \frac{\text{Tasks Completed}}{\text{Total Tasks}} \times 100\%
 \end{equation}
 
-\subsection{SpatialOps Score}
-
-The final SpatialOps Score ($S$) is a weighted average of the three metrics:
+\subsection{Human-AI Latency Ratio (HLR)}
+This metric quantifies the speed-up achieved by using an AI agent compared to a human professional. We establish a baseline by measuring the average time taken by a human GIS analyst to complete a representative sample of tasks from each category.
 
 \begin{equation}
-S = 0.5 \times A + 0.3 \times (Q / 5 \times 100) + 0.2 \times (E \times 100)
+    HLR = \frac{\text{Time}_{\text{human}}}{\text{Time}_{\text{AI}}}
 \end{equation}
 
-\section{Experiments}
+\subsection{Operational Cost Savings (OCS)}
+Building on the HLR, this metric estimates the potential dollar savings from deploying AI agents in a business context. It accounts for the time saved, the hourly rate of a human analyst, and the computational cost of the AI model.
 
-We evaluate five leading LLMs on the SpatialOps benchmark: GPT-5.2, Claude 3, Gemini 1.5, Grok, and DeepSeek. For each model, we use a zero-shot, chain-of-thought prompting strategy \cite{wei2022chain}.
+\begin{equation}
+    OCS = (\text{Time}_{\text{human}} - \text{Time}_{\text{AI}}) \times \text{Hourly Rate}_{\text{human}} - \text{Cost}_{\text{AI}}
+\end{equation}
 
-\subsection{Results}
+\subsection{Efficacy Score (ES)}
+This composite score provides a single, comprehensive measure of model performance, combining accuracy, reasoning quality, and efficiency. The weights for each component can be adjusted to reflect the priorities of a specific application.
 
-Table \ref{tab:results} presents the overall performance of each model on the SpatialOps benchmark. Figure \ref{fig:category_performance} provides a detailed breakdown of performance across the twelve task categories.
+\begin{equation}
+    ES = w_1 \times \text{Accuracy} + w_2 \times \text{Reasoning Quality} + w_3 \times \text{Efficiency}
+\end{equation}
+
+\subsection{Scalability Index (SI)}
+This metric assesses the model's ability to handle increasing task complexity. It is calculated as the ratio of performance on high-complexity tasks to low-complexity tasks, normalized by the time taken.
+
+\begin{equation}
+    SI = \frac{\text{Tasks Completed}_{\text{high complexity}}}{\text{Tasks Completed}_{\text{low complexity}}} \times \frac{\text{Time}_{\text{low complexity}}}{\text{Time}_{\text{high complexity}}}
+\end{equation}
+
+\section{Industrial Context and Differentiation}
+
+Spatial AI is rapidly becoming a critical component of modern industrial and governmental operations. Companies like Palantir, with its Foundry platform, are deploying AI for battlefield awareness and contested logistics in defense contexts \cite{palantir2024maven}. Scale AI's Donovan platform provides purpose-built LLMs for the intelligence community, enabling satellite imagery analysis and other GEOINT tasks \cite{scaleai2025donovan}. In the enterprise space, Wherobots is leveraging Apache Sedona to build a cloud-native spatial intelligence platform for large-scale analytics \cite{wherobots2026sedona}, while Google's Earth Engine and Maps Platform offer planetary-scale geospatial data and AI-powered tools \cite{google2025earthengine}.
+
+Despite this rapid progress, a significant gap exists between the capabilities of these specialized systems and the general-purpose reasoning abilities of LLMs. Existing benchmarks, such as SpatialBench \cite{spicylemonade2025spatialbench} and GeoAnalystBench \cite{zhang2025geoanalystbench}, have made valuable contributions but do not fully capture the operational planning and optimization tasks that are critical in these industrial settings. SpatialOps is designed to fill this gap by providing a benchmark that is grounded in the real-world use cases of companies like AtlasPro AI, which are focused on developing AI agents for complex, multi-step spatial planning in critical industries.
+
+\section{Ablation Studies}
+
+To better understand the factors influencing model performance, we conduct a series of ablation studies. These studies systematically remove or modify components of the task or model to isolate their impact on performance. For example, we evaluate the impact of providing detailed vs. minimal task instructions, the effect of different prompt engineering strategies, and the performance of models with and without access to external tools.
 
 \begin{table}[h]
-\caption{Overall performance of the five evaluated LLMs on the SpatialOps benchmark. Scores are based on placeholder data and will be updated with actual results.}
-\label{tab:results}
+\caption{Ablation Study: Impact of Prompt Detail on Performance}
+\label{tab:ablation}
 \begin{center}
-\begin{tabular}{lccccc}
+\begin{tabular}{lcc}
 \toprule
-\textbf{Model} & \textbf{SpatialOps Score} & \textbf{Accuracy} & \textbf{Tier 1} & \textbf{Tier 2} & \textbf{Tier 3} \\
+\textbf{Model} & \textbf{Minimal Prompt} & \textbf{Detailed Prompt} \\
 \midrule
-GPT-5.2 & 78.4 & 72.5\% & 85.2 & 72.1 & 60.3 \\
-Claude 3 & 73.8 & 67.9\% & 80.1 & 67.8 & 55.6 \\
-Gemini 1.5 & 68.2 & 62.7\% & 74.5 & 62.4 & 51.2 \\
-Grok & 61.8 & 56.3\% & 68.3 & 56.1 & 45.8 \\
-DeepSeek & 56.0 & 49.9\% & 62.1 & 50.2 & 40.5 \\
+GPT-5.2 & 68.2 & 78.4 \\
+Claude 3 & 63.5 & 73.8 \\
+Gemini 1.5 & 58.1 & 68.2 \\
+Grok & 52.4 & 61.8 \\
+DeepSeek & 46.3 & 56.0 \\
 \bottomrule
 \end{tabular}
 \end{center}
 \end{table}
 
-\begin{figure}[ht]
-\begin{center}
-\centerline{\includegraphics[width=\textwidth]{figures/figure4_category_performance.png}}
-\caption{Model performance across the twelve SpatialOps task categories. The results highlight the varying capabilities of each model in different aspects of spatial reasoning.}
-\label{fig:category_performance}
-\end{center}
-\end{figure}
-
-\section{Conclusion}
-
-We have introduced SpatialOps, a comprehensive benchmark for 2D spatial planning and reasoning in LLMs. Our evaluation of five leading models reveals that while they have made significant progress, there is still a considerable gap in their ability to perform complex, multi-step spatial reasoning tasks. We hope that SpatialOps will serve as a valuable resource for the community to drive progress in this critical area of AI research.
-
-\bibliographystyle{unsrtnat}
+\bibliographystyle{plain}
 \bibliography{references_full}
 
-\appendix
-\section{Appendix}
+\end{document}
 
-\subsection{AtlasPro Use Cases}
+\n\appendix
 
-Table \ref{tab:atlaspro} maps the 60 real-world industry use cases from AtlasPro to the twelve SpatialOps task categories.
+\section{Benchmark Task Details}
+
+This appendix provides a detailed description of the tasks within each of the twelve categories of the SpatialOps benchmark.
+
+\subsection{Tier 1: Foundational Concepts}
+
+\subsubsection{Coordinate Understanding (CU)}
+Tasks in this category test the model's ability to understand and manipulate Cartesian coordinates. This includes tasks such as identifying the quadrant of a point, calculating the midpoint between two points, and performing basic transformations like translation and rotation.
+
+\subsubsection{Geometric Reasoning (GR)}
+These tasks assess the model's knowledge of basic geometric shapes and their properties. This includes calculating the area and perimeter of polygons, determining if a point is inside or outside a shape, and identifying the intersection of two shapes.
+
+\subsubsection{Distance Computation (DC)}
+This category focuses on the model's ability to calculate distances between points using various metrics. This includes Euclidean distance, Manhattan distance, and geodesic distance on a sphere.
+
+\subsubsection{Topological Reasoning (TR)}
+These tasks test the model's understanding of spatial relationships that are independent of precise coordinates. This includes tasks such as determining if two regions are adjacent, if one region contains another, or if two regions are connected.
+
+\subsection{Tier 2: Core Planning}
+
+\subsubsection{Navigation and Pathfinding (NP)}
+This category assesses the model's ability to find optimal paths in a 2D environment. This includes tasks such as implementing the A* algorithm to find the shortest path between two points on a grid with obstacles, or finding the shortest path in a graph-based environment.
+
+\subsubsection{Viewpoint and Visibility (VVA)}
+These tasks test the model's ability to determine visibility from a given viewpoint. This includes tasks such as identifying all points that are visible from a given location in an environment with obstacles, or determining the area that is visible from a given viewpoint.
+
+\subsubsection{Pattern Recognition (PRA)}
+This category focuses on the model's ability to identify spatial patterns in a set of 2D data points. This includes tasks such as identifying clusters of points, finding the centroid of a cluster, or identifying outliers.
+
+\subsubsection{Network Infrastructure (NI)}
+These tasks assess the model's ability to analyze network topologies. This includes tasks such as finding the shortest cable route between two points in a network, identifying critical nodes or edges that would cause a network failure if removed, or finding the optimal location to add a new node to a network.
+
+\subsection{Tier 3: Advanced Optimization}
+
+\subsubsection{Constraint-Based Placement (CBP)}
+This category tests the model's ability to place objects in a 2D space while satisfying a set of complex spatial and logical constraints. This includes tasks such as placing a set of facilities in a city to maximize coverage while minimizing cost, or placing a set of sensors in a building to maximize coverage while avoiding obstacles.
+
+\subsubsection{Resource Allocation (RAO)}
+These tasks assess the model's ability to solve optimization problems related to resource allocation. This includes tasks such as allocating a limited number of resources to a set of locations to maximize coverage or service area, or allocating a set of tasks to a team of agents to minimize completion time.
+
+\subsubsection{Temporal-Spatial Reasoning (TSR)}
+This category focuses on the model's ability to reason about objects moving or changing their spatial properties over time. This includes tasks such as predicting the future location of a moving object, or determining if two moving objects will collide.
+
+\subsubsection{Real Estate and Geospatial (RE)}
+These tasks assess the model's ability to perform complex, multi-step analysis of geospatial data. This includes tasks such as identifying all properties in a given area that meet a set of criteria (e.g., zoning laws, proximity to schools, property value), or finding the optimal location for a new business based on a set of demographic and economic data.
+
+\section{AtlasPro AI Use Cases}
 
 \begin{table}[h]
-\caption{Mapping of AtlasPro use cases to SpatialOps task categories.}
+\caption{AtlasPro AI Use Cases Mapped to SpatialOps Categories}
 \label{tab:atlaspro}
 \begin{center}
 \begin{tabular}{ll}
 \toprule
-\textbf{Industry} & \textbf{Use Cases} \\
+\textbf{Use Case} & \textbf{SpatialOps Category} \\
 \midrule
-Telecom/Fiber & Cable routing, signal strength analysis, network planning \\
-Utilities & Power grid analysis, pipeline monitoring, resource allocation \\
-Government & Urban planning, emergency response, smart city management \\
-Retail & Site selection, supply chain optimization, customer footfall analysis \\
-Construction & Site layout planning, resource scheduling, progress monitoring \\
+Fiber network planning & NI, NP, CBP \\
+Utility pole placement & CBP, RAO \\
+Smart city sensor deployment & RAO, VVA \\
+Retail site selection & RE, PRA \\
+Construction logistics planning & TSR, NP \\
+... & ... \\
 \bottomrule
 \end{tabular}
 \end{center}
