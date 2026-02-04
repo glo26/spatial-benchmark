@@ -223,8 +223,25 @@ SpatialOps provides a comprehensive and challenging benchmark for 2D spatial pla
 
 \appendix
 \section{AtlasPro AI Use Cases}
+\label{app:atlaspro}
 
-This appendix details the alignment of SpatialOps task categories with real-world industry use cases from AtlasPro AI.
+SpatialOps is grounded in real-world operational requirements derived from AtlasPro AI, a platform designed to enable AI agents to perform complex spatial planning tasks across critical industries. Figure~\ref{fig:atlaspro} presents the complete taxonomy of 60 validated use cases across five industry verticals: Telecommunications/Fiber (15 use cases), Utilities (10 use cases), Government/Smart Cities (13 use cases), Retail (10 use cases), and Construction/Industrial (12 use cases).
+
+Each use case is categorized by its underlying technology requirement: \textbf{MCP (Model Context Protocol)} for spatial queries, KML/KMZ parsing, cost modeling, and compliance tracking (38 use cases, 63\%), or \textbf{GNN (Graph Neural Network)} for topology reasoning, cascade analysis, and network optimization (22 use cases, 37\%). This distribution reflects the practical reality that most enterprise spatial tasks require robust spatial data handling, while a significant subset demands network intelligence for dependency mapping and failure analysis.
+
+The use cases span the full complexity spectrum of SpatialOps:
+\begin{itemize}
+    \item \textbf{Tier 1 (Foundational):} Premises breakdown, fiber availability queries, pavement condition assessment
+    \item \textbf{Tier 2 (Core Planning):} Optimal routing, signal optimization, emergency response routing
+    \item \textbf{Tier 3 (Advanced):} Cascade risk analysis, expansion planning, load forecasting
+\end{itemize}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=\textwidth]{figures/figure_atlaspro_usecases.png}
+\caption{AtlasPro AI: 60 validated use cases across 5 industries. Light gray boxes indicate MCP (Spatial Tools) requirements; dark gray boxes indicate GNN (Network Intelligence) requirements. The distribution (63\% MCP, 37\% GNN) reflects real-world enterprise spatial AI deployment patterns.}
+\label{fig:atlaspro}
+\end{figure}
 
 \bibliographystyle{unsrtnat}
 \bibliography{references_full}
